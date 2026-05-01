@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modo Carreira | Dados</title>
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+</head>
+<body>
+  <main class="page-shell">
+    <nav class="floating-nav reveal">
+      <a class="brand" href="../../index.html"><span class="brand__dot"></span> Voltar para Home</a>
+      <span class="ghost-link">Arquivo de Campeoes</span>
+    </nav>
+
+    <section class="hero reveal">
+      <div class="hero__eyebrow">Central estatistica</div>
+      <h1 class="hero__title">Dados</h1>
+      <p class="hero__lead">
+        Uma area premium para navegar pela historia dos campeoes. Hoje o foco esta nas ligas, copas principais,
+        torneios continentais e selecoes, com filtro de ano e ranking dos maiores vencedores.
+      </p>
+
+      <div class="data-tabs">
+        <span class="data-tab is-active" id="tab-ligas">Ligas</span>
+        <span class="data-tab" id="tab-ballon">Bola de Ouro</span>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="filter-bar">
+        <div class="filter-copy">
+          <div class="section__eyebrow">Filtro da temporada</div>
+          <h2 class="section__title">Escolha o ano</h2>
+          <p>
+            O padrao abre em 2046, marcado como temporada em andamento. Ao trocar o ano, os cards mostram apenas
+            as competicoes que tiveram campeao naquela temporada ou, no caso das ligas anuais, o status ao vivo.
+          </p>
+        </div>
+
+        <div class="year-picker">
+          <label class="year-picker__label" for="year-select">Temporada exibida</label>
+          <select class="year-select" id="year-select" aria-label="Selecionar ano"></select>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="section__eyebrow">Mapa das competicoes</div>
+      <h2 class="section__title">Painel de ligas e campeoes</h2>
+      <div class="regions-stack" id="regions-root"></div>
+    </section>
+
+    <section class="section reveal">
+      <div class="section__eyebrow">Leitura detalhada</div>
+      <h2 class="section__title">Painel da competicao</h2>
+      <div class="detail-panel" id="detail-root"></div>
+    </section>
+
+    <!-- ══ BOLA DE OURO ══════════════════════════════════════════════ -->
+    <section class="section reveal" id="section-ballon" style="display:none">
+      <div class="filter-bar">
+        <div class="filter-copy">
+          <div class="section__eyebrow">Prêmio individual</div>
+          <h2 class="section__title">Bola de Ouro</h2>
+          <p>
+            O prêmio mais cobiçado do futebol, temporada a temporada. Clique em qualquer jogador
+            para ver o histórico completo de indicações, pódios e vitórias.
+          </p>
+        </div>
+        <div class="year-picker">
+          <label class="year-picker__label" for="ballon-year-select">Temporada</label>
+          <select class="year-select" id="ballon-year-select" aria-label="Selecionar ano Bola de Ouro"></select>
+        </div>
+      </div>
+
+      <div id="ballon-root"></div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="team-modal" aria-hidden="true">
+    <div class="modal-card">
+      <div class="modal-card__top">
+        <div class="modal-card__identity" id="team-modal-identity"></div>
+        <button class="modal-card__close" id="team-modal-close" aria-label="Fechar">X</button>
+      </div>
+      <div class="titles-list" id="team-modal-titles"></div>
+    </div>
+  </div>
+
+  <!-- Modal Bola de Ouro -->
+  <div id="ballon-modal" aria-hidden="true">
+    <div class="ballon-modal-card">
+      <div class="ballon-modal-card__top">
+        <div>
+          <div class="section__eyebrow">Ficha do jogador</div>
+          <h3 class="section__title" id="ballon-modal-name"></h3>
+        </div>
+        <button class="ballon-modal-card__close" id="ballon-modal-close" aria-label="Fechar">✕</button>
+      </div>
+      <div id="ballon-modal-stats"></div>
+    </div>
+  </div>
+
+  <script src="../../assets/js/dados.js"></script>
+  <script src="../../assets/js/bola-de-ouro.js"></script>
+  <script>
+    // ── Alternância de abas ──────────────────────────────────────────
+    const tabLigas  = document.getElementById('tab-ligas');
+    const tabBallon = document.getElementById('tab-ballon');
+    const secLigas  = [
+      document.querySelector('.filter-bar'),
+      document.getElementById('regions-root')?.closest('.section'),
+      document.getElementById('detail-root')?.closest('.section'),
+    ].filter(Boolean);
+    const secBallon = document.getElementById('section-ballon');
+
+    // Agrupar seções de ligas (as 3 primeiras sections após o hero)
+    const allLigaSections = document.querySelectorAll('main > .section:not(#section-ballon)');
+
+    function showLigas() {
+      tabLigas.classList.add('is-active');
+      tabBallon.classList.remove('is-active');
+      allLigaSections.forEach(s => s.style.display = '');
+      secBallon.style.display = 'none';
+    }
+
+    function showBallon() {
+      tabBallon.classList.add('is-active');
+      tabLigas.classList.remove('is-active');
+      allLigaSections.forEach(s => s.style.display = 'none');
+      secBallon.style.display = '';
+    }
+
+    tabLigas.addEventListener('click', showLigas);
+    tabBallon.addEventListener('click', showBallon);
+  </script>
+</body>
+</html>

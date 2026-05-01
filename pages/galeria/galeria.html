@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modo Carreira | Galeria</title>
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+</head>
+<body>
+  <main class="page-shell">
+    <nav class="floating-nav reveal">
+      <a class="brand" href="../../index.html"><span class="brand__dot"></span> Voltar para Home</a>
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a class="ghost-link" href="dados.html">Dados</a>
+        <span class="ghost-link">Galeria de Highlights</span>
+      </div>
+    </nav>
+
+    <section class="hero gallery-hero reveal">
+      <div>
+        <div class="hero__eyebrow">Arquivo visual</div>
+        <h1 class="hero__title">Melhores momentos</h1>
+        <p class="hero__lead">
+          Uma galeria com cara de documentario esportivo para guardar cenas marcantes da carreira:
+          comemoracoes, taças, noites grandes e registros que merecem ficar em destaque.
+        </p>
+      </div>
+
+      <div class="gallery-preview">
+        <img id="gallery-hero-image" src="../../assets/images/galeria/20260429014942_1.jpg" alt="Destaque da galeria">
+        <div class="gallery-preview__stamp">
+          <strong>Highlight reel</strong>
+          <span id="gallery-hero-date">29/04/2026</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="gallery-side">
+        <div class="summary-row">
+          <article class="summary-card">
+            <div class="summary-card__label">Frames salvos</div>
+            <div class="summary-card__value" id="gallery-total-count">0</div>
+          </article>
+          <article class="summary-card">
+            <div class="summary-card__label">Primeiro registro</div>
+            <div class="summary-card__value" id="gallery-first-date">--</div>
+          </article>
+        </div>
+        <article class="summary-card">
+          <div class="summary-card__label">Clima da pagina</div>
+          <div class="section__copy">
+            Passe o mouse para sentir o zoom e clique em qualquer imagem para abrir em tela cheia.
+            A ideia aqui e deixar a carreira parecer um arquivo premium de bastidores e grandes noites.
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="gallery-toolbar">
+        <div>
+          <div class="section__eyebrow">Mosaico da jornada</div>
+          <h2 class="section__title">Timeline visual</h2>
+        </div>
+        <p id="gallery-range-text">Carregando momentos...</p>
+      </div>
+      <div class="gallery-wall" id="gallery-wall"></div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="gallery-lightbox" aria-hidden="true">
+    <div class="lightbox-card">
+      <div class="lightbox-card__top">
+        <div>
+          <div class="section__eyebrow">Visual ampliado</div>
+          <h3 class="section__title" id="lightbox-title">Momento</h3>
+          <p class="section__copy" id="lightbox-date">--</p>
+        </div>
+        <button class="modal-card__close" id="gallery-lightbox-close" aria-label="Fechar">X</button>
+      </div>
+      <div class="lightbox-card__image">
+        <img id="lightbox-image" src="" alt="Imagem ampliada da galeria">
+      </div>
+    </div>
+  </div>
+
+  <script src="../../assets/js/galeria.js"></script>
+</body>
+</html>
