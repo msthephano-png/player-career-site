@@ -1,151 +1,103 @@
-# 🏆 Modo Carreira Cinematic
+# Modo Carreira — Site de Estatísticas
 
-> Uma vitrine premium para acompanhar a jornada completa dos seus craques no FIFA/FC Modo Carreira.  
-> Visual escuro, cinematográfico e elegante — com cara de projeto AAA.
-
----
-
-## ✨ Funcionalidades
-
-- **Hub de Jogadores** — Perfis individuais com stats, clubes, títulos e prêmios
-- **Páginas de Clubes** — Detalhamento por passagem: jogos, gols, assistências e troféus conquistados
-- **Área de Dados** — Painel interativo com filtro por temporada, ligas e rankings de campeões
-- **Galeria de Highlights** — Timeline visual com lightbox para os melhores momentos da carreira
-- Design 100% responsivo, tema dark cinematográfico
+Um site estático para acompanhar, registrar e visualizar a carreira dos jogadores do meu Modo Carreira no EA FC.
 
 ---
 
-## 🗂 Estrutura do Projeto
+## O problema que isso resolve
+
+O EA FC não oferece nenhuma forma nativa de armazenar ou visualizar estatísticas do Modo Carreira ao longo das temporadas. Os dados simplesmente não ficam registrados em lugar nenhum. A consequência prática disso é que a carreira perde profundidade com o tempo — sem histórico, sem contexto, sem narrativa — e acaba sendo abandonada depois de duas ou três temporadas por falta de engajamento.
+
+Esse site resolve isso. Os dados são coletados manualmente pelo Live Editor durante as partidas e inseridos aqui, criando um registro permanente da trajetória de cada jogador: clubes, títulos, prêmios, estatísticas por temporada e galeria de momentos.
+
+A ideia é simples: transformar o Modo Carreira em algo que valha a pena acompanhar a longo prazo.
+
+---
+
+## O que tem no site
+
+**Perfis de jogadores** — Cada jogador tem sua própria página com a carreira completa, passagens por clube, títulos conquistados e prêmios individuais recebidos.
+
+**Páginas por clube** — Cada passagem tem sua própria página com estatísticas daquela temporada específica: jogos, gols, assistências e troféus.
+
+**Painel de dados** — Visão geral por liga e por temporada, com ranking de campeões e filtros interativos.
+
+**Bola de Ouro** — Ranking dos 30 melhores jogadores de cada temporada (2026–2046), com pódio visual, histórico de indicações e estatísticas por jogador.
+
+**Galeria** — Screenshots das melhores cenas da carreira, com lightbox.
+
+---
+
+## Estrutura do projeto
 
 ```
 site-carreiras/
 │
-├── index.html                  # Página principal (seleção de jogadores)
+├── index.html
 ├── README.md
 │
 ├── pages/
-│   ├── jogadores/              # Hubs individuais de cada jogador
-│   │   ├── garcia.html
-│   │   ├── fonseca.html
-│   │   ├── escobar.html
-│   │   ├── salazar.html
-│   │   ├── guarita-fonseca.html
-│   │   └── moreno-escobar.html
-│   │
-│   ├── clubes/                 # Páginas de passagem por clube
-│   │   ├── escobar-vasco.html
-│   │   ├── escobar-bayern.html
-│   │   ├── escobar-barca.html
-│   │   ├── escobar-psg.html
-│   │   ├── escobar-gremio.html
-│   │   ├── escobar-bolivia.html
-│   │   ├── fonseca-vasco.html
-│   │   ├── fonseca-city.html
-│   │   ├── fonseca-milan.html
-│   │   ├── fonseca-bayern.html
-│   │   ├── fonseca-bolivia.html
-│   │   ├── garcia-vasco.html
-│   │   ├── garcia-psg.html
-│   │   ├── garcia-oriente.html
-│   │   ├── garcia-bolivia.html
-│   │   ├── salazar-oriente.html
-│   │   └── salazar-bolivia.html
-│   │
-│   └── galeria/                # Seções especiais
-│       ├── galeria.html        # Galeria de highlights
-│       └── dados.html          # Painel de dados e estatísticas
+│   ├── jogadores/        # Perfis individuais
+│   ├── clubes/           # Páginas de passagem por clube
+│   └── galeria/
+│       ├── galeria.html  # Galeria de imagens
+│       └── dados.html    # Painel de dados e Bola de Ouro
 │
 ├── assets/
-│   ├── css/
-│   │   └── styles.css          # Estilos globais (tema dark cinematográfico)
-│   │
+│   ├── css/styles.css
 │   ├── js/
-│   │   ├── dados.js            # Lógica da área de dados / ligas
-│   │   └── galeria.js          # Lógica da galeria de imagens
-│   │
+│   │   ├── dados.js
+│   │   ├── galeria.js
+│   │   └── bola-de-ouro.js
 │   └── images/
-│       ├── jogadores/          # Fotos dos jogadores (olhos abertos/fechados + destaque)
-│       ├── clubes/             # Escudos de clubes e seleções
-│       ├── titulos/            # Imagens dos troféus coletivos
-│       ├── premios/            # Imagens dos prêmios individuais
-│       ├── icones/             # Logos de ligas e competições
-│       └── galeria/            # Screenshots e highlights do gameplay
+│       ├── jogadores/
+│       ├── clubes/       # Escudos (pacotes por liga)
+│       ├── titulos/
+│       ├── premios/
+│       ├── icones/       # Logos de ligas e competições
+│       ├── galeria/
+│       └── bola-de-ouro/ # Fotos dos vencedores por ano
 │
-└── data/                       # Reservado para dados externos (JSON, etc.)
+└── data/                 # Reservado para dados em JSON
 ```
 
 ---
 
-## 🚀 Como Usar
+## Como rodar localmente
 
-### Localmente
-
-Basta abrir o `index.html` em qualquer navegador moderno.  
-Ou use um servidor local para evitar restrições de CORS:
+Abra o `index.html` diretamente no navegador. Para evitar restrições de CORS com os arquivos JS:
 
 ```bash
-# Com Python
+# Python
 python3 -m http.server 8080
 
-# Com Node.js (npx)
+# Node
 npx serve .
 ```
 
-Acesse em: `http://localhost:8080`
+---
 
-### GitHub Pages
+## Deploy no GitHub Pages
 
-1. Suba o conteúdo desta pasta para um repositório GitHub
-2. Vá em **Settings → Pages**
-3. Selecione o branch `main` e a pasta raiz `/`
-4. O site ficará disponível em `https://seu-usuario.github.io/nome-do-repo/`
+1. Suba a pasta para um repositório no GitHub
+2. Vá em Settings > Pages
+3. Selecione o branch `main` e a pasta raiz
+4. O site fica disponível em `https://seu-usuario.github.io/nome-do-repo/`
 
 ---
 
-## 🧭 Navegação do Site
+## Tecnologias
 
-```
-index.html
-  ↓
-pages/jogadores/{jogador}.html       ← Hub do jogador
-  ↓
-pages/clubes/{jogador}-{clube}.html  ← Detalhes da passagem
-  
-pages/galeria/galeria.html           ← Galeria visual
-pages/galeria/dados.html             ← Painel de dados
-```
+HTML, CSS e JavaScript puros. Sem frameworks, sem backend, sem dependências externas.
 
 ---
 
-## 🛠 Tecnologias
+## Estado atual e planos
 
-- HTML5 semântico
-- CSS3 puro (variáveis, animações, grid/flexbox)
-- JavaScript vanilla (sem frameworks)
-- 100% estático — sem backend, sem dependências externas
+O site é estático. Todos os dados são inseridos manualmente no código. Não há banco de dados nem sistema de login.
 
----
-
-## 📁 Convenções de Imagens
-
-| Pasta | Conteúdo |
-|---|---|
-| `images/jogadores/` | Retratos dos jogadores (`_oa` = olhos abertos, `_of` = olhos fechados, `fotinha` = destaque) |
-| `images/clubes/` | Escudos de times e seleções nacionais |
-| `images/titulos/` | Troféus de campeonatos e copas |
-| `images/premios/` | Artes de prêmios individuais (`best_`, `art_`, `arti_`) |
-| `images/icones/` | Logos oficiais de ligas e competições |
-| `images/galeria/` | Screenshots numerados por data do gameplay |
+No futuro, a ideia é criar uma versão onde qualquer pessoa possa criar uma conta, inserir os dados da própria carreira e ter seu próprio site gerado automaticamente — tornando a ferramenta útil para qualquer jogador que enfrente o mesmo problema. Por enquanto, o projeto fica aqui aberto caso alguém queira se inspirar ou adaptar para a sua própria carreira.
 
 ---
 
-## 🔮 Expansões Futuras
-
-- [ ] Seção de Bolas de Ouro (estrutura já reservada em `dados.html`)
-- [ ] Novos jogadores (basta criar `pages/jogadores/{nome}.html` + clubes em `pages/clubes/`)
-- [ ] Dados em JSON externo (`data/`)
-- [ ] Modo comparação entre jogadores
-
----
-
-*Projeto pessoal — Modo Carreira Cinematic*
+*Projeto pessoal, feito por hobbie. Dados coletados via Live Editor.*
