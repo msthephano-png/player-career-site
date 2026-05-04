@@ -1,6 +1,6 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
-const ballonYears = Array.from({ length: 21 }, (_, i) => 2026 + i);
+const ballonYears = Array.from({ length: 22 }, (_, i) => 2026 + i);
 
 // Posição = índice + 1 (índice 0 = 1º lugar)
 const ballonData = {
@@ -24,7 +24,8 @@ const ballonData = {
   2043: ["Charles Mohamed","Fabio Duarte","Daniel Escobar","Ahmed","Rizzo","Pawtowski","Oscar Perez","Madsen","Pedro Navarro","Insua","Peralta","Russo","Orellana","Juvanovic","Serranos","Gregorio Ramos","Afonso Garcia","Martin Sanchez","Sergio Montes","Fathi Ibrahim","Leroy","Moise Bamba","Uribe","Dani Nieto","Davis","Santigo","Walsh","Massey","Niang"],
   2044: ["David Bouchard","Fabio Duarte","Dembele Jr","Kovalenco","David","Caio Cruz","Bernier","Hahn","Eduardo Ferreira","Moreau","Kadlec","Germain","Rodgers","Afonso Borges","Lefebvre","Fischer","Riou","Saavedra","Dennis","Peralta","Albert Morales","Leroy","Roux","Santigo","Charles Mohamed","Thomas","Ahmed","Tyler Norman","Gabriele Guerra"],
   2045: ["Fabio Duarte","David Bouchard","Bradshaw","Pelletier","Barnes","Santigo","Jovanovic","Reyes","Peralta","Kovacevic","Leroy","Lang","Sanchez","Kovalenko","Powell","Hahn","Serrano","Kadlec","Dembele Jr","Howard","De Carvalho","Ramzi","Carlton Palmer","Ibrahim","Bryant","Guerra","Rodri Jr","David","Charles Mohamed"],
-  2046: null
+  2046: ["Howard","Ramiro Escobar","Fathi Ibrahim","David","Mann","David Bouchard","Reyes","Fabio Duarte","Kovalenko","Dembele Jr","Denis","Santigo","Field","Rodri Jr","Lefebvre","Caio Cruz","Hassan","Felix Ryan","Contreras","Santiago Silva","Varga","Bryant","Charles Mohamed","Dimarco Jr","Fiore","Vivian Jr","Kruger","Germain","Mason","Laurent"],
+  2047: null
 };
 
 // Extensão dos arquivos de foto por ano
@@ -74,7 +75,7 @@ function renderBallonSection(year) {
     container.innerHTML = `
       <div class="ballon-ongoing">
         <div class="section__eyebrow">Temporada em andamento</div>
-        <h3 class="section__title">2046 · Votação aberta</h3>
+        <h3 class="section__title">2047 · Votação aberta</h3>
         <p class="section__copy">Os indicados ainda não foram anunciados. Acompanhe aqui quando a lista sair.</p>
       </div>`;
     return;
@@ -213,8 +214,8 @@ function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2046 ? `${y} · em andamento` : String(y);
-    if (y === 2046) opt.selected = true;
+    opt.textContent = y === 2047 ? `${y} · em andamento` : String(y);
+    if (y === 2047) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -229,7 +230,7 @@ function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2046);
+  renderBallonSection(2047);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);

@@ -22,7 +22,7 @@ A ideia é simples: transformar o Modo Carreira em algo que valha a pena acompan
 
 **Painel de dados** — Visão geral por liga e por temporada, com ranking de campeões e filtros interativos.
 
-**Bola de Ouro** — Ranking dos 30 melhores jogadores de cada temporada (2026–2046), com pódio visual, histórico de indicações e estatísticas por jogador.
+**Bola de Ouro** — Ranking dos 30 melhores jogadores de cada temporada (2026–2046, com 2047 em andamento), com pódio visual, histórico de indicações e estatísticas por jogador.
 
 **Galeria** — Screenshots das melhores cenas da carreira, com lightbox.
 
@@ -55,8 +55,9 @@ site-carreiras/
 │       ├── titulos/
 │       ├── premios/
 │       ├── icones/       # Logos de ligas e competições
+│       ├── bandeiras/    # Bandeiras de países (para uso futuro)
 │       ├── galeria/
-│       └── bola-de-ouro/ # Fotos dos vencedores por ano
+│       └── bola-de-ouro/ # Fotos dos vencedores por ano (2026–2046)
 │
 └── data/                 # Reservado para dados em JSON
 ```
