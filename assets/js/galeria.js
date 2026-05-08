@@ -1,4 +1,4 @@
-const galleryFiles = [
+﻿const galleryFiles = [
   "20260114212620_1.jpg",
   "20260116234630_1.jpg",
   "20260117204145_1.jpg",
@@ -68,7 +68,10 @@ const galleryFiles = [
   "20260327012630_1.jpg",
   "20260327012641_1.jpg",
   "20260327034834_1.jpg",
+  "20260328195627_1.jpg",
   "20260328195645_1.jpg",
+  "20260328195715_1.jpg",
+  "20260328195825_1.jpg",
   "20260328214117_1.jpg",
   "20260328214232_1.jpg",
   "20260328230843_1.jpg",
@@ -103,7 +106,25 @@ const galleryFiles = [
   "20260428032905_1.jpg",
   "20260428033356_1.jpg",
   "20260428033357_1.jpg",
-  "20260429014942_1.jpg"
+  "20260429014942_1.jpg",
+  "20260502224836_1.jpg",
+  "20260504224350_1.jpg",
+  "20260504224351_1.jpg",
+  "20260505232311_1.jpg",
+  "20260505232313_1.jpg",
+  "20260505232448_1.jpg",
+  "20260507002901_1.jpg",
+  "20260507002948_1.jpg",
+  "20260507022209_1.jpg",
+  "20260507024238_1.jpg",
+  "20260507024754_1.jpg",
+  "20260507024851_1.jpg",
+  "20260508005854_1.jpg",
+  "20260508010113_1.jpg",
+  "20260508010114_1.jpg",
+  "20260508010343_1.jpg",
+  "20260508011419_1.jpg",
+  "20260508014131_1.jpg"
 ];
 
 const galleryWall = document.getElementById("gallery-wall");
@@ -149,7 +170,7 @@ function openLightbox(fileName, index) {
   lightboxImage.src = `../../assets/images/galeria/${fileName}`;
   lightboxImage.alt = `Momento ${index + 1}`;
   lightboxTitle.textContent = `${buildCardTitle(index)} #${String(index + 1).padStart(2, "0")}`;
-  lightboxDate.textContent = `${formatDate(fileName)} • ${formatTime(fileName)}`;
+  lightboxDate.textContent = `${formatDate(fileName)} â€¢ ${formatTime(fileName)}`;
   lightbox.classList.add("is-open");
   lightbox.setAttribute("aria-hidden", "false");
 }
@@ -200,3 +221,4 @@ document.addEventListener("keydown", (event) => {
 });
 
 renderGallery();
+
