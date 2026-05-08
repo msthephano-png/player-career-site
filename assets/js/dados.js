@@ -1,4 +1,4 @@
-const years = Array.from({ length: 23 }, (_, index) => 2026 + index);
+﻿const years = Array.from({ length: 23 }, (_, index) => 2026 + index);
 
 const teamData = {
   "Flamengo": { logo: "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/flamengo.football-logos.cc.png", titles: { "Brasileirao": 13, "Copa do Brasil": 8, "Supercopa": 7, "Libertadores": 7, "Sul-Americana": 1, "Recopa": 4 } },
@@ -68,7 +68,7 @@ const teamData = {
   "Argentina": { logo: "../../assets/images/clubes/argentina.png", titles: { "Copa do Mundo": 4, "Copa America": 16 } },
   "Italy": { logo: "../../assets/images/clubes/italia.png", titles: { "Copa do Mundo": 5, "Eurocopa": 2 } },
   "Netherlands": { logo: "../../assets/images/clubes/holanda.png", titles: { "Eurocopa": 2 } },
-  "France": { logo: "../../assets/images/clubes/frança.png", titles: { "Eurocopa": 4, "Copa do Mundo": 2 } },
+  "France": { logo: "../../assets/images/clubes/franÃ§a.png", titles: { "Eurocopa": 4, "Copa do Mundo": 2 } },
   "Bolivia": { logo: "../../assets/images/clubes/bolivia.png", titles: { "Copa America": 2 } },
   "Chile": { logo: "../../assets/images/clubes/chile.png", titles: { "Copa America": 3 } },
   "Brazil": { logo: "../../assets/images/clubes/brasil.png", titles: { "Copa America": 12, "Copa do Mundo": 5 } },
@@ -365,6 +365,13 @@ const competitions = [
   }
 ];
 
+competitions.forEach((competition) => {
+  competition.top.sort((left, right) => {
+    if (right.titles !== left.titles) return right.titles - left.titles;
+    return left.team.localeCompare(right.team);
+  });
+});
+
 const regionDescriptions = {
   "Brasil": "As tres competicoes centrais do calendario brasileiro, com leitura por temporada e maiores vencedores.",
   "Alemanha": "Campeoes da elite alema, copa nacional e supercopa.",
@@ -620,3 +627,6 @@ function render() {
 
 ensureSelectedCompetitionIsVisible();
 render();
+
+
+
