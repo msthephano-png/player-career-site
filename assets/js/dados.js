@@ -50,7 +50,7 @@ const teamData = {
   "Deportivo": { logo: "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/deportivo.football-logos.cc.png", titles: { "Supercopa da Espanha": 3 } },
   "PSG": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/paris-saint-germain.football-logos.cc.png", titles: { "Ligue 1": 31, "Coupe de France": 31, "Supercopa da Franca": 30, "Champions League": 7 } },
   "Marseille": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/marseille.football-logos.cc.png", titles: { "Ligue 1": 14, "Coupe de France": 16, "Supercopa da Franca": 7, "Champions League": 1 } },
-  "Saint-Etienne": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/paris-fc.football-logos.cc.png", titles: { "Ligue 1": 10, "Coupe de France": 6, "Supercopa da Franca": 5 } },
+  "Saint-Etienne": { logo: "../../assets/images/clubes/france-ligue-2-2025-2026.football-logos.cc/256x256/as-saint-etienne.football-logos.cc.png", titles: { "Ligue 1": 10, "Coupe de France": 6, "Supercopa da Franca": 5 } },
   "Monaco": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/as-monaco.football-logos.cc.png", titles: { "Ligue 1": 8, "Coupe de France": 5, "Supercopa da Franca": 4 } },
   "Nantes": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/nantes.football-logos.cc.png", titles: { "Ligue 1": 8, "Supercopa da Franca": 3 } },
   "Lille": { logo: "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/lille.football-logos.cc.png", titles: { "Coupe de France": 6 } },
@@ -68,12 +68,13 @@ const teamData = {
   "Argentina": { logo: "../../assets/images/clubes/argentina.png", titles: { "Copa do Mundo": 4, "Copa America": 16 } },
   "Italy": { logo: "../../assets/images/clubes/italia.png", titles: { "Copa do Mundo": 5, "Eurocopa": 2 } },
   "Netherlands": { logo: "../../assets/images/clubes/holanda.png", titles: { "Eurocopa": 2 } },
-  "France": { logo: "../../assets/images/clubes/franÃ§a.png", titles: { "Eurocopa": 4, "Copa do Mundo": 2 } },
+  "France": { logo: "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/france-national-team.football-logos.cc.png", titles: { "Eurocopa": 4, "Copa do Mundo": 2 } },
   "Bolivia": { logo: "../../assets/images/clubes/bolivia.png", titles: { "Copa America": 2 } },
   "Chile": { logo: "../../assets/images/clubes/chile.png", titles: { "Copa America": 3 } },
   "Brazil": { logo: "../../assets/images/clubes/brasil.png", titles: { "Copa America": 12, "Copa do Mundo": 5 } },
   "Germany": { logo: "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/germany-national-team.football-logos.cc.png", titles: { "Copa do Mundo": 4, "Eurocopa": 3 } },
-  "Uruguay": { logo: "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/uruguay-national-team.football-logos.cc.png", titles: { "Copa America": 15 } }
+  "Uruguay": { logo: "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/uruguay-national-team.football-logos.cc.png", titles: { "Copa America": 15 } },
+  "England": { logo: "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/england-national-team.football-logos.cc.png", titles: { "Copa do Mundo": 2 } }
 };
 
 const competitions = [
@@ -338,8 +339,8 @@ const competitions = [
     accent: "#f4cf6a",
     mode: "periodic",
     logo: "../../assets/images/icones/copa_do_mundo.png",
-    winners: { 2026: "Spain", 2030: "Spain", 2034: "Portugal", 2038: "Argentina", 2042: "Italy" },
-    top: [{ team: "Brazil", titles: 5 }, { team: "Italy", titles: 5 }, { team: "Germany", titles: 4 }, { team: "Argentina", titles: 4 }, { team: "Spain", titles: 3 }, { team: "France", titles: 2 }]
+    winners: { 2026: "Spain", 2030: "Spain", 2034: "Portugal", 2038: "Argentina", 2042: "Italy", 2046: "England" },
+    top: [{ team: "Brazil", titles: 5 }, { team: "Italy", titles: 5 }, { team: "Germany", titles: 4 }, { team: "Argentina", titles: 4 }, { team: "Spain", titles: 3 }, { team: "France", titles: 2 }, { team: "England", titles: 2 }]
   },
   {
     id: "euro",
