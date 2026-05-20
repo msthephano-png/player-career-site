@@ -1,6 +1,6 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
-const ballonYears = Array.from({ length: 25 }, (_, i) => 2026 + i);
+const ballonYears = Array.from({ length: 26 }, (_, i) => 2026 + i);
 
 // Posição = índice + 1 (índice 0 = 1º lugar)
 const ballonData = {
@@ -28,12 +28,13 @@ const ballonData = {
   2047: ["Fabio Duarte","David Bouchard","Howard","Leroy","Yasin Demir","Kovacevic","Kovalenko","Reyes","Denis Costa","Edwards","Hahn","De Carvalho","Lang","Fischer","Dembele Jr","Abreu","Parkin","Powell","Shevchuk","Moreau","Poli","Saavedra","Hansen","Field","Kadlec","Charles Mohamed","Rodri Jr","Fathi Ibrahim","Santigo","Michel"],
   2048: ["Ramiro Escobar","Fabio Duarte","Howard","Madsen","Nieto","Moreau","Powell","Acuna","Blanco","Perkins","Afonso Garcia","Leroy","Lang","Ibrahim","Kovacevic","Fiore","Edwards","Bernal","Li","Prieto","Seydou","Giordano","Kovalenko","David Bouchard","David","Fischer","De Carvalho","Zapada","Charles Mohamed","Raul Nunez"],
   2049: ["Santigo","Reyes","David Bouchard","Marin","Diabete","Sanogo","Ramiro Escobar","Schafer","Juraj Kovacevic","Whitehouse","Kristensen","Afonso Garcia","Nieto","Simon","Leroy","Fiore","Bryant","Costa","Madsen","Wawrzyniak","David","Fabio Duarte","Gomez","Wells","Parkin","Weston","Kadlec","Rossi","Kovalenko","Nilson"],
-  2050: null
+  2050: ["Santigo","Ramiro Escobar","Reyes","Salazar","Afonso Garcia","David Bouchard","Fabio Duarte","Nieto","Pawlowski","Madsen","George","Fiore","Kovalenko","Dembele Jr","Moreno Escobar","Hahn","De Carvalho","Raymond","Parkin","Wawrzyniak","Córdoba","Sergio Montes","Schafer","Wilk","Laurent","Blanco","Edwards","Kovacevic","Zapeda","Valencia"],
+  2051: null
 };
 
 // Extensão dos arquivos de foto por ano
 function getBallonImgExt(yearShort, file) {
-  const jpgYears = { 27: ['vencedor'], 28: ['vencedor'], 38: ['vencedor'], 48: ['terceiro'], 49: ['segundo'] };
+  const jpgYears = { 27: ['vencedor'], 28: ['vencedor'], 38: ['vencedor'], 48: ['terceiro'], 49: ['segundo'], 50: ['terceiro'] };
   const capitalS = { 46: ['segundo'] }; // pasta 46 tem Segundo.png (maiúsculo)
   if (jpgYears[yearShort] && jpgYears[yearShort].includes(file)) return 'jpg';
   return 'png';
@@ -41,6 +42,7 @@ function getBallonImgExt(yearShort, file) {
 
 function getBallonImgName(yearShort, file) {
   if (yearShort === 46 && file === 'segundo') return 'Segundo';
+  
   return file;
 }
 
@@ -78,7 +80,7 @@ function renderBallonSection(year) {
     container.innerHTML = `
       <div class="ballon-ongoing">
         <div class="section__eyebrow">Temporada em andamento</div>
-        <h3 class="section__title">2050 · Votação aberta</h3>
+        <h3 class="section__title">2051 · Votação aberta</h3>
         <p class="section__copy">Os indicados ainda não foram anunciados. Acompanhe aqui quando a lista sair.</p>
       </div>`;
     return;
@@ -217,8 +219,8 @@ function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2050 ? `${y} · em andamento` : String(y);
-    if (y === 2050) opt.selected = true;
+    opt.textContent = y === 2051 ? `${y} · em andamento` : String(y);
+    if (y === 2051) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -233,7 +235,7 @@ function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2050);
+  renderBallonSection(2051);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);
