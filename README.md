@@ -1,104 +1,118 @@
 # Modo Carreira — Site de Estatísticas
 
-Um site estático para acompanhar, registrar e visualizar a carreira dos jogadores do meu Modo Carreira no EA FC.
+Site estático (HTML, CSS e JavaScript) para documentar carreiras do EA FC no modo carreira: perfis de jogadores, passagens por clube/seleção, painel de campeões, Bola de Ouro e galeria.
 
 ---
 
-## O problema que isso resolve
+## Como o site funciona
 
-O EA FC não oferece nenhuma forma nativa de armazenar ou visualizar estatísticas do Modo Carreira ao longo das temporadas. Os dados simplesmente não ficam registrados em lugar nenhum. A consequência prática disso é que a carreira perde profundidade com o tempo — sem histórico, sem contexto, sem narrativa — e acaba sendo abandonada depois de duas ou três temporadas por falta de engajamento.
+O navegador **não lê SQLite**. O fluxo é:
 
-Esse site resolve isso. Os dados são coletados manualmente pelo Live Editor durante as partidas e inseridos aqui, criando um registro permanente da trajetória de cada jogador: clubes, títulos, prêmios, estatísticas por temporada e galeria de momentos.
+1. Você atualiza as fontes locais (planilhas/JSON/HTML de origem).
+2. Os scripts Python consolidam tudo em `data/modo_carreira.sqlite`.
+3. `scripts/exportar_frontend.py` gera os JSON em `assets/data/`.
+4. O site carrega esses JSON com `fetch()` (home, perfis, clubes, dados e Bola de Ouro).
 
-A ideia é simples: transformar o Modo Carreira em algo que valha a pena acompanhar a longo prazo.
+Arquivos consumidos pelo front:
 
----
-
-## O que tem no site
-
-**Perfis de jogadores** — Cada jogador tem sua própria página com a carreira completa, passagens por clube, títulos conquistados e prêmios individuais recebidos.
-
-**Páginas por clube** — Cada passagem tem sua própria página com estatísticas daquela temporada específica: jogos, gols, assistências e troféus.
-
-**Painel de dados** — Visão geral por liga e por temporada, com ranking de campeões e filtros interativos.
-
-**Bola de Ouro** — Ranking dos 30 melhores jogadores de cada temporada (2026–2046, com 2047 em andamento), com pódio visual, histórico de indicações e estatísticas por jogador.
-
-**Galeria** — Screenshots das melhores cenas da carreira, com lightbox.
+- `assets/data/competicoes.json`
+- `assets/data/bola-de-ouro.json`
+- `assets/data/jogadores.json`
+- `assets/data/index.json` (resumo da última exportação)
 
 ---
 
-## Estrutura do projeto
-
-```
-site-carreiras/
-│
-├── index.html
-├── README.md
-│
-├── pages/
-│   ├── jogadores/        # Perfis individuais
-│   ├── clubes/           # Páginas de passagem por clube
-│   └── galeria/
-│       ├── galeria.html  # Galeria de imagens
-│       └── dados.html    # Painel de dados e Bola de Ouro
-│
-├── assets/
-│   ├── css/styles.css
-│   ├── js/
-│   │   ├── dados.js
-│   │   ├── galeria.js
-│   │   └── bola-de-ouro.js
-│   └── images/
-│       ├── jogadores/
-│       ├── clubes/       # Escudos (pacotes por liga)
-│       ├── titulos/
-│       ├── premios/
-│       ├── icones/       # Logos de ligas e competições
-│       ├── bandeiras/    # Bandeiras de países (para uso futuro)
-│       ├── galeria/
-│       └── bola-de-ouro/ # Fotos dos vencedores por ano (2026–2046)
-│
-└── data/                 # Reservado para dados em JSON
-```
+Guia detalhado (acessar, testar, nova temporada): **[GUIA.md](GUIA.md)**
 
 ---
 
-## Como rodar localmente
+## Atualizar uma nova temporada
 
-Abra o `index.html` diretamente no navegador. Para evitar restrições de CORS com os arquivos JS:
+Na raiz do projeto (`player-career-site`):
 
 ```bash
-# Python
-python3 -m http.server 8080
+python scripts/build_dados.py
+```
 
-# Node
-npx serve .
+Esse comando roda, nesta ordem:
+
+1. `gerar_base_campeoes.py`
+2. `gerar_base_bola_de_ouro.py`
+3. `gerar_base_jogadores.py`
+4. `criar_banco_sqlite.py`
+5. `exportar_frontend.py`
+
+Depois, suba para o GitHub **apenas** o que o site precisa: HTML, CSS, JS, imagens e `assets/data/*.json`.
+
+---
+
+## Rodar localmente
+
+Abrir o `index.html` com duplo clique pode bloquear `fetch()` por CORS. Use servidor local:
+
+```bash
+python scripts/serve_local.py
+```
+
+Use `serve_local.py` em vez de `python -m http.server` para enviar HTML/JSON com `charset=utf-8` (evita textos quebrados tipo `Ã§` no Windows).
+
+Abra: [http://127.0.0.1:8080](http://127.0.0.1:8080)
+
+Páginas úteis para QA:
+
+- `index.html`
+- `pages/galeria/dados.html`
+- `pages/jogadores/garcia.html`
+- `pages/clubes/garcia-oriente.html`
+
+---
+
+## Publicar no GitHub Pages
+
+1. Envie o repositório para o GitHub.
+2. Em **Settings → Pages**, use o branch `main` e a pasta raiz do site.
+3. O site fica em `https://<usuario>.github.io/<repo>/`.
+
+**Não precisa** publicar:
+
+- `data/modo_carreira.sqlite`
+- scripts Python
+- planilhas `.xlsx` de trabalho (opcional no repo)
+
+**Precisa** publicar os JSON em `assets/data/` sempre que atualizar os dados.
+
+---
+
+## Estrutura resumida
+
+```
+player-career-site/
+├── index.html
+├── pages/
+│   ├── jogadores/
+│   ├── clubes/
+│   └── galeria/
+├── assets/
+│   ├── css/styles.css
+│   ├── js/          # home, perfis, clubes, dados, bola-de-ouro
+│   ├── data/        # JSON para o navegador
+│   └── images/
+├── data/            # SQLite e bases de origem (local)
+└── scripts/         # pipeline de atualização
 ```
 
 ---
 
-## Deploy no GitHub Pages
+## Scripts auxiliares
 
-1. Suba a pasta para um repositório no GitHub
-2. Vá em Settings > Pages
-3. Selecione o branch `main` e a pasta raiz
-4. O site fica disponível em `https://seu-usuario.github.io/nome-do-repo/`
-
----
-
-## Tecnologias
-
-HTML, CSS e JavaScript puros. Sem frameworks, sem backend, sem dependências externas.
+| Script | Função |
+|--------|--------|
+| `build_dados.py` | Pipeline completo (recomendado) |
+| `fix_encoding.py` | Corrige mojibake duplo nos HTML (`ComeÃ§o` → `Começo`) |
+| `serve_local.py` | Servidor local com `charset=utf-8` (recomendado no Windows) |
+| `inject_honor_utils.py` | Garante `honor-utils.js` nas páginas de jogador/clube |
+| `exportar_frontend.py` | Só exporta JSON a partir do SQLite |
 
 ---
 
-## Estado atual e planos
-
-O site é estático. Todos os dados são inseridos manualmente no código. Não há banco de dados nem sistema de login.
-
-No futuro, a ideia é criar uma versão onde qualquer pessoa possa criar uma conta, inserir os dados da própria carreira e ter seu próprio site gerado automaticamente — tornando a ferramenta útil para qualquer jogador que enfrente o mesmo problema. Por enquanto, o projeto fica aqui aberto caso alguém queira se inspirar ou adaptar para a sua própria carreira.
-
----
-
-*Projeto pessoal, feito por hobbie. Dados coletados via Live Editor.*
+*Projeto pessoal. Dados coletados via Live Editor.*

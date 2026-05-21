@@ -1,0 +1,7882 @@
+{
+  "rankingsByYear": {
+    "2026": [
+      {
+        "position": 1,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Güler",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Palmer",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Vinícius Júnior",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Rodrygo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Mbappé",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Saka",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Valverde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Gündogan",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Kane",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Tchouaméni",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Dani Olmo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Bernardo Silva",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Lautaro Martínez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Osimhen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "João Félix",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Theo Hernández",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Rúben Dias",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Ter Stegen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Çalhanoğlu",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2027": [
+      {
+        "position": 1,
+        "player": "Kane",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Mbappé",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Güler",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Vinícius Júnior",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Valverde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Rodrygo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Saka",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Coman",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Kimmich",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Lautaro Martínez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Osimhen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Palmer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Chiesa",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Theo Hernández",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Rúben Dias",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "De Ligt",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Ter Stegen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Szczęsny",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Dani Olmo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Bernardo Silva",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2028": [
+      {
+        "position": 1,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Sané",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Zubimendi",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Mbappé",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Vinícius Júnior",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Saka",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Güler",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Rodrygo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Palmer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Rice",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Kane",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Valverde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Kimmich",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Theo Hernández",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Rúben Dias",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Ter Stegen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Saliba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "João Félix",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Dani Olmo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2029": [
+      {
+        "position": 1,
+        "player": "Wirtz",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Valverde",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Mbappé",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Güler",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Szoboszlai",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Mac Allister",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Haaland",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Rodrygo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Palmer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Rice",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Saliba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Diogo Jota",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Luis Díaz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Zaire-Emery",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2030": [
+      {
+        "position": 1,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Pedri",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Samu",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Zubimendi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Mbappé",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Theo Hernández",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Bernardo Silva",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Rodrygo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Valverde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Saliba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Tonali",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Bastoni",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2031": [
+      {
+        "position": 1,
+        "player": "Lautaro Martínez",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Haaland",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "De Jong",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Mbappé",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Olise",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Rodri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Nuno Mendes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Tomás Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Pacho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Samu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Ter Stegen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Valverde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Diogo Costa",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2032": [
+      {
+        "position": 1,
+        "player": "Samu",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Adeyemi",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Ødegaard",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Sesko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Tomás Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Pacho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Carreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Adeyemi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Rodri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Haaland",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Diogo Costa",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2033": [
+      {
+        "position": 1,
+        "player": "Samu",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Garcia",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Javi Guerra",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Adeyemi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Sesko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Tomás Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Pacho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Carreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Xavi Simons",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Haaland",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Agirrezabala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Diego Lopes",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2034": [
+      {
+        "position": 1,
+        "player": "Endrick",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Haaland",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Garcia",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Samu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Adeyemi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Tomás Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Pacho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Carreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Wirtz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Xavi Simons",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Julian Alvarez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Hakimi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Sesko",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2035": [
+      {
+        "position": 1,
+        "player": "Haaland",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Greenwood",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Escobar",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Pino",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Samu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Adeyemi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Ødegaard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Kvaratskhelia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Donnarumma",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Tomás Araújo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Pacho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Carreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Almeida",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Xavi Simons",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Sesko",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2036": [
+      {
+        "position": 1,
+        "player": "Jesus Fonseca",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Xavi Simons",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Larsson",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Uzun",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Almada",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Hato",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Samu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Nico Williams",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Pedri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Gavi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Marcos Leonardo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Carreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Almeida",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Rafael Leão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Xavi Simons",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Vitinha",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2037": [
+      {
+        "position": 1,
+        "player": "David",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Garcia",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Jesus Fonseca",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Bernie",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Bernier",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Larsson",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Haaland",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Musiala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Almeida",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Forrest",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Thomas",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Moreau",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Rodri Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Marquinhos Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Irala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Balde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Xavi Simons",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Jude Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Jobe Bellingham",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2038": [
+      {
+        "position": 1,
+        "player": "Escobar",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Garcia",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Yamal",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Irala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Mastantuono",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Echeverri",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Nico Paz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Jobe Bellingham",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Jens Hahn",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Güler",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Ayala",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Siegmund",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Pedro Cardoso",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Vuskovic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Hato",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Bernie",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Lejeune",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Forrest",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Almeida",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2039": [
+      {
+        "position": 1,
+        "player": "David",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Garcia",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Endrick",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "João Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Obi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Bernie",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Forrest",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Almeida",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Reyes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Abreu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Cubarsí",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Luis Guilherme",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Schumacher",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Cherki",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Marino",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Howard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Rodri Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Russo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Mancini",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2040": [
+      {
+        "position": 1,
+        "player": "Jesus Fonseca",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Varga",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Serrano",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Norman",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Sanchez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Bruno Gomes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Guerra",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Alex Watson",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Amos",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Navarro",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Reyes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Dembele Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Dani Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Eduardo Ribeiros",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Schumacher",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Hyde",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Endrick",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Howard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Abreu",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2041": [
+      {
+        "position": 1,
+        "player": "David",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Escobar",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Denis Costa",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Yamal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Denis Cristea",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Damiano Rossi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Kadlec",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Dani Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Alessio Fiore",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Zimmermann",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Thomas",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Bernie",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Sem Van",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Bruno Gomes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Bernie",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Koren",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Niang",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Sandoval",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Gallardo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2042": [
+      {
+        "position": 1,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Gabriele Guerra",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Tyler Norman",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Jacob Taylor",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Guilherme Contreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Daniel Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Gregorio Ramos",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Mauro Esposito",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Martin Sanchez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Dimarco Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Piero Greco",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Daniel Conti",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Afonso Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Alberto De Angelis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Eddie George",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Iker Marin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Michelle Ricci",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Miguel Correia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Estevão",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Jesus Fonseca",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Ferrari",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Moreau",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2043": [
+      {
+        "position": 1,
+        "player": "Charles Mohamed",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Daniel Escobar",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Ahmed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Rizzo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Pawtowski",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Oscar Perez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Madsen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Pedro Navarro",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Insua",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Russo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Orellana",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Juvanovic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Serranos",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Gregorio Ramos",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Afonso Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Martin Sanchez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Sergio Montes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Fathi Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Moise Bamba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Uribe",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Dani Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Davis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Walsh",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Massey",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Niang",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2044": [
+      {
+        "position": 1,
+        "player": "David Bouchard",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Dembele Jr",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Kovalenco",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Caio Cruz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Bernier",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Hahn",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Eduardo Ferreira",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Moreau",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Kadlec",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Rodgers",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Afonso Borges",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Fischer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Riou",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Saavedra",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Dennis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Albert Morales",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Roux",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Thomas",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Ahmed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Tyler Norman",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Gabriele Guerra",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2045": [
+      {
+        "position": 1,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "David Bouchard",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Bradshaw",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Pelletier",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Barnes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Jovanovic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Reyes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Peralta",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Kovacevic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Lang",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Sanchez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Powell",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Hahn",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Serrano",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Kadlec",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Dembele Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Howard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "De Carvalho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Ramzi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Carlton Palmer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Bryant",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Guerra",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Rodri Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2046": [
+      {
+        "position": 1,
+        "player": "Howard",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Ramiro Escobar",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Fathi Ibrahim",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Mann",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "David Bouchard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Reyes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Fabio Duarte",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Dembele Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Denis",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Field",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Rodri Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Lefebvre",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Caio Cruz",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Hassan",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Felix Ryan",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Contreras",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Santiago Silva",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Varga",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Bryant",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Dimarco Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Fiore",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Vivian Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Kruger",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Germain",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Mason",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Laurent",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2047": [
+      {
+        "position": 1,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "David Bouchard",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Howard",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Yasin Demir",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Kovacevic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Reyes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Denis Costa",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Edwards",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Hahn",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "De Carvalho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Lang",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Fischer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Dembele Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Abreu",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Parkin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Powell",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Shevchuk",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Moreau",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Poli",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Saavedra",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Hansen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Field",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Kadlec",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Rodri Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Fathi Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Santigo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Michel",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2048": [
+      {
+        "position": 1,
+        "player": "Ramiro Escobar",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Howard",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Madsen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Moreau",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Powell",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Acuna",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Blanco",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Perkins",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Afonso Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Lang",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Kovacevic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Fiore",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Edwards",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Bernal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Li",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Prieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Seydou",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Giordano",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "David Bouchard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Fischer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "De Carvalho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Zapada",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Raul Nunez",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2049": [
+      {
+        "position": 1,
+        "player": "Santigo",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Reyes",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "David Bouchard",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Marin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Diabete",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Sanogo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Ramiro Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Schafer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Juraj Kovacevic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Whitehouse",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Kristensen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Afonso Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Simon",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Fiore",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Bryant",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Costa",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Madsen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Wawrzyniak",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "David",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Fabio Duarte",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Gomez",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Wells",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Parkin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Weston",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Kadlec",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Rossi",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Nilson",
+        "podium": false,
+        "medal": ""
+      }
+    ],
+    "2050": [
+      {
+        "position": 1,
+        "player": "Santigo",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Ramiro Escobar",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Reyes",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Salazar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Afonso Garcia",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "David Bouchard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Fabio Duarte",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Nieto",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Pawlowski",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Madsen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "George",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Fiore",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Kovalenko",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Dembele Jr",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Moreno Escobar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Hahn",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "De Carvalho",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Raymond",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Parkin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Wawrzyniak",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Córdoba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Sergio Montes",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Schafer",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Wilk",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Laurent",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Blanco",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Edwards",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "Kovacevic",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Zapeda",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Valencia",
+        "podium": false,
+        "medal": ""
+      }
+    ]
+  },
+  "playerStats": [
+    {
+      "player": "Yamal",
+      "nominations": 16,
+      "podiums": 7,
+      "wins": 3,
+      "seconds": 3,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2026, 2028, 2030",
+      "firstNomination": 2026,
+      "lastNomination": 2041,
+      "history": "2026: 1º; 2027: 2º; 2028: 1º; 2029: 2º; 2030: 1º; 2031: 2º; 2032: 4º; 2033: 4º; 2034: 4º; 2035: 5º; 2036: 13º; 2037: 17º; 2038: 3º; 2039: 28º; 2040: 11º; 2041: 5º"
+    },
+    {
+      "player": "Fabio Duarte",
+      "nominations": 10,
+      "podiums": 7,
+      "wins": 3,
+      "seconds": 4,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2042, 2045, 2047",
+      "firstNomination": 2040,
+      "lastNomination": 2050,
+      "history": "2040: 2º; 2042: 1º; 2043: 2º; 2044: 2º; 2045: 1º; 2046: 8º; 2047: 1º; 2048: 2º; 2049: 22º; 2050: 7º"
+    },
+    {
+      "player": "David",
+      "nominations": 12,
+      "podiums": 3,
+      "wins": 3,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2037, 2039, 2041",
+      "firstNomination": 2036,
+      "lastNomination": 2049,
+      "history": "2036: 6º; 2037: 1º; 2038: 10º; 2039: 1º; 2040: 16º; 2041: 1º; 2042: 11º; 2044: 5º; 2045: 28º; 2046: 4º; 2048: 25º; 2049: 21º"
+    },
+    {
+      "player": "Jesus Fonseca",
+      "nominations": 11,
+      "podiums": 3,
+      "wins": 2,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2036, 2040",
+      "firstNomination": 2030,
+      "lastNomination": 2042,
+      "history": "2030: 19º; 2032: 6º; 2033: 8º; 2034: 6º; 2035: 7º; 2036: 1º; 2037: 3º; 2038: 29º; 2040: 1º; 2041: 26º; 2042: 26º"
+    },
+    {
+      "player": "Samu",
+      "nominations": 7,
+      "podiums": 3,
+      "wins": 2,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2032, 2033",
+      "firstNomination": 2030,
+      "lastNomination": 2036,
+      "history": "2030: 3º; 2031: 21º; 2032: 1º; 2033: 1º; 2034: 5º; 2035: 10º; 2036: 10º"
+    },
+    {
+      "player": "Santigo",
+      "nominations": 11,
+      "podiums": 2,
+      "wins": 2,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2049, 2050",
+      "firstNomination": 2039,
+      "lastNomination": 2050,
+      "history": "2039: 4º; 2040: 21º; 2041: 28º; 2042: 12º; 2043: 26º; 2044: 24º; 2045: 6º; 2046: 12º; 2047: 29º; 2049: 1º; 2050: 1º"
+    },
+    {
+      "player": "David Bouchard",
+      "nominations": 7,
+      "podiums": 4,
+      "wins": 1,
+      "seconds": 2,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2050,
+      "history": "2044: 1º; 2045: 2º; 2046: 6º; 2047: 2º; 2048: 24º; 2049: 3º; 2050: 6º"
+    },
+    {
+      "player": "Escobar",
+      "nominations": 12,
+      "podiums": 3,
+      "wins": 1,
+      "seconds": 1,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2038",
+      "firstNomination": 2030,
+      "lastNomination": 2042,
+      "history": "2030: 30º; 2032: 9º; 2033: 11º; 2034: 12º; 2035: 3º; 2036: 11º; 2037: 5º; 2038: 1º; 2039: 22º; 2040: 27º; 2041: 2º; 2042: 17º"
+    },
+    {
+      "player": "Haaland",
+      "nominations": 7,
+      "podiums": 3,
+      "wins": 1,
+      "seconds": 1,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2035",
+      "firstNomination": 2029,
+      "lastNomination": 2037,
+      "history": "2029: 11º; 2031: 3º; 2032: 29º; 2033: 28º; 2034: 2º; 2035: 1º; 2037: 12º"
+    },
+    {
+      "player": "Howard",
+      "nominations": 6,
+      "podiums": 3,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 2,
+      "bestPosition": 1,
+      "bestPositionYears": "2046",
+      "firstNomination": 2039,
+      "lastNomination": 2048,
+      "history": "2039: 24º; 2040: 28º; 2045: 20º; 2046: 1º; 2047: 3º; 2048: 3º"
+    },
+    {
+      "player": "Ramiro Escobar",
+      "nominations": 4,
+      "podiums": 3,
+      "wins": 1,
+      "seconds": 2,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2048",
+      "firstNomination": 2046,
+      "lastNomination": 2050,
+      "history": "2046: 2º; 2048: 1º; 2049: 7º; 2050: 2º"
+    },
+    {
+      "player": "Endrick",
+      "nominations": 14,
+      "podiums": 2,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 1,
+      "bestPositionYears": "2034",
+      "firstNomination": 2026,
+      "lastNomination": 2040,
+      "history": "2026: 25º; 2027: 29º; 2028: 29º; 2029: 19º; 2030: 18º; 2032: 22º; 2033: 22º; 2034: 1º; 2035: 9º; 2036: 9º; 2037: 27º; 2038: 23º; 2039: 3º; 2040: 25º"
+    },
+    {
+      "player": "Wirtz",
+      "nominations": 9,
+      "podiums": 1,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2029",
+      "firstNomination": 2026,
+      "lastNomination": 2034,
+      "history": "2026: 13º; 2027: 11º; 2028: 17º; 2029: 1º; 2030: 8º; 2031: 15º; 2032: 14º; 2033: 16º; 2034: 25º"
+    },
+    {
+      "player": "Charles Mohamed",
+      "nominations": 6,
+      "podiums": 1,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2048,
+      "history": "2043: 1º; 2044: 25º; 2045: 29º; 2046: 23º; 2047: 26º; 2048: 29º"
+    },
+    {
+      "player": "Kane",
+      "nominations": 3,
+      "podiums": 1,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2027",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 17º; 2027: 1º; 2028: 16º"
+    },
+    {
+      "player": "Lautaro Martínez",
+      "nominations": 3,
+      "podiums": 1,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2031",
+      "firstNomination": 2026,
+      "lastNomination": 2031,
+      "history": "2026: 22º; 2027: 16º; 2031: 1º"
+    },
+    {
+      "player": "Garcia",
+      "nominations": 11,
+      "podiums": 5,
+      "wins": 0,
+      "seconds": 4,
+      "thirds": 1,
+      "bestPosition": 2,
+      "bestPositionYears": "2033, 2037, 2038, 2039",
+      "firstNomination": 2028,
+      "lastNomination": 2040,
+      "history": "2028: 30º; 2030: 26º; 2032: 12º; 2033: 2º; 2034: 3º; 2035: 8º; 2036: 8º; 2037: 2º; 2038: 2º; 2039: 2º; 2040: 10º"
+    },
+    {
+      "player": "Reyes",
+      "nominations": 7,
+      "podiums": 2,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 1,
+      "bestPosition": 2,
+      "bestPositionYears": "2049",
+      "firstNomination": 2039,
+      "lastNomination": 2050,
+      "history": "2039: 15º; 2040: 17º; 2045: 8º; 2046: 7º; 2047: 8º; 2049: 2º; 2050: 3º"
+    },
+    {
+      "player": "Pedri",
+      "nominations": 11,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2030",
+      "firstNomination": 2026,
+      "lastNomination": 2036,
+      "history": "2026: 4º; 2027: 8º; 2028: 8º; 2029: 8º; 2030: 2º; 2031: 14º; 2032: 10º; 2033: 13º; 2034: 13º; 2035: 15º; 2036: 15º"
+    },
+    {
+      "player": "Ødegaard",
+      "nominations": 9,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2032",
+      "firstNomination": 2026,
+      "lastNomination": 2035,
+      "history": "2026: 21º; 2027: 27º; 2028: 15º; 2029: 16º; 2031: 5º; 2032: 3º; 2033: 5º; 2034: 7º; 2035: 12º"
+    },
+    {
+      "player": "Dembele Jr",
+      "nominations": 6,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2044",
+      "firstNomination": 2040,
+      "lastNomination": 2050,
+      "history": "2040: 19º; 2044: 3º; 2045: 19º; 2046: 10º; 2047: 15º; 2050: 14º"
+    },
+    {
+      "player": "Mbappé",
+      "nominations": 6,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2027",
+      "firstNomination": 2026,
+      "lastNomination": 2031,
+      "history": "2026: 10º; 2027: 3º; 2028: 5º; 2029: 5º; 2030: 9º; 2031: 9º"
+    },
+    {
+      "player": "Valverde",
+      "nominations": 6,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2029",
+      "firstNomination": 2026,
+      "lastNomination": 2031,
+      "history": "2026: 14º; 2027: 9º; 2028: 18º; 2029: 3º; 2030: 23º; 2031: 29º"
+    },
+    {
+      "player": "Xavi Simons",
+      "nominations": 6,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2036",
+      "firstNomination": 2033,
+      "lastNomination": 2037,
+      "history": "2033: 26º; 2034: 27º; 2035: 27º; 2036: 2º; 2036: 27º; 2037: 26º"
+    },
+    {
+      "player": "Adeyemi",
+      "nominations": 5,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2032",
+      "firstNomination": 2032,
+      "lastNomination": 2035,
+      "history": "2032: 2º; 2032: 26º; 2033: 9º; 2034: 10º; 2035: 11º"
+    },
+    {
+      "player": "Güler",
+      "nominations": 5,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2038,
+      "history": "2026: 2º; 2027: 6º; 2028: 10º; 2029: 7º; 2038: 12º"
+    },
+    {
+      "player": "Palmer",
+      "nominations": 4,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2029,
+      "history": "2026: 3º; 2027: 19º; 2028: 12º; 2029: 14º"
+    },
+    {
+      "player": "Fathi Ibrahim",
+      "nominations": 3,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2046",
+      "firstNomination": 2043,
+      "lastNomination": 2047,
+      "history": "2043: 20º; 2046: 3º; 2047: 28º"
+    },
+    {
+      "player": "Daniel Escobar",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2043",
+      "firstNomination": 2042,
+      "lastNomination": 2043,
+      "history": "2042: 7º; 2043: 3º"
+    },
+    {
+      "player": "Denis Costa",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2047,
+      "history": "2041: 3º; 2047: 9º"
+    },
+    {
+      "player": "Gabriele Guerra",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2044,
+      "history": "2042: 2º; 2044: 29º"
+    },
+    {
+      "player": "Larsson",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2036",
+      "firstNomination": 2036,
+      "lastNomination": 2037,
+      "history": "2036: 3º; 2037: 11º"
+    },
+    {
+      "player": "Tyler Norman",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2044,
+      "history": "2042: 3º; 2044: 28º"
+    },
+    {
+      "player": "Varga",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2046,
+      "history": "2040: 3º; 2046: 21º"
+    },
+    {
+      "player": "Zubimendi",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2028",
+      "firstNomination": 2028,
+      "lastNomination": 2030,
+      "history": "2028: 3º; 2030: 6º"
+    },
+    {
+      "player": "Bradshaw",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 3º"
+    },
+    {
+      "player": "Greenwood",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2035",
+      "firstNomination": 2035,
+      "lastNomination": 2035,
+      "history": "2035: 2º"
+    },
+    {
+      "player": "Javi Guerra",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2033",
+      "firstNomination": 2033,
+      "lastNomination": 2033,
+      "history": "2033: 3º"
+    },
+    {
+      "player": "Sané",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 1,
+      "thirds": 0,
+      "bestPosition": 2,
+      "bestPositionYears": "2028",
+      "firstNomination": 2028,
+      "lastNomination": 2028,
+      "history": "2028: 2º"
+    },
+    {
+      "player": "Estevão",
+      "nominations": 12,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2037",
+      "firstNomination": 2031,
+      "lastNomination": 2042,
+      "history": "2031: 7º; 2032: 8º; 2033: 7º; 2034: 15º; 2035: 29º; 2036: 29º; 2037: 4º; 2038: 11º; 2039: 6º; 2040: 26º; 2041: 29º; 2042: 24º"
+    },
+    {
+      "player": "Musiala",
+      "nominations": 12,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2027, 2035",
+      "firstNomination": 2026,
+      "lastNomination": 2037,
+      "history": "2026: 7º; 2027: 4º; 2028: 9º; 2029: 6º; 2030: 7º; 2031: 10º; 2032: 13º; 2033: 15º; 2034: 9º; 2035: 4º; 2036: 12º; 2037: 13º"
+    },
+    {
+      "player": "Bellingham",
+      "nominations": 11,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2028, 2029",
+      "firstNomination": 2026,
+      "lastNomination": 2036,
+      "history": "2026: 5º; 2027: 5º; 2028: 4º; 2029: 4º; 2030: 22º; 2031: 16º; 2032: 15º; 2033: 17º; 2034: 11º; 2035: 17º; 2036: 17º"
+    },
+    {
+      "player": "Nico Williams",
+      "nominations": 11,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2030",
+      "firstNomination": 2026,
+      "lastNomination": 2036,
+      "history": "2026: 11º; 2027: 13º; 2028: 13º; 2029: 13º; 2030: 4º; 2031: 22º; 2032: 11º; 2033: 14º; 2034: 14º; 2035: 14º; 2036: 14º"
+    },
+    {
+      "player": "Rafael Leão",
+      "nominations": 11,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2030",
+      "firstNomination": 2026,
+      "lastNomination": 2036,
+      "history": "2026: 16º; 2027: 18º; 2028: 22º; 2029: 30º; 2030: 12º; 2031: 26º; 2032: 28º; 2033: 27º; 2034: 26º; 2035: 26º; 2036: 26º"
+    },
+    {
+      "player": "Gavi",
+      "nominations": 10,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2030",
+      "firstNomination": 2026,
+      "lastNomination": 2036,
+      "history": "2026: 8º; 2027: 30º; 2028: 19º; 2029: 20º; 2030: 5º; 2031: 23º; 2032: 21º; 2034: 24º; 2035: 16º; 2036: 16º"
+    },
+    {
+      "player": "Cubarsí",
+      "nominations": 9,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2030",
+      "firstNomination": 2029,
+      "lastNomination": 2039,
+      "history": "2029: 28º; 2030: 17º; 2031: 24º; 2032: 23º; 2033: 23º; 2034: 23º; 2035: 23º; 2036: 23º; 2039: 18º"
+    },
+    {
+      "player": "Leroy",
+      "nominations": 8,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2047",
+      "firstNomination": 2040,
+      "lastNomination": 2049,
+      "history": "2040: 8º; 2042: 13º; 2043: 21º; 2044: 22º; 2045: 11º; 2047: 4º; 2048: 12º; 2049: 15º"
+    },
+    {
+      "player": "Vitinha",
+      "nominations": 8,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2030",
+      "firstNomination": 2029,
+      "lastNomination": 2036,
+      "history": "2029: 18º; 2030: 10º; 2031: 20º; 2032: 25º; 2033: 25º; 2034: 16º; 2035: 28º; 2036: 28º"
+    },
+    {
+      "player": "Balde",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 16,
+      "bestPositionYears": "2032",
+      "firstNomination": 2031,
+      "lastNomination": 2037,
+      "history": "2031: 17º; 2032: 16º; 2033: 18º; 2034: 19º; 2035: 19º; 2036: 19º; 2037: 25º"
+    },
+    {
+      "player": "Denis",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2037",
+      "firstNomination": 2036,
+      "lastNomination": 2046,
+      "history": "2036: 18º; 2037: 6º; 2038: 16º; 2039: 9º; 2041: 21º; 2042: 28º; 2046: 11º"
+    },
+    {
+      "player": "Donnarumma",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2031",
+      "firstNomination": 2029,
+      "lastNomination": 2035,
+      "history": "2029: 23º; 2030: 15º; 2031: 8º; 2032: 20º; 2033: 10º; 2034: 18º; 2035: 18º"
+    },
+    {
+      "player": "Ferrari",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2037",
+      "firstNomination": 2036,
+      "lastNomination": 2042,
+      "history": "2036: 20º; 2036: 30º; 2037: 7º; 2038: 19º; 2039: 10º; 2041: 16º; 2042: 27º"
+    },
+    {
+      "player": "João Neves",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2039",
+      "firstNomination": 2029,
+      "lastNomination": 2039,
+      "history": "2029: 26º; 2030: 11º; 2031: 25º; 2032: 24º; 2033: 24º; 2034: 17º; 2039: 5º"
+    },
+    {
+      "player": "Kvaratskhelia",
+      "nominations": 7,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2031",
+      "firstNomination": 2029,
+      "lastNomination": 2035,
+      "history": "2029: 17º; 2030: 13º; 2031: 4º; 2032: 5º; 2033: 6º; 2034: 8º; 2035: 13º"
+    },
+    {
+      "player": "Germain",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2041",
+      "firstNomination": 2037,
+      "lastNomination": 2046,
+      "history": "2037: 21º; 2038: 21º; 2039: 7º; 2041: 4º; 2044: 12º; 2046: 28º"
+    },
+    {
+      "player": "Hakimi",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2034,
+      "history": "2026: 23º; 2028: 26º; 2029: 27º; 2030: 27º; 2031: 27º; 2034: 29º"
+    },
+    {
+      "player": "Kovalenko",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2047",
+      "firstNomination": 2045,
+      "lastNomination": 2050,
+      "history": "2045: 14º; 2046: 9º; 2047: 7º; 2048: 23º; 2049: 29º; 2050: 13º"
+    },
+    {
+      "player": "Kruger",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2037",
+      "firstNomination": 2035,
+      "lastNomination": 2046,
+      "history": "2035: 25º; 2036: 25º; 2037: 15º; 2038: 28º; 2039: 16º; 2046: 27º"
+    },
+    {
+      "player": "Lefebvre",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2041",
+      "firstNomination": 2037,
+      "lastNomination": 2046,
+      "history": "2037: 16º; 2038: 27º; 2039: 26º; 2041: 13º; 2044: 15º; 2046: 15º"
+    },
+    {
+      "player": "Peralta",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2040, 2042",
+      "firstNomination": 2040,
+      "lastNomination": 2045,
+      "history": "2040: 4º; 2041: 27º; 2042: 4º; 2043: 11º; 2044: 20º; 2045: 9º"
+    },
+    {
+      "player": "Roux",
+      "nominations": 6,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2037",
+      "firstNomination": 2037,
+      "lastNomination": 2044,
+      "history": "2037: 9º; 2038: 24º; 2039: 12º; 2041: 24º; 2042: 25º; 2044: 23º"
+    },
+    {
+      "player": "Afonso Garcia",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2050",
+      "firstNomination": 2042,
+      "lastNomination": 2050,
+      "history": "2042: 18º; 2043: 17º; 2048: 11º; 2049: 12º; 2050: 5º"
+    },
+    {
+      "player": "Almeida",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2037, 2039",
+      "firstNomination": 2035,
+      "lastNomination": 2039,
+      "history": "2035: 24º; 2036: 24º; 2037: 14º; 2038: 26º; 2039: 14º"
+    },
+    {
+      "player": "Bernie",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2037",
+      "firstNomination": 2037,
+      "lastNomination": 2041,
+      "history": "2037: 8º; 2038: 20º; 2039: 11º; 2041: 14º; 2041: 19º"
+    },
+    {
+      "player": "Carreras",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2032",
+      "firstNomination": 2032,
+      "lastNomination": 2036,
+      "history": "2032: 19º; 2033: 21º; 2034: 22º; 2035: 22º; 2036: 22º"
+    },
+    {
+      "player": "Kadlec",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2049,
+      "history": "2041: 8º; 2044: 11º; 2045: 18º; 2047: 25º; 2049: 27º"
+    },
+    {
+      "player": "Moreau",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2048",
+      "firstNomination": 2037,
+      "lastNomination": 2048,
+      "history": "2037: 20º; 2042: 29º; 2044: 10º; 2047: 20º; 2048: 6º"
+    },
+    {
+      "player": "Pacho",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2032",
+      "firstNomination": 2031,
+      "lastNomination": 2035,
+      "history": "2031: 19º; 2032: 18º; 2033: 20º; 2034: 21º; 2035: 21º"
+    },
+    {
+      "player": "Rodri Jr",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2046",
+      "firstNomination": 2037,
+      "lastNomination": 2047,
+      "history": "2037: 22º; 2039: 25º; 2045: 27º; 2046: 14º; 2047: 27º"
+    },
+    {
+      "player": "Rodrygo",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2030,
+      "history": "2026: 9º; 2027: 10º; 2028: 11º; 2029: 12º; 2030: 21º"
+    },
+    {
+      "player": "Tomás Araújo",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2032",
+      "firstNomination": 2031,
+      "lastNomination": 2035,
+      "history": "2031: 18º; 2032: 17º; 2033: 19º; 2034: 20º; 2035: 20º"
+    },
+    {
+      "player": "De Carvalho",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2047",
+      "firstNomination": 2045,
+      "lastNomination": 2050,
+      "history": "2045: 21º; 2047: 12º; 2048: 27º; 2050: 17º"
+    },
+    {
+      "player": "Fiore",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2050",
+      "firstNomination": 2046,
+      "lastNomination": 2050,
+      "history": "2046: 25º; 2048: 16º; 2049: 16º; 2050: 12º"
+    },
+    {
+      "player": "Hahn",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2050,
+      "history": "2044: 8º; 2045: 16º; 2047: 11º; 2050: 16º"
+    },
+    {
+      "player": "Ibrahim",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2048",
+      "firstNomination": 2040,
+      "lastNomination": 2048,
+      "history": "2040: 18º; 2041: 18º; 2045: 24º; 2048: 14º"
+    },
+    {
+      "player": "Kovacevic",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2047",
+      "firstNomination": 2045,
+      "lastNomination": 2050,
+      "history": "2045: 10º; 2047: 6º; 2048: 15º; 2050: 28º"
+    },
+    {
+      "player": "Madsen",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2048",
+      "firstNomination": 2043,
+      "lastNomination": 2050,
+      "history": "2043: 8º; 2048: 4º; 2049: 19º; 2050: 10º"
+    },
+    {
+      "player": "Sesko",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2032",
+      "firstNomination": 2032,
+      "lastNomination": 2035,
+      "history": "2032: 7º; 2033: 12º; 2034: 30º; 2035: 30º"
+    },
+    {
+      "player": "Ter Stegen",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2027, 2028",
+      "firstNomination": 2026,
+      "lastNomination": 2031,
+      "history": "2026: 29º; 2027: 24º; 2028: 24º; 2031: 28º"
+    },
+    {
+      "player": "Theo Hernández",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2030",
+      "firstNomination": 2026,
+      "lastNomination": 2030,
+      "history": "2026: 27º; 2027: 21º; 2028: 21º; 2030: 14º"
+    },
+    {
+      "player": "Abreu",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 16,
+      "bestPositionYears": "2047",
+      "firstNomination": 2039,
+      "lastNomination": 2047,
+      "history": "2039: 17º; 2040: 29º; 2047: 16º"
+    },
+    {
+      "player": "Bernardo Silva",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2026, 2030",
+      "firstNomination": 2026,
+      "lastNomination": 2030,
+      "history": "2026: 20º; 2027: 28º; 2030: 20º"
+    },
+    {
+      "player": "Bryant",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2049",
+      "firstNomination": 2045,
+      "lastNomination": 2049,
+      "history": "2045: 25º; 2046: 22º; 2049: 17º"
+    },
+    {
+      "player": "Dani Nieto",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2041",
+      "firstNomination": 2040,
+      "lastNomination": 2043,
+      "history": "2040: 20º; 2041: 9º; 2043: 24º"
+    },
+    {
+      "player": "Dani Olmo",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 19º; 2027: 26º; 2028: 28º"
+    },
+    {
+      "player": "Edwards",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2050,
+      "history": "2047: 10º; 2048: 17º; 2050: 27º"
+    },
+    {
+      "player": "Fischer",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2047",
+      "firstNomination": 2044,
+      "lastNomination": 2048,
+      "history": "2044: 16º; 2047: 14º; 2048: 26º"
+    },
+    {
+      "player": "Forrest",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2039",
+      "firstNomination": 2037,
+      "lastNomination": 2039,
+      "history": "2037: 18º; 2038: 25º; 2039: 13º"
+    },
+    {
+      "player": "Lang",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2048,
+      "history": "2045: 12º; 2047: 13º; 2048: 13º"
+    },
+    {
+      "player": "Nieto",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2050,
+      "history": "2048: 5º; 2049: 13º; 2050: 8º"
+    },
+    {
+      "player": "Parkin",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2050,
+      "history": "2047: 17º; 2049: 25º; 2050: 19º"
+    },
+    {
+      "player": "Powell",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2048",
+      "firstNomination": 2045,
+      "lastNomination": 2048,
+      "history": "2045: 15º; 2047: 18º; 2048: 7º"
+    },
+    {
+      "player": "Rúben Dias",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2027",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 28º; 2027: 22º; 2028: 23º"
+    },
+    {
+      "player": "Saka",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2028",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 12º; 2027: 12º; 2028: 7º"
+    },
+    {
+      "player": "Saliba",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2029",
+      "firstNomination": 2028,
+      "lastNomination": 2030,
+      "history": "2028: 25º; 2029: 21º; 2030: 24º"
+    },
+    {
+      "player": "Thomas",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2041",
+      "firstNomination": 2037,
+      "lastNomination": 2044,
+      "history": "2037: 19º; 2041: 12º; 2044: 26º"
+    },
+    {
+      "player": "Vinícius Júnior",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2026, 2028",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 6º; 2027: 7º; 2028: 6º"
+    },
+    {
+      "player": "Ahmed",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2044,
+      "history": "2043: 4º; 2044: 27º"
+    },
+    {
+      "player": "Araújo",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 16,
+      "bestPositionYears": "2030",
+      "firstNomination": 2029,
+      "lastNomination": 2030,
+      "history": "2029: 22º; 2030: 16º"
+    },
+    {
+      "player": "Bernier",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2044",
+      "firstNomination": 2037,
+      "lastNomination": 2044,
+      "history": "2037: 10º; 2044: 7º"
+    },
+    {
+      "player": "Blanco",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2050,
+      "history": "2048: 9º; 2050: 26º"
+    },
+    {
+      "player": "Bruno Gomes",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2041,
+      "history": "2040: 9º; 2041: 17º"
+    },
+    {
+      "player": "Caio Cruz",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2046,
+      "history": "2044: 6º; 2046: 16º"
+    },
+    {
+      "player": "Dimarco Jr",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2046,
+      "history": "2042: 14º; 2046: 24º"
+    },
+    {
+      "player": "Diogo Costa",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2031, 2032",
+      "firstNomination": 2031,
+      "lastNomination": 2032,
+      "history": "2031: 30º; 2032: 30º"
+    },
+    {
+      "player": "Field",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2047,
+      "history": "2046: 13º; 2047: 24º"
+    },
+    {
+      "player": "Gregorio Ramos",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2043,
+      "history": "2042: 8º; 2043: 16º"
+    },
+    {
+      "player": "Guerra",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2045,
+      "history": "2040: 12º; 2045: 26º"
+    },
+    {
+      "player": "Hato",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2036",
+      "firstNomination": 2036,
+      "lastNomination": 2038,
+      "history": "2036: 7º; 2038: 18º"
+    },
+    {
+      "player": "Irala",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2038",
+      "firstNomination": 2037,
+      "lastNomination": 2038,
+      "history": "2037: 24º; 2038: 4º"
+    },
+    {
+      "player": "Jobe Bellingham",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2038",
+      "firstNomination": 2037,
+      "lastNomination": 2038,
+      "history": "2037: 29º; 2038: 8º"
+    },
+    {
+      "player": "João Félix",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 26,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2028,
+      "history": "2026: 26º; 2028: 27º"
+    },
+    {
+      "player": "Kimmich",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2027",
+      "firstNomination": 2027,
+      "lastNomination": 2028,
+      "history": "2027: 15º; 2028: 20º"
+    },
+    {
+      "player": "Laurent",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2050",
+      "firstNomination": 2046,
+      "lastNomination": 2050,
+      "history": "2046: 30º; 2050: 25º"
+    },
+    {
+      "player": "Martin Sanchez",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2043,
+      "history": "2042: 10º; 2043: 18º"
+    },
+    {
+      "player": "Niang",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2043,
+      "history": "2041: 22º; 2043: 29º"
+    },
+    {
+      "player": "Osimhen",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2027",
+      "firstNomination": 2026,
+      "lastNomination": 2027,
+      "history": "2026: 24º; 2027: 17º"
+    },
+    {
+      "player": "Rice",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2028",
+      "firstNomination": 2028,
+      "lastNomination": 2029,
+      "history": "2028: 14º; 2029: 15º"
+    },
+    {
+      "player": "Rodri",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2031",
+      "firstNomination": 2031,
+      "lastNomination": 2032,
+      "history": "2031: 12º; 2032: 27º"
+    },
+    {
+      "player": "Russo",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2043",
+      "firstNomination": 2039,
+      "lastNomination": 2043,
+      "history": "2039: 27º; 2043: 12º"
+    },
+    {
+      "player": "Saavedra",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2047,
+      "history": "2044: 18º; 2047: 22º"
+    },
+    {
+      "player": "Sanchez",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2045,
+      "history": "2040: 7º; 2045: 13º"
+    },
+    {
+      "player": "Schafer",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2050,
+      "history": "2049: 8º; 2050: 23º"
+    },
+    {
+      "player": "Schumacher",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2040,
+      "history": "2039: 20º; 2040: 23º"
+    },
+    {
+      "player": "Sergio Montes",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2050,
+      "history": "2043: 19º; 2050: 22º"
+    },
+    {
+      "player": "Serrano",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2045,
+      "history": "2040: 5º; 2045: 17º"
+    },
+    {
+      "player": "Wawrzyniak",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2049, 2050",
+      "firstNomination": 2049,
+      "lastNomination": 2050,
+      "history": "2049: 20º; 2050: 20º"
+    },
+    {
+      "player": "Acuna",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 8º"
+    },
+    {
+      "player": "Afonso Borges",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 14º"
+    },
+    {
+      "player": "Agirrezabala",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2033",
+      "firstNomination": 2033,
+      "lastNomination": 2033,
+      "history": "2033: 29º"
+    },
+    {
+      "player": "Albert Morales",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 21º"
+    },
+    {
+      "player": "Alberto De Angelis",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 19º"
+    },
+    {
+      "player": "Alessio Fiore",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 10º"
+    },
+    {
+      "player": "Alex Watson",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 13º"
+    },
+    {
+      "player": "Almada",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2036",
+      "firstNomination": 2036,
+      "lastNomination": 2036,
+      "history": "2036: 5º"
+    },
+    {
+      "player": "Amos",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 14º"
+    },
+    {
+      "player": "Ayala",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 13º"
+    },
+    {
+      "player": "Barnes",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 5º"
+    },
+    {
+      "player": "Bastoni",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2030",
+      "firstNomination": 2030,
+      "lastNomination": 2030,
+      "history": "2030: 29º"
+    },
+    {
+      "player": "Bernal",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 18º"
+    },
+    {
+      "player": "Carlton Palmer",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 23º"
+    },
+    {
+      "player": "Cherki",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2039,
+      "history": "2039: 21º"
+    },
+    {
+      "player": "Chiesa",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2027",
+      "firstNomination": 2027,
+      "lastNomination": 2027,
+      "history": "2027: 20º"
+    },
+    {
+      "player": "Coman",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2027",
+      "firstNomination": 2027,
+      "lastNomination": 2027,
+      "history": "2027: 14º"
+    },
+    {
+      "player": "Contreras",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 19º"
+    },
+    {
+      "player": "Costa",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 18º"
+    },
+    {
+      "player": "Córdoba",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 21º"
+    },
+    {
+      "player": "Damiano Rossi",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 7º"
+    },
+    {
+      "player": "Daniel Conti",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 16,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 16º"
+    },
+    {
+      "player": "Davis",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 25º"
+    },
+    {
+      "player": "De Jong",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2031",
+      "firstNomination": 2031,
+      "lastNomination": 2031,
+      "history": "2031: 6º"
+    },
+    {
+      "player": "De Ligt",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2027",
+      "firstNomination": 2027,
+      "lastNomination": 2027,
+      "history": "2027: 23º"
+    },
+    {
+      "player": "Denis Cristea",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 6º"
+    },
+    {
+      "player": "Dennis",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 19º"
+    },
+    {
+      "player": "Diabete",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 5º"
+    },
+    {
+      "player": "Diego Lopes",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2033",
+      "firstNomination": 2033,
+      "lastNomination": 2033,
+      "history": "2033: 30º"
+    },
+    {
+      "player": "Diogo Jota",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2029",
+      "firstNomination": 2029,
+      "lastNomination": 2029,
+      "history": "2029: 24º"
+    },
+    {
+      "player": "Echeverri",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 6º"
+    },
+    {
+      "player": "Eddie George",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 20º"
+    },
+    {
+      "player": "Eduardo Ferreira",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 9º"
+    },
+    {
+      "player": "Eduardo Ribeiros",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 22º"
+    },
+    {
+      "player": "Felix Ryan",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 18º"
+    },
+    {
+      "player": "Gallardo",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 25º"
+    },
+    {
+      "player": "George",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 11,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 11º"
+    },
+    {
+      "player": "Giordano",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 22º"
+    },
+    {
+      "player": "Gomez",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 23º"
+    },
+    {
+      "player": "Guilherme Contreras",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 6º"
+    },
+    {
+      "player": "Gündogan",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2026,
+      "history": "2026: 15º"
+    },
+    {
+      "player": "Hansen",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2047,
+      "history": "2047: 23º"
+    },
+    {
+      "player": "Hassan",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 17º"
+    },
+    {
+      "player": "Hyde",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 24º"
+    },
+    {
+      "player": "Iker Marin",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 21º"
+    },
+    {
+      "player": "Insua",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 10º"
+    },
+    {
+      "player": "Jacob Taylor",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 5º"
+    },
+    {
+      "player": "Jens Hahn",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 9º"
+    },
+    {
+      "player": "Jovanovic",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 7º"
+    },
+    {
+      "player": "Jude Bellingham",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2037",
+      "firstNomination": 2037,
+      "lastNomination": 2037,
+      "history": "2037: 28º"
+    },
+    {
+      "player": "Julian Alvarez",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2034",
+      "firstNomination": 2034,
+      "lastNomination": 2034,
+      "history": "2034: 28º"
+    },
+    {
+      "player": "Juraj Kovacevic",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 9º"
+    },
+    {
+      "player": "Juvanovic",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 14º"
+    },
+    {
+      "player": "Koren",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 20º"
+    },
+    {
+      "player": "Kovalenco",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 4º"
+    },
+    {
+      "player": "Kristensen",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 11,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 11º"
+    },
+    {
+      "player": "Lejeune",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 22º"
+    },
+    {
+      "player": "Leão",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2030",
+      "firstNomination": 2030,
+      "lastNomination": 2030,
+      "history": "2030: 28º"
+    },
+    {
+      "player": "Li",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 19º"
+    },
+    {
+      "player": "Luis Díaz",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2029",
+      "firstNomination": 2029,
+      "lastNomination": 2029,
+      "history": "2029: 25º"
+    },
+    {
+      "player": "Luis Guilherme",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2039,
+      "history": "2039: 19º"
+    },
+    {
+      "player": "Mac Allister",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2029",
+      "firstNomination": 2029,
+      "lastNomination": 2029,
+      "history": "2029: 10º"
+    },
+    {
+      "player": "Mancini",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2039,
+      "history": "2039: 29º"
+    },
+    {
+      "player": "Mann",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 5º"
+    },
+    {
+      "player": "Marcos Leonardo",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2036",
+      "firstNomination": 2036,
+      "lastNomination": 2036,
+      "history": "2036: 21º"
+    },
+    {
+      "player": "Marin",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 4º"
+    },
+    {
+      "player": "Marino",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2039,
+      "history": "2039: 23º"
+    },
+    {
+      "player": "Marquinhos Jr",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2037",
+      "firstNomination": 2037,
+      "lastNomination": 2037,
+      "history": "2037: 23º"
+    },
+    {
+      "player": "Mason",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 29º"
+    },
+    {
+      "player": "Massey",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 28º"
+    },
+    {
+      "player": "Mastantuono",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 5º"
+    },
+    {
+      "player": "Mauro Esposito",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 9º"
+    },
+    {
+      "player": "Michel",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2047,
+      "history": "2047: 30º"
+    },
+    {
+      "player": "Michelle Ricci",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 22º"
+    },
+    {
+      "player": "Miguel Correia",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 23º"
+    },
+    {
+      "player": "Moise Bamba",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 22º"
+    },
+    {
+      "player": "Moreno Escobar",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 15º"
+    },
+    {
+      "player": "Navarro",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 15º"
+    },
+    {
+      "player": "Nico Paz",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 7º"
+    },
+    {
+      "player": "Nilson",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 30º"
+    },
+    {
+      "player": "Norman",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2040,
+      "history": "2040: 6º"
+    },
+    {
+      "player": "Nuno Mendes",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2031",
+      "firstNomination": 2031,
+      "lastNomination": 2031,
+      "history": "2031: 13º"
+    },
+    {
+      "player": "Obi",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2039",
+      "firstNomination": 2039,
+      "lastNomination": 2039,
+      "history": "2039: 8º"
+    },
+    {
+      "player": "Olise",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 11,
+      "bestPositionYears": "2031",
+      "firstNomination": 2031,
+      "lastNomination": 2031,
+      "history": "2031: 11º"
+    },
+    {
+      "player": "Orellana",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 13º"
+    },
+    {
+      "player": "Oscar Perez",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 7º"
+    },
+    {
+      "player": "Pawlowski",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 9º"
+    },
+    {
+      "player": "Pawtowski",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 6º"
+    },
+    {
+      "player": "Pedro Cardoso",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 15º"
+    },
+    {
+      "player": "Pedro Navarro",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 9º"
+    },
+    {
+      "player": "Pelletier",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 4º"
+    },
+    {
+      "player": "Perkins",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 10º"
+    },
+    {
+      "player": "Piero Greco",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2042",
+      "firstNomination": 2042,
+      "lastNomination": 2042,
+      "history": "2042: 15º"
+    },
+    {
+      "player": "Pino",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2035",
+      "firstNomination": 2035,
+      "lastNomination": 2035,
+      "history": "2035: 6º"
+    },
+    {
+      "player": "Poli",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2047,
+      "history": "2047: 21º"
+    },
+    {
+      "player": "Prieto",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 20º"
+    },
+    {
+      "player": "Ramzi",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2045",
+      "firstNomination": 2045,
+      "lastNomination": 2045,
+      "history": "2045: 22º"
+    },
+    {
+      "player": "Raul Nunez",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 30º"
+    },
+    {
+      "player": "Raymond",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 18º"
+    },
+    {
+      "player": "Riou",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 17º"
+    },
+    {
+      "player": "Rizzo",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 5º"
+    },
+    {
+      "player": "Rodgers",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 13,
+      "bestPositionYears": "2044",
+      "firstNomination": 2044,
+      "lastNomination": 2044,
+      "history": "2044: 13º"
+    },
+    {
+      "player": "Rossi",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 28º"
+    },
+    {
+      "player": "Salazar",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 4º"
+    },
+    {
+      "player": "Sandoval",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 23º"
+    },
+    {
+      "player": "Sanogo",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 6º"
+    },
+    {
+      "player": "Santiago Silva",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 20º"
+    },
+    {
+      "player": "Sem Van",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 15º"
+    },
+    {
+      "player": "Serranos",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 15,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 15º"
+    },
+    {
+      "player": "Seydou",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 21,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 21º"
+    },
+    {
+      "player": "Shevchuk",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2047,
+      "history": "2047: 19º"
+    },
+    {
+      "player": "Siegmund",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 14º"
+    },
+    {
+      "player": "Simon",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 14º"
+    },
+    {
+      "player": "Szczęsny",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2027",
+      "firstNomination": 2027,
+      "lastNomination": 2027,
+      "history": "2027: 25º"
+    },
+    {
+      "player": "Szoboszlai",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2029",
+      "firstNomination": 2029,
+      "lastNomination": 2029,
+      "history": "2029: 9º"
+    },
+    {
+      "player": "Tchouaméni",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2026,
+      "history": "2026: 18º"
+    },
+    {
+      "player": "Tonali",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2030",
+      "firstNomination": 2030,
+      "lastNomination": 2030,
+      "history": "2030: 25º"
+    },
+    {
+      "player": "Uribe",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 23,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 23º"
+    },
+    {
+      "player": "Uzun",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2036",
+      "firstNomination": 2036,
+      "lastNomination": 2036,
+      "history": "2036: 4º"
+    },
+    {
+      "player": "Valencia",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 30º"
+    },
+    {
+      "player": "Vivian Jr",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 26,
+      "bestPositionYears": "2046",
+      "firstNomination": 2046,
+      "lastNomination": 2046,
+      "history": "2046: 26º"
+    },
+    {
+      "player": "Vuskovic",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2038",
+      "firstNomination": 2038,
+      "lastNomination": 2038,
+      "history": "2038: 17º"
+    },
+    {
+      "player": "Walsh",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 27,
+      "bestPositionYears": "2043",
+      "firstNomination": 2043,
+      "lastNomination": 2043,
+      "history": "2043: 27º"
+    },
+    {
+      "player": "Wells",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 24º"
+    },
+    {
+      "player": "Weston",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 26,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 26º"
+    },
+    {
+      "player": "Whitehouse",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2049",
+      "firstNomination": 2049,
+      "lastNomination": 2049,
+      "history": "2049: 10º"
+    },
+    {
+      "player": "Wilk",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 24º"
+    },
+    {
+      "player": "Yasin Demir",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2047",
+      "firstNomination": 2047,
+      "lastNomination": 2047,
+      "history": "2047: 5º"
+    },
+    {
+      "player": "Zaire-Emery",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2029",
+      "firstNomination": 2029,
+      "lastNomination": 2029,
+      "history": "2029: 29º"
+    },
+    {
+      "player": "Zapada",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 28,
+      "bestPositionYears": "2048",
+      "firstNomination": 2048,
+      "lastNomination": 2048,
+      "history": "2048: 28º"
+    },
+    {
+      "player": "Zapeda",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 29,
+      "bestPositionYears": "2050",
+      "firstNomination": 2050,
+      "lastNomination": 2050,
+      "history": "2050: 29º"
+    },
+    {
+      "player": "Zimmermann",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 11,
+      "bestPositionYears": "2041",
+      "firstNomination": 2041,
+      "lastNomination": 2041,
+      "history": "2041: 11º"
+    },
+    {
+      "player": "Çalhanoğlu",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 30,
+      "bestPositionYears": "2026",
+      "firstNomination": 2026,
+      "lastNomination": 2026,
+      "history": "2026: 30º"
+    }
+  ]
+}

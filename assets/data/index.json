@@ -1,0 +1,27 @@
+{
+  "generatedFrom": "data/modo_carreira.sqlite",
+  "files": {
+    "competitions": "assets/data/competicoes.json",
+    "ballonDor": "assets/data/bola-de-ouro.json",
+    "players": "assets/data/jogadores.json"
+  },
+  "summary": {
+    "competitions": {
+      "competitions": 32,
+      "results": 1839,
+      "clubRelevantTitles": 305
+    },
+    "ballonDor": {
+      "years": 25,
+      "rankingRows": 741,
+      "players": 260
+    },
+    "players": {
+      "players": 6,
+      "spells": 24,
+      "competitionStats": 113,
+      "spellHonors": 76,
+      "aggregateHonors": 103
+    }
+  }
+}

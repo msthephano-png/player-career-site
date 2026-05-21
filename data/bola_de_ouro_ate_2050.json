@@ -1,0 +1,8573 @@
+{
+  "rankings_anuais": [
+    {
+      "Ano": 2026,
+      "Posição": 1,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2026,
+      "Posição": 2,
+      "Jogador": "Güler",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2026,
+      "Posição": 3,
+      "Jogador": "Palmer",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2026,
+      "Posição": 4,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 5,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 6,
+      "Jogador": "Vinícius Júnior",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 7,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 8,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 9,
+      "Jogador": "Rodrygo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 10,
+      "Jogador": "Mbappé",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 11,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 12,
+      "Jogador": "Saka",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 13,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 14,
+      "Jogador": "Valverde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 15,
+      "Jogador": "Gündogan",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 16,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 17,
+      "Jogador": "Kane",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 18,
+      "Jogador": "Tchouaméni",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 19,
+      "Jogador": "Dani Olmo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 20,
+      "Jogador": "Bernardo Silva",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 21,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 22,
+      "Jogador": "Lautaro Martínez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 23,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 24,
+      "Jogador": "Osimhen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 25,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 26,
+      "Jogador": "João Félix",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 27,
+      "Jogador": "Theo Hernández",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 28,
+      "Jogador": "Rúben Dias",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 29,
+      "Jogador": "Ter Stegen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2026,
+      "Posição": 30,
+      "Jogador": "Çalhanoğlu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 1,
+      "Jogador": "Kane",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2027,
+      "Posição": 2,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2027,
+      "Posição": 3,
+      "Jogador": "Mbappé",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2027,
+      "Posição": 4,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 5,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 6,
+      "Jogador": "Güler",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 7,
+      "Jogador": "Vinícius Júnior",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 8,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 9,
+      "Jogador": "Valverde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 10,
+      "Jogador": "Rodrygo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 11,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 12,
+      "Jogador": "Saka",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 13,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 14,
+      "Jogador": "Coman",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 15,
+      "Jogador": "Kimmich",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 16,
+      "Jogador": "Lautaro Martínez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 17,
+      "Jogador": "Osimhen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 18,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 19,
+      "Jogador": "Palmer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 20,
+      "Jogador": "Chiesa",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 21,
+      "Jogador": "Theo Hernández",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 22,
+      "Jogador": "Rúben Dias",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 23,
+      "Jogador": "De Ligt",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 24,
+      "Jogador": "Ter Stegen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 25,
+      "Jogador": "Szczęsny",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 26,
+      "Jogador": "Dani Olmo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 27,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 28,
+      "Jogador": "Bernardo Silva",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 29,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2027,
+      "Posição": 30,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 1,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2028,
+      "Posição": 2,
+      "Jogador": "Sané",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2028,
+      "Posição": 3,
+      "Jogador": "Zubimendi",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2028,
+      "Posição": 4,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 5,
+      "Jogador": "Mbappé",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 6,
+      "Jogador": "Vinícius Júnior",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 7,
+      "Jogador": "Saka",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 8,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 9,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 10,
+      "Jogador": "Güler",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 11,
+      "Jogador": "Rodrygo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 12,
+      "Jogador": "Palmer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 13,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 14,
+      "Jogador": "Rice",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 15,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 16,
+      "Jogador": "Kane",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 17,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 18,
+      "Jogador": "Valverde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 19,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 20,
+      "Jogador": "Kimmich",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 21,
+      "Jogador": "Theo Hernández",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 22,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 23,
+      "Jogador": "Rúben Dias",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 24,
+      "Jogador": "Ter Stegen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 25,
+      "Jogador": "Saliba",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 26,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 27,
+      "Jogador": "João Félix",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 28,
+      "Jogador": "Dani Olmo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 29,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2028,
+      "Posição": 30,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 1,
+      "Jogador": "Wirtz",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2029,
+      "Posição": 2,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2029,
+      "Posição": 3,
+      "Jogador": "Valverde",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2029,
+      "Posição": 4,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 5,
+      "Jogador": "Mbappé",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 6,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 7,
+      "Jogador": "Güler",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 8,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 9,
+      "Jogador": "Szoboszlai",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 10,
+      "Jogador": "Mac Allister",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 11,
+      "Jogador": "Haaland",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 12,
+      "Jogador": "Rodrygo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 13,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 14,
+      "Jogador": "Palmer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 15,
+      "Jogador": "Rice",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 16,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 17,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 18,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 19,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 20,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 21,
+      "Jogador": "Saliba",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 22,
+      "Jogador": "Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 23,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 24,
+      "Jogador": "Diogo Jota",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 25,
+      "Jogador": "Luis Díaz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 26,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 27,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 28,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 29,
+      "Jogador": "Zaire-Emery",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2029,
+      "Posição": 30,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 1,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2030,
+      "Posição": 2,
+      "Jogador": "Pedri",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2030,
+      "Posição": 3,
+      "Jogador": "Samu",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2030,
+      "Posição": 4,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 5,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 6,
+      "Jogador": "Zubimendi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 7,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 8,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 9,
+      "Jogador": "Mbappé",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 10,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 11,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 12,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 13,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 14,
+      "Jogador": "Theo Hernández",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 15,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 16,
+      "Jogador": "Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 17,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 18,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 19,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 20,
+      "Jogador": "Bernardo Silva",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 21,
+      "Jogador": "Rodrygo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 22,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 23,
+      "Jogador": "Valverde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 24,
+      "Jogador": "Saliba",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 25,
+      "Jogador": "Tonali",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 26,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 27,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 28,
+      "Jogador": "Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 29,
+      "Jogador": "Bastoni",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2030,
+      "Posição": 30,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 1,
+      "Jogador": "Lautaro Martínez",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2031,
+      "Posição": 2,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2031,
+      "Posição": 3,
+      "Jogador": "Haaland",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2031,
+      "Posição": 4,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 5,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 6,
+      "Jogador": "De Jong",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 7,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 8,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 9,
+      "Jogador": "Mbappé",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 10,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 11,
+      "Jogador": "Olise",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 12,
+      "Jogador": "Rodri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 13,
+      "Jogador": "Nuno Mendes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 14,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 15,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 16,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 17,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 18,
+      "Jogador": "Tomás Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 19,
+      "Jogador": "Pacho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 20,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 21,
+      "Jogador": "Samu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 22,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 23,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 24,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 25,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 26,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 27,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 28,
+      "Jogador": "Ter Stegen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 29,
+      "Jogador": "Valverde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2031,
+      "Posição": 30,
+      "Jogador": "Diogo Costa",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 1,
+      "Jogador": "Samu",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2032,
+      "Posição": 2,
+      "Jogador": "Adeyemi",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2032,
+      "Posição": 3,
+      "Jogador": "Ødegaard",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2032,
+      "Posição": 4,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 5,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 6,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 7,
+      "Jogador": "Sesko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 8,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 9,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 10,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 11,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 12,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 13,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 14,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 15,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 16,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 17,
+      "Jogador": "Tomás Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 18,
+      "Jogador": "Pacho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 19,
+      "Jogador": "Carreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 20,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 21,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 22,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 23,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 24,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 25,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 26,
+      "Jogador": "Adeyemi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 27,
+      "Jogador": "Rodri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 28,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 29,
+      "Jogador": "Haaland",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2032,
+      "Posição": 30,
+      "Jogador": "Diogo Costa",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 1,
+      "Jogador": "Samu",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2033,
+      "Posição": 2,
+      "Jogador": "Garcia",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2033,
+      "Posição": 3,
+      "Jogador": "Javi Guerra",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2033,
+      "Posição": 4,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 5,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 6,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 7,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 8,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 9,
+      "Jogador": "Adeyemi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 10,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 11,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 12,
+      "Jogador": "Sesko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 13,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 14,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 15,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 16,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 17,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 18,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 19,
+      "Jogador": "Tomás Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 20,
+      "Jogador": "Pacho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 21,
+      "Jogador": "Carreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 22,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 23,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 24,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 25,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 26,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 27,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 28,
+      "Jogador": "Haaland",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 29,
+      "Jogador": "Agirrezabala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2033,
+      "Posição": 30,
+      "Jogador": "Diego Lopes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 1,
+      "Jogador": "Endrick",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2034,
+      "Posição": 2,
+      "Jogador": "Haaland",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2034,
+      "Posição": 3,
+      "Jogador": "Garcia",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2034,
+      "Posição": 4,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 5,
+      "Jogador": "Samu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 6,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 7,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 8,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 9,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 10,
+      "Jogador": "Adeyemi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 11,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 12,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 13,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 14,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 15,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 16,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 17,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 18,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 19,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 20,
+      "Jogador": "Tomás Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 21,
+      "Jogador": "Pacho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 22,
+      "Jogador": "Carreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 23,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 24,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 25,
+      "Jogador": "Wirtz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 26,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 27,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 28,
+      "Jogador": "Julian Alvarez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 29,
+      "Jogador": "Hakimi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2034,
+      "Posição": 30,
+      "Jogador": "Sesko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 1,
+      "Jogador": "Haaland",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2035,
+      "Posição": 2,
+      "Jogador": "Greenwood",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2035,
+      "Posição": 3,
+      "Jogador": "Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2035,
+      "Posição": 4,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 5,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 6,
+      "Jogador": "Pino",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 7,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 8,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 9,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 10,
+      "Jogador": "Samu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 11,
+      "Jogador": "Adeyemi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 12,
+      "Jogador": "Ødegaard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 13,
+      "Jogador": "Kvaratskhelia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 14,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 15,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 16,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 17,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 18,
+      "Jogador": "Donnarumma",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 19,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 20,
+      "Jogador": "Tomás Araújo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 21,
+      "Jogador": "Pacho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 22,
+      "Jogador": "Carreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 23,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 24,
+      "Jogador": "Almeida",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 25,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 26,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 27,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 28,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 29,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2035,
+      "Posição": 30,
+      "Jogador": "Sesko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 1,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2036,
+      "Posição": 2,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2036,
+      "Posição": 3,
+      "Jogador": "Larsson",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2036,
+      "Posição": 4,
+      "Jogador": "Uzun",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 5,
+      "Jogador": "Almada",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 6,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 7,
+      "Jogador": "Hato",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 8,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 9,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 10,
+      "Jogador": "Samu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 11,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 12,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 13,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 14,
+      "Jogador": "Nico Williams",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 15,
+      "Jogador": "Pedri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 16,
+      "Jogador": "Gavi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 17,
+      "Jogador": "Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 18,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 19,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 20,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 21,
+      "Jogador": "Marcos Leonardo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 22,
+      "Jogador": "Carreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 23,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 24,
+      "Jogador": "Almeida",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 25,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 26,
+      "Jogador": "Rafael Leão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 27,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 28,
+      "Jogador": "Vitinha",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 29,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2036,
+      "Posição": 30,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 1,
+      "Jogador": "David",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2037,
+      "Posição": 2,
+      "Jogador": "Garcia",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2037,
+      "Posição": 3,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2037,
+      "Posição": 4,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 5,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 6,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 7,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 8,
+      "Jogador": "Bernie",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 9,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 10,
+      "Jogador": "Bernier",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 11,
+      "Jogador": "Larsson",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 12,
+      "Jogador": "Haaland",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 13,
+      "Jogador": "Musiala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 14,
+      "Jogador": "Almeida",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 15,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 16,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 17,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 18,
+      "Jogador": "Forrest",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 19,
+      "Jogador": "Thomas",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 20,
+      "Jogador": "Moreau",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 21,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 22,
+      "Jogador": "Rodri Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 23,
+      "Jogador": "Marquinhos Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 24,
+      "Jogador": "Irala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 25,
+      "Jogador": "Balde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 26,
+      "Jogador": "Xavi Simons",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 27,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 28,
+      "Jogador": "Jude Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2037,
+      "Posição": 29,
+      "Jogador": "Jobe Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 1,
+      "Jogador": "Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2038,
+      "Posição": 2,
+      "Jogador": "Garcia",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2038,
+      "Posição": 3,
+      "Jogador": "Yamal",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2038,
+      "Posição": 4,
+      "Jogador": "Irala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 5,
+      "Jogador": "Mastantuono",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 6,
+      "Jogador": "Echeverri",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 7,
+      "Jogador": "Nico Paz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 8,
+      "Jogador": "Jobe Bellingham",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 9,
+      "Jogador": "Jens Hahn",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 10,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 11,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 12,
+      "Jogador": "Güler",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 13,
+      "Jogador": "Ayala",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 14,
+      "Jogador": "Siegmund",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 15,
+      "Jogador": "Pedro Cardoso",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 16,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 17,
+      "Jogador": "Vuskovic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 18,
+      "Jogador": "Hato",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 19,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 20,
+      "Jogador": "Bernie",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 21,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 22,
+      "Jogador": "Lejeune",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 23,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 24,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 25,
+      "Jogador": "Forrest",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 26,
+      "Jogador": "Almeida",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 27,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 28,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2038,
+      "Posição": 29,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 1,
+      "Jogador": "David",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2039,
+      "Posição": 2,
+      "Jogador": "Garcia",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2039,
+      "Posição": 3,
+      "Jogador": "Endrick",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2039,
+      "Posição": 4,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 5,
+      "Jogador": "João Neves",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 6,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 7,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 8,
+      "Jogador": "Obi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 9,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 10,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 11,
+      "Jogador": "Bernie",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 12,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 13,
+      "Jogador": "Forrest",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 14,
+      "Jogador": "Almeida",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 15,
+      "Jogador": "Reyes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 16,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 17,
+      "Jogador": "Abreu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 18,
+      "Jogador": "Cubarsí",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 19,
+      "Jogador": "Luis Guilherme",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 20,
+      "Jogador": "Schumacher",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 21,
+      "Jogador": "Cherki",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 22,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 23,
+      "Jogador": "Marino",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 24,
+      "Jogador": "Howard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 25,
+      "Jogador": "Rodri Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 26,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 27,
+      "Jogador": "Russo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 28,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2039,
+      "Posição": 29,
+      "Jogador": "Mancini",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 1,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2040,
+      "Posição": 2,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2040,
+      "Posição": 3,
+      "Jogador": "Varga",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2040,
+      "Posição": 4,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 5,
+      "Jogador": "Serrano",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 6,
+      "Jogador": "Norman",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 7,
+      "Jogador": "Sanchez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 8,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 9,
+      "Jogador": "Bruno Gomes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 10,
+      "Jogador": "Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 11,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 12,
+      "Jogador": "Guerra",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 13,
+      "Jogador": "Alex Watson",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 14,
+      "Jogador": "Amos",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 15,
+      "Jogador": "Navarro",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 16,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 17,
+      "Jogador": "Reyes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 18,
+      "Jogador": "Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 19,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 20,
+      "Jogador": "Dani Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 21,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 22,
+      "Jogador": "Eduardo Ribeiros",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 23,
+      "Jogador": "Schumacher",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 24,
+      "Jogador": "Hyde",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 25,
+      "Jogador": "Endrick",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 26,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 27,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 28,
+      "Jogador": "Howard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2040,
+      "Posição": 29,
+      "Jogador": "Abreu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 1,
+      "Jogador": "David",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2041,
+      "Posição": 2,
+      "Jogador": "Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2041,
+      "Posição": 3,
+      "Jogador": "Denis Costa",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2041,
+      "Posição": 4,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 5,
+      "Jogador": "Yamal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 6,
+      "Jogador": "Denis Cristea",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 7,
+      "Jogador": "Damiano Rossi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 8,
+      "Jogador": "Kadlec",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 9,
+      "Jogador": "Dani Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 10,
+      "Jogador": "Alessio Fiore",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 11,
+      "Jogador": "Zimmermann",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 12,
+      "Jogador": "Thomas",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 13,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 14,
+      "Jogador": "Bernie",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 15,
+      "Jogador": "Sem Van",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 16,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 17,
+      "Jogador": "Bruno Gomes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 18,
+      "Jogador": "Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 19,
+      "Jogador": "Bernie",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 20,
+      "Jogador": "Koren",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 21,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 22,
+      "Jogador": "Niang",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 23,
+      "Jogador": "Sandoval",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 24,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 25,
+      "Jogador": "Gallardo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 26,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 27,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 28,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2041,
+      "Posição": 29,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 1,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2042,
+      "Posição": 2,
+      "Jogador": "Gabriele Guerra",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2042,
+      "Posição": 3,
+      "Jogador": "Tyler Norman",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2042,
+      "Posição": 4,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 5,
+      "Jogador": "Jacob Taylor",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 6,
+      "Jogador": "Guilherme Contreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 7,
+      "Jogador": "Daniel Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 8,
+      "Jogador": "Gregorio Ramos",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 9,
+      "Jogador": "Mauro Esposito",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 10,
+      "Jogador": "Martin Sanchez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 11,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 12,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 13,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 14,
+      "Jogador": "Dimarco Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 15,
+      "Jogador": "Piero Greco",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 16,
+      "Jogador": "Daniel Conti",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 17,
+      "Jogador": "Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 18,
+      "Jogador": "Afonso Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 19,
+      "Jogador": "Alberto De Angelis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 20,
+      "Jogador": "Eddie George",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 21,
+      "Jogador": "Iker Marin",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 22,
+      "Jogador": "Michelle Ricci",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 23,
+      "Jogador": "Miguel Correia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 24,
+      "Jogador": "Estevão",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 25,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 26,
+      "Jogador": "Jesus Fonseca",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 27,
+      "Jogador": "Ferrari",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 28,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2042,
+      "Posição": 29,
+      "Jogador": "Moreau",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 1,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2043,
+      "Posição": 2,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2043,
+      "Posição": 3,
+      "Jogador": "Daniel Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2043,
+      "Posição": 4,
+      "Jogador": "Ahmed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 5,
+      "Jogador": "Rizzo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 6,
+      "Jogador": "Pawtowski",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 7,
+      "Jogador": "Oscar Perez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 8,
+      "Jogador": "Madsen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 9,
+      "Jogador": "Pedro Navarro",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 10,
+      "Jogador": "Insua",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 11,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 12,
+      "Jogador": "Russo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 13,
+      "Jogador": "Orellana",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 14,
+      "Jogador": "Juvanovic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 15,
+      "Jogador": "Serranos",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 16,
+      "Jogador": "Gregorio Ramos",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 17,
+      "Jogador": "Afonso Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 18,
+      "Jogador": "Martin Sanchez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 19,
+      "Jogador": "Sergio Montes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 20,
+      "Jogador": "Fathi Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 21,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 22,
+      "Jogador": "Moise Bamba",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 23,
+      "Jogador": "Uribe",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 24,
+      "Jogador": "Dani Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 25,
+      "Jogador": "Davis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 26,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 27,
+      "Jogador": "Walsh",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 28,
+      "Jogador": "Massey",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2043,
+      "Posição": 29,
+      "Jogador": "Niang",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 1,
+      "Jogador": "David Bouchard",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2044,
+      "Posição": 2,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2044,
+      "Posição": 3,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2044,
+      "Posição": 4,
+      "Jogador": "Kovalenco",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 5,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 6,
+      "Jogador": "Caio Cruz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 7,
+      "Jogador": "Bernier",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 8,
+      "Jogador": "Hahn",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 9,
+      "Jogador": "Eduardo Ferreira",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 10,
+      "Jogador": "Moreau",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 11,
+      "Jogador": "Kadlec",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 12,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 13,
+      "Jogador": "Rodgers",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 14,
+      "Jogador": "Afonso Borges",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 15,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 16,
+      "Jogador": "Fischer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 17,
+      "Jogador": "Riou",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 18,
+      "Jogador": "Saavedra",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 19,
+      "Jogador": "Dennis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 20,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 21,
+      "Jogador": "Albert Morales",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 22,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 23,
+      "Jogador": "Roux",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 24,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 25,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 26,
+      "Jogador": "Thomas",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 27,
+      "Jogador": "Ahmed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 28,
+      "Jogador": "Tyler Norman",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2044,
+      "Posição": 29,
+      "Jogador": "Gabriele Guerra",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 1,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2045,
+      "Posição": 2,
+      "Jogador": "David Bouchard",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2045,
+      "Posição": 3,
+      "Jogador": "Bradshaw",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2045,
+      "Posição": 4,
+      "Jogador": "Pelletier",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 5,
+      "Jogador": "Barnes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 6,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 7,
+      "Jogador": "Jovanovic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 8,
+      "Jogador": "Reyes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 9,
+      "Jogador": "Peralta",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 10,
+      "Jogador": "Kovacevic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 11,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 12,
+      "Jogador": "Lang",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 13,
+      "Jogador": "Sanchez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 14,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 15,
+      "Jogador": "Powell",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 16,
+      "Jogador": "Hahn",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 17,
+      "Jogador": "Serrano",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 18,
+      "Jogador": "Kadlec",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 19,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 20,
+      "Jogador": "Howard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 21,
+      "Jogador": "De Carvalho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 22,
+      "Jogador": "Ramzi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 23,
+      "Jogador": "Carlton Palmer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 24,
+      "Jogador": "Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 25,
+      "Jogador": "Bryant",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 26,
+      "Jogador": "Guerra",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 27,
+      "Jogador": "Rodri Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 28,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2045,
+      "Posição": 29,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 1,
+      "Jogador": "Howard",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2046,
+      "Posição": 2,
+      "Jogador": "Ramiro Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2046,
+      "Posição": 3,
+      "Jogador": "Fathi Ibrahim",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2046,
+      "Posição": 4,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 5,
+      "Jogador": "Mann",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 6,
+      "Jogador": "David Bouchard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 7,
+      "Jogador": "Reyes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 8,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 9,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 10,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 11,
+      "Jogador": "Denis",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 12,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 13,
+      "Jogador": "Field",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 14,
+      "Jogador": "Rodri Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 15,
+      "Jogador": "Lefebvre",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 16,
+      "Jogador": "Caio Cruz",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 17,
+      "Jogador": "Hassan",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 18,
+      "Jogador": "Felix Ryan",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 19,
+      "Jogador": "Contreras",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 20,
+      "Jogador": "Santiago Silva",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 21,
+      "Jogador": "Varga",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 22,
+      "Jogador": "Bryant",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 23,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 24,
+      "Jogador": "Dimarco Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 25,
+      "Jogador": "Fiore",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 26,
+      "Jogador": "Vivian Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 27,
+      "Jogador": "Kruger",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 28,
+      "Jogador": "Germain",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 29,
+      "Jogador": "Mason",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2046,
+      "Posição": 30,
+      "Jogador": "Laurent",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 1,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2047,
+      "Posição": 2,
+      "Jogador": "David Bouchard",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2047,
+      "Posição": 3,
+      "Jogador": "Howard",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2047,
+      "Posição": 4,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 5,
+      "Jogador": "Yasin Demir",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 6,
+      "Jogador": "Kovacevic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 7,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 8,
+      "Jogador": "Reyes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 9,
+      "Jogador": "Denis Costa",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 10,
+      "Jogador": "Edwards",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 11,
+      "Jogador": "Hahn",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 12,
+      "Jogador": "De Carvalho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 13,
+      "Jogador": "Lang",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 14,
+      "Jogador": "Fischer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 15,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 16,
+      "Jogador": "Abreu",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 17,
+      "Jogador": "Parkin",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 18,
+      "Jogador": "Powell",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 19,
+      "Jogador": "Shevchuk",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 20,
+      "Jogador": "Moreau",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 21,
+      "Jogador": "Poli",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 22,
+      "Jogador": "Saavedra",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 23,
+      "Jogador": "Hansen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 24,
+      "Jogador": "Field",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 25,
+      "Jogador": "Kadlec",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 26,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 27,
+      "Jogador": "Rodri Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 28,
+      "Jogador": "Fathi Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 29,
+      "Jogador": "Santigo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2047,
+      "Posição": 30,
+      "Jogador": "Michel",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 1,
+      "Jogador": "Ramiro Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2048,
+      "Posição": 2,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2048,
+      "Posição": 3,
+      "Jogador": "Howard",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2048,
+      "Posição": 4,
+      "Jogador": "Madsen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 5,
+      "Jogador": "Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 6,
+      "Jogador": "Moreau",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 7,
+      "Jogador": "Powell",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 8,
+      "Jogador": "Acuna",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 9,
+      "Jogador": "Blanco",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 10,
+      "Jogador": "Perkins",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 11,
+      "Jogador": "Afonso Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 12,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 13,
+      "Jogador": "Lang",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 14,
+      "Jogador": "Ibrahim",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 15,
+      "Jogador": "Kovacevic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 16,
+      "Jogador": "Fiore",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 17,
+      "Jogador": "Edwards",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 18,
+      "Jogador": "Bernal",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 19,
+      "Jogador": "Li",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 20,
+      "Jogador": "Prieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 21,
+      "Jogador": "Seydou",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 22,
+      "Jogador": "Giordano",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 23,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 24,
+      "Jogador": "David Bouchard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 25,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 26,
+      "Jogador": "Fischer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 27,
+      "Jogador": "De Carvalho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 28,
+      "Jogador": "Zapada",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 29,
+      "Jogador": "Charles Mohamed",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2048,
+      "Posição": 30,
+      "Jogador": "Raul Nunez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 1,
+      "Jogador": "Santigo",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2049,
+      "Posição": 2,
+      "Jogador": "Reyes",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2049,
+      "Posição": 3,
+      "Jogador": "David Bouchard",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2049,
+      "Posição": 4,
+      "Jogador": "Marin",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 5,
+      "Jogador": "Diabete",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 6,
+      "Jogador": "Sanogo",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 7,
+      "Jogador": "Ramiro Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 8,
+      "Jogador": "Schafer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 9,
+      "Jogador": "Juraj Kovacevic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 10,
+      "Jogador": "Whitehouse",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 11,
+      "Jogador": "Kristensen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 12,
+      "Jogador": "Afonso Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 13,
+      "Jogador": "Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 14,
+      "Jogador": "Simon",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 15,
+      "Jogador": "Leroy",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 16,
+      "Jogador": "Fiore",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 17,
+      "Jogador": "Bryant",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 18,
+      "Jogador": "Costa",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 19,
+      "Jogador": "Madsen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 20,
+      "Jogador": "Wawrzyniak",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 21,
+      "Jogador": "David",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 22,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 23,
+      "Jogador": "Gomez",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 24,
+      "Jogador": "Wells",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 25,
+      "Jogador": "Parkin",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 26,
+      "Jogador": "Weston",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 27,
+      "Jogador": "Kadlec",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 28,
+      "Jogador": "Rossi",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 29,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2049,
+      "Posição": 30,
+      "Jogador": "Nilson",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 1,
+      "Jogador": "Santigo",
+      "Pódio": "Sim",
+      "Medalha": "Ouro"
+    },
+    {
+      "Ano": 2050,
+      "Posição": 2,
+      "Jogador": "Ramiro Escobar",
+      "Pódio": "Sim",
+      "Medalha": "Prata"
+    },
+    {
+      "Ano": 2050,
+      "Posição": 3,
+      "Jogador": "Reyes",
+      "Pódio": "Sim",
+      "Medalha": "Bronze"
+    },
+    {
+      "Ano": 2050,
+      "Posição": 4,
+      "Jogador": "Salazar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 5,
+      "Jogador": "Afonso Garcia",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 6,
+      "Jogador": "David Bouchard",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 7,
+      "Jogador": "Fabio Duarte",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 8,
+      "Jogador": "Nieto",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 9,
+      "Jogador": "Pawlowski",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 10,
+      "Jogador": "Madsen",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 11,
+      "Jogador": "George",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 12,
+      "Jogador": "Fiore",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 13,
+      "Jogador": "Kovalenko",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 14,
+      "Jogador": "Dembele Jr",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 15,
+      "Jogador": "Moreno Escobar",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 16,
+      "Jogador": "Hahn",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 17,
+      "Jogador": "De Carvalho",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 18,
+      "Jogador": "Raymond",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 19,
+      "Jogador": "Parkin",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 20,
+      "Jogador": "Wawrzyniak",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 21,
+      "Jogador": "Córdoba",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 22,
+      "Jogador": "Sergio Montes",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 23,
+      "Jogador": "Schafer",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 24,
+      "Jogador": "Wilk",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 25,
+      "Jogador": "Laurent",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 26,
+      "Jogador": "Blanco",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 27,
+      "Jogador": "Edwards",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 28,
+      "Jogador": "Kovacevic",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 29,
+      "Jogador": "Zapeda",
+      "Pódio": "Não",
+      "Medalha": ""
+    },
+    {
+      "Ano": 2050,
+      "Posição": 30,
+      "Jogador": "Valencia",
+      "Pódio": "Não",
+      "Medalha": ""
+    }
+  ],
+  "estatisticas_por_jogador": [
+    {
+      "Jogador": "Yamal",
+      "Indicações": 16,
+      "Pódios": 7,
+      "Vitórias": 3,
+      "Vices": 3,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2026, 2028, 2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2041,
+      "Histórico": "2026: 1º; 2027: 2º; 2028: 1º; 2029: 2º; 2030: 1º; 2031: 2º; 2032: 4º; 2033: 4º; 2034: 4º; 2035: 5º; 2036: 13º; 2037: 17º; 2038: 3º; 2039: 28º; 2040: 11º; 2041: 5º"
+    },
+    {
+      "Jogador": "Fabio Duarte",
+      "Indicações": 10,
+      "Pódios": 7,
+      "Vitórias": 3,
+      "Vices": 4,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2042, 2045, 2047",
+      "Primeira indicação": 2040,
+      "Última indicação": 2050,
+      "Histórico": "2040: 2º; 2042: 1º; 2043: 2º; 2044: 2º; 2045: 1º; 2046: 8º; 2047: 1º; 2048: 2º; 2049: 22º; 2050: 7º"
+    },
+    {
+      "Jogador": "David",
+      "Indicações": 12,
+      "Pódios": 3,
+      "Vitórias": 3,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2037, 2039, 2041",
+      "Primeira indicação": 2036,
+      "Última indicação": 2049,
+      "Histórico": "2036: 6º; 2037: 1º; 2038: 10º; 2039: 1º; 2040: 16º; 2041: 1º; 2042: 11º; 2044: 5º; 2045: 28º; 2046: 4º; 2048: 25º; 2049: 21º"
+    },
+    {
+      "Jogador": "Jesus Fonseca",
+      "Indicações": 11,
+      "Pódios": 3,
+      "Vitórias": 2,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2036, 2040",
+      "Primeira indicação": 2030,
+      "Última indicação": 2042,
+      "Histórico": "2030: 19º; 2032: 6º; 2033: 8º; 2034: 6º; 2035: 7º; 2036: 1º; 2037: 3º; 2038: 29º; 2040: 1º; 2041: 26º; 2042: 26º"
+    },
+    {
+      "Jogador": "Samu",
+      "Indicações": 7,
+      "Pódios": 3,
+      "Vitórias": 2,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2032, 2033",
+      "Primeira indicação": 2030,
+      "Última indicação": 2036,
+      "Histórico": "2030: 3º; 2031: 21º; 2032: 1º; 2033: 1º; 2034: 5º; 2035: 10º; 2036: 10º"
+    },
+    {
+      "Jogador": "Santigo",
+      "Indicações": 11,
+      "Pódios": 2,
+      "Vitórias": 2,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2049, 2050",
+      "Primeira indicação": 2039,
+      "Última indicação": 2050,
+      "Histórico": "2039: 4º; 2040: 21º; 2041: 28º; 2042: 12º; 2043: 26º; 2044: 24º; 2045: 6º; 2046: 12º; 2047: 29º; 2049: 1º; 2050: 1º"
+    },
+    {
+      "Jogador": "David Bouchard",
+      "Indicações": 7,
+      "Pódios": 4,
+      "Vitórias": 1,
+      "Vices": 2,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2050,
+      "Histórico": "2044: 1º; 2045: 2º; 2046: 6º; 2047: 2º; 2048: 24º; 2049: 3º; 2050: 6º"
+    },
+    {
+      "Jogador": "Escobar",
+      "Indicações": 12,
+      "Pódios": 3,
+      "Vitórias": 1,
+      "Vices": 1,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2030,
+      "Última indicação": 2042,
+      "Histórico": "2030: 30º; 2032: 9º; 2033: 11º; 2034: 12º; 2035: 3º; 2036: 11º; 2037: 5º; 2038: 1º; 2039: 22º; 2040: 27º; 2041: 2º; 2042: 17º"
+    },
+    {
+      "Jogador": "Haaland",
+      "Indicações": 7,
+      "Pódios": 3,
+      "Vitórias": 1,
+      "Vices": 1,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2035",
+      "Primeira indicação": 2029,
+      "Última indicação": 2037,
+      "Histórico": "2029: 11º; 2031: 3º; 2032: 29º; 2033: 28º; 2034: 2º; 2035: 1º; 2037: 12º"
+    },
+    {
+      "Jogador": "Howard",
+      "Indicações": 6,
+      "Pódios": 3,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 2,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2039,
+      "Última indicação": 2048,
+      "Histórico": "2039: 24º; 2040: 28º; 2045: 20º; 2046: 1º; 2047: 3º; 2048: 3º"
+    },
+    {
+      "Jogador": "Ramiro Escobar",
+      "Indicações": 4,
+      "Pódios": 3,
+      "Vitórias": 1,
+      "Vices": 2,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2046,
+      "Última indicação": 2050,
+      "Histórico": "2046: 2º; 2048: 1º; 2049: 7º; 2050: 2º"
+    },
+    {
+      "Jogador": "Endrick",
+      "Indicações": 14,
+      "Pódios": 2,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2034",
+      "Primeira indicação": 2026,
+      "Última indicação": 2040,
+      "Histórico": "2026: 25º; 2027: 29º; 2028: 29º; 2029: 19º; 2030: 18º; 2032: 22º; 2033: 22º; 2034: 1º; 2035: 9º; 2036: 9º; 2037: 27º; 2038: 23º; 2039: 3º; 2040: 25º"
+    },
+    {
+      "Jogador": "Wirtz",
+      "Indicações": 9,
+      "Pódios": 1,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2026,
+      "Última indicação": 2034,
+      "Histórico": "2026: 13º; 2027: 11º; 2028: 17º; 2029: 1º; 2030: 8º; 2031: 15º; 2032: 14º; 2033: 16º; 2034: 25º"
+    },
+    {
+      "Jogador": "Charles Mohamed",
+      "Indicações": 6,
+      "Pódios": 1,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2048,
+      "Histórico": "2043: 1º; 2044: 25º; 2045: 29º; 2046: 23º; 2047: 26º; 2048: 29º"
+    },
+    {
+      "Jogador": "Kane",
+      "Indicações": 3,
+      "Pódios": 1,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 17º; 2027: 1º; 2028: 16º"
+    },
+    {
+      "Jogador": "Lautaro Martínez",
+      "Indicações": 3,
+      "Pódios": 1,
+      "Vitórias": 1,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 1,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2026,
+      "Última indicação": 2031,
+      "Histórico": "2026: 22º; 2027: 16º; 2031: 1º"
+    },
+    {
+      "Jogador": "Garcia",
+      "Indicações": 11,
+      "Pódios": 5,
+      "Vitórias": 0,
+      "Vices": 4,
+      "Terceiros": 1,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2033, 2037, 2038, 2039",
+      "Primeira indicação": 2028,
+      "Última indicação": 2040,
+      "Histórico": "2028: 30º; 2030: 26º; 2032: 12º; 2033: 2º; 2034: 3º; 2035: 8º; 2036: 8º; 2037: 2º; 2038: 2º; 2039: 2º; 2040: 10º"
+    },
+    {
+      "Jogador": "Reyes",
+      "Indicações": 7,
+      "Pódios": 2,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 1,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2039,
+      "Última indicação": 2050,
+      "Histórico": "2039: 15º; 2040: 17º; 2045: 8º; 2046: 7º; 2047: 8º; 2049: 2º; 2050: 3º"
+    },
+    {
+      "Jogador": "Pedri",
+      "Indicações": 11,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2036,
+      "Histórico": "2026: 4º; 2027: 8º; 2028: 8º; 2029: 8º; 2030: 2º; 2031: 14º; 2032: 10º; 2033: 13º; 2034: 13º; 2035: 15º; 2036: 15º"
+    },
+    {
+      "Jogador": "Ødegaard",
+      "Indicações": 9,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2026,
+      "Última indicação": 2035,
+      "Histórico": "2026: 21º; 2027: 27º; 2028: 15º; 2029: 16º; 2031: 5º; 2032: 3º; 2033: 5º; 2034: 7º; 2035: 12º"
+    },
+    {
+      "Jogador": "Xavi Simons",
+      "Indicações": 6,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2033,
+      "Última indicação": 2037,
+      "Histórico": "2033: 26º; 2034: 27º; 2035: 27º; 2036: 2º; 2036: 27º; 2037: 26º"
+    },
+    {
+      "Jogador": "Dembele Jr",
+      "Indicações": 6,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2040,
+      "Última indicação": 2050,
+      "Histórico": "2040: 19º; 2044: 3º; 2045: 19º; 2046: 10º; 2047: 15º; 2050: 14º"
+    },
+    {
+      "Jogador": "Mbappé",
+      "Indicações": 6,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2026,
+      "Última indicação": 2031,
+      "Histórico": "2026: 10º; 2027: 3º; 2028: 5º; 2029: 5º; 2030: 9º; 2031: 9º"
+    },
+    {
+      "Jogador": "Valverde",
+      "Indicações": 6,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2026,
+      "Última indicação": 2031,
+      "Histórico": "2026: 14º; 2027: 9º; 2028: 18º; 2029: 3º; 2030: 23º; 2031: 29º"
+    },
+    {
+      "Jogador": "Adeyemi",
+      "Indicações": 5,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2032,
+      "Última indicação": 2035,
+      "Histórico": "2032: 2º; 2032: 26º; 2033: 9º; 2034: 10º; 2035: 11º"
+    },
+    {
+      "Jogador": "Güler",
+      "Indicações": 5,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2038,
+      "Histórico": "2026: 2º; 2027: 6º; 2028: 10º; 2029: 7º; 2038: 12º"
+    },
+    {
+      "Jogador": "Palmer",
+      "Indicações": 4,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2029,
+      "Histórico": "2026: 3º; 2027: 19º; 2028: 12º; 2029: 14º"
+    },
+    {
+      "Jogador": "Fathi Ibrahim",
+      "Indicações": 3,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2043,
+      "Última indicação": 2047,
+      "Histórico": "2043: 20º; 2046: 3º; 2047: 28º"
+    },
+    {
+      "Jogador": "Gabriele Guerra",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2044,
+      "Histórico": "2042: 2º; 2044: 29º"
+    },
+    {
+      "Jogador": "Daniel Escobar",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2042,
+      "Última indicação": 2043,
+      "Histórico": "2042: 7º; 2043: 3º"
+    },
+    {
+      "Jogador": "Denis Costa",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2047,
+      "Histórico": "2041: 3º; 2047: 9º"
+    },
+    {
+      "Jogador": "Larsson",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2036,
+      "Última indicação": 2037,
+      "Histórico": "2036: 3º; 2037: 11º"
+    },
+    {
+      "Jogador": "Tyler Norman",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2044,
+      "Histórico": "2042: 3º; 2044: 28º"
+    },
+    {
+      "Jogador": "Varga",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2046,
+      "Histórico": "2040: 3º; 2046: 21º"
+    },
+    {
+      "Jogador": "Zubimendi",
+      "Indicações": 2,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2028",
+      "Primeira indicação": 2028,
+      "Última indicação": 2030,
+      "Histórico": "2028: 3º; 2030: 6º"
+    },
+    {
+      "Jogador": "Greenwood",
+      "Indicações": 1,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2035",
+      "Primeira indicação": 2035,
+      "Última indicação": 2035,
+      "Histórico": "2035: 2º"
+    },
+    {
+      "Jogador": "Sané",
+      "Indicações": 1,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 1,
+      "Terceiros": 0,
+      "Melhor posição": 2,
+      "Ano(s) da melhor posição": "2028",
+      "Primeira indicação": 2028,
+      "Última indicação": 2028,
+      "Histórico": "2028: 2º"
+    },
+    {
+      "Jogador": "Bradshaw",
+      "Indicações": 1,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 3º"
+    },
+    {
+      "Jogador": "Javi Guerra",
+      "Indicações": 1,
+      "Pódios": 1,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 1,
+      "Melhor posição": 3,
+      "Ano(s) da melhor posição": "2033",
+      "Primeira indicação": 2033,
+      "Última indicação": 2033,
+      "Histórico": "2033: 3º"
+    },
+    {
+      "Jogador": "Estevão",
+      "Indicações": 12,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2031,
+      "Última indicação": 2042,
+      "Histórico": "2031: 7º; 2032: 8º; 2033: 7º; 2034: 15º; 2035: 29º; 2036: 29º; 2037: 4º; 2038: 11º; 2039: 6º; 2040: 26º; 2041: 29º; 2042: 24º"
+    },
+    {
+      "Jogador": "Musiala",
+      "Indicações": 12,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2027, 2035",
+      "Primeira indicação": 2026,
+      "Última indicação": 2037,
+      "Histórico": "2026: 7º; 2027: 4º; 2028: 9º; 2029: 6º; 2030: 7º; 2031: 10º; 2032: 13º; 2033: 15º; 2034: 9º; 2035: 4º; 2036: 12º; 2037: 13º"
+    },
+    {
+      "Jogador": "Bellingham",
+      "Indicações": 11,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2028, 2029",
+      "Primeira indicação": 2026,
+      "Última indicação": 2036,
+      "Histórico": "2026: 5º; 2027: 5º; 2028: 4º; 2029: 4º; 2030: 22º; 2031: 16º; 2032: 15º; 2033: 17º; 2034: 11º; 2035: 17º; 2036: 17º"
+    },
+    {
+      "Jogador": "Nico Williams",
+      "Indicações": 11,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2036,
+      "Histórico": "2026: 11º; 2027: 13º; 2028: 13º; 2029: 13º; 2030: 4º; 2031: 22º; 2032: 11º; 2033: 14º; 2034: 14º; 2035: 14º; 2036: 14º"
+    },
+    {
+      "Jogador": "Rafael Leão",
+      "Indicações": 11,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2036,
+      "Histórico": "2026: 16º; 2027: 18º; 2028: 22º; 2029: 30º; 2030: 12º; 2031: 26º; 2032: 28º; 2033: 27º; 2034: 26º; 2035: 26º; 2036: 26º"
+    },
+    {
+      "Jogador": "Gavi",
+      "Indicações": 10,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2036,
+      "Histórico": "2026: 8º; 2027: 30º; 2028: 19º; 2029: 20º; 2030: 5º; 2031: 23º; 2032: 21º; 2034: 24º; 2035: 16º; 2036: 16º"
+    },
+    {
+      "Jogador": "Cubarsí",
+      "Indicações": 9,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2029,
+      "Última indicação": 2039,
+      "Histórico": "2029: 28º; 2030: 17º; 2031: 24º; 2032: 23º; 2033: 23º; 2034: 23º; 2035: 23º; 2036: 23º; 2039: 18º"
+    },
+    {
+      "Jogador": "Leroy",
+      "Indicações": 8,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2040,
+      "Última indicação": 2049,
+      "Histórico": "2040: 8º; 2042: 13º; 2043: 21º; 2044: 22º; 2045: 11º; 2047: 4º; 2048: 12º; 2049: 15º"
+    },
+    {
+      "Jogador": "Vitinha",
+      "Indicações": 8,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2029,
+      "Última indicação": 2036,
+      "Histórico": "2029: 18º; 2030: 10º; 2031: 20º; 2032: 25º; 2033: 25º; 2034: 16º; 2035: 28º; 2036: 28º"
+    },
+    {
+      "Jogador": "Kvaratskhelia",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2029,
+      "Última indicação": 2035,
+      "Histórico": "2029: 17º; 2030: 13º; 2031: 4º; 2032: 5º; 2033: 6º; 2034: 8º; 2035: 13º"
+    },
+    {
+      "Jogador": "João Neves",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2029,
+      "Última indicação": 2039,
+      "Histórico": "2029: 26º; 2030: 11º; 2031: 25º; 2032: 24º; 2033: 24º; 2034: 17º; 2039: 5º"
+    },
+    {
+      "Jogador": "Denis",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2036,
+      "Última indicação": 2046,
+      "Histórico": "2036: 18º; 2037: 6º; 2038: 16º; 2039: 9º; 2041: 21º; 2042: 28º; 2046: 11º"
+    },
+    {
+      "Jogador": "Ferrari",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2036,
+      "Última indicação": 2042,
+      "Histórico": "2036: 20º; 2036: 30º; 2037: 7º; 2038: 19º; 2039: 10º; 2041: 16º; 2042: 27º"
+    },
+    {
+      "Jogador": "Donnarumma",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2029,
+      "Última indicação": 2035,
+      "Histórico": "2029: 23º; 2030: 15º; 2031: 8º; 2032: 20º; 2033: 10º; 2034: 18º; 2035: 18º"
+    },
+    {
+      "Jogador": "Balde",
+      "Indicações": 7,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 16,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2031,
+      "Última indicação": 2037,
+      "Histórico": "2031: 17º; 2032: 16º; 2033: 18º; 2034: 19º; 2035: 19º; 2036: 19º; 2037: 25º"
+    },
+    {
+      "Jogador": "Germain",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2037,
+      "Última indicação": 2046,
+      "Histórico": "2037: 21º; 2038: 21º; 2039: 7º; 2041: 4º; 2044: 12º; 2046: 28º"
+    },
+    {
+      "Jogador": "Peralta",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2040, 2042",
+      "Primeira indicação": 2040,
+      "Última indicação": 2045,
+      "Histórico": "2040: 4º; 2041: 27º; 2042: 4º; 2043: 11º; 2044: 20º; 2045: 9º"
+    },
+    {
+      "Jogador": "Kovalenko",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2045,
+      "Última indicação": 2050,
+      "Histórico": "2045: 14º; 2046: 9º; 2047: 7º; 2048: 23º; 2049: 29º; 2050: 13º"
+    },
+    {
+      "Jogador": "Roux",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2037,
+      "Última indicação": 2044,
+      "Histórico": "2037: 9º; 2038: 24º; 2039: 12º; 2041: 24º; 2042: 25º; 2044: 23º"
+    },
+    {
+      "Jogador": "Lefebvre",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2037,
+      "Última indicação": 2046,
+      "Histórico": "2037: 16º; 2038: 27º; 2039: 26º; 2041: 13º; 2044: 15º; 2046: 15º"
+    },
+    {
+      "Jogador": "Kruger",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2035,
+      "Última indicação": 2046,
+      "Histórico": "2035: 25º; 2036: 25º; 2037: 15º; 2038: 28º; 2039: 16º; 2046: 27º"
+    },
+    {
+      "Jogador": "Hakimi",
+      "Indicações": 6,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2034,
+      "Histórico": "2026: 23º; 2028: 26º; 2029: 27º; 2030: 27º; 2031: 27º; 2034: 29º"
+    },
+    {
+      "Jogador": "Afonso Garcia",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2042,
+      "Última indicação": 2050,
+      "Histórico": "2042: 18º; 2043: 17º; 2048: 11º; 2049: 12º; 2050: 5º"
+    },
+    {
+      "Jogador": "Moreau",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2037,
+      "Última indicação": 2048,
+      "Histórico": "2037: 20º; 2042: 29º; 2044: 10º; 2047: 20º; 2048: 6º"
+    },
+    {
+      "Jogador": "Bernie",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2037,
+      "Última indicação": 2041,
+      "Histórico": "2037: 8º; 2038: 20º; 2039: 11º; 2041: 14º; 2041: 19º"
+    },
+    {
+      "Jogador": "Kadlec",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2049,
+      "Histórico": "2041: 8º; 2044: 11º; 2045: 18º; 2047: 25º; 2049: 27º"
+    },
+    {
+      "Jogador": "Rodrygo",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2030,
+      "Histórico": "2026: 9º; 2027: 10º; 2028: 11º; 2029: 12º; 2030: 21º"
+    },
+    {
+      "Jogador": "Almeida",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2037, 2039",
+      "Primeira indicação": 2035,
+      "Última indicação": 2039,
+      "Histórico": "2035: 24º; 2036: 24º; 2037: 14º; 2038: 26º; 2039: 14º"
+    },
+    {
+      "Jogador": "Rodri Jr",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2037,
+      "Última indicação": 2047,
+      "Histórico": "2037: 22º; 2039: 25º; 2045: 27º; 2046: 14º; 2047: 27º"
+    },
+    {
+      "Jogador": "Tomás Araújo",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2031,
+      "Última indicação": 2035,
+      "Histórico": "2031: 18º; 2032: 17º; 2033: 19º; 2034: 20º; 2035: 20º"
+    },
+    {
+      "Jogador": "Pacho",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2031,
+      "Última indicação": 2035,
+      "Histórico": "2031: 19º; 2032: 18º; 2033: 20º; 2034: 21º; 2035: 21º"
+    },
+    {
+      "Jogador": "Carreras",
+      "Indicações": 5,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2032,
+      "Última indicação": 2036,
+      "Histórico": "2032: 19º; 2033: 21º; 2034: 22º; 2035: 22º; 2036: 22º"
+    },
+    {
+      "Jogador": "Madsen",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2043,
+      "Última indicação": 2050,
+      "Histórico": "2043: 8º; 2048: 4º; 2049: 19º; 2050: 10º"
+    },
+    {
+      "Jogador": "Kovacevic",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2045,
+      "Última indicação": 2050,
+      "Histórico": "2045: 10º; 2047: 6º; 2048: 15º; 2050: 28º"
+    },
+    {
+      "Jogador": "Sesko",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2032",
+      "Primeira indicação": 2032,
+      "Última indicação": 2035,
+      "Histórico": "2032: 7º; 2033: 12º; 2034: 30º; 2035: 30º"
+    },
+    {
+      "Jogador": "Hahn",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2050,
+      "Histórico": "2044: 8º; 2045: 16º; 2047: 11º; 2050: 16º"
+    },
+    {
+      "Jogador": "De Carvalho",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2045,
+      "Última indicação": 2050,
+      "Histórico": "2045: 21º; 2047: 12º; 2048: 27º; 2050: 17º"
+    },
+    {
+      "Jogador": "Fiore",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2046,
+      "Última indicação": 2050,
+      "Histórico": "2046: 25º; 2048: 16º; 2049: 16º; 2050: 12º"
+    },
+    {
+      "Jogador": "Ibrahim",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2040,
+      "Última indicação": 2048,
+      "Histórico": "2040: 18º; 2041: 18º; 2045: 24º; 2048: 14º"
+    },
+    {
+      "Jogador": "Theo Hernández",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2030,
+      "Histórico": "2026: 27º; 2027: 21º; 2028: 21º; 2030: 14º"
+    },
+    {
+      "Jogador": "Ter Stegen",
+      "Indicações": 4,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 24,
+      "Ano(s) da melhor posição": "2027, 2028",
+      "Primeira indicação": 2026,
+      "Última indicação": 2031,
+      "Histórico": "2026: 29º; 2027: 24º; 2028: 24º; 2031: 28º"
+    },
+    {
+      "Jogador": "Nieto",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2050,
+      "Histórico": "2048: 5º; 2049: 13º; 2050: 8º"
+    },
+    {
+      "Jogador": "Vinícius Júnior",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2026, 2028",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 6º; 2027: 7º; 2028: 6º"
+    },
+    {
+      "Jogador": "Powell",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2045,
+      "Última indicação": 2048,
+      "Histórico": "2045: 15º; 2047: 18º; 2048: 7º"
+    },
+    {
+      "Jogador": "Saka",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2028",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 12º; 2027: 12º; 2028: 7º"
+    },
+    {
+      "Jogador": "Dani Nieto",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2040,
+      "Última indicação": 2043,
+      "Histórico": "2040: 20º; 2041: 9º; 2043: 24º"
+    },
+    {
+      "Jogador": "Edwards",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2050,
+      "Histórico": "2047: 10º; 2048: 17º; 2050: 27º"
+    },
+    {
+      "Jogador": "Lang",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2048,
+      "Histórico": "2045: 12º; 2047: 13º; 2048: 13º"
+    },
+    {
+      "Jogador": "Thomas",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2037,
+      "Última indicação": 2044,
+      "Histórico": "2037: 19º; 2041: 12º; 2044: 26º"
+    },
+    {
+      "Jogador": "Forrest",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2037,
+      "Última indicação": 2039,
+      "Histórico": "2037: 18º; 2038: 25º; 2039: 13º"
+    },
+    {
+      "Jogador": "Fischer",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2044,
+      "Última indicação": 2048,
+      "Histórico": "2044: 16º; 2047: 14º; 2048: 26º"
+    },
+    {
+      "Jogador": "Abreu",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 16,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2039,
+      "Última indicação": 2047,
+      "Histórico": "2039: 17º; 2040: 29º; 2047: 16º"
+    },
+    {
+      "Jogador": "Bryant",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2045,
+      "Última indicação": 2049,
+      "Histórico": "2045: 25º; 2046: 22º; 2049: 17º"
+    },
+    {
+      "Jogador": "Parkin",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2050,
+      "Histórico": "2047: 17º; 2049: 25º; 2050: 19º"
+    },
+    {
+      "Jogador": "Dani Olmo",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 19º; 2027: 26º; 2028: 28º"
+    },
+    {
+      "Jogador": "Bernardo Silva",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2026, 2030",
+      "Primeira indicação": 2026,
+      "Última indicação": 2030,
+      "Histórico": "2026: 20º; 2027: 28º; 2030: 20º"
+    },
+    {
+      "Jogador": "Saliba",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2028,
+      "Última indicação": 2030,
+      "Histórico": "2028: 25º; 2029: 21º; 2030: 24º"
+    },
+    {
+      "Jogador": "Rúben Dias",
+      "Indicações": 3,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 28º; 2027: 22º; 2028: 23º"
+    },
+    {
+      "Jogador": "Ahmed",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2044,
+      "Histórico": "2043: 4º; 2044: 27º"
+    },
+    {
+      "Jogador": "Irala",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2037,
+      "Última indicação": 2038,
+      "Histórico": "2037: 24º; 2038: 4º"
+    },
+    {
+      "Jogador": "Serrano",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2045,
+      "Histórico": "2040: 5º; 2045: 17º"
+    },
+    {
+      "Jogador": "Caio Cruz",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2046,
+      "Histórico": "2044: 6º; 2046: 16º"
+    },
+    {
+      "Jogador": "Bernier",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2037,
+      "Última indicação": 2044,
+      "Histórico": "2037: 10º; 2044: 7º"
+    },
+    {
+      "Jogador": "Hato",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2036,
+      "Última indicação": 2038,
+      "Histórico": "2036: 7º; 2038: 18º"
+    },
+    {
+      "Jogador": "Sanchez",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2045,
+      "Histórico": "2040: 7º; 2045: 13º"
+    },
+    {
+      "Jogador": "Gregorio Ramos",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2043,
+      "Histórico": "2042: 8º; 2043: 16º"
+    },
+    {
+      "Jogador": "Jobe Bellingham",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2037,
+      "Última indicação": 2038,
+      "Histórico": "2037: 29º; 2038: 8º"
+    },
+    {
+      "Jogador": "Schafer",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2050,
+      "Histórico": "2049: 8º; 2050: 23º"
+    },
+    {
+      "Jogador": "Blanco",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2050,
+      "Histórico": "2048: 9º; 2050: 26º"
+    },
+    {
+      "Jogador": "Bruno Gomes",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2041,
+      "Histórico": "2040: 9º; 2041: 17º"
+    },
+    {
+      "Jogador": "Martin Sanchez",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2043,
+      "Histórico": "2042: 10º; 2043: 18º"
+    },
+    {
+      "Jogador": "Guerra",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2045,
+      "Histórico": "2040: 12º; 2045: 26º"
+    },
+    {
+      "Jogador": "Rodri",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2031,
+      "Última indicação": 2032,
+      "Histórico": "2031: 12º; 2032: 27º"
+    },
+    {
+      "Jogador": "Russo",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 12,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2039,
+      "Última indicação": 2043,
+      "Histórico": "2039: 27º; 2043: 12º"
+    },
+    {
+      "Jogador": "Field",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2047,
+      "Histórico": "2046: 13º; 2047: 24º"
+    },
+    {
+      "Jogador": "Dimarco Jr",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2046,
+      "Histórico": "2042: 14º; 2046: 24º"
+    },
+    {
+      "Jogador": "Rice",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2028",
+      "Primeira indicação": 2028,
+      "Última indicação": 2029,
+      "Histórico": "2028: 14º; 2029: 15º"
+    },
+    {
+      "Jogador": "Kimmich",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2027,
+      "Última indicação": 2028,
+      "Histórico": "2027: 15º; 2028: 20º"
+    },
+    {
+      "Jogador": "Araújo",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 16,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2029,
+      "Última indicação": 2030,
+      "Histórico": "2029: 22º; 2030: 16º"
+    },
+    {
+      "Jogador": "Osimhen",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2026,
+      "Última indicação": 2027,
+      "Histórico": "2026: 24º; 2027: 17º"
+    },
+    {
+      "Jogador": "Saavedra",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2047,
+      "Histórico": "2044: 18º; 2047: 22º"
+    },
+    {
+      "Jogador": "Sergio Montes",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2050,
+      "Histórico": "2043: 19º; 2050: 22º"
+    },
+    {
+      "Jogador": "Schumacher",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2040,
+      "Histórico": "2039: 20º; 2040: 23º"
+    },
+    {
+      "Jogador": "Wawrzyniak",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2049, 2050",
+      "Primeira indicação": 2049,
+      "Última indicação": 2050,
+      "Histórico": "2049: 20º; 2050: 20º"
+    },
+    {
+      "Jogador": "Niang",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2043,
+      "Histórico": "2041: 22º; 2043: 29º"
+    },
+    {
+      "Jogador": "Laurent",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2046,
+      "Última indicação": 2050,
+      "Histórico": "2046: 30º; 2050: 25º"
+    },
+    {
+      "Jogador": "João Félix",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 26,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2028,
+      "Histórico": "2026: 26º; 2028: 27º"
+    },
+    {
+      "Jogador": "Diogo Costa",
+      "Indicações": 2,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2031, 2032",
+      "Primeira indicação": 2031,
+      "Última indicação": 2032,
+      "Histórico": "2031: 30º; 2032: 30º"
+    },
+    {
+      "Jogador": "Kovalenco",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 4º"
+    },
+    {
+      "Jogador": "Marin",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 4º"
+    },
+    {
+      "Jogador": "Pelletier",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 4º"
+    },
+    {
+      "Jogador": "Salazar",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 4º"
+    },
+    {
+      "Jogador": "Uzun",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 4,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2036,
+      "Última indicação": 2036,
+      "Histórico": "2036: 4º"
+    },
+    {
+      "Jogador": "Almada",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2036,
+      "Última indicação": 2036,
+      "Histórico": "2036: 5º"
+    },
+    {
+      "Jogador": "Barnes",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 5º"
+    },
+    {
+      "Jogador": "Diabete",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 5º"
+    },
+    {
+      "Jogador": "Jacob Taylor",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 5º"
+    },
+    {
+      "Jogador": "Mann",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 5º"
+    },
+    {
+      "Jogador": "Mastantuono",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 5º"
+    },
+    {
+      "Jogador": "Rizzo",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 5º"
+    },
+    {
+      "Jogador": "Yasin Demir",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 5,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2047,
+      "Histórico": "2047: 5º"
+    },
+    {
+      "Jogador": "De Jong",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2031,
+      "Última indicação": 2031,
+      "Histórico": "2031: 6º"
+    },
+    {
+      "Jogador": "Denis Cristea",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 6º"
+    },
+    {
+      "Jogador": "Echeverri",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 6º"
+    },
+    {
+      "Jogador": "Guilherme Contreras",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 6º"
+    },
+    {
+      "Jogador": "Norman",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 6º"
+    },
+    {
+      "Jogador": "Pawtowski",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 6º"
+    },
+    {
+      "Jogador": "Pino",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2035",
+      "Primeira indicação": 2035,
+      "Última indicação": 2035,
+      "Histórico": "2035: 6º"
+    },
+    {
+      "Jogador": "Sanogo",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 6,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 6º"
+    },
+    {
+      "Jogador": "Damiano Rossi",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 7º"
+    },
+    {
+      "Jogador": "Jovanovic",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 7º"
+    },
+    {
+      "Jogador": "Nico Paz",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 7º"
+    },
+    {
+      "Jogador": "Oscar Perez",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 7,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 7º"
+    },
+    {
+      "Jogador": "Acuna",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 8º"
+    },
+    {
+      "Jogador": "Obi",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 8,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2039,
+      "Histórico": "2039: 8º"
+    },
+    {
+      "Jogador": "Eduardo Ferreira",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 9º"
+    },
+    {
+      "Jogador": "Jens Hahn",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 9º"
+    },
+    {
+      "Jogador": "Juraj Kovacevic",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 9º"
+    },
+    {
+      "Jogador": "Mauro Esposito",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 9º"
+    },
+    {
+      "Jogador": "Pawlowski",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 9º"
+    },
+    {
+      "Jogador": "Pedro Navarro",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 9º"
+    },
+    {
+      "Jogador": "Szoboszlai",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 9,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2029,
+      "Última indicação": 2029,
+      "Histórico": "2029: 9º"
+    },
+    {
+      "Jogador": "Alessio Fiore",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 10º"
+    },
+    {
+      "Jogador": "Insua",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 10º"
+    },
+    {
+      "Jogador": "Mac Allister",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2029,
+      "Última indicação": 2029,
+      "Histórico": "2029: 10º"
+    },
+    {
+      "Jogador": "Perkins",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 10º"
+    },
+    {
+      "Jogador": "Whitehouse",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 10,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 10º"
+    },
+    {
+      "Jogador": "George",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 11,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 11º"
+    },
+    {
+      "Jogador": "Kristensen",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 11,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 11º"
+    },
+    {
+      "Jogador": "Olise",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 11,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2031,
+      "Última indicação": 2031,
+      "Histórico": "2031: 11º"
+    },
+    {
+      "Jogador": "Zimmermann",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 11,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 11º"
+    },
+    {
+      "Jogador": "Alex Watson",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 13º"
+    },
+    {
+      "Jogador": "Ayala",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 13º"
+    },
+    {
+      "Jogador": "Nuno Mendes",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2031",
+      "Primeira indicação": 2031,
+      "Última indicação": 2031,
+      "Histórico": "2031: 13º"
+    },
+    {
+      "Jogador": "Orellana",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 13º"
+    },
+    {
+      "Jogador": "Rodgers",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 13,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 13º"
+    },
+    {
+      "Jogador": "Afonso Borges",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 14º"
+    },
+    {
+      "Jogador": "Amos",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 14º"
+    },
+    {
+      "Jogador": "Coman",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2027,
+      "Última indicação": 2027,
+      "Histórico": "2027: 14º"
+    },
+    {
+      "Jogador": "Juvanovic",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 14º"
+    },
+    {
+      "Jogador": "Siegmund",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 14º"
+    },
+    {
+      "Jogador": "Simon",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 14,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 14º"
+    },
+    {
+      "Jogador": "Gündogan",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2026,
+      "Histórico": "2026: 15º"
+    },
+    {
+      "Jogador": "Moreno Escobar",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 15º"
+    },
+    {
+      "Jogador": "Navarro",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 15º"
+    },
+    {
+      "Jogador": "Pedro Cardoso",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 15º"
+    },
+    {
+      "Jogador": "Piero Greco",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 15º"
+    },
+    {
+      "Jogador": "Sem Van",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 15º"
+    },
+    {
+      "Jogador": "Serranos",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 15,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 15º"
+    },
+    {
+      "Jogador": "Daniel Conti",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 16,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 16º"
+    },
+    {
+      "Jogador": "Hassan",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 17º"
+    },
+    {
+      "Jogador": "Riou",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 17º"
+    },
+    {
+      "Jogador": "Vuskovic",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 17,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 17º"
+    },
+    {
+      "Jogador": "Bernal",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 18º"
+    },
+    {
+      "Jogador": "Costa",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 18º"
+    },
+    {
+      "Jogador": "Felix Ryan",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 18º"
+    },
+    {
+      "Jogador": "Raymond",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 18º"
+    },
+    {
+      "Jogador": "Tchouaméni",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 18,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2026,
+      "Histórico": "2026: 18º"
+    },
+    {
+      "Jogador": "Alberto De Angelis",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 19º"
+    },
+    {
+      "Jogador": "Contreras",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 19º"
+    },
+    {
+      "Jogador": "Dennis",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 19º"
+    },
+    {
+      "Jogador": "Li",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 19º"
+    },
+    {
+      "Jogador": "Luis Guilherme",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2039,
+      "Histórico": "2039: 19º"
+    },
+    {
+      "Jogador": "Shevchuk",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 19,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2047,
+      "Histórico": "2047: 19º"
+    },
+    {
+      "Jogador": "Chiesa",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2027,
+      "Última indicação": 2027,
+      "Histórico": "2027: 20º"
+    },
+    {
+      "Jogador": "Eddie George",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 20º"
+    },
+    {
+      "Jogador": "Koren",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 20º"
+    },
+    {
+      "Jogador": "Prieto",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 20º"
+    },
+    {
+      "Jogador": "Santiago Silva",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 20,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 20º"
+    },
+    {
+      "Jogador": "Albert Morales",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2044",
+      "Primeira indicação": 2044,
+      "Última indicação": 2044,
+      "Histórico": "2044: 21º"
+    },
+    {
+      "Jogador": "Cherki",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2039,
+      "Histórico": "2039: 21º"
+    },
+    {
+      "Jogador": "Córdoba",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 21º"
+    },
+    {
+      "Jogador": "Iker Marin",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 21º"
+    },
+    {
+      "Jogador": "Marcos Leonardo",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2036",
+      "Primeira indicação": 2036,
+      "Última indicação": 2036,
+      "Histórico": "2036: 21º"
+    },
+    {
+      "Jogador": "Poli",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2047,
+      "Histórico": "2047: 21º"
+    },
+    {
+      "Jogador": "Seydou",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 21,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 21º"
+    },
+    {
+      "Jogador": "Eduardo Ribeiros",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 22º"
+    },
+    {
+      "Jogador": "Giordano",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 22º"
+    },
+    {
+      "Jogador": "Lejeune",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2038",
+      "Primeira indicação": 2038,
+      "Última indicação": 2038,
+      "Histórico": "2038: 22º"
+    },
+    {
+      "Jogador": "Michelle Ricci",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 22º"
+    },
+    {
+      "Jogador": "Moise Bamba",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 22º"
+    },
+    {
+      "Jogador": "Ramzi",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 22,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 22º"
+    },
+    {
+      "Jogador": "Carlton Palmer",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2045",
+      "Primeira indicação": 2045,
+      "Última indicação": 2045,
+      "Histórico": "2045: 23º"
+    },
+    {
+      "Jogador": "De Ligt",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2027,
+      "Última indicação": 2027,
+      "Histórico": "2027: 23º"
+    },
+    {
+      "Jogador": "Gomez",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 23º"
+    },
+    {
+      "Jogador": "Hansen",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2047,
+      "Histórico": "2047: 23º"
+    },
+    {
+      "Jogador": "Marino",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2039,
+      "Histórico": "2039: 23º"
+    },
+    {
+      "Jogador": "Marquinhos Jr",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2037,
+      "Última indicação": 2037,
+      "Histórico": "2037: 23º"
+    },
+    {
+      "Jogador": "Miguel Correia",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2042",
+      "Primeira indicação": 2042,
+      "Última indicação": 2042,
+      "Histórico": "2042: 23º"
+    },
+    {
+      "Jogador": "Sandoval",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 23º"
+    },
+    {
+      "Jogador": "Uribe",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 23,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 23º"
+    },
+    {
+      "Jogador": "Diogo Jota",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 24,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2029,
+      "Última indicação": 2029,
+      "Histórico": "2029: 24º"
+    },
+    {
+      "Jogador": "Hyde",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 24,
+      "Ano(s) da melhor posição": "2040",
+      "Primeira indicação": 2040,
+      "Última indicação": 2040,
+      "Histórico": "2040: 24º"
+    },
+    {
+      "Jogador": "Wells",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 24,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 24º"
+    },
+    {
+      "Jogador": "Wilk",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 24,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 24º"
+    },
+    {
+      "Jogador": "Davis",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 25º"
+    },
+    {
+      "Jogador": "Gallardo",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2041",
+      "Primeira indicação": 2041,
+      "Última indicação": 2041,
+      "Histórico": "2041: 25º"
+    },
+    {
+      "Jogador": "Luis Díaz",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2029,
+      "Última indicação": 2029,
+      "Histórico": "2029: 25º"
+    },
+    {
+      "Jogador": "Szczęsny",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2027",
+      "Primeira indicação": 2027,
+      "Última indicação": 2027,
+      "Histórico": "2027: 25º"
+    },
+    {
+      "Jogador": "Tonali",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 25,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2030,
+      "Última indicação": 2030,
+      "Histórico": "2030: 25º"
+    },
+    {
+      "Jogador": "Vivian Jr",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 26,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 26º"
+    },
+    {
+      "Jogador": "Weston",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 26,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 26º"
+    },
+    {
+      "Jogador": "Walsh",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 27,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 27º"
+    },
+    {
+      "Jogador": "Jude Bellingham",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2037",
+      "Primeira indicação": 2037,
+      "Última indicação": 2037,
+      "Histórico": "2037: 28º"
+    },
+    {
+      "Jogador": "Julian Alvarez",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2034",
+      "Primeira indicação": 2034,
+      "Última indicação": 2034,
+      "Histórico": "2034: 28º"
+    },
+    {
+      "Jogador": "Leão",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2030,
+      "Última indicação": 2030,
+      "Histórico": "2030: 28º"
+    },
+    {
+      "Jogador": "Massey",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2043",
+      "Primeira indicação": 2043,
+      "Última indicação": 2043,
+      "Histórico": "2043: 28º"
+    },
+    {
+      "Jogador": "Rossi",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 28º"
+    },
+    {
+      "Jogador": "Zapada",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 28,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 28º"
+    },
+    {
+      "Jogador": "Agirrezabala",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2033",
+      "Primeira indicação": 2033,
+      "Última indicação": 2033,
+      "Histórico": "2033: 29º"
+    },
+    {
+      "Jogador": "Bastoni",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2030",
+      "Primeira indicação": 2030,
+      "Última indicação": 2030,
+      "Histórico": "2030: 29º"
+    },
+    {
+      "Jogador": "Mancini",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2039",
+      "Primeira indicação": 2039,
+      "Última indicação": 2039,
+      "Histórico": "2039: 29º"
+    },
+    {
+      "Jogador": "Mason",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2046",
+      "Primeira indicação": 2046,
+      "Última indicação": 2046,
+      "Histórico": "2046: 29º"
+    },
+    {
+      "Jogador": "Zaire-Emery",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2029",
+      "Primeira indicação": 2029,
+      "Última indicação": 2029,
+      "Histórico": "2029: 29º"
+    },
+    {
+      "Jogador": "Zapeda",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 29,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 29º"
+    },
+    {
+      "Jogador": "Diego Lopes",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2033",
+      "Primeira indicação": 2033,
+      "Última indicação": 2033,
+      "Histórico": "2033: 30º"
+    },
+    {
+      "Jogador": "Michel",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2047",
+      "Primeira indicação": 2047,
+      "Última indicação": 2047,
+      "Histórico": "2047: 30º"
+    },
+    {
+      "Jogador": "Nilson",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2049",
+      "Primeira indicação": 2049,
+      "Última indicação": 2049,
+      "Histórico": "2049: 30º"
+    },
+    {
+      "Jogador": "Raul Nunez",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2048",
+      "Primeira indicação": 2048,
+      "Última indicação": 2048,
+      "Histórico": "2048: 30º"
+    },
+    {
+      "Jogador": "Valencia",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2050",
+      "Primeira indicação": 2050,
+      "Última indicação": 2050,
+      "Histórico": "2050: 30º"
+    },
+    {
+      "Jogador": "Çalhanoğlu",
+      "Indicações": 1,
+      "Pódios": 0,
+      "Vitórias": 0,
+      "Vices": 0,
+      "Terceiros": 0,
+      "Melhor posição": 30,
+      "Ano(s) da melhor posição": "2026",
+      "Primeira indicação": 2026,
+      "Última indicação": 2026,
+      "Histórico": "2026: 30º"
+    }
+  ]
+}

@@ -445,6 +445,92 @@ competitions.forEach((competition) => {
   });
 });
 
+const competitionDataAliases = {
+  "Brasileirao": "Brasileirão",
+  "Supercopa da Franca": "Supercopa da França",
+  "Libertadores": "Copa Libertadores",
+  "Sul-Americana": "Copa Sul-Americana",
+  "Copa America": "Copa América"
+};
+
+const teamDataAliases = {
+  "Atlético Mineiro": "Atletico Mineiro",
+  "Atlético de Madrid": "Atletico de Madrid",
+  "Bayern de Munique": "Bayern",
+  "Bolívia": "Bolivia",
+  "Ceará": "Ceara",
+  "Eintracht Frankfurt": "Frankfurt",
+  "Espanha": "Spain",
+  "França": "France",
+  "Grêmio": "Gremio",
+  "Holanda": "Netherlands",
+  "Inglaterra": "England",
+  "Itália": "Italy",
+  "México": "Mexico",
+  "Paris Saint-Germain": "PSG",
+  "São Paulo": "Sao Paulo",
+  "Uruguai": "Uruguay"
+};
+
+function normalizeDataName(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
+function getExistingTeamLogo(teamName) {
+  const alias = teamDataAliases[teamName] || teamName;
+  return teamData[teamName]?.logo || teamData[alias]?.logo || "";
+}
+
+function applyDatabaseCompetitionData(payload) {
+  const sourceByName = new Map(
+    payload.competitions.map((competition) => [normalizeDataName(competition.name), competition])
+  );
+
+  competitions.forEach((competition) => {
+    const sourceName = competitionDataAliases[competition.name] || competition.name;
+    const source = sourceByName.get(normalizeDataName(sourceName));
+    if (!source) return;
+
+    competition.winners = source.results
+      .filter((result) => result.source === "Site / simulação")
+      .reduce((accumulator, result) => {
+        if (/^\d{4}$/.test(result.season)) {
+          accumulator[Number(result.season)] = result.champion;
+        }
+        return accumulator;
+      }, {});
+
+    competition.top = source.ranking.map((item) => ({
+      team: item.team,
+      titles: item.titles
+    }));
+  });
+
+  payload.clubRelevantTitles.forEach(({ team, titles }) => {
+    const logo = getExistingTeamLogo(team);
+    teamData[team] = {
+      logo,
+      titles: titles.reduce((accumulator, item) => {
+        accumulator[item.title] = item.total;
+        return accumulator;
+      }, {})
+    };
+  });
+}
+
+async function loadDatabaseCompetitionData() {
+  const dataUrl = new URL("../data/competicoes.json", document.currentScript.src);
+  const response = await fetch(dataUrl);
+  if (!response.ok) {
+    throw new Error(`Nao foi possivel carregar ${dataUrl.pathname}`);
+  }
+  const payload = await response.json();
+  applyDatabaseCompetitionData(payload);
+}
+
 const regionDescriptions = {
   "Brasil": "As tres competicoes centrais do calendario brasileiro, com leitura por temporada e maiores vencedores.",
   "Alemanha": "Campeoes da elite alema, copa nacional e supercopa.",
@@ -698,8 +784,16 @@ function render() {
   renderDetail();
 }
 
-ensureSelectedCompetitionIsVisible();
-render();
+async function initializeDataPage() {
+  try {
+    await loadDatabaseCompetitionData();
+  } catch (error) {
+    console.warn("Usando dados embutidos como fallback.", error);
+  }
 
+  ensureSelectedCompetitionIsVisible();
+  render();
+}
 
+initializeDataPage();
 

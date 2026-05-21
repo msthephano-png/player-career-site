@@ -1,0 +1,3523 @@
+{
+  "jogadores": [
+    {
+      "slug": "garcia",
+      "nome": "Garcia",
+      "jogos": 1286,
+      "gols": 647,
+      "assistencias": 985,
+      "titulos_coletivos": 65,
+      "premios_individuais": 27,
+      "clubes": [
+        {
+          "href": "garcia-oriente.html",
+          "nome": "Oriente",
+          "descricao": "Primeira etapa, agora ainda mais pesada em números e com duas ligas bolivianas no currículo."
+        },
+        {
+          "href": "garcia-vasco.html",
+          "nome": "Vasco",
+          "descricao": "Era dominante na América do Sul com números gigantes e sala de troféus pesada."
+        },
+        {
+          "href": "garcia-psg.html",
+          "nome": "PSG",
+          "descricao": "Apogeu europeu, sequência histórica de títulos e brilho máximo na Champions."
+        },
+        {
+          "href": "garcia-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "Capitão da seleção com campanha marcante e conquista continental."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Liga Boliviana",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Libertadores",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Brasileirão",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa Rei",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Recopa Sul-Americana",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Brasil",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Brasileirão Série B",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Ligue 1",
+          "quantidade": 10
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da França",
+          "quantidade": 9
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa da França",
+          "quantidade": 7
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Champions League",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Mundial de Clubes",
+          "quantidade": 6
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Europa",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Super Mundial",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa América",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador do Brasileirão Série A",
+          "quantidade": 6
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa do Brasil",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador do Brasileirão Série B",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Rei da América",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa América",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Coupe de France",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Liga Boliviana",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Ligue 1",
+          "quantidade": 5
+        }
+      ],
+      "jogos_hub": 1282,
+      "gols_hub": 643,
+      "assistencias_hub": 972,
+      "dif_jogos_hub": 4,
+      "dif_gols_hub": 4,
+      "dif_assistencias_hub": 13
+    },
+    {
+      "slug": "fonseca",
+      "nome": "Fonseca",
+      "jogos": 1032,
+      "gols": 903,
+      "assistencias": 289,
+      "titulos_coletivos": 38,
+      "premios_individuais": 31,
+      "clubes": [
+        {
+          "href": "fonseca-vasco.html",
+          "nome": "Vasco",
+          "descricao": "Explosão inicial com gols pesados e títulos continentais."
+        },
+        {
+          "href": "fonseca-bayern.html",
+          "nome": "Bayern",
+          "descricao": "Máquina de gols em solo alemão com domínio doméstico absoluto."
+        },
+        {
+          "href": "fonseca-city.html",
+          "nome": "City",
+          "descricao": "Apogeu inglês com prateleira cheia e recordes de finalização."
+        },
+        {
+          "href": "fonseca-milan.html",
+          "nome": "Milan",
+          "descricao": "Recorte curto, mas avassalador, com média de gols absurda."
+        },
+        {
+          "href": "fonseca-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "Artilharia pela seleção e uma vitrine especial mesmo sem troféu."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Brasileirão",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Libertadores",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa Rei",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Brasil",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Recopa Sul-Americana",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Bundesliga",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Alemanha (DFL Supercup)",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa da Alemanha (DFB-Pokal)",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Premier League",
+          "quantidade": 6
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Carabao Cup",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "FA Cup",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Inglaterra",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Mundial de Clubes",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Super Mundial",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Itália",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Serie A",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro do Brasileirão",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa do Brasil",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Bundesliga",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Bundesliga",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da DFB Pokal",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da DFB Pokal",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da FA Cup",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Carabao Cup",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Premier League",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Premier League",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Chuteira de Ouro",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Bola de Ouro",
+          "quantidade": 2
+        }
+      ],
+      "jogos_hub": 1049,
+      "gols_hub": 908,
+      "assistencias_hub": 294,
+      "dif_jogos_hub": -17,
+      "dif_gols_hub": -5,
+      "dif_assistencias_hub": -5
+    },
+    {
+      "slug": "escobar",
+      "nome": "Escobar",
+      "jogos": 933,
+      "gols": 442,
+      "assistencias": 598,
+      "titulos_coletivos": 48,
+      "premios_individuais": 18,
+      "clubes": [
+        {
+          "href": "escobar-vasco.html",
+          "nome": "Vasco",
+          "descricao": "Início vencedor com Libertadores, Brasileirão e muita criação ofensiva."
+        },
+        {
+          "href": "escobar-bayern.html",
+          "nome": "Bayern",
+          "descricao": "Passagem intensa com volume criativo e força em noites europeias."
+        },
+        {
+          "href": "escobar-barca.html",
+          "nome": "Barça",
+          "descricao": "Grande auge técnico com LaLiga, Copa do Rey e brilho continental."
+        },
+        {
+          "href": "escobar-psg.html",
+          "nome": "PSG",
+          "descricao": "Nova fase de elite com empilhamento de taças em Paris."
+        },
+        {
+          "href": "escobar-gremio.html",
+          "nome": "Grêmio",
+          "descricao": "Trecho curto, intenso e com impacto direto em competição eliminatória."
+        },
+        {
+          "href": "escobar-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "Seleção sem troféus, mas com consistência em ciclos longos e grandes torneios."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Libertadores",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Brasileirão",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Recopa Sul-Americana",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa Rei",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Brasil",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Bundesliga",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Alemanha (DFL Supercup)",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa da Alemanha (DFB-Pokal)",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "LaLiga",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Rey",
+          "quantidade": 4
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Espanha",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Mundial de Clubes",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Champions League",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Europa",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da França",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Ligue 1",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa da França",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Bundesliga",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da DFB Pokal",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilharia da LaLiga",
+          "quantidade": 3
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da LaLiga",
+          "quantidade": 5
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa do Rey",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Rei da América",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa do Brasil",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador do Brasileirão",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Bola de Ouro",
+          "quantidade": 1
+        }
+      ],
+      "jogos_hub": 933,
+      "gols_hub": 442,
+      "assistencias_hub": 588,
+      "dif_jogos_hub": 0,
+      "dif_gols_hub": 0,
+      "dif_assistencias_hub": 10
+    },
+    {
+      "slug": "salazar",
+      "nome": "Salazar",
+      "jogos": 221,
+      "gols": 163,
+      "assistencias": 139,
+      "titulos_coletivos": 7,
+      "premios_individuais": 4,
+      "clubes": [
+        {
+          "href": "salazar-oriente.html",
+          "nome": "Oriente",
+          "descricao": "Primeiro clube — Liga e Copa Boliviana conquistadas logo de início."
+        },
+        {
+          "href": "salazar-ajax.html",
+          "nome": "Ajax",
+          "descricao": "76 gols, Eredivisie, KNVB e Europa League — três taças europeias."
+        },
+        {
+          "href": "salazar-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "31 jogos pela seleção — e campeão do mundo."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Liga Boliviana",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Eredivisie",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "KNVB Beker",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Europa League",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Mundo",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor da Liga Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor da Eredivisie",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Eredivisie",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor da KNVB Beker",
+          "quantidade": 1
+        }
+      ],
+      "jogos_hub": 221,
+      "gols_hub": 159,
+      "assistencias_hub": 139,
+      "dif_jogos_hub": 0,
+      "dif_gols_hub": 4,
+      "dif_assistencias_hub": 0
+    },
+    {
+      "slug": "guarita-fonseca",
+      "nome": "Guarita Fonseca",
+      "jogos": 95,
+      "gols": 32,
+      "assistencias": 54,
+      "titulos_coletivos": 2,
+      "premios_individuais": 2,
+      "clubes": [
+        {
+          "href": "guarita-fonseca-potosi.html",
+          "nome": "Nacional de Potosí",
+          "descricao": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador."
+        },
+        {
+          "href": "guarita-fonseca-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "Titular na Copa do Mundo campeã — e a história mal começou."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Liga Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Mundo",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor da Liga Boliviana",
+          "quantidade": 2
+        }
+      ],
+      "jogos_hub": 95,
+      "gols_hub": 32,
+      "assistencias_hub": 54,
+      "dif_jogos_hub": 0,
+      "dif_gols_hub": 0,
+      "dif_assistencias_hub": 0
+    },
+    {
+      "slug": "moreno-escobar",
+      "nome": "Moreno Escobar",
+      "jogos": 162,
+      "gols": 270,
+      "assistencias": 38,
+      "titulos_coletivos": 5,
+      "premios_individuais": 6,
+      "clubes": [
+        {
+          "href": "moreno-escobar-the-strongest.html",
+          "nome": "The Strongest",
+          "descricao": "Estreia profissional e artilharia imediata na Copa Boliviana."
+        },
+        {
+          "href": "moreno-escobar-corinthians.html",
+          "nome": "Corinthians",
+          "descricao": "175 gols em duas temporadas e quatro prêmios individuais."
+        },
+        {
+          "href": "moreno-escobar-marseille.html",
+          "nome": "Marseille",
+          "descricao": "Primeira experiência europeia com gols na Ligue 1 e na Europa League."
+        },
+        {
+          "href": "moreno-escobar-bolivia.html",
+          "nome": "Bolívia",
+          "descricao": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo."
+        }
+      ],
+      "conquistas": [
+        {
+          "categoria": "Título coletivo",
+          "nome": "Brasileirão",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Brasil",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa Rei",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa do Mundo",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa Boliviana",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor do Brasileirão",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro do Brasileirão",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor da Copa do Brasil",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa do Brasil",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa do Mundo",
+          "quantidade": 1
+        }
+      ],
+      "jogos_hub": 162,
+      "gols_hub": 270,
+      "assistencias_hub": 38,
+      "dif_jogos_hub": 0,
+      "dif_gols_hub": 0,
+      "dif_assistencias_hub": 0
+    }
+  ],
+  "passagens": [
+    {
+      "id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "ordem": 1,
+      "clube": "Oriente Petrolero",
+      "clube_nome_completo": "Oriente Petrolero",
+      "tipo": "Clube",
+      "jogos": 134,
+      "gols": 54,
+      "assistencias": 83,
+      "pagina": "pages/clubes/garcia-oriente.html",
+      "descricao": "Primeira etapa, agora ainda mais pesada em números e com duas ligas bolivianas no currículo."
+    },
+    {
+      "id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "ordem": 2,
+      "clube": "Vasco",
+      "clube_nome_completo": "Vasco",
+      "tipo": "Clube",
+      "jogos": 530,
+      "gols": 255,
+      "assistencias": 398,
+      "pagina": "pages/clubes/garcia-vasco.html",
+      "descricao": "Era dominante na América do Sul com números gigantes e sala de troféus pesada."
+    },
+    {
+      "id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "ordem": 3,
+      "clube": "Paris Saint-Germain",
+      "clube_nome_completo": "Paris Saint-Germain",
+      "tipo": "Clube",
+      "jogos": 428,
+      "gols": 237,
+      "assistencias": 385,
+      "pagina": "pages/clubes/garcia-psg.html",
+      "descricao": "Apogeu europeu, sequência histórica de títulos e brilho máximo na Champions."
+    },
+    {
+      "id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "ordem": 4,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 194,
+      "gols": 101,
+      "assistencias": 119,
+      "pagina": "pages/clubes/garcia-bolivia.html",
+      "descricao": "Capitão da seleção com campanha marcante e conquista continental."
+    },
+    {
+      "id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "ordem": 1,
+      "clube": "Vasco",
+      "clube_nome_completo": "Vasco",
+      "tipo": "Clube",
+      "jogos": 242,
+      "gols": 181,
+      "assistencias": 67,
+      "pagina": "pages/clubes/fonseca-vasco.html",
+      "descricao": "Explosão inicial com gols pesados e títulos continentais."
+    },
+    {
+      "id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "ordem": 2,
+      "clube": "Bayern de Munique",
+      "clube_nome_completo": "Bayern de Munique",
+      "tipo": "Clube",
+      "jogos": 213,
+      "gols": 236,
+      "assistencias": 64,
+      "pagina": "pages/clubes/fonseca-bayern.html",
+      "descricao": "Máquina de gols em solo alemão com domínio doméstico absoluto."
+    },
+    {
+      "id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "ordem": 3,
+      "clube": "Manchester City",
+      "clube_nome_completo": "Manchester City",
+      "tipo": "Clube",
+      "jogos": 383,
+      "gols": 344,
+      "assistencias": 107,
+      "pagina": "pages/clubes/fonseca-city.html",
+      "descricao": "Apogeu inglês com prateleira cheia e recordes de finalização."
+    },
+    {
+      "id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "ordem": 4,
+      "clube": "Milan",
+      "clube_nome_completo": "Milan",
+      "tipo": "Clube",
+      "jogos": 66,
+      "gols": 70,
+      "assistencias": 17,
+      "pagina": "pages/clubes/fonseca-milan.html",
+      "descricao": "Recorte curto, mas avassalador, com média de gols absurda."
+    },
+    {
+      "id": "fonseca-bolivia-5",
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "ordem": 5,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 128,
+      "gols": 72,
+      "assistencias": 34,
+      "pagina": "pages/clubes/fonseca-bolivia.html",
+      "descricao": "Artilharia pela seleção e uma vitrine especial mesmo sem troféu."
+    },
+    {
+      "id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 1,
+      "clube": "Vasco",
+      "clube_nome_completo": "Vasco",
+      "tipo": "Clube",
+      "jogos": 282,
+      "gols": 146,
+      "assistencias": 164,
+      "pagina": "pages/clubes/escobar-vasco.html",
+      "descricao": "Início vencedor com Libertadores, Brasileirão e muita criação ofensiva."
+    },
+    {
+      "id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 2,
+      "clube": "Bayern de Munique",
+      "clube_nome_completo": "Bayern de Munique",
+      "tipo": "Clube",
+      "jogos": 117,
+      "gols": 58,
+      "assistencias": 94,
+      "pagina": "pages/clubes/escobar-bayern.html",
+      "descricao": "Passagem intensa com volume criativo e força em noites europeias."
+    },
+    {
+      "id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 3,
+      "clube": "Barcelona",
+      "clube_nome_completo": "Barcelona",
+      "tipo": "Clube",
+      "jogos": 289,
+      "gols": 118,
+      "assistencias": 195,
+      "pagina": "pages/clubes/escobar-barca.html",
+      "descricao": "Grande auge técnico com LaLiga, Copa do Rey e brilho continental."
+    },
+    {
+      "id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 4,
+      "clube": "Paris Saint-Germain",
+      "clube_nome_completo": "Paris Saint-Germain",
+      "tipo": "Clube",
+      "jogos": 101,
+      "gols": 58,
+      "assistencias": 83,
+      "pagina": "pages/clubes/escobar-psg.html",
+      "descricao": "Nova fase de elite com empilhamento de taças em Paris."
+    },
+    {
+      "id": "escobar-gremio-5",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 5,
+      "clube": "Grêmio",
+      "clube_nome_completo": "Grêmio",
+      "tipo": "Clube",
+      "jogos": 19,
+      "gols": 18,
+      "assistencias": 19,
+      "pagina": "pages/clubes/escobar-gremio.html",
+      "descricao": "Trecho curto, intenso e com impacto direto em competição eliminatória."
+    },
+    {
+      "id": "escobar-bolivia-6",
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "ordem": 6,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 125,
+      "gols": 44,
+      "assistencias": 43,
+      "pagina": "pages/clubes/escobar-bolivia.html",
+      "descricao": "Seleção sem troféus, mas com consistência em ciclos longos e grandes torneios."
+    },
+    {
+      "id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "ordem": 1,
+      "clube": "Oriente Petrolero",
+      "clube_nome_completo": "Oriente Petrolero",
+      "tipo": "Clube",
+      "jogos": 91,
+      "gols": 62,
+      "assistencias": 44,
+      "pagina": "pages/clubes/salazar-oriente.html",
+      "descricao": "Primeiro clube — Liga e Copa Boliviana conquistadas logo de início."
+    },
+    {
+      "id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "ordem": 2,
+      "clube": "Ajax",
+      "clube_nome_completo": "Ajax",
+      "tipo": "Clube",
+      "jogos": 99,
+      "gols": 76,
+      "assistencias": 71,
+      "pagina": "pages/clubes/salazar-ajax.html",
+      "descricao": "76 gols, Eredivisie, KNVB e Europa League — três taças europeias."
+    },
+    {
+      "id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "ordem": 3,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 31,
+      "gols": 25,
+      "assistencias": 24,
+      "pagina": "pages/clubes/salazar-bolivia.html",
+      "descricao": "31 jogos pela seleção — e campeão do mundo."
+    },
+    {
+      "id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "ordem": 1,
+      "clube": "Nacional de Potosí",
+      "clube_nome_completo": "Nacional de Potosí",
+      "tipo": "Clube",
+      "jogos": 81,
+      "gols": 26,
+      "assistencias": 48,
+      "pagina": "pages/clubes/guarita-fonseca-potosi.html",
+      "descricao": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador."
+    },
+    {
+      "id": "guarita-fonseca-bolivia-2",
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "ordem": 2,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 14,
+      "gols": 6,
+      "assistencias": 6,
+      "pagina": "pages/clubes/guarita-fonseca-bolivia.html",
+      "descricao": "Titular na Copa do Mundo campeã — e a história mal começou."
+    },
+    {
+      "id": "moreno-escobar-the-strongest-1",
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "ordem": 1,
+      "clube": "The Strongest",
+      "clube_nome_completo": "The Strongest",
+      "tipo": "Clube",
+      "jogos": 33,
+      "gols": 50,
+      "assistencias": 5,
+      "pagina": "pages/clubes/moreno-escobar-the-strongest.html",
+      "descricao": "Estreia profissional e artilharia imediata na Copa Boliviana."
+    },
+    {
+      "id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "ordem": 2,
+      "clube": "Corinthians",
+      "clube_nome_completo": "Corinthians",
+      "tipo": "Clube",
+      "jogos": 85,
+      "gols": 175,
+      "assistencias": 22,
+      "pagina": "pages/clubes/moreno-escobar-corinthians.html",
+      "descricao": "175 gols em duas temporadas e quatro prêmios individuais."
+    },
+    {
+      "id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "ordem": 3,
+      "clube": "Olympique de Marseille",
+      "clube_nome_completo": "Olympique de Marseille",
+      "tipo": "Clube",
+      "jogos": 23,
+      "gols": 22,
+      "assistencias": 2,
+      "pagina": "pages/clubes/moreno-escobar-marseille.html",
+      "descricao": "Primeira experiência europeia com gols na Ligue 1 e na Europa League."
+    },
+    {
+      "id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "ordem": 4,
+      "clube": "Bolívia",
+      "clube_nome_completo": "Bolívia",
+      "tipo": "Seleção",
+      "jogos": 21,
+      "gols": 23,
+      "assistencias": 9,
+      "pagina": "pages/clubes/moreno-escobar-bolivia.html",
+      "descricao": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo."
+    }
+  ],
+  "desempenho_por_competicao": [
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "competicao": "LaLiga",
+      "jogos": 178,
+      "gols": 140,
+      "assistencias": 123
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "competicao": "Copa del Rey",
+      "jogos": 22,
+      "gols": 14,
+      "assistencias": 23
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "competicao": "Supercopa da Espanha",
+      "jogos": 9,
+      "gols": 6,
+      "assistencias": 5
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "competicao": "Champions League",
+      "jogos": 68,
+      "gols": 59,
+      "assistencias": 44
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "competicao": "Bundesliga",
+      "jogos": 74,
+      "gols": 36,
+      "assistencias": 65
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "competicao": "Copa da Alemanha (DFB-Pokal)",
+      "jogos": 6,
+      "gols": 4,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "competicao": "Supercopa da Alemanha (DFL Supercup)",
+      "jogos": 2,
+      "gols": 3,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "competicao": "Champions League",
+      "jogos": 28,
+      "gols": 11,
+      "assistencias": 16
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "competicao": "Super Mundial",
+      "jogos": 7,
+      "gols": 4,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "escobar-bolivia-6",
+      "jogador": "Escobar",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 60,
+      "gols": 16,
+      "assistencias": 20
+    },
+    {
+      "passagem_id": "escobar-bolivia-6",
+      "jogador": "Escobar",
+      "clube": "Bolívia",
+      "competicao": "Copa América",
+      "jogos": 11,
+      "gols": 9,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "escobar-bolivia-6",
+      "jogador": "Escobar",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 16,
+      "gols": 7,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "escobar-bolivia-6",
+      "jogador": "Escobar",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 36,
+      "gols": 13,
+      "assistencias": 12
+    },
+    {
+      "passagem_id": "escobar-gremio-5",
+      "jogador": "Escobar",
+      "clube": "Grêmio",
+      "competicao": "Brasileirão",
+      "jogos": 11,
+      "gols": 9,
+      "assistencias": 14
+    },
+    {
+      "passagem_id": "escobar-gremio-5",
+      "jogador": "Escobar",
+      "clube": "Grêmio",
+      "competicao": "Copa do Brasil",
+      "jogos": 3,
+      "gols": 6,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "escobar-gremio-5",
+      "jogador": "Escobar",
+      "clube": "Grêmio",
+      "competicao": "Libertadores",
+      "jogos": 5,
+      "gols": 3,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Ligue 1",
+      "jogos": 59,
+      "gols": 32,
+      "assistencias": 54
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Copa da França",
+      "jogos": 9,
+      "gols": 14,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Supercopa da França",
+      "jogos": 1,
+      "gols": 0,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Supercopa da Europa",
+      "jogos": 1,
+      "gols": 1,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Champions League",
+      "jogos": 14,
+      "gols": 12,
+      "assistencias": 18
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Mundial de Clubes",
+      "jogos": 1,
+      "gols": 0,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Super Mundial",
+      "jogos": 6,
+      "gols": 0,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Brasileirão",
+      "jogos": 187,
+      "gols": 93,
+      "assistencias": 111
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Copa do Brasil",
+      "jogos": 15,
+      "gols": 12,
+      "assistencias": 11
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Libertadores",
+      "jogos": 61,
+      "gols": 37,
+      "assistencias": 32
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Recopa Sul-Americana",
+      "jogos": 6,
+      "gols": 3,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Supercopa Rei",
+      "jogos": 3,
+      "gols": 0,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Mundial de Clubes",
+      "jogos": 6,
+      "gols": 0,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "competicao": "Super Mundial",
+      "jogos": 4,
+      "gols": 1,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "competicao": "Bundesliga",
+      "jogos": 139,
+      "gols": 161,
+      "assistencias": 41
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "competicao": "Copa da Alemanha (DFB-Pokal)",
+      "jogos": 13,
+      "gols": 16,
+      "assistencias": 5
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "competicao": "Supercopa da Alemanha (DFL Supercup)",
+      "jogos": 4,
+      "gols": 1,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "competicao": "Champions League",
+      "jogos": 52,
+      "gols": 49,
+      "assistencias": 15
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "competicao": "Super Mundial",
+      "jogos": 7,
+      "gols": 9,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "fonseca-bolivia-5",
+      "jogador": "Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 64,
+      "gols": 31,
+      "assistencias": 13
+    },
+    {
+      "passagem_id": "fonseca-bolivia-5",
+      "jogador": "Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Copa América",
+      "jogos": 11,
+      "gols": 4,
+      "assistencias": 6
+    },
+    {
+      "passagem_id": "fonseca-bolivia-5",
+      "jogador": "Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 22,
+      "gols": 16,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "fonseca-bolivia-5",
+      "jogador": "Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 39,
+      "gols": 15,
+      "assistencias": 10
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Premier League",
+      "jogos": 213,
+      "gols": 204,
+      "assistencias": 61
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Carabao Cup",
+      "jogos": 31,
+      "gols": 22,
+      "assistencias": 11
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "FA Cup",
+      "jogos": 23,
+      "gols": 25,
+      "assistencias": 12
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Community Shield",
+      "jogos": 2,
+      "gols": 1,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Supercopa da Europa",
+      "jogos": 1,
+      "gols": 0,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Champions League",
+      "jogos": 77,
+      "gols": 82,
+      "assistencias": 48
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Mundial de Clubes",
+      "jogos": 1,
+      "gols": 2,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "competicao": "Super Mundial",
+      "jogos": 15,
+      "gols": 9,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "competicao": "Serie A",
+      "jogos": 45,
+      "gols": 56,
+      "assistencias": 14
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "competicao": "Copa da Itália (Coppa Italia)",
+      "jogos": 2,
+      "gols": 1,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "competicao": "Supercopa da Itália",
+      "jogos": 0,
+      "gols": 0,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "competicao": "Champions League",
+      "jogos": 14,
+      "gols": 12,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Brasileirão",
+      "jogos": 159,
+      "gols": 118,
+      "assistencias": 34
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Copa do Brasil",
+      "jogos": 14,
+      "gols": 16,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Libertadores",
+      "jogos": 57,
+      "gols": 44,
+      "assistencias": 22
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Recopa Sul-Americana",
+      "jogos": 3,
+      "gols": 2,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Supercopa Rei",
+      "jogos": 1,
+      "gols": 0,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Mundial de Clubes",
+      "jogos": 3,
+      "gols": 0,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "competicao": "Super Mundial",
+      "jogos": 5,
+      "gols": 1,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 86,
+      "gols": 55,
+      "assistencias": 59
+    },
+    {
+      "passagem_id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "clube": "Bolívia",
+      "competicao": "Copa América",
+      "jogos": 24,
+      "gols": 5,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 26,
+      "gols": 13,
+      "assistencias": 18
+    },
+    {
+      "passagem_id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 58,
+      "gols": 28,
+      "assistencias": 34
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "competicao": "Liga Boliviana",
+      "jogos": 88,
+      "gols": 37,
+      "assistencias": 60
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "competicao": "Copa Boliviana",
+      "jogos": 23,
+      "gols": 7,
+      "assistencias": 10
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "competicao": "Sul-Americana",
+      "jogos": 17,
+      "gols": 10,
+      "assistencias": 12
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "competicao": "Libertadores",
+      "jogos": 6,
+      "gols": 0,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Ligue 1",
+      "jogos": 260,
+      "gols": 139,
+      "assistencias": 199
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Copa da França",
+      "jogos": 32,
+      "gols": 19,
+      "assistencias": 34
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Supercopa da França",
+      "jogos": 9,
+      "gols": 2,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Supercopa da Europa",
+      "jogos": 5,
+      "gols": 0,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Champions League",
+      "jogos": 116,
+      "gols": 57,
+      "assistencias": 129
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Mundial de Clubes",
+      "jogos": 5,
+      "gols": 8,
+      "assistencias": 7
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "competicao": "Super Mundial",
+      "jogos": 1,
+      "gols": 1,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Brasileirão",
+      "jogos": 296,
+      "gols": 142,
+      "assistencias": 213
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Brasileirão Série B",
+      "jogos": 74,
+      "gols": 30,
+      "assistencias": 43
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Copa do Brasil",
+      "jogos": 30,
+      "gols": 15,
+      "assistencias": 23
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Sul-Americana",
+      "jogos": 12,
+      "gols": 4,
+      "assistencias": 10
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Libertadores",
+      "jogos": 92,
+      "gols": 50,
+      "assistencias": 93
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Recopa Sul-Americana",
+      "jogos": 6,
+      "gols": 3,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Supercopa Rei",
+      "jogos": 5,
+      "gols": 4,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Mundial de Clubes",
+      "jogos": 10,
+      "gols": 6,
+      "assistencias": 5
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "competicao": "Super Mundial",
+      "jogos": 5,
+      "gols": 0,
+      "assistencias": 6
+    },
+    {
+      "passagem_id": "guarita-fonseca-bolivia-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 4,
+      "gols": 1,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-bolivia-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 2,
+      "gols": 2,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-bolivia-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 8,
+      "gols": 3,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "clube": "Nacional de Potosí",
+      "competicao": "Liga Boliviana",
+      "jogos": 55,
+      "gols": 14,
+      "assistencias": 37
+    },
+    {
+      "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "clube": "Nacional de Potosí",
+      "competicao": "Copa Boliviana",
+      "jogos": 18,
+      "gols": 10,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "clube": "Nacional de Potosí",
+      "competicao": "Libertadores",
+      "jogos": 8,
+      "gols": 2,
+      "assistencias": 9
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 10,
+      "gols": 8,
+      "assistencias": 5
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "competicao": "Copa América",
+      "jogos": 1,
+      "gols": 2,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 2,
+      "gols": 0,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 8,
+      "gols": 13,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "competicao": "Brasileirão",
+      "jogos": 67,
+      "gols": 118,
+      "assistencias": 10
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "competicao": "Copa do Brasil",
+      "jogos": 11,
+      "gols": 30,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "competicao": "Supercopa Rei",
+      "jogos": 34,
+      "gols": 68,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "competicao": "Libertadores",
+      "jogos": 12,
+      "gols": 27,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "competicao": "Ligue 1",
+      "jogos": 16,
+      "gols": 13,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "competicao": "Copa da França",
+      "jogos": 2,
+      "gols": 2,
+      "assistencias": 0
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "competicao": "Europa League",
+      "jogos": 5,
+      "gols": 7,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-the-strongest-1",
+      "jogador": "Moreno Escobar",
+      "clube": "The Strongest",
+      "competicao": "Copa Boliviana",
+      "jogos": 9,
+      "gols": 18,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-the-strongest-1",
+      "jogador": "Moreno Escobar",
+      "clube": "The Strongest",
+      "competicao": "Liga Boliviana",
+      "jogos": 22,
+      "gols": 30,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-the-strongest-1",
+      "jogador": "Moreno Escobar",
+      "clube": "The Strongest",
+      "competicao": "Libertadores",
+      "jogos": 2,
+      "gols": 2,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "competicao": "Eredivisie",
+      "jogos": 69,
+      "gols": 55,
+      "assistencias": 54
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "competicao": "KNVB Beker",
+      "jogos": 11,
+      "gols": 8,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "competicao": "Europa League",
+      "jogos": 19,
+      "gols": 13,
+      "assistencias": 13
+    },
+    {
+      "passagem_id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "clube": "Bolívia",
+      "competicao": "Eliminatórias",
+      "jogos": 18,
+      "gols": 16,
+      "assistencias": 9
+    },
+    {
+      "passagem_id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "clube": "Bolívia",
+      "competicao": "Copa América",
+      "jogos": 3,
+      "gols": 3,
+      "assistencias": 1
+    },
+    {
+      "passagem_id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "clube": "Bolívia",
+      "competicao": "Amistosos",
+      "jogos": 2,
+      "gols": 3,
+      "assistencias": 3
+    },
+    {
+      "passagem_id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "clube": "Bolívia",
+      "competicao": "Copa do Mundo",
+      "jogos": 8,
+      "gols": 3,
+      "assistencias": 11
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "competicao": "Copa Boliviana",
+      "jogos": 19,
+      "gols": 13,
+      "assistencias": 5
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "competicao": "Liga Boliviana",
+      "jogos": 54,
+      "gols": 37,
+      "assistencias": 31
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "competicao": "Libertadores",
+      "jogos": 6,
+      "gols": 4,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "competicao": "Sul-Americana",
+      "jogos": 12,
+      "gols": 8,
+      "assistencias": 7
+    }
+  ],
+  "conquistas_por_passagem": [
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "LaLiga",
+      "quantidade": 5
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Rey",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Espanha",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-barcelona-3",
+      "jogador": "Escobar",
+      "clube": "Barcelona",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Bundesliga",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Alemanha (DFL Supercup)",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-bayern-de-munique-2",
+      "jogador": "Escobar",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Copa da Alemanha (DFB-Pokal)",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-gremio-5",
+      "jogador": "Escobar",
+      "clube": "Grêmio",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da França",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-paris-saint-germain-4",
+      "jogador": "Escobar",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "escobar-vasco-1",
+      "jogador": "Escobar",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Bundesliga",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Alemanha (DFL Supercup)",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "fonseca-bayern-de-munique-2",
+      "jogador": "Fonseca",
+      "clube": "Bayern de Munique",
+      "categoria": "Título coletivo",
+      "nome": "Copa da Alemanha (DFB-Pokal)",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "Premier League",
+      "quantidade": 6
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "Carabao Cup",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "FA Cup",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Inglaterra",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-manchester-city-3",
+      "jogador": "Fonseca",
+      "clube": "Manchester City",
+      "categoria": "Título coletivo",
+      "nome": "Super Mundial",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Itália",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "fonseca-milan-4",
+      "jogador": "Fonseca",
+      "clube": "Milan",
+      "categoria": "Título coletivo",
+      "nome": "Serie A",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "fonseca-vasco-1",
+      "jogador": "Fonseca",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "garcia-bolivia-4",
+      "jogador": "Garcia",
+      "clube": "Bolívia",
+      "categoria": "Título coletivo",
+      "nome": "Copa América",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "garcia-oriente-petrolero-1",
+      "jogador": "Garcia",
+      "clube": "Oriente Petrolero",
+      "categoria": "Título coletivo",
+      "nome": "Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 10
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da França",
+      "quantidade": 9
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 7
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 5
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 5
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "garcia-paris-saint-germain-3",
+      "jogador": "Garcia",
+      "clube": "Paris Saint-Germain",
+      "categoria": "Título coletivo",
+      "nome": "Super Mundial",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 5
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 4
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão Série B",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "garcia-vasco-2",
+      "jogador": "Garcia",
+      "clube": "Vasco",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-bolivia-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Bolívia",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "clube": "Nacional de Potosí",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
+      "jogador": "Guarita Fonseca",
+      "clube": "Nacional de Potosí",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Liga Boliviana",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-bolivia-4",
+      "jogador": "Moreno Escobar",
+      "clube": "Bolívia",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor do Brasileirão",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro do Brasileirão",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-corinthians-2",
+      "jogador": "Moreno Escobar",
+      "clube": "Corinthians",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "moreno-escobar-the-strongest-1",
+      "jogador": "Moreno Escobar",
+      "clube": "The Strongest",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Título coletivo",
+      "nome": "Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Título coletivo",
+      "nome": "KNVB Beker",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Título coletivo",
+      "nome": "Europa League",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da KNVB Beker",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-bolivia-3",
+      "jogador": "Salazar",
+      "clube": "Bolívia",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "salazar-oriente-petrolero-1",
+      "jogador": "Salazar",
+      "clube": "Oriente Petrolero",
+      "categoria": "Título coletivo",
+      "nome": "Copa Boliviana",
+      "quantidade": 1
+    }
+  ],
+  "conquistas_por_jogador": [
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão Série B",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 10
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da França",
+      "quantidade": 9
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 7
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 6
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Super Mundial",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Título coletivo",
+      "nome": "Copa América",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador do Brasileirão Série A",
+      "quantidade": 6
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador do Brasileirão Série B",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Rei da América",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa América",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Coupe de France",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Liga Boliviana",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Garcia",
+      "jogador_slug": "garcia",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Ligue 1",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Bundesliga",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Alemanha (DFL Supercup)",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Copa da Alemanha (DFB-Pokal)",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Premier League",
+      "quantidade": 6
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Carabao Cup",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "FA Cup",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Inglaterra",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Super Mundial",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Itália",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Serie A",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro do Brasileirão",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa do Brasil",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Bundesliga",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Bundesliga",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da DFB Pokal",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da DFB Pokal",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da FA Cup",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Carabao Cup",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Premier League",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Premier League",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Chuteira de Ouro",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Fonseca",
+      "jogador_slug": "fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Bola de Ouro",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Libertadores",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Recopa Sul-Americana",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Bundesliga",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Alemanha (DFL Supercup)",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa da Alemanha (DFB-Pokal)",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "LaLiga",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Rey",
+      "quantidade": 4
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Espanha",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Mundial de Clubes",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da França",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Bundesliga",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da DFB Pokal",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilharia da LaLiga",
+      "quantidade": 3
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da LaLiga",
+      "quantidade": 5
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa do Rey",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Rei da América",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa do Brasil",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador do Brasileirão",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Escobar",
+      "jogador_slug": "escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Bola de Ouro",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "KNVB Beker",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Europa League",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Liga Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Eredivisie",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da KNVB Beker",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Liga Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Liga Boliviana",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Brasileirão",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa Rei",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Copa do Mundo",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor do Brasileirão",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro do Brasileirão",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa do Brasil",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa do Mundo",
+      "quantidade": 1
+    }
+  ],
+  "checks": [
+    {
+      "jogador": "Garcia",
+      "jogos_hub": 1282,
+      "jogos_reais": 1286,
+      "dif_jogos": 4,
+      "gols_hub": 643,
+      "gols_reais": 647,
+      "dif_gols": 4,
+      "assistencias_hub": 972,
+      "assistencias_reais": 985,
+      "dif_assistencias": 13,
+      "status": "Total real aplicado"
+    },
+    {
+      "jogador": "Fonseca",
+      "jogos_hub": 1049,
+      "jogos_reais": 1032,
+      "dif_jogos": -17,
+      "gols_hub": 908,
+      "gols_reais": 903,
+      "dif_gols": -5,
+      "assistencias_hub": 294,
+      "assistencias_reais": 289,
+      "dif_assistencias": -5,
+      "status": "Total real aplicado"
+    },
+    {
+      "jogador": "Escobar",
+      "jogos_hub": 933,
+      "jogos_reais": 933,
+      "dif_jogos": 0,
+      "gols_hub": 442,
+      "gols_reais": 442,
+      "dif_gols": 0,
+      "assistencias_hub": 588,
+      "assistencias_reais": 598,
+      "dif_assistencias": 10,
+      "status": "Total real aplicado"
+    },
+    {
+      "jogador": "Salazar",
+      "jogos_hub": 221,
+      "jogos_reais": 221,
+      "dif_jogos": 0,
+      "gols_hub": 159,
+      "gols_reais": 163,
+      "dif_gols": 4,
+      "assistencias_hub": 139,
+      "assistencias_reais": 139,
+      "dif_assistencias": 0,
+      "status": "Total real aplicado"
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogos_hub": 95,
+      "jogos_reais": 95,
+      "dif_jogos": 0,
+      "gols_hub": 32,
+      "gols_reais": 32,
+      "dif_gols": 0,
+      "assistencias_hub": 54,
+      "assistencias_reais": 54,
+      "dif_assistencias": 0,
+      "status": "OK"
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogos_hub": 162,
+      "jogos_reais": 162,
+      "dif_jogos": 0,
+      "gols_hub": 270,
+      "gols_reais": 270,
+      "dif_gols": 0,
+      "assistencias_hub": 38,
+      "assistencias_reais": 38,
+      "dif_assistencias": 0,
+      "status": "OK"
+    }
+  ]
+}

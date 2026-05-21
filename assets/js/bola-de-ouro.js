@@ -1,6 +1,8 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
 const ballonYears = Array.from({ length: 26 }, (_, i) => 2026 + i);
+const ballonDataUrl = new URL("../data/bola-de-ouro.json", document.currentScript.src);
+let ballonStatsFromDatabase = null;
 
 // Posição = índice + 1 (índice 0 = 1º lugar)
 const ballonData = {
@@ -46,8 +48,47 @@ function getBallonImgName(yearShort, file) {
   return file;
 }
 
+async function loadBallonDataFromDatabase() {
+  const response = await fetch(ballonDataUrl);
+  if (!response.ok) {
+    throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
+  }
+
+  const payload = await response.json();
+  Object.keys(ballonData).forEach((year) => {
+    if (Number(year) <= 2050) delete ballonData[year];
+  });
+
+  Object.entries(payload.rankingsByYear).forEach(([year, ranking]) => {
+    ballonData[year] = ranking
+      .sort((left, right) => left.position - right.position)
+      .map((item) => item.player);
+  });
+  ballonData[2051] = null;
+
+  ballonStatsFromDatabase = payload.playerStats.reduce((accumulator, player) => {
+    const positions = String(player.history || "")
+      .split(";")
+      .map((entry) => {
+        const match = entry.trim().match(/^(\d{4}):\s*(\d+)/);
+        return match ? { year: Number(match[1]), pos: Number(match[2]) } : null;
+      })
+      .filter(Boolean);
+
+    accumulator[player.player] = {
+      nominations: player.nominations,
+      top1: player.wins,
+      top2: player.seconds,
+      top3: player.thirds,
+      positions
+    };
+    return accumulator;
+  }, {});
+}
+
 // ── Computar estatísticas por jogador ────────────────────────────────────────
 function computeBallonStats() {
+  if (ballonStatsFromDatabase) return ballonStatsFromDatabase;
   const stats = {}; // nome → { nominations, top3, top2, top1, positions: [] }
 
   for (const [yearStr, list] of Object.entries(ballonData)) {
@@ -212,9 +253,15 @@ function closeBallonModal() {
 }
 
 // ── Init ─────────────────────────────────────────────────────────────────────
-function initBallonSection() {
+async function initBallonSection() {
   const select = document.getElementById('ballon-year-select');
   if (!select) return;
+
+  try {
+    await loadBallonDataFromDatabase();
+  } catch (error) {
+    console.warn("Usando dados embutidos da Bola de Ouro como fallback.", error);
+  }
 
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
