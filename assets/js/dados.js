@@ -104,7 +104,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/Campeonato_Brasileiro_Serie_A_logo_2024.png",
     winners: { 2026: "Palmeiras", 2027: "Flamengo", 2028: "Gremio", 2029: "Gremio", 2030: "Vasco", 2031: "Sao Paulo", 2032: "Sao Paulo", 2033: "Sao Paulo", 2034: "Sao Paulo", 2035: "Cruzeiro", 2036: "Palmeiras", 2037: "Flamengo", 2038: "Corinthians", 2039: "Flamengo", 2040: "Sao Paulo", 2041: "Ceara", 2042: "Vasco", 2043: "Vasco", 2044: "Vasco", 2045: "Sao Paulo", 2046: "Vasco", 2047: "Flamengo", 2048: "Palmeiras", 2049: "Corinthians", 2050: "Gremio" },
-    top: [{ team: "Palmeiras", titles: 15 }, { team: "Flamengo", titles: 13 }, { team: "Sao Paulo", titles: 12 }, { team: "Vasco", titles: 9 }, { team: "Santos", titles: 8 }, { team: "Corinthians", titles: 9 }]
+    top: [{ team: "Palmeiras", titles: 14 }, { team: "Sao Paulo", titles: 12 }, { team: "Flamengo", titles: 12 }, { team: "Vasco", titles: 9 }, { team: "Corinthians", titles: 9 }, { team: "Santos", titles: 8 }, { team: "Cruzeiro", titles: 5 }, { team: "Gremio", titles: 5 }, { team: "Fluminense", titles: 4 }, { team: "Atletico Mineiro", titles: 3 }, { team: "Internacional", titles: 3 }, { team: "Bahia", titles: 2 }, { team: "Botafogo", titles: 2 }, { team: "Guarani", titles: 1 }, { team: "Coritiba", titles: 1 }, { team: "Sport", titles: 1 }, { team: "Atlético Paranaense", titles: 1 }, { team: "Ceará", titles: 1 }]
   },
   {
     id: "copa-brasil",
@@ -115,7 +115,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/CopaDoBrasil.png",
     winners: { 2026: "Palmeiras", 2027: "Cruzeiro", 2028: "Gremio", 2029: "Palmeiras", 2030: "Vasco", 2031: "Flamengo", 2032: "Flamengo", 2033: "Palmeiras", 2034: "Gremio", 2035: "Sao Paulo", 2036: "Sao Paulo", 2037: "Sao Paulo", 2038: "Corinthians", 2039: "Sao Paulo", 2040: "Vasco", 2041: "Gremio", 2042: "Gremio", 2043: "Gremio", 2044: "Santos", 2045: "Cruzeiro", 2046: "Vasco", 2047: "Flamengo", 2048: "Corinthians", 2049: "Corinthians", 2050: "Sao Paulo" },
-    top: [{ team: "Gremio", titles: 10 }, { team: "Cruzeiro", titles: 8 }, { team: "Flamengo", titles: 8 }, { team: "Corinthians", titles: 7 }, { team: "Palmeiras", titles: 8 }, { team: "Corinthians", titles: 5 }, { team: "Sao Paulo", titles: 6 }, { team: "Vasco", titles: 4 }]
+    top: [{ team: "Gremio", titles: 11 }, { team: "Corinthians", titles: 9 }, { team: "Cruzeiro", titles: 8 }, { team: "Flamengo", titles: 7 }, { team: "Palmeiras", titles: 6 }, { team: "Sao Paulo", titles: 6 }, { team: "Vasco", titles: 4 }, { team: "Santos", titles: 2 }, { team: "Atletico Mineiro", titles: 2 }, { team: "Criciúma", titles: 1 }, { team: "Internacional", titles: 1 }, { team: "Juventude", titles: 1 }, { team: "Santo André", titles: 1 }, { team: "Paulista", titles: 1 }, { team: "Fluminense", titles: 1 }, { team: "Atletico Paranaense", titles: 1 }]
   },
   {
     id: "supercopa-br",
@@ -313,7 +313,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/Logo_UEFA_Champions_League.png",
     winners: { 2026: "Barcelona", 2027: "Bayern", 2028: "Arsenal", 2029: "Liverpool", 2030: "Barcelona", 2031: "PSG", 2032: "PSG", 2033: "PSG", 2034: "Manchester City", 2035: "Manchester City", 2036: "Frankfurt", 2037: "PSG", 2038: "Barcelona", 2039: "PSG", 2040: "Real Madrid", 2041: "PSG", 2042: "Real Madrid", 2043: "Juventus", 2044: "Bayern", 2045: "Real Madrid", 2046: "Manchester City", 2047: "Real Madrid", 2048: "Barcelona", 2049: "Inter", 2050: "Barcelona" },
-    top: [{ team: "Real Madrid", titles: 19 }, { team: "Bayern", titles: 8 }, { team: "Barcelona", titles: 10 }, { team: "Inter", titles: 4 }, { team: "Liverpool", titles: 7 }, { team: "Milan", titles: 7 }, { team: "PSG", titles: 7 }, { team: "Manchester City", titles: 4 }]
+    top: [{ team: "Real Madrid", titles: 19 }, { team: "Barcelona", titles: 10 }, { team: "Bayern", titles: 8 }, { team: "Milan", titles: 7 }, { team: "Liverpool", titles: 7 }, { team: "PSG", titles: 7 }, { team: "Inter", titles: 4 }, { team: "Ajax", titles: 4 }, { team: "Manchester City", titles: 4 }, { team: "Manchester United", titles: 3 }, { team: "Juventus", titles: 3 }, { team: "Benfica", titles: 2 }, { team: "Nottingham Forest", titles: 2 }, { team: "Porto", titles: 2 }, { team: "Chelsea", titles: 2 }, { team: "Celtic", titles: 1 }, { team: "Feyenoord", titles: 1 }, { team: "Aston Villa", titles: 1 }, { team: "Hamburgo", titles: 1 }, { team: "Steaua Bucharest", titles: 1 }, { team: "PSV Eindhoven", titles: 1 }, { team: "Red Star Belgrade", titles: 1 }, { team: "Marseille", titles: 1 }, { team: "Borussia Dortmund", titles: 1 }, { team: "Arsenal", titles: 1 }, { team: "Frankfurt", titles: 1 }]
   },
   {
     id: "libertadores",
@@ -324,7 +324,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/Conmebol_Libertadores_logo.png",
     winners: { 2026: "River Plate", 2027: "River Plate", 2028: "Gremio", 2029: "Boca Juniors", 2030: "Vasco", 2031: "Flamengo", 2032: "Palmeiras", 2033: "Flamengo", 2034: "Atletico Mineiro", 2035: "Sao Paulo", 2036: "Palmeiras", 2037: "Flamengo", 2038: "Sao Paulo", 2039: "Sao Paulo", 2040: "Palmeiras", 2041: "Vasco", 2042: "Vasco", 2043: "Gremio", 2044: "Vasco", 2045: "Vasco", 2046: "Vasco", 2047: "Palmeiras", 2048: "Estudiantes", 2049: "Flamengo", 2050: "Palmeiras" },
-    top: [{ team: "Independiente", titles: 7 }, { team: "Boca Juniors", titles: 7 }, { team: "Flamengo", titles: 8 }, { team: "Palmeiras", titles: 8 }, { team: "Vasco", titles: 7 }, { team: "Estudiantes", titles: 5 }, { team: "Sao Paulo", titles: 6 }, { team: "River Plate", titles: 6 }, { team: "Gremio", titles: 5 }]
+    top: [{ team: "Flamengo", titles: 8 }, { team: "Palmeiras", titles: 8 }, { team: "Independiente", titles: 7 }, { team: "Boca Juniors", titles: 7 }, { team: "Vasco", titles: 7 }, { team: "River Plate", titles: 6 }, { team: "Sao Paulo", titles: 6 }, { team: "Peñarol", titles: 5 }, { team: "Estudiantes", titles: 5 }, { team: "Gremio", titles: 5 }, { team: "Santos", titles: 3 }, { team: "Nacional", titles: 3 }, { team: "Olimpia", titles: 3 }, { team: "Cruzeiro", titles: 2 }, { team: "Atletico Nacional", titles: 2 }, { team: "Internacional", titles: 2 }, { team: "Atletico Mineiro", titles: 2 }, { team: "Racing", titles: 1 }, { team: "Argentinos Juniors", titles: 1 }, { team: "Colo-Colo", titles: 1 }, { team: "Velez Sarsfield", titles: 1 }, { team: "Once Caldas", titles: 1 }, { team: "LDU Quito", titles: 1 }, { team: "Corinthians", titles: 1 }, { team: "San Lorenzo", titles: 1 }, { team: "Fluminense", titles: 1 }, { team: "Botafogo", titles: 1 }]
   },
   {
     id: "sudamericana",
@@ -357,7 +357,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/UEFA_Europa_League_logo_(2024_version).svg.png",
     winners: { 2026: "Aston Villa", 2027: "Bayer Leverkusen", 2028: "Bologna", 2029: "West Ham", 2030: "Real Madrid", 2031: "Leipzig", 2032: "Real Madrid", 2033: "Juventus", 2034: "Real Madrid", 2035: "Manchester United", 2036: "Roma", 2037: "Napoli", 2038: "Ajax", 2039: "Sevilla", 2040: "Ajax", 2041: "Benfica", 2042: "Roma", 2043: "Nottingham Forest", 2044: "Atletico de Madrid", 2045: "Aston Villa", 2046: "Borussia Dortmund", 2047: "Arsenal", 2048: "Valencia", 2049: "Manchester United", 2050: "Ajax" },
-    top: [{ team: "Sevilla", titles: 8 }, { team: "Real Madrid", titles: 5 }, { team: "Juventus", titles: 4 }, { team: "Tottenham", titles: 3 }, { team: "Liverpool", titles: 3 }, { team: "Atletico de Madrid", titles: 3 }, { team: "Ajax", titles: 3 }, { team: "Inter", titles: 3 }, { team: "Manchester United", titles: 2 }]
+    top: [{ team: "Sevilla", titles: 8 }, { team: "Real Madrid", titles: 5 }, { team: "Juventus", titles: 4 }, { team: "Ajax", titles: 4 }, { team: "Atletico de Madrid", titles: 4 }, { team: "Tottenham", titles: 3 }, { team: "Liverpool", titles: 3 }, { team: "Inter", titles: 3 }, { team: "Manchester United", titles: 3 }, { team: "Aston Villa", titles: 3 }, { team: "Feyenoord", titles: 2 }, { team: "Borussia Monchengladbach", titles: 2 }, { team: "Frankfurt", titles: 2 }, { team: "Göteborg", titles: 2 }, { team: "Bayer Leverkusen", titles: 2 }, { team: "Napoli", titles: 2 }, { team: "Parma", titles: 2 }, { team: "Porto", titles: 2 }, { team: "Valencia", titles: 2 }, { team: "Chelsea", titles: 2 }, { team: "Roma", titles: 2 }, { team: "PSV Eindhoven", titles: 1 }, { team: "Ipswich Town", titles: 1 }, { team: "Anderlecht", titles: 1 }, { team: "Bayern", titles: 1 }, { team: "Schalke 04", titles: 1 }, { team: "Galatasaray", titles: 1 }, { team: "CSKA Moscou", titles: 1 }, { team: "Zenit", titles: 1 }, { team: "Shakhtar Donetsk", titles: 1 }]
   },
   {
     id: "conference-league",
@@ -401,7 +401,7 @@ const competitions = [
     mode: "annual",
     logo: "../../assets/images/icones/UEFA_Super_Cup.png",
     winners: { 2026: "PSG", 2027: "Barcelona", 2028: "Bayer Leverkusen", 2029: "Bologna", 2030: "Liverpool", 2031: "Barcelona", 2032: "PSG", 2033: "PSG", 2034: "PSG", 2035: "Manchester City", 2036: "Manchester United", 2037: "Roma", 2038: "Napoli", 2039: "Barcelona", 2040: "PSG", 2041: "Ajax", 2042: "PSG", 2043: "Real Madrid", 2044: "Nottingham Forest", 2045: "Bayern", 2046: "Real Madrid", 2047: "Manchester City", 2048: "Real Madrid", 2049: "Barcelona", 2050: "Inter" },
-    top: [{ team: "Real Madrid", titles: 11 }, { team: "Barcelona", titles: 9 }, { team: "PSG", titles: 6 }, { team: "Milan", titles: 5 }, { team: "Liverpool", titles: 5 }, { team: "Juventus", titles: 2 }, { team: "Manchester City", titles: 2 }, { team: "Ajax", titles: 3 }, { team: "Inter", titles: 1 }]
+    top: [{ team: "Barcelona", titles: 9 }, { team: "Real Madrid", titles: 9 }, { team: "PSG", titles: 7 }, { team: "Liverpool", titles: 5 }, { team: "Milan", titles: 5 }, { team: "Ajax", titles: 3 }, { team: "Atletico de Madrid", titles: 3 }, { team: "Bayern", titles: 3 }, { team: "Manchester City", titles: 3 }, { team: "Anderlecht", titles: 2 }, { team: "Nottingham Forest", titles: 2 }, { team: "Valencia", titles: 2 }, { team: "Juventus", titles: 2 }, { team: "Manchester United", titles: 2 }, { team: "Chelsea", titles: 2 }, { team: "Dynamo Kyiv", titles: 1 }, { team: "Aston Villa", titles: 1 }, { team: "Aberdeen", titles: 1 }, { team: "Steaua Bucharest", titles: 1 }, { team: "Porto", titles: 1 }, { team: "Mechelen", titles: 1 }, { team: "Parma", titles: 1 }, { team: "Lazio", titles: 1 }, { team: "Galatasaray", titles: 1 }, { team: "Sevilla", titles: 1 }, { team: "Zenit", titles: 1 }, { team: "Bayer Leverkusen", titles: 1 }, { team: "Bologna", titles: 1 }, { team: "Roma", titles: 1 }, { team: "Napoli", titles: 1 }]
   },
   {
     id: "world-cup",
@@ -412,7 +412,7 @@ const competitions = [
     mode: "periodic",
     logo: "../../assets/images/icones/copa_do_mundo.png",
     winners: { 2026: "Spain", 2030: "Spain", 2034: "Portugal", 2038: "Argentina", 2042: "Italy", 2046: "England", 2050: "Bolivia" },
-    top: [{ team: "Brazil", titles: 5 }, { team: "Italy", titles: 5 }, { team: "Germany", titles: 4 }, { team: "Argentina", titles: 4 }, { team: "Spain", titles: 3 }, { team: "France", titles: 2 }, { team: "England", titles: 2 }, { team: "Bolivia", titles: 1 }]
+    top: [{ team: "Italy", titles: 5 }, { team: "Brazil", titles: 5 }, { team: "Germany", titles: 4 }, { team: "Argentina", titles: 4 }, { team: "Spain", titles: 3 }, { team: "Uruguay", titles: 2 }, { team: "England", titles: 2 }, { team: "France", titles: 2 }, { team: "Portugal", titles: 1 }, { team: "Bolivia", titles: 1 }]
   },
   {
     id: "euro",
@@ -423,7 +423,7 @@ const competitions = [
     mode: "periodic",
     logo: "../../assets/images/icones/eurocopa.png",
     winners: { 2028: "Spain", 2032: "Spain", 2036: "Netherlands", 2040: "France", 2044: "France", 2048: "Spain" },
-    top: [{ team: "Spain", titles: 6 }, { team: "France", titles: 4 }, { team: "Germany", titles: 3 }, { team: "Italy", titles: 2 }, { team: "Netherlands", titles: 2 }]
+    top: [{ team: "Spain", titles: 7 }, { team: "France", titles: 4 }, { team: "Germany", titles: 3 }, { team: "Italy", titles: 2 }, { team: "Netherlands", titles: 2 }, { team: "Soviet Union", titles: 1 }, { team: "Czechoslovakia", titles: 1 }, { team: "Dinamarca", titles: 1 }, { team: "Grécia", titles: 1 }, { team: "Portugal", titles: 1 }]
   },
   {
     id: "copa-america",
@@ -434,7 +434,7 @@ const competitions = [
     mode: "periodic",
     logo: "../../assets/images/icones/copa_america.png",
     winners: { 2028: "Bolivia", 2032: "Chile", 2036: "Brazil", 2040: "Brazil", 2044: "Brazil", 2048: "Mexico" },
-    top: [{ team: "Argentina", titles: 16 }, { team: "Uruguay", titles: 15 }, { team: "Brazil", titles: 12 }, { team: "Mexico", titles: 1 }, { team: "Chile", titles: 3 }, { team: "Bolivia", titles: 2 }]
+    top: [{ team: "Argentina", titles: 16 }, { team: "Uruguay", titles: 15 }, { team: "Brazil", titles: 12 }, { team: "Chile", titles: 3 }, { team: "Peru", titles: 2 }, { team: "Paraguay", titles: 2 }, { team: "Bolivia", titles: 2 }, { team: "Colombia", titles: 1 }, { team: "Mexico", titles: 1 }]
   }
 ];
 
