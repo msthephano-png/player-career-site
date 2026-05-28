@@ -50,6 +50,7 @@ function getBallonImgName(yearShort, file) {
 }
 
 async function loadBallonDataFromDatabase() {
+  ballonDataUrl.searchParams.set("v", "2051-sync");
   const response = await fetch(ballonDataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
@@ -268,7 +269,7 @@ async function initBallonSection() {
     const opt = document.createElement('option');
     opt.value = y;
     opt.textContent = y === 2052 ? `${y} · em andamento` : String(y);
-    if (y === 2052) opt.selected = true;
+    if (y === 2051) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -283,7 +284,7 @@ async function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2052);
+  renderBallonSection(2051);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);

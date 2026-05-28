@@ -523,6 +523,7 @@ function applyDatabaseCompetitionData(payload) {
 
 async function loadDatabaseCompetitionData() {
   const dataUrl = new URL("../data/competicoes.json", document.currentScript.src);
+  dataUrl.searchParams.set("v", "2051-sync");
   const response = await fetch(dataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${dataUrl.pathname}`);
@@ -544,7 +545,7 @@ const regionDescriptions = {
 };
 
 const state = {
-  year: 2052,
+  year: 2051,
   competitionId: "brasileirao",
   modalTeam: null
 };
