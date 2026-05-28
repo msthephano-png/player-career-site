@@ -1,4 +1,5 @@
 const galleryDataUrl = new URL("../data/galeria.json", document.currentScript.src);
+galleryDataUrl.searchParams.set("v", "gallery-stable-1");
 const galleryImageBase = "../../assets/images/galeria";
 
 let galleryFiles = [];
@@ -45,6 +46,11 @@ function buildCardTitle(index) {
   return set[index % set.length];
 }
 
+function getGalleryCardClass(index) {
+  const pattern = ["gallery-card--wide", "gallery-card--standard", "gallery-card--tall", "gallery-card--standard", "gallery-card--wide", "gallery-card--square"];
+  return pattern[index % pattern.length];
+}
+
 function showLightboxImage(index) {
   if (!galleryFiles.length) return;
 
@@ -87,8 +93,8 @@ function renderGallery(files) {
 
   galleryWall.innerHTML = galleryFiles
     .map((fileName, index) => `
-      <button class="gallery-card" type="button" data-index="${index}">
-        <img src="${galleryImageBase}/${fileName}" alt="Momento ${index + 1}">
+      <button class="gallery-card ${getGalleryCardClass(index)}" type="button" data-index="${index}">
+        <img src="${galleryImageBase}/${fileName}" alt="Momento ${index + 1}" loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
         <div class="gallery-card__meta">
           <div>
             <div class="gallery-card__title">${buildCardTitle(index)}</div>
