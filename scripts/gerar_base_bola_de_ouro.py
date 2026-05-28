@@ -24,7 +24,7 @@ def extract_ballon_data():
     data = {}
     for year, raw_list in re.findall(r"(\d{4}):\s*(\[[^\]]*\]|null)", body, re.S):
         year_int = int(year)
-        if raw_list == "null" or year_int > 2050:
+        if raw_list == "null" or year_int > 2051:
             continue
         names = re.findall(r'"([^"]*)"', raw_list)
         data[year_int] = names

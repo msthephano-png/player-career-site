@@ -65,7 +65,7 @@ async function loadBallonDataFromDatabase() {
       .sort((left, right) => left.position - right.position)
       .map((item) => item.player);
   });
-  ballonData[2051] = null;
+  if (!ballonData[2052]) ballonData[2052] = null;
 
   ballonStatsFromDatabase = payload.playerStats.reduce((accumulator, player) => {
     const positions = String(player.history || "")
@@ -122,7 +122,7 @@ function renderBallonSection(year) {
     container.innerHTML = `
       <div class="ballon-ongoing">
         <div class="section__eyebrow">Temporada em andamento</div>
-        <h3 class="section__title">2052 · Votação aberta</h3>
+        <h3 class="section__title">${year} · Votação aberta</h3>
         <p class="section__copy">Os indicados ainda não foram anunciados. Acompanhe aqui quando a lista sair.</p>
       </div>`;
     return;
