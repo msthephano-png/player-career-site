@@ -335,6 +335,36 @@ img {
   filter: saturate(1.08);
 }
 
+.portrait-card--button {
+  display: block;
+  cursor: pointer;
+}
+
+.portrait-card--button::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 46%, rgba(2, 4, 8, 0.82) 100%);
+  pointer-events: none;
+}
+
+.portrait-card__badge {
+  position: absolute;
+  left: 22px;
+  right: 22px;
+  bottom: 22px;
+  z-index: 1;
+  display: inline-flex;
+  justify-content: center;
+  padding: 13px 18px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, rgba(245, 201, 106, 0.96), rgba(255, 255, 255, 0.94));
+  color: #10131a;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
 .hub-copy {
   display: flex;
   flex-direction: column;
@@ -1258,6 +1288,7 @@ img {
 }
 
 .lightbox-card__image {
+  position: relative;
   overflow: hidden;
   border-radius: 24px;
   max-height: calc(90vh - 130px);
@@ -1268,6 +1299,130 @@ img {
   height: 100%;
   object-fit: contain;
   background: #05070b;
+}
+
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  width: 54px;
+  height: 54px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  background: rgba(5, 7, 11, 0.72);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 2.1rem;
+  line-height: 1;
+  backdrop-filter: blur(14px);
+  transform: translateY(-50%);
+  transition: transform 180ms ease, background 180ms ease;
+}
+
+.lightbox-nav:hover {
+  background: rgba(245, 201, 106, 0.9);
+  color: #10131a;
+  transform: translateY(-50%) scale(1.05);
+}
+
+.lightbox-nav--prev {
+  left: 16px;
+}
+
+.lightbox-nav--next {
+  right: 16px;
+}
+
+.instagram-body {
+  background:
+    radial-gradient(circle at top left, rgba(245, 201, 106, 0.2), transparent 26%),
+    radial-gradient(circle at bottom right, rgba(24, 167, 120, 0.18), transparent 28%),
+    linear-gradient(150deg, #030407 0%, #0b0f17 55%, #04060a 100%);
+}
+
+.instagram-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 380px);
+  gap: 24px;
+  align-items: center;
+}
+
+.instagram-phone {
+  display: grid;
+  gap: 18px;
+  padding: 18px;
+  border-radius: 34px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04));
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: var(--shadow);
+}
+
+.instagram-phone img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 26px;
+}
+
+.instagram-phone strong {
+  display: block;
+  font-family: var(--title-font);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+
+.instagram-phone span {
+  color: var(--muted);
+}
+
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.instagram-post {
+  position: relative;
+  min-height: 280px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+}
+
+.instagram-post img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 260ms ease, filter 260ms ease;
+}
+
+.instagram-post:hover img {
+  transform: scale(1.05);
+  filter: saturate(1.1);
+}
+
+.instagram-post::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 40%, rgba(4, 6, 10, 0.86) 100%);
+}
+
+.instagram-post span {
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  bottom: 18px;
+  z-index: 1;
+  color: var(--text);
+  font-family: var(--title-font);
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 1.1rem;
 }
 
 .reveal {
@@ -1297,7 +1452,8 @@ img {
   .hub-hero,
   .club-hero,
   .detail-grid,
-  .gallery-hero {
+  .gallery-hero,
+  .instagram-hero {
     grid-template-columns: 1fr;
   }
 

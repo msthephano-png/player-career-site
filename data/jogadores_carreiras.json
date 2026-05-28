@@ -535,11 +535,11 @@
     {
       "slug": "salazar",
       "nome": "Salazar",
-      "jogos": 221,
-      "gols": 163,
-      "assistencias": 139,
-      "titulos_coletivos": 7,
-      "premios_individuais": 4,
+      "jogos": 279,
+      "gols": 206,
+      "assistencias": 184,
+      "titulos_coletivos": 10,
+      "premios_individuais": 5,
       "clubes": [
         {
           "href": "salazar-oriente.html",
@@ -549,12 +549,12 @@
         {
           "href": "salazar-ajax.html",
           "nome": "Ajax",
-          "descricao": "76 gols, Eredivisie, KNVB e Europa League — três taças europeias."
+          "descricao": "113 gols, Champions League, Bola de Ouro. A consagração total."
         },
         {
           "href": "salazar-bolivia.html",
           "nome": "Bolívia",
-          "descricao": "31 jogos pela seleção — e campeão do mundo."
+          "descricao": "39 jogos — e campeão do mundo."
         }
       ],
       "conquistas": [
@@ -571,7 +571,7 @@
         {
           "categoria": "Título coletivo",
           "nome": "Eredivisie",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
@@ -585,13 +585,23 @@
         },
         {
           "categoria": "Título coletivo",
+          "nome": "Champions League",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Johan Cruijff Schaal",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
           "nome": "Copa do Mundo",
           "quantidade": 1
         },
         {
           "categoria": "Prêmio individual",
           "nome": "Melhor da Liga Boliviana",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Prêmio individual",
@@ -607,21 +617,26 @@
           "categoria": "Prêmio individual",
           "nome": "Melhor da KNVB Beker",
           "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Bola de Ouro",
+          "quantidade": 1
         }
       ],
-      "jogos_hub": 221,
-      "gols_hub": 159,
-      "assistencias_hub": 139,
+      "jogos_hub": 279,
+      "gols_hub": 206,
+      "assistencias_hub": 184,
       "dif_jogos_hub": 0,
-      "dif_gols_hub": 4,
+      "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
     },
     {
       "slug": "guarita-fonseca",
       "nome": "Guarita Fonseca",
-      "jogos": 95,
-      "gols": 32,
-      "assistencias": 54,
+      "jogos": 130,
+      "gols": 43,
+      "assistencias": 71,
       "titulos_coletivos": 2,
       "premios_individuais": 2,
       "clubes": [
@@ -629,6 +644,11 @@
           "href": "guarita-fonseca-potosi.html",
           "nome": "Nacional de Potosí",
           "descricao": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador."
+        },
+        {
+          "href": "guarita-fonseca-napoli.html",
+          "nome": "Napoli",
+          "descricao": "Primeira experiência na Serie A e Europa League italiana."
         },
         {
           "href": "guarita-fonseca-bolivia.html",
@@ -653,9 +673,9 @@
           "quantidade": 2
         }
       ],
-      "jogos_hub": 95,
-      "gols_hub": 32,
-      "assistencias_hub": 54,
+      "jogos_hub": 130,
+      "gols_hub": 43,
+      "assistencias_hub": 71,
       "dif_jogos_hub": 0,
       "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
@@ -663,11 +683,11 @@
     {
       "slug": "moreno-escobar",
       "nome": "Moreno Escobar",
-      "jogos": 162,
-      "gols": 270,
-      "assistencias": 38,
-      "titulos_coletivos": 5,
-      "premios_individuais": 6,
+      "jogos": 194,
+      "gols": 301,
+      "assistencias": 44,
+      "titulos_coletivos": 6,
+      "premios_individuais": 9,
       "clubes": [
         {
           "href": "moreno-escobar-the-strongest.html",
@@ -682,7 +702,7 @@
         {
           "href": "moreno-escobar-marseille.html",
           "nome": "Marseille",
-          "descricao": "Primeira experiência europeia com gols na Ligue 1 e na Europa League."
+          "descricao": "Ligue 1 conquistada, 53 gols e três prêmios individuais."
         },
         {
           "href": "moreno-escobar-bolivia.html",
@@ -704,6 +724,11 @@
         {
           "categoria": "Título coletivo",
           "nome": "Supercopa Rei",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Ligue 1",
           "quantidade": 1
         },
         {
@@ -738,13 +763,28 @@
         },
         {
           "categoria": "Prêmio individual",
+          "nome": "Melhor da Ligue 1",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Ligue 1",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Copa da França",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
           "nome": "Artilheiro da Copa do Mundo",
           "quantidade": 1
         }
       ],
-      "jogos_hub": 162,
-      "gols_hub": 270,
-      "assistencias_hub": 38,
+      "jogos_hub": 194,
+      "gols_hub": 301,
+      "assistencias_hub": 44,
       "dif_jogos_hub": 0,
       "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
@@ -983,11 +1023,11 @@
       "clube": "Ajax",
       "clube_nome_completo": "Ajax",
       "tipo": "Clube",
-      "jogos": 99,
-      "gols": 76,
-      "assistencias": 71,
+      "jogos": 149,
+      "gols": 113,
+      "assistencias": 113,
       "pagina": "pages/clubes/salazar-ajax.html",
-      "descricao": "76 gols, Eredivisie, KNVB e Europa League — três taças europeias."
+      "descricao": "113 gols, Champions League, Bola de Ouro. A consagração total."
     },
     {
       "id": "salazar-bolivia-3",
@@ -997,11 +1037,11 @@
       "clube": "Bolívia",
       "clube_nome_completo": "Bolívia",
       "tipo": "Seleção",
-      "jogos": 31,
-      "gols": 25,
-      "assistencias": 24,
+      "jogos": 39,
+      "gols": 31,
+      "assistencias": 27,
       "pagina": "pages/clubes/salazar-bolivia.html",
-      "descricao": "31 jogos pela seleção — e campeão do mundo."
+      "descricao": "39 jogos — e campeão do mundo."
     },
     {
       "id": "guarita-fonseca-nacional-de-potosi-1",
@@ -1018,16 +1058,30 @@
       "descricao": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador."
     },
     {
-      "id": "guarita-fonseca-bolivia-2",
+      "id": "guarita-fonseca-napoli-2",
       "jogador": "Guarita Fonseca",
       "jogador_slug": "guarita-fonseca",
       "ordem": 2,
+      "clube": "Napoli",
+      "clube_nome_completo": "Napoli",
+      "tipo": "Clube",
+      "jogos": 27,
+      "gols": 9,
+      "assistencias": 13,
+      "pagina": "pages/clubes/guarita-fonseca-napoli.html",
+      "descricao": "Primeira experiência na Serie A e Europa League italiana."
+    },
+    {
+      "id": "guarita-fonseca-bolivia-3",
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "ordem": 3,
       "clube": "Bolívia",
       "clube_nome_completo": "Bolívia",
       "tipo": "Seleção",
-      "jogos": 14,
-      "gols": 6,
-      "assistencias": 6,
+      "jogos": 22,
+      "gols": 8,
+      "assistencias": 10,
       "pagina": "pages/clubes/guarita-fonseca-bolivia.html",
       "descricao": "Titular na Copa do Mundo campeã — e a história mal começou."
     },
@@ -1067,11 +1121,11 @@
       "clube": "Olympique de Marseille",
       "clube_nome_completo": "Olympique de Marseille",
       "tipo": "Clube",
-      "jogos": 23,
-      "gols": 22,
-      "assistencias": 2,
+      "jogos": 53,
+      "gols": 53,
+      "assistencias": 8,
       "pagina": "pages/clubes/moreno-escobar-marseille.html",
-      "descricao": "Primeira experiência europeia com gols na Ligue 1 e na Europa League."
+      "descricao": "Ligue 1 conquistada, 53 gols e três prêmios individuais."
     },
     {
       "id": "moreno-escobar-bolivia-4",
@@ -1081,7 +1135,7 @@
       "clube": "Bolívia",
       "clube_nome_completo": "Bolívia",
       "tipo": "Seleção",
-      "jogos": 21,
+      "jogos": 23,
       "gols": 23,
       "assistencias": 9,
       "pagina": "pages/clubes/moreno-escobar-bolivia.html",
@@ -1828,7 +1882,7 @@
       "assistencias": 6
     },
     {
-      "passagem_id": "guarita-fonseca-bolivia-2",
+      "passagem_id": "guarita-fonseca-bolivia-3",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
       "competicao": "Eliminatórias",
@@ -1837,22 +1891,49 @@
       "assistencias": 1
     },
     {
-      "passagem_id": "guarita-fonseca-bolivia-2",
+      "passagem_id": "guarita-fonseca-bolivia-3",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
       "competicao": "Amistosos",
-      "jogos": 2,
-      "gols": 2,
-      "assistencias": 1
+      "jogos": 10,
+      "gols": 4,
+      "assistencias": 5
     },
     {
-      "passagem_id": "guarita-fonseca-bolivia-2",
+      "passagem_id": "guarita-fonseca-bolivia-3",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
       "competicao": "Copa do Mundo",
       "jogos": 8,
       "gols": 3,
       "assistencias": 4
+    },
+    {
+      "passagem_id": "guarita-fonseca-napoli-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Napoli",
+      "competicao": "Serie A",
+      "jogos": 19,
+      "gols": 8,
+      "assistencias": 8
+    },
+    {
+      "passagem_id": "guarita-fonseca-napoli-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Napoli",
+      "competicao": "Coppa Italia",
+      "jogos": 2,
+      "gols": 0,
+      "assistencias": 2
+    },
+    {
+      "passagem_id": "guarita-fonseca-napoli-2",
+      "jogador": "Guarita Fonseca",
+      "clube": "Napoli",
+      "competicao": "Europa League",
+      "jogos": 6,
+      "gols": 1,
+      "assistencias": 3
     },
     {
       "passagem_id": "guarita-fonseca-nacional-de-potosi-1",
@@ -1904,7 +1985,7 @@
       "jogador": "Moreno Escobar",
       "clube": "Bolívia",
       "competicao": "Amistosos",
-      "jogos": 2,
+      "jogos": 4,
       "gols": 0,
       "assistencias": 1
     },
@@ -1958,27 +2039,27 @@
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Ligue 1",
-      "jogos": 16,
-      "gols": 13,
-      "assistencias": 1
+      "jogos": 34,
+      "gols": 35,
+      "assistencias": 4
     },
     {
       "passagem_id": "moreno-escobar-olympique-de-marseille-3",
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Copa da França",
-      "jogos": 2,
-      "gols": 2,
-      "assistencias": 0
+      "jogos": 7,
+      "gols": 8,
+      "assistencias": 2
     },
     {
       "passagem_id": "moreno-escobar-olympique-de-marseille-3",
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Europa League",
-      "jogos": 5,
-      "gols": 7,
-      "assistencias": 1
+      "jogos": 12,
+      "gols": 10,
+      "assistencias": 2
     },
     {
       "passagem_id": "moreno-escobar-the-strongest-1",
@@ -2012,16 +2093,16 @@
       "jogador": "Salazar",
       "clube": "Ajax",
       "competicao": "Eredivisie",
-      "jogos": 69,
-      "gols": 55,
-      "assistencias": 54
+      "jogos": 102,
+      "gols": 82,
+      "assistencias": 85
     },
     {
       "passagem_id": "salazar-ajax-2",
       "jogador": "Salazar",
       "clube": "Ajax",
       "competicao": "KNVB Beker",
-      "jogos": 11,
+      "jogos": 12,
       "gols": 8,
       "assistencias": 4
     },
@@ -2033,6 +2114,15 @@
       "jogos": 19,
       "gols": 13,
       "assistencias": 13
+    },
+    {
+      "passagem_id": "salazar-ajax-2",
+      "jogador": "Salazar",
+      "clube": "Ajax",
+      "competicao": "Champions League",
+      "jogos": 16,
+      "gols": 10,
+      "assistencias": 11
     },
     {
       "passagem_id": "salazar-bolivia-3",
@@ -2057,9 +2147,9 @@
       "jogador": "Salazar",
       "clube": "Bolívia",
       "competicao": "Amistosos",
-      "jogos": 2,
-      "gols": 3,
-      "assistencias": 3
+      "jogos": 10,
+      "gols": 9,
+      "assistencias": 6
     },
     {
       "passagem_id": "salazar-bolivia-3",
@@ -2541,7 +2631,7 @@
       "quantidade": 1
     },
     {
-      "passagem_id": "guarita-fonseca-bolivia-2",
+      "passagem_id": "guarita-fonseca-bolivia-3",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
       "categoria": "Título coletivo",
@@ -2637,6 +2727,38 @@
       "quantidade": 2
     },
     {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa da França",
+      "quantidade": 1
+    },
+    {
       "passagem_id": "moreno-escobar-the-strongest-1",
       "jogador": "Moreno Escobar",
       "clube": "The Strongest",
@@ -2650,7 +2772,7 @@
       "clube": "Ajax",
       "categoria": "Título coletivo",
       "nome": "Eredivisie",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "passagem_id": "salazar-ajax-2",
@@ -2672,24 +2794,16 @@
       "passagem_id": "salazar-ajax-2",
       "jogador": "Salazar",
       "clube": "Ajax",
-      "categoria": "Prêmio individual",
-      "nome": "Melhor da Eredivisie",
+      "categoria": "Título coletivo",
+      "nome": "Champions League",
       "quantidade": 1
     },
     {
       "passagem_id": "salazar-ajax-2",
       "jogador": "Salazar",
       "clube": "Ajax",
-      "categoria": "Prêmio individual",
-      "nome": "Artilheiro da Eredivisie",
-      "quantidade": 1
-    },
-    {
-      "passagem_id": "salazar-ajax-2",
-      "jogador": "Salazar",
-      "clube": "Ajax",
-      "categoria": "Prêmio individual",
-      "nome": "Melhor da KNVB Beker",
+      "categoria": "Título coletivo",
+      "nome": "Johan Cruijff Schaal",
       "quantidade": 1
     },
     {
@@ -3297,7 +3411,7 @@
       "jogador_slug": "salazar",
       "categoria": "Título coletivo",
       "nome": "Eredivisie",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Salazar",
@@ -3317,6 +3431,20 @@
       "jogador": "Salazar",
       "jogador_slug": "salazar",
       "categoria": "Título coletivo",
+      "nome": "Champions League",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Johan Cruijff Schaal",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
       "nome": "Copa do Mundo",
       "quantidade": 1
     },
@@ -3325,7 +3453,7 @@
       "jogador_slug": "salazar",
       "categoria": "Prêmio individual",
       "nome": "Melhor da Liga Boliviana",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Salazar",
@@ -3346,6 +3474,13 @@
       "jogador_slug": "salazar",
       "categoria": "Prêmio individual",
       "nome": "Melhor da KNVB Beker",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Bola de Ouro",
       "quantidade": 1
     },
     {
@@ -3394,6 +3529,13 @@
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Título coletivo",
+      "nome": "Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
       "nome": "Copa do Mundo",
       "quantidade": 1
     },
@@ -3431,6 +3573,27 @@
       "categoria": "Prêmio individual",
       "nome": "Artilheiro da Copa do Brasil",
       "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor da Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Ligue 1",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Copa da França",
+      "quantidade": 1
     },
     {
       "jogador": "Moreno Escobar",
@@ -3482,40 +3645,40 @@
     },
     {
       "jogador": "Salazar",
-      "jogos_hub": 221,
-      "jogos_reais": 221,
+      "jogos_hub": 279,
+      "jogos_reais": 279,
       "dif_jogos": 0,
-      "gols_hub": 159,
-      "gols_reais": 163,
-      "dif_gols": 4,
-      "assistencias_hub": 139,
-      "assistencias_reais": 139,
+      "gols_hub": 206,
+      "gols_reais": 206,
+      "dif_gols": 0,
+      "assistencias_hub": 184,
+      "assistencias_reais": 184,
       "dif_assistencias": 0,
-      "status": "Total real aplicado"
+      "status": "OK"
     },
     {
       "jogador": "Guarita Fonseca",
-      "jogos_hub": 95,
-      "jogos_reais": 95,
+      "jogos_hub": 130,
+      "jogos_reais": 130,
       "dif_jogos": 0,
-      "gols_hub": 32,
-      "gols_reais": 32,
+      "gols_hub": 43,
+      "gols_reais": 43,
       "dif_gols": 0,
-      "assistencias_hub": 54,
-      "assistencias_reais": 54,
+      "assistencias_hub": 71,
+      "assistencias_reais": 71,
       "dif_assistencias": 0,
       "status": "OK"
     },
     {
       "jogador": "Moreno Escobar",
-      "jogos_hub": 162,
-      "jogos_reais": 162,
+      "jogos_hub": 194,
+      "jogos_reais": 194,
       "dif_jogos": 0,
-      "gols_hub": 270,
-      "gols_reais": 270,
+      "gols_hub": 301,
+      "gols_reais": 301,
       "dif_gols": 0,
-      "assistencias_hub": 38,
-      "assistencias_reais": 38,
+      "assistencias_hub": 44,
+      "assistencias_reais": 44,
       "dif_assistencias": 0,
       "status": "OK"
     }

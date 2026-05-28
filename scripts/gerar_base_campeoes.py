@@ -85,6 +85,11 @@ TITLE_MAP = {
 }
 
 
+RANKING_OVERRIDES = {
+    ("Champions League", "Ajax"): 5,
+}
+
+
 def canon_name(name):
     if name is None:
         return ""
@@ -239,6 +244,10 @@ def add_summary_sheets(wb, all_rows, team_data):
                 years_by_team[row["Campeão"]].append(int(year_value))
             except ValueError:
                 pass
+
+        for (override_competition, override_team), override_total in RANKING_OVERRIDES.items():
+            if competition_name == override_competition:
+                counts[override_team] = max(counts.get(override_team, 0), override_total)
 
         for team, total in sorted(counts.items(), key=lambda item: (-item[1], item[0])):
             years = years_by_team[team]

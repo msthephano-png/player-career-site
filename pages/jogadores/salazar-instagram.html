@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Salazar | Instagram Pessoal</title>
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+</head>
+<body class="instagram-body">
+  <main class="page-shell">
+    <nav class="floating-nav reveal">
+      <a class="brand" href="salazar.html"><span class="brand__dot"></span> Voltar para Salazar</a>
+      <a class="ghost-link" href="../../index.html">Home</a>
+    </nav>
+
+    <section class="hero instagram-hero reveal">
+      <div>
+        <div class="hero__eyebrow">@salazar</div>
+        <h1 class="hero__title">Instagram pessoal</h1>
+        <p class="hero__lead">
+          Bastidores, viagens, noite de Champions e aquele caos controlado de craque grande demais para caber so no gramado.
+        </p>
+      </div>
+      <div class="instagram-phone">
+        <img src="../../assets/images/jogadores/salazar_fotinha.png" alt="Foto de perfil do Salazar">
+        <div>
+          <strong>Salazar</strong>
+          <span>Atacante | Bolivia | Ajax</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <div class="gallery-toolbar">
+        <div>
+          <div class="section__eyebrow">Feed pessoal</div>
+          <h2 class="section__title">Salazar Insta</h2>
+        </div>
+        <p id="instagram-count">Carregando fotos...</p>
+      </div>
+      <div class="instagram-grid" id="instagram-grid"></div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="instagram-lightbox" aria-hidden="true">
+    <div class="lightbox-card">
+      <div class="lightbox-card__top">
+        <div>
+          <div class="section__eyebrow">Post ampliado</div>
+          <h3 class="section__title" id="instagram-lightbox-title">Salazar</h3>
+          <p class="section__copy">Use as setas do teclado ou os botoes laterais para navegar.</p>
+        </div>
+        <button class="modal-card__close" id="instagram-lightbox-close" aria-label="Fechar">X</button>
+      </div>
+      <div class="lightbox-card__image">
+        <button class="lightbox-nav lightbox-nav--prev" id="instagram-lightbox-prev" type="button" aria-label="Foto anterior">&lsaquo;</button>
+        <img id="instagram-lightbox-image" src="" alt="Foto ampliada do Instagram do Salazar">
+        <button class="lightbox-nav lightbox-nav--next" id="instagram-lightbox-next" type="button" aria-label="Proxima foto">&rsaquo;</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="../../assets/js/salazar-instagram.js"></script>
+</body>
+</html>

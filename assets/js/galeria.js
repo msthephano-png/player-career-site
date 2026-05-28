@@ -1,131 +1,8 @@
-﻿const galleryFiles = [
-  "20260114212620_1.jpg",
-  "20260116234630_1.jpg",
-  "20260117204145_1.jpg",
-  "20260118033944_1.jpg",
-  "20260203220248_1.jpg",
-  "20260206005028_1.jpg",
-  "20260212173834_1.jpg",
-  "20260212173837_1.jpg",
-  "20260212173840_1.jpg",
-  "20260212173841_1.jpg",
-  "20260212173843_1.jpg",
-  "20260212173844_1.jpg",
-  "20260212173915_1.jpg",
-  "20260212173946_1.jpg",
-  "20260218032109_1.jpg",
-  "20260218032115_1.jpg",
-  "20260218032117_1.jpg",
-  "20260218032125_1.jpg",
-  "20260218032134_1.jpg",
-  "20260218032156_1.jpg",
-  "20260218032232_1.jpg",
-  "20260218191240_1.jpg",
-  "20260218191531_1.jpg",
-  "20260218191532_1.jpg",
-  "20260218191533_1.jpg",
-  "20260218191820_1.jpg",
-  "20260218191822_1.jpg",
-  "20260218191824_1.jpg",
-  "20260218192211_1.jpg",
-  "20260218203905_1.jpg",
-  "20260218203951_1.jpg",
-  "20260218224329_1.jpg",
-  "20260218224331_1.jpg",
-  "20260220011344_1.jpg",
-  "20260220011345_1.jpg",
-  "20260220011349_1.jpg",
-  "20260220011353_1.jpg",
-  "20260220011355_1.jpg",
-  "20260220011356_1.jpg",
-  "20260220011357_1.jpg",
-  "20260220011400_1.jpg",
-  "20260220011401_1.jpg",
-  "20260220011404_1.jpg",
-  "20260220011406_1.jpg",
-  "20260220011407_1.jpg",
-  "20260220011409_1.jpg",
-  "20260224023611_1.jpg",
-  "20260224023613_1.jpg",
-  "20260224023709_1.jpg",
-  "20260224023710_1.jpg",
-  "20260224023717_1.jpg",
-  "20260224023726_1.jpg",
-  "20260301234452_1.jpg",
-  "20260315155051_1.jpg",
-  "20260315155051_2.jpg",
-  "20260315161853_1.jpg",
-  "20260321180049_1.jpg",
-  "20260321180051_1.jpg",
-  "20260321182249_1.jpg",
-  "20260321182250_1.jpg",
-  "20260321182257_1.jpg",
-  "20260323162958_1.jpg",
-  "20260323163050_1.jpg",
-  "20260326005049_1.jpg",
-  "20260326005050_1.jpg",
-  "20260326005100_1.jpg",
-  "20260327012630_1.jpg",
-  "20260327012641_1.jpg",
-  "20260327034834_1.jpg",
-  "20260328195627_1.jpg",
-  "20260328195645_1.jpg",
-  "20260328195715_1.jpg",
-  "20260328195825_1.jpg",
-  "20260328214117_1.jpg",
-  "20260328214232_1.jpg",
-  "20260328230843_1.jpg",
-  "20260328230937_1.jpg",
-  "20260402234446_1.jpg",
-  "20260403014036_1.jpg",
-  "20260403023312_1.jpg",
-  "20260405001001_1.jpg",
-  "20260405001007_1.jpg",
-  "20260405001009_1.jpg",
-  "20260405001011_1.jpg",
-  "20260405001020_1.jpg",
-  "20260405001025_1.jpg",
-  "20260405024207_1.jpg",
-  "20260405035411_1.jpg",
-  "20260405035414_1.jpg",
-  "20260405035431_1.jpg",
-  "20260405040431_1.jpg",
-  "20260405042840_1.jpg",
-  "20260411184309_1.jpg",
-  "20260412175630_1.jpg",
-  "20260426223145_1.jpg",
-  "20260427002505_1.jpg",
-  "20260427002508_1.jpg",
-  "20260427193539_1.jpg",
-  "20260427193555_1.jpg",
-  "20260427193558_1.jpg",
-  "20260427193627_1.jpg",
-  "20260428010022_1.jpg",
-  "20260428010026_1.jpg",
-  "20260428010249_1.jpg",
-  "20260428032905_1.jpg",
-  "20260428033356_1.jpg",
-  "20260428033357_1.jpg",
-  "20260429014942_1.jpg",
-  "20260502224836_1.jpg",
-  "20260504224350_1.jpg",
-  "20260504224351_1.jpg",
-  "20260505232311_1.jpg",
-  "20260505232313_1.jpg",
-  "20260505232448_1.jpg",
-  "20260507002901_1.jpg",
-  "20260507002948_1.jpg",
-  "20260507022209_1.jpg",
-  "20260507024238_1.jpg",
-  "20260507024754_1.jpg",
-  "20260507024851_1.jpg",
-  "20260508005854_1.jpg",
-  "20260508010113_1.jpg",
-  "20260508010114_1.jpg",
-  "20260508010343_1.jpg",
-  "20260508011419_1.jpg",
-  "20260508014131_1.jpg"
-];
+const galleryDataUrl = new URL("../data/galeria.json", document.currentScript.src);
+const galleryImageBase = "../../assets/images/galeria";
+
+let galleryFiles = [];
+let currentGalleryIndex = 0;
 
 const galleryWall = document.getElementById("gallery-wall");
 const totalCount = document.getElementById("gallery-total-count");
@@ -138,6 +15,8 @@ const lightboxImage = document.getElementById("lightbox-image");
 const lightboxTitle = document.getElementById("lightbox-title");
 const lightboxDate = document.getElementById("lightbox-date");
 const lightboxClose = document.getElementById("gallery-lightbox-close");
+const lightboxPrev = document.getElementById("gallery-lightbox-prev");
+const lightboxNext = document.getElementById("gallery-lightbox-next");
 
 function formatDate(fileName) {
   const stamp = fileName.slice(0, 14);
@@ -166,11 +45,20 @@ function buildCardTitle(index) {
   return set[index % set.length];
 }
 
-function openLightbox(fileName, index) {
-  lightboxImage.src = `../../assets/images/galeria/${fileName}`;
-  lightboxImage.alt = `Momento ${index + 1}`;
-  lightboxTitle.textContent = `${buildCardTitle(index)} #${String(index + 1).padStart(2, "0")}`;
-  lightboxDate.textContent = `${formatDate(fileName)} â€¢ ${formatTime(fileName)}`;
+function showLightboxImage(index) {
+  if (!galleryFiles.length) return;
+
+  currentGalleryIndex = (index + galleryFiles.length) % galleryFiles.length;
+  const fileName = galleryFiles[currentGalleryIndex];
+
+  lightboxImage.src = `${galleryImageBase}/${fileName}`;
+  lightboxImage.alt = `Momento ${currentGalleryIndex + 1}`;
+  lightboxTitle.textContent = `${buildCardTitle(currentGalleryIndex)} #${String(currentGalleryIndex + 1).padStart(2, "0")}`;
+  lightboxDate.textContent = `${formatDate(fileName)} - ${formatTime(fileName)}`;
+}
+
+function openLightbox(index) {
+  showLightboxImage(index);
   lightbox.classList.add("is-open");
   lightbox.setAttribute("aria-hidden", "false");
 }
@@ -180,17 +68,27 @@ function closeLightbox() {
   lightbox.setAttribute("aria-hidden", "true");
 }
 
-function renderGallery() {
+function renderGallery(files) {
+  galleryFiles = files;
+
+  if (!galleryFiles.length) {
+    totalCount.textContent = "0";
+    firstDate.textContent = "--";
+    rangeText.textContent = "Nenhum momento encontrado.";
+    galleryWall.innerHTML = '<div class="empty-message">Nenhuma imagem encontrada na pasta da galeria.</div>';
+    return;
+  }
+
   totalCount.textContent = String(galleryFiles.length);
   firstDate.textContent = formatDate(galleryFiles[0]);
   rangeText.textContent = `${formatDate(galleryFiles[0])} ate ${formatDate(galleryFiles[galleryFiles.length - 1])}`;
   heroDate.textContent = formatDate(galleryFiles[galleryFiles.length - 1]);
-  heroImage.src = `../../assets/images/galeria/${galleryFiles[galleryFiles.length - 1]}`;
+  heroImage.src = `${galleryImageBase}/${galleryFiles[galleryFiles.length - 1]}`;
 
   galleryWall.innerHTML = galleryFiles
     .map((fileName, index) => `
-      <button class="gallery-card" type="button" data-file="${fileName}" data-index="${index}">
-        <img src="../../assets/images/galeria/${fileName}" alt="Momento ${index + 1}">
+      <button class="gallery-card" type="button" data-index="${index}">
+        <img src="${galleryImageBase}/${fileName}" alt="Momento ${index + 1}">
         <div class="gallery-card__meta">
           <div>
             <div class="gallery-card__title">${buildCardTitle(index)}</div>
@@ -204,21 +102,36 @@ function renderGallery() {
 
   galleryWall.querySelectorAll(".gallery-card").forEach((card) => {
     card.addEventListener("click", () => {
-      const index = Number(card.getAttribute("data-index"));
-      const fileName = card.getAttribute("data-file");
-      openLightbox(fileName, index);
+      openLightbox(Number(card.getAttribute("data-index")));
     });
   });
 }
 
+async function initGallery() {
+  try {
+    const response = await fetch(galleryDataUrl);
+    if (!response.ok) throw new Error(`Nao foi possivel carregar ${galleryDataUrl.pathname}`);
+    const payload = await response.json();
+    renderGallery(payload.images || []);
+  } catch (error) {
+    console.warn("Galeria sem manifesto gerado.", error);
+    renderGallery([]);
+  }
+}
+
 lightboxClose.addEventListener("click", closeLightbox);
+lightboxPrev.addEventListener("click", () => showLightboxImage(currentGalleryIndex - 1));
+lightboxNext.addEventListener("click", () => showLightboxImage(currentGalleryIndex + 1));
+
 lightbox.addEventListener("click", (event) => {
   if (event.target === lightbox) closeLightbox();
 });
 
 document.addEventListener("keydown", (event) => {
+  if (!lightbox.classList.contains("is-open")) return;
   if (event.key === "Escape") closeLightbox();
+  if (event.key === "ArrowLeft") showLightboxImage(currentGalleryIndex - 1);
+  if (event.key === "ArrowRight") showLightboxImage(currentGalleryIndex + 1);
 });
 
-renderGallery();
-
+initGallery();

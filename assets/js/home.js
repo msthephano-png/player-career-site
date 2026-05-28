@@ -2,7 +2,7 @@ const playersDataUrl = new URL("../data/jogadores.json", document.currentScript.
 
 function updatePlayerCards(players) {
   players.forEach((player) => {
-    const card = document.querySelector(`.player-card[href="pages/jogadores/${player.slug}.html"]`);
+    const card = document.querySelector(`.player-card[data-player-slug="${player.slug}"]`);
     const meta = card?.querySelector(".player-card__meta");
     if (!meta) return;
 

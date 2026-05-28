@@ -11,7 +11,7 @@ function setCardValue(cards, index, value) {
 }
 
 function updatePlayerProfile(player) {
-  const metricCards = document.querySelectorAll(".metric-row .metric-card");
+  const metricCards = document.querySelectorAll(".metric-card");
   setCardValue(metricCards, 0, player.totals.matches);
   setCardValue(metricCards, 1, player.totals.goals);
   setCardValue(metricCards, 2, player.totals.assists);

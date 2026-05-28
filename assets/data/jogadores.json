@@ -1473,16 +1473,16 @@
       "slug": "guarita-fonseca",
       "name": "Guarita Fonseca",
       "totals": {
-        "matches": 95,
-        "goals": 32,
-        "assists": 54,
+        "matches": 130,
+        "goals": 43,
+        "assists": 71,
         "collectiveTitles": 2,
         "individualAwards": 2
       },
       "hubTotals": {
-        "matches": 95,
-        "goals": 32,
-        "assists": 54,
+        "matches": 130,
+        "goals": 43,
+        "assists": 71,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1533,22 +1533,55 @@
           ]
         },
         {
-          "id": "guarita-fonseca-bolivia-2",
+          "id": "guarita-fonseca-napoli-2",
           "order": 2,
+          "team": "Napoli",
+          "teamFullName": "Napoli",
+          "teamType": "Clube",
+          "matches": 27,
+          "goals": 9,
+          "assists": 13,
+          "pagePath": "pages/clubes/guarita-fonseca-napoli.html",
+          "description": "Primeira experiência na Serie A e Europa League italiana.",
+          "competitionStats": [
+            {
+              "competition": "Coppa Italia",
+              "matches": 2,
+              "goals": 0,
+              "assists": 2
+            },
+            {
+              "competition": "Europa League",
+              "matches": 6,
+              "goals": 1,
+              "assists": 3
+            },
+            {
+              "competition": "Serie A",
+              "matches": 19,
+              "goals": 8,
+              "assists": 8
+            }
+          ],
+          "honors": []
+        },
+        {
+          "id": "guarita-fonseca-bolivia-3",
+          "order": 3,
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 14,
-          "goals": 6,
-          "assists": 6,
+          "matches": 22,
+          "goals": 8,
+          "assists": 10,
           "pagePath": "pages/clubes/guarita-fonseca-bolivia.html",
           "description": "Titular na Copa do Mundo campeã — e a história mal começou.",
           "competitionStats": [
             {
               "competition": "Amistosos",
-              "matches": 2,
-              "goals": 2,
-              "assists": 1
+              "matches": 10,
+              "goals": 4,
+              "assists": 5
             },
             {
               "competition": "Copa do Mundo",
@@ -1594,16 +1627,16 @@
       "slug": "moreno-escobar",
       "name": "Moreno Escobar",
       "totals": {
-        "matches": 162,
-        "goals": 270,
-        "assists": 38,
-        "collectiveTitles": 5,
-        "individualAwards": 6
+        "matches": 194,
+        "goals": 301,
+        "assists": 44,
+        "collectiveTitles": 6,
+        "individualAwards": 9
       },
       "hubTotals": {
-        "matches": 162,
-        "goals": 270,
-        "assists": 38,
+        "matches": 194,
+        "goals": 301,
+        "assists": 44,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1729,32 +1762,53 @@
           "team": "Olympique de Marseille",
           "teamFullName": "Olympique de Marseille",
           "teamType": "Clube",
-          "matches": 23,
-          "goals": 22,
-          "assists": 2,
+          "matches": 53,
+          "goals": 53,
+          "assists": 8,
           "pagePath": "pages/clubes/moreno-escobar-marseille.html",
-          "description": "Primeira experiência europeia com gols na Ligue 1 e na Europa League.",
+          "description": "Ligue 1 conquistada, 53 gols e três prêmios individuais.",
           "competitionStats": [
             {
               "competition": "Copa da França",
-              "matches": 2,
-              "goals": 2,
-              "assists": 0
+              "matches": 7,
+              "goals": 8,
+              "assists": 2
             },
             {
               "competition": "Europa League",
-              "matches": 5,
-              "goals": 7,
-              "assists": 1
+              "matches": 12,
+              "goals": 10,
+              "assists": 2
             },
             {
               "competition": "Ligue 1",
-              "matches": 16,
-              "goals": 13,
-              "assists": 1
+              "matches": 34,
+              "goals": 35,
+              "assists": 4
             }
           ],
-          "honors": []
+          "honors": [
+            {
+              "category": "Prêmio individual",
+              "name": "Artilheiro da Copa da França",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Artilheiro da Ligue 1",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Melhor da Ligue 1",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Ligue 1",
+              "quantity": 1
+            }
+          ]
         },
         {
           "id": "moreno-escobar-bolivia-4",
@@ -1762,7 +1816,7 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 21,
+          "matches": 23,
           "goals": 23,
           "assists": 9,
           "pagePath": "pages/clubes/moreno-escobar-bolivia.html",
@@ -1770,7 +1824,7 @@
           "competitionStats": [
             {
               "competition": "Amistosos",
-              "matches": 2,
+              "matches": 4,
               "goals": 0,
               "assists": 1
             },
@@ -1815,12 +1869,22 @@
         },
         {
           "category": "Prêmio individual",
+          "name": "Artilheiro da Copa da França",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
           "name": "Artilheiro da Copa do Brasil",
           "quantity": 2
         },
         {
           "category": "Prêmio individual",
           "name": "Artilheiro da Copa do Mundo",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Artilheiro da Ligue 1",
           "quantity": 1
         },
         {
@@ -1832,6 +1896,11 @@
           "category": "Prêmio individual",
           "name": "Melhor da Copa do Brasil",
           "quantity": 2
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Melhor da Ligue 1",
+          "quantity": 1
         },
         {
           "category": "Prêmio individual",
@@ -1855,6 +1924,11 @@
         },
         {
           "category": "Título coletivo",
+          "name": "Ligue 1",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
           "name": "Supercopa Rei",
           "quantity": 1
         }
@@ -1864,18 +1938,18 @@
       "slug": "salazar",
       "name": "Salazar",
       "totals": {
-        "matches": 221,
-        "goals": 163,
-        "assists": 139,
-        "collectiveTitles": 7,
-        "individualAwards": 4
+        "matches": 279,
+        "goals": 206,
+        "assists": 184,
+        "collectiveTitles": 10,
+        "individualAwards": 5
       },
       "hubTotals": {
-        "matches": 221,
-        "goals": 159,
-        "assists": 139,
+        "matches": 279,
+        "goals": 206,
+        "assists": 184,
         "diffMatches": 0,
-        "diffGoals": 4,
+        "diffGoals": 0,
         "diffAssists": 0
       },
       "spells": [
@@ -1935,17 +2009,23 @@
           "team": "Ajax",
           "teamFullName": "Ajax",
           "teamType": "Clube",
-          "matches": 99,
-          "goals": 76,
-          "assists": 71,
+          "matches": 149,
+          "goals": 113,
+          "assists": 113,
           "pagePath": "pages/clubes/salazar-ajax.html",
-          "description": "76 gols, Eredivisie, KNVB e Europa League — três taças europeias.",
+          "description": "113 gols, Champions League, Bola de Ouro. A consagração total.",
           "competitionStats": [
             {
+              "competition": "Champions League",
+              "matches": 16,
+              "goals": 10,
+              "assists": 11
+            },
+            {
               "competition": "Eredivisie",
-              "matches": 69,
-              "goals": 55,
-              "assists": 54
+              "matches": 102,
+              "goals": 82,
+              "assists": 85
             },
             {
               "competition": "Europa League",
@@ -1955,35 +2035,30 @@
             },
             {
               "competition": "KNVB Beker",
-              "matches": 11,
+              "matches": 12,
               "goals": 8,
               "assists": 4
             }
           ],
           "honors": [
             {
-              "category": "Prêmio individual",
-              "name": "Artilheiro da Eredivisie",
-              "quantity": 1
-            },
-            {
-              "category": "Prêmio individual",
-              "name": "Melhor da Eredivisie",
-              "quantity": 1
-            },
-            {
-              "category": "Prêmio individual",
-              "name": "Melhor da KNVB Beker",
+              "category": "Título coletivo",
+              "name": "Champions League",
               "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Eredivisie",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Europa League",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Johan Cruijff Schaal",
               "quantity": 1
             },
             {
@@ -1999,17 +2074,17 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 31,
-          "goals": 25,
-          "assists": 24,
+          "matches": 39,
+          "goals": 31,
+          "assists": 27,
           "pagePath": "pages/clubes/salazar-bolivia.html",
-          "description": "31 jogos pela seleção — e campeão do mundo.",
+          "description": "39 jogos — e campeão do mundo.",
           "competitionStats": [
             {
               "competition": "Amistosos",
-              "matches": 2,
-              "goals": 3,
-              "assists": 3
+              "matches": 10,
+              "goals": 9,
+              "assists": 6
             },
             {
               "competition": "Copa América",
@@ -2047,6 +2122,11 @@
         },
         {
           "category": "Prêmio individual",
+          "name": "Bola de Ouro",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
           "name": "Melhor da Eredivisie",
           "quantity": 1
         },
@@ -2058,6 +2138,11 @@
         {
           "category": "Prêmio individual",
           "name": "Melhor da Liga Boliviana",
+          "quantity": 2
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Champions League",
           "quantity": 1
         },
         {
@@ -2073,11 +2158,16 @@
         {
           "category": "Título coletivo",
           "name": "Eredivisie",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
           "name": "Europa League",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Johan Cruijff Schaal",
           "quantity": 1
         },
         {

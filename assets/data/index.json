@@ -9,7 +9,7 @@
     "competitions": {
       "competitions": 32,
       "results": 1839,
-      "clubRelevantTitles": 305
+      "clubRelevantTitles": 307
     },
     "ballonDor": {
       "years": 25,
@@ -18,10 +18,10 @@
     },
     "players": {
       "players": 6,
-      "spells": 24,
-      "competitionStats": 113,
-      "spellHonors": 76,
-      "aggregateHonors": 103
+      "spells": 25,
+      "competitionStats": 117,
+      "spellHonors": 79,
+      "aggregateHonors": 110
     }
   }
 }

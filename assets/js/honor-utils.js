@@ -14,6 +14,9 @@ const HONOR_IMAGE_ALIASES = {
   "sul-americana": ["sudamericana"],
   "super mundial": ["super mundial"],
   "champions league": ["ucl"],
+  ucl: ["champions league"],
+  "johan cruijff schaal": ["johan cruijff schaal"],
+  "ligue 1": ["ligue 1"],
   "copa do mundo": ["copa"],
   "copa america": ["copa america"],
   "eredivisie": ["eredivisie"],
@@ -43,6 +46,12 @@ const HONOR_STATIC_IMAGES = {
     '<img src="../../assets/images/titulos/coppa_italia.png" alt="Copa da Itália">',
   "supercopa da alemanha (dfl supercup)":
     '<img src="../../assets/images/titulos/dfl_supercup.png" alt="Supercopa da Alemanha">',
+  "champions league":
+    '<img src="../../assets/images/titulos/ucl.png" alt="Champions League">',
+  ucl: '<img src="../../assets/images/titulos/ucl.png" alt="Champions League">',
+  "johan cruijff schaal":
+    '<img src="../../assets/images/titulos/johan_cruijff_schaal.png" alt="Johan Cruijff Schaal">',
+  "ligue 1": '<img src="../../assets/images/titulos/ligue_1.png" alt="Ligue 1">',
 };
 
 function rememberHonorImage(map, key, image) {

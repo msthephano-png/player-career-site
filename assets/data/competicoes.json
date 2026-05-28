@@ -1374,7 +1374,7 @@
         },
         {
           "team": "Ajax",
-          "titles": 4,
+          "titles": 5,
           "firstYear": 1970,
           "lastYear": 1994
         },
@@ -12633,12 +12633,22 @@
       "team": "Ajax",
       "titles": [
         {
+          "title": "Champions League",
+          "total": 5,
+          "source": "teamData do site"
+        },
+        {
           "title": "Conference League",
           "total": 1,
           "source": "teamData do site"
         },
         {
           "title": "Europa League",
+          "total": 3,
+          "source": "teamData do site"
+        },
+        {
+          "title": "Mundial",
           "total": 3,
           "source": "teamData do site"
         },

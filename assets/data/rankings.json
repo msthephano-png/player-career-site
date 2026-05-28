@@ -1,0 +1,2967 @@
+{
+  "_comment": "Gerado da planilha analise_campeoes_v3.xlsx. Fonte única de verdade para rankings e títulos dos clubes.",
+  "_usage": "dados.js lê este arquivo para montar tops e teamData dinamicamente.",
+  "competitionTops": {
+    "brasileirao": [
+      {
+        "team": "Palmeiras",
+        "titles": 14
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 12
+      },
+      {
+        "team": "Flamengo",
+        "titles": 11
+      },
+      {
+        "team": "Vasco",
+        "titles": 9
+      },
+      {
+        "team": "Corinthians",
+        "titles": 9
+      },
+      {
+        "team": "Santos",
+        "titles": 8
+      },
+      {
+        "team": "Cruzeiro",
+        "titles": 5
+      },
+      {
+        "team": "Gremio",
+        "titles": 5
+      },
+      {
+        "team": "Fluminense",
+        "titles": 4
+      },
+      {
+        "team": "Atletico Mineiro",
+        "titles": 3
+      },
+      {
+        "team": "Internacional",
+        "titles": 3
+      },
+      {
+        "team": "Bahia",
+        "titles": 2
+      }
+    ],
+    "bundesliga": [
+      {
+        "team": "Bayern",
+        "titles": 52
+      },
+      {
+        "team": "Borussia Dortmund",
+        "titles": 6
+      },
+      {
+        "team": "Borussia Monchengladbach",
+        "titles": 5
+      },
+      {
+        "team": "Werder Bremen",
+        "titles": 4
+      },
+      {
+        "team": "Hamburgo",
+        "titles": 3
+      },
+      {
+        "team": "Stuttgart",
+        "titles": 3
+      },
+      {
+        "team": "1. FC Köln",
+        "titles": 2
+      },
+      {
+        "team": "Kaiserslautern",
+        "titles": 2
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "titles": 2
+      },
+      {
+        "team": "Leipzig",
+        "titles": 2
+      }
+    ],
+    "champions": [
+      {
+        "team": "Real Madrid",
+        "titles": 19
+      },
+      {
+        "team": "Barcelona",
+        "titles": 10
+      },
+      {
+        "team": "Bayern",
+        "titles": 8
+      },
+      {
+        "team": "Milan",
+        "titles": 7
+      },
+      {
+        "team": "Liverpool",
+        "titles": 7
+      },
+      {
+        "team": "PSG",
+        "titles": 7
+      },
+      {
+        "team": "Inter",
+        "titles": 4
+      },
+      {
+        "team": "Ajax",
+        "titles": 4
+      },
+      {
+        "team": "Manchester City",
+        "titles": 4
+      },
+      {
+        "team": "Manchester United",
+        "titles": 3
+      },
+      {
+        "team": "Juventus",
+        "titles": 3
+      },
+      {
+        "team": "Benfica",
+        "titles": 2
+      },
+      {
+        "team": "Nottingham Forest",
+        "titles": 2
+      },
+      {
+        "team": "Porto",
+        "titles": 2
+      },
+      {
+        "team": "Chelsea",
+        "titles": 2
+      }
+    ],
+    "community-shield": [
+      {
+        "team": "Arsenal",
+        "titles": 28
+      },
+      {
+        "team": "Manchester United",
+        "titles": 22
+      },
+      {
+        "team": "Liverpool",
+        "titles": 15
+      },
+      {
+        "team": "Manchester City",
+        "titles": 12
+      },
+      {
+        "team": "Everton",
+        "titles": 9
+      },
+      {
+        "team": "Chelsea",
+        "titles": 5
+      },
+      {
+        "team": "Professionals XI",
+        "titles": 4
+      },
+      {
+        "team": "Tottenham",
+        "titles": 4
+      }
+    ],
+    "conference-league": [
+      {
+        "team": "Roma",
+        "titles": 2
+      },
+      {
+        "team": "West Ham",
+        "titles": 2
+      },
+      {
+        "team": "Fiorentina",
+        "titles": 2
+      },
+      {
+        "team": "Lille",
+        "titles": 2
+      },
+      {
+        "team": "Olympiacos",
+        "titles": 1
+      },
+      {
+        "team": "Chelsea",
+        "titles": 1
+      },
+      {
+        "team": "Real Betis",
+        "titles": 1
+      },
+      {
+        "team": "Brighton",
+        "titles": 1
+      }
+    ],
+    "copa-america": [
+      {
+        "team": "Argentina",
+        "titles": 16
+      },
+      {
+        "team": "Uruguay",
+        "titles": 15
+      },
+      {
+        "team": "Brazil",
+        "titles": 12
+      },
+      {
+        "team": "Chile",
+        "titles": 3
+      },
+      {
+        "team": "Peru",
+        "titles": 2
+      },
+      {
+        "team": "Paraguay",
+        "titles": 2
+      },
+      {
+        "team": "Bolivia",
+        "titles": 2
+      },
+      {
+        "team": "Colombia",
+        "titles": 1
+      }
+    ],
+    "libertadores": [
+      {
+        "team": "Palmeiras",
+        "titles": 8
+      },
+      {
+        "team": "Flamengo",
+        "titles": 8
+      },
+      {
+        "team": "Boca Juniors",
+        "titles": 7
+      },
+      {
+        "team": "Independiente",
+        "titles": 7
+      },
+      {
+        "team": "Vasco",
+        "titles": 7
+      },
+      {
+        "team": "River Plate",
+        "titles": 6
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 6
+      },
+      {
+        "team": "Peñarol",
+        "titles": 5
+      },
+      {
+        "team": "Estudiantes",
+        "titles": 5
+      },
+      {
+        "team": "Gremio",
+        "titles": 5
+      },
+      {
+        "team": "Santos",
+        "titles": 3
+      },
+      {
+        "team": "Nacional",
+        "titles": 3
+      },
+      {
+        "team": "Olimpia",
+        "titles": 3
+      },
+      {
+        "team": "Internacional",
+        "titles": 3
+      },
+      {
+        "team": "Cruzeiro",
+        "titles": 2
+      }
+    ],
+    "sudamericana": [
+      {
+        "team": "River Plate",
+        "titles": 4
+      },
+      {
+        "team": "Santos",
+        "titles": 4
+      },
+      {
+        "team": "Boca Juniors",
+        "titles": 3
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 3
+      },
+      {
+        "team": "Fluminense",
+        "titles": 3
+      },
+      {
+        "team": "Internacional",
+        "titles": 2
+      },
+      {
+        "team": "LDU Quito",
+        "titles": 2
+      },
+      {
+        "team": "Independiente",
+        "titles": 2
+      },
+      {
+        "team": "Lanús",
+        "titles": 2
+      },
+      {
+        "team": "Athletico Paranaense",
+        "titles": 2
+      }
+    ],
+    "dfb-pokal": [
+      {
+        "team": "Bayern",
+        "titles": 41
+      },
+      {
+        "team": "Borussia Dortmund",
+        "titles": 8
+      },
+      {
+        "team": "Werder Bremen",
+        "titles": 6
+      },
+      {
+        "team": "Schalke 04",
+        "titles": 5
+      },
+      {
+        "team": "Frankfurt",
+        "titles": 5
+      },
+      {
+        "team": "1. FC Nürnberg",
+        "titles": 4
+      },
+      {
+        "team": "1. FC Köln",
+        "titles": 4
+      },
+      {
+        "team": "Borussia Monchengladbach",
+        "titles": 3
+      }
+    ],
+    "coupe-france": [
+      {
+        "team": "PSG",
+        "titles": 29
+      },
+      {
+        "team": "Marseille",
+        "titles": 10
+      },
+      {
+        "team": "Marseille",
+        "titles": 8
+      },
+      {
+        "team": "Lyon",
+        "titles": 7
+      },
+      {
+        "team": "Lille",
+        "titles": 6
+      },
+      {
+        "team": "Monaco",
+        "titles": 6
+      },
+      {
+        "team": "Saint-Etienne",
+        "titles": 6
+      },
+      {
+        "team": "Red Star",
+        "titles": 5
+      }
+    ],
+    "fa-cup": [
+      {
+        "team": "Arsenal",
+        "titles": 21
+      },
+      {
+        "team": "Manchester United",
+        "titles": 15
+      },
+      {
+        "team": "Manchester City",
+        "titles": 12
+      },
+      {
+        "team": "Chelsea",
+        "titles": 11
+      },
+      {
+        "team": "Liverpool",
+        "titles": 10
+      },
+      {
+        "team": "Tottenham",
+        "titles": 9
+      },
+      {
+        "team": "Aston Villa",
+        "titles": 8
+      },
+      {
+        "team": "Newcastle",
+        "titles": 8
+      }
+    ],
+    "coppa-italia": [
+      {
+        "team": "Juventus",
+        "titles": 17
+      },
+      {
+        "team": "Inter",
+        "titles": 16
+      },
+      {
+        "team": "Roma",
+        "titles": 10
+      },
+      {
+        "team": "Milan",
+        "titles": 10
+      },
+      {
+        "team": "Bologna",
+        "titles": 10
+      },
+      {
+        "team": "Lazio",
+        "titles": 7
+      },
+      {
+        "team": "Fiorentina",
+        "titles": 6
+      },
+      {
+        "team": "Napoli",
+        "titles": 6
+      }
+    ],
+    "carabao": [
+      {
+        "team": "Manchester City",
+        "titles": 15
+      },
+      {
+        "team": "Liverpool",
+        "titles": 13
+      },
+      {
+        "team": "Chelsea",
+        "titles": 9
+      },
+      {
+        "team": "Manchester United",
+        "titles": 9
+      },
+      {
+        "team": "Aston Villa",
+        "titles": 6
+      },
+      {
+        "team": "Tottenham",
+        "titles": 5
+      },
+      {
+        "team": "Nottingham Forest",
+        "titles": 5
+      },
+      {
+        "team": "Arsenal",
+        "titles": 5
+      }
+    ],
+    "copa-rey": [
+      {
+        "team": "Barcelona",
+        "titles": 36
+      },
+      {
+        "team": "Real Madrid",
+        "titles": 35
+      },
+      {
+        "team": "Athletic Bilbao",
+        "titles": 24
+      },
+      {
+        "team": "Atletico de Madrid",
+        "titles": 14
+      },
+      {
+        "team": "Valencia",
+        "titles": 8
+      },
+      {
+        "team": "Sevilla",
+        "titles": 6
+      },
+      {
+        "team": "Real Zaragoza",
+        "titles": 6
+      },
+      {
+        "team": "Real Unión",
+        "titles": 3
+      }
+    ],
+    "copa-brasil": [
+      {
+        "team": "Gremio",
+        "titles": 10
+      },
+      {
+        "team": "Flamengo",
+        "titles": 8
+      },
+      {
+        "team": "Cruzeiro",
+        "titles": 8
+      },
+      {
+        "team": "Palmeiras",
+        "titles": 7
+      },
+      {
+        "team": "Corinthians",
+        "titles": 7
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 6
+      },
+      {
+        "team": "Vasco",
+        "titles": 4
+      },
+      {
+        "team": "Santos",
+        "titles": 2
+      },
+      {
+        "team": "Atletico Mineiro",
+        "titles": 2
+      },
+      {
+        "team": "Criciúma",
+        "titles": 1
+      }
+    ],
+    "world-cup": [
+      {
+        "team": "Italy",
+        "titles": 5
+      },
+      {
+        "team": "Brazil",
+        "titles": 5
+      },
+      {
+        "team": "Germany",
+        "titles": 4
+      },
+      {
+        "team": "Argentina",
+        "titles": 4
+      },
+      {
+        "team": "Spain",
+        "titles": 3
+      },
+      {
+        "team": "Uruguay",
+        "titles": 2
+      },
+      {
+        "team": "England",
+        "titles": 2
+      },
+      {
+        "team": "France",
+        "titles": 2
+      }
+    ],
+    "euro": [
+      {
+        "team": "Spain",
+        "titles": 7
+      },
+      {
+        "team": "France",
+        "titles": 4
+      },
+      {
+        "team": "Germany",
+        "titles": 3
+      },
+      {
+        "team": "Italy",
+        "titles": 2
+      },
+      {
+        "team": "Soviet Union",
+        "titles": 1
+      },
+      {
+        "team": "Czechoslovakia",
+        "titles": 1
+      },
+      {
+        "team": "Países Baixos",
+        "titles": 1
+      },
+      {
+        "team": "Denmark",
+        "titles": 1
+      }
+    ],
+    "europa-league": [
+      {
+        "team": "Sevilla",
+        "titles": 8
+      },
+      {
+        "team": "Real Madrid",
+        "titles": 5
+      },
+      {
+        "team": "Juventus",
+        "titles": 4
+      },
+      {
+        "team": "Ajax",
+        "titles": 4
+      },
+      {
+        "team": "Atletico de Madrid",
+        "titles": 4
+      },
+      {
+        "team": "Tottenham",
+        "titles": 3
+      },
+      {
+        "team": "Liverpool",
+        "titles": 3
+      },
+      {
+        "team": "Inter",
+        "titles": 3
+      },
+      {
+        "team": "Manchester United",
+        "titles": 3
+      },
+      {
+        "team": "Aston Villa",
+        "titles": 3
+      },
+      {
+        "team": "Feyenoord",
+        "titles": 2
+      },
+      {
+        "team": "Borussia Monchengladbach",
+        "titles": 2
+      }
+    ],
+    "laliga": [
+      {
+        "team": "Real Madrid",
+        "titles": 48
+      },
+      {
+        "team": "Barcelona",
+        "titles": 38
+      },
+      {
+        "team": "Atletico de Madrid",
+        "titles": 13
+      },
+      {
+        "team": "Athletic Bilbao",
+        "titles": 7
+      },
+      {
+        "team": "Valencia",
+        "titles": 7
+      },
+      {
+        "team": "Real Sociedad",
+        "titles": 2
+      },
+      {
+        "team": "Real Betis",
+        "titles": 1
+      },
+      {
+        "team": "Espanyol",
+        "titles": 1
+      },
+      {
+        "team": "Sevilla",
+        "titles": 1
+      },
+      {
+        "team": "Deportivo de La Coruña",
+        "titles": 1
+      }
+    ],
+    "ligue-1": [
+      {
+        "team": "PSG",
+        "titles": 32
+      },
+      {
+        "team": "Saint-Etienne",
+        "titles": 10
+      },
+      {
+        "team": "Marseille",
+        "titles": 9
+      },
+      {
+        "team": "Monaco",
+        "titles": 8
+      },
+      {
+        "team": "Nantes",
+        "titles": 8
+      },
+      {
+        "team": "Lyon",
+        "titles": 7
+      },
+      {
+        "team": "Stade de Reims",
+        "titles": 6
+      },
+      {
+        "team": "Bordeaux",
+        "titles": 6
+      },
+      {
+        "team": "Marseille",
+        "titles": 6
+      },
+      {
+        "team": "Lille",
+        "titles": 4
+      }
+    ],
+    "mundial": [
+      {
+        "team": "Real Madrid",
+        "titles": 12
+      },
+      {
+        "team": "Barcelona",
+        "titles": 8
+      },
+      {
+        "team": "PSG",
+        "titles": 7
+      },
+      {
+        "team": "Bayern",
+        "titles": 6
+      },
+      {
+        "team": "Inter",
+        "titles": 4
+      },
+      {
+        "team": "Milan",
+        "titles": 4
+      },
+      {
+        "team": "Manchester City",
+        "titles": 4
+      },
+      {
+        "team": "Peñarol",
+        "titles": 3
+      },
+      {
+        "team": "Nacional",
+        "titles": 3
+      },
+      {
+        "team": "Boca Juniors",
+        "titles": 3
+      },
+      {
+        "team": "Juventus",
+        "titles": 3
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 3
+      }
+    ],
+    "premier": [
+      {
+        "team": "Liverpool",
+        "titles": 24
+      },
+      {
+        "team": "Manchester City",
+        "titles": 21
+      },
+      {
+        "team": "Manchester United",
+        "titles": 20
+      },
+      {
+        "team": "Arsenal",
+        "titles": 20
+      },
+      {
+        "team": "Everton",
+        "titles": 9
+      },
+      {
+        "team": "Chelsea",
+        "titles": 8
+      },
+      {
+        "team": "Aston Villa",
+        "titles": 7
+      },
+      {
+        "team": "Sunderland",
+        "titles": 6
+      },
+      {
+        "team": "Newcastle",
+        "titles": 5
+      },
+      {
+        "team": "The Wednesday",
+        "titles": 3
+      },
+      {
+        "team": "Blackburn",
+        "titles": 3
+      },
+      {
+        "team": "Huddersfield",
+        "titles": 3
+      }
+    ],
+    "recopa": [
+      {
+        "team": "Sao Paulo",
+        "titles": 7
+      },
+      {
+        "team": "Boca Juniors",
+        "titles": 6
+      },
+      {
+        "team": "Gremio",
+        "titles": 5
+      },
+      {
+        "team": "Flamengo",
+        "titles": 5
+      },
+      {
+        "team": "Vasco",
+        "titles": 5
+      },
+      {
+        "team": "Palmeiras",
+        "titles": 4
+      },
+      {
+        "team": "River Plate",
+        "titles": 3
+      },
+      {
+        "team": "Olimpia",
+        "titles": 2
+      },
+      {
+        "team": "Cruzeiro",
+        "titles": 2
+      },
+      {
+        "team": "Internacional",
+        "titles": 2
+      }
+    ],
+    "serie-a": [
+      {
+        "team": "Juventus",
+        "titles": 42
+      },
+      {
+        "team": "Inter",
+        "titles": 23
+      },
+      {
+        "team": "Milan",
+        "titles": 20
+      },
+      {
+        "team": "Bologna",
+        "titles": 12
+      },
+      {
+        "team": "Torino",
+        "titles": 6
+      },
+      {
+        "team": "Fiorentina",
+        "titles": 4
+      },
+      {
+        "team": "Napoli",
+        "titles": 4
+      },
+      {
+        "team": "Roma",
+        "titles": 3
+      },
+      {
+        "team": "Lazio",
+        "titles": 2
+      },
+      {
+        "team": "Ambrosiana-Inter",
+        "titles": 1
+      }
+    ],
+    "supercup-de": [
+      {
+        "team": "Bayern",
+        "titles": 30
+      },
+      {
+        "team": "Borussia Dortmund",
+        "titles": 9
+      },
+      {
+        "team": "Werder Bremen",
+        "titles": 3
+      },
+      {
+        "team": "Frankfurt",
+        "titles": 2
+      },
+      {
+        "team": "Kaiserslautern",
+        "titles": 1
+      },
+      {
+        "team": "Stuttgart",
+        "titles": 1
+      }
+    ],
+    "supercopa-es": [
+      {
+        "team": "Real Madrid",
+        "titles": 29
+      },
+      {
+        "team": "Barcelona",
+        "titles": 23
+      },
+      {
+        "team": "Atletico de Madrid",
+        "titles": 7
+      },
+      {
+        "team": "Athletic Bilbao",
+        "titles": 3
+      },
+      {
+        "team": "Deportivo de La Coruña",
+        "titles": 3
+      },
+      {
+        "team": "Real Sociedad",
+        "titles": 1
+      },
+      {
+        "team": "Mallorca",
+        "titles": 1
+      },
+      {
+        "team": "Valencia",
+        "titles": 1
+      }
+    ],
+    "supercup": [
+      {
+        "team": "Barcelona",
+        "titles": 9
+      },
+      {
+        "team": "Real Madrid",
+        "titles": 9
+      },
+      {
+        "team": "PSG",
+        "titles": 7
+      },
+      {
+        "team": "Liverpool",
+        "titles": 5
+      },
+      {
+        "team": "Milan",
+        "titles": 5
+      },
+      {
+        "team": "Ajax",
+        "titles": 3
+      },
+      {
+        "team": "Atletico de Madrid",
+        "titles": 3
+      },
+      {
+        "team": "Bayern",
+        "titles": 3
+      }
+    ],
+    "supercopa-fr": [
+      {
+        "team": "PSG",
+        "titles": 33
+      },
+      {
+        "team": "Lyon",
+        "titles": 8
+      },
+      {
+        "team": "Marseille",
+        "titles": 6
+      },
+      {
+        "team": "Reims",
+        "titles": 5
+      },
+      {
+        "team": "Saint-Etienne",
+        "titles": 5
+      },
+      {
+        "team": "Monaco",
+        "titles": 4
+      }
+    ],
+    "supercoppa-it": [
+      {
+        "team": "Milan",
+        "titles": 12
+      },
+      {
+        "team": "Bologna",
+        "titles": 12
+      },
+      {
+        "team": "Inter",
+        "titles": 11
+      },
+      {
+        "team": "Juventus",
+        "titles": 11
+      },
+      {
+        "team": "Napoli",
+        "titles": 6
+      },
+      {
+        "team": "Lazio",
+        "titles": 5
+      }
+    ],
+    "supercopa-br": [
+      {
+        "team": "Flamengo",
+        "titles": 9
+      },
+      {
+        "team": "Sao Paulo",
+        "titles": 7
+      },
+      {
+        "team": "Corinthians",
+        "titles": 4
+      },
+      {
+        "team": "Vasco",
+        "titles": 4
+      },
+      {
+        "team": "Gremio",
+        "titles": 3
+      },
+      {
+        "team": "Palmeiras",
+        "titles": 3
+      }
+    ],
+    "super-mundial": [
+      {
+        "team": "Chelsea",
+        "titles": 1
+      },
+      {
+        "team": "Real Madrid",
+        "titles": 1
+      },
+      {
+        "team": "PSG",
+        "titles": 1
+      },
+      {
+        "team": "Juventus",
+        "titles": 1
+      },
+      {
+        "team": "Manchester City",
+        "titles": 1
+      }
+    ]
+  },
+  "clubTitles": {
+    "Real Madrid": {
+      "champions": 19,
+      "copa-rey": 35,
+      "europa-league": 5,
+      "laliga": 48,
+      "mundial": 12,
+      "supercopa-es": 29,
+      "supercup": 9,
+      "super-mundial": 1
+    },
+    "Bayern": {
+      "bundesliga": 52,
+      "champions": 8,
+      "dfb-pokal": 41,
+      "europa-league": 1,
+      "mundial": 6,
+      "supercup-de": 30,
+      "supercup": 3,
+      "super-mundial": 1
+    },
+    "Barcelona": {
+      "champions": 10,
+      "copa-rey": 36,
+      "laliga": 38,
+      "mundial": 8,
+      "supercopa-es": 23,
+      "supercup": 9
+    },
+    "PSG": {
+      "champions": 7,
+      "coupe-france": 29,
+      "ligue-1": 32,
+      "mundial": 7,
+      "supercup": 7,
+      "supercopa-fr": 33,
+      "super-mundial": 1
+    },
+    "Juventus": {
+      "champions": 3,
+      "coppa-italia": 17,
+      "europa-league": 4,
+      "mundial": 3,
+      "serie-a": 42,
+      "supercup": 2,
+      "supercoppa-it": 11,
+      "super-mundial": 1
+    },
+    "Liverpool": {
+      "champions": 7,
+      "community-shield": 15,
+      "fa-cup": 10,
+      "carabao": 13,
+      "europa-league": 3,
+      "mundial": 2,
+      "premier": 24,
+      "supercup": 5
+    },
+    "Arsenal": {
+      "champions": 1,
+      "community-shield": 28,
+      "fa-cup": 21,
+      "carabao": 5,
+      "europa-league": 1,
+      "mundial": 1,
+      "premier": 20
+    },
+    "Manchester United": {
+      "champions": 3,
+      "community-shield": 22,
+      "fa-cup": 15,
+      "carabao": 9,
+      "europa-league": 3,
+      "mundial": 2,
+      "premier": 20,
+      "supercup": 2
+    },
+    "Manchester City": {
+      "champions": 4,
+      "community-shield": 12,
+      "fa-cup": 12,
+      "carabao": 15,
+      "mundial": 4,
+      "premier": 21,
+      "supercup": 3,
+      "super-mundial": 1
+    },
+    "Inter": {
+      "champions": 4,
+      "coppa-italia": 16,
+      "europa-league": 3,
+      "mundial": 4,
+      "serie-a": 23,
+      "supercup": 1,
+      "supercoppa-it": 11,
+      "super-mundial": 1
+    },
+    "Milan": {
+      "champions": 7,
+      "coppa-italia": 10,
+      "mundial": 4,
+      "serie-a": 20,
+      "supercup": 5,
+      "supercoppa-it": 12
+    },
+    "Sao Paulo": {
+      "brasileirao": 12,
+      "libertadores": 6,
+      "sudamericana": 3,
+      "copa-brasil": 6,
+      "mundial": 3,
+      "recopa": 7,
+      "supercopa-br": 7
+    },
+    "Flamengo": {
+      "brasileirao": 12,
+      "libertadores": 8,
+      "sudamericana": 1,
+      "copa-brasil": 8,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 9
+    },
+    "Chelsea": {
+      "champions": 2,
+      "community-shield": 5,
+      "conference-league": 1,
+      "fa-cup": 11,
+      "carabao": 9,
+      "europa-league": 2,
+      "mundial": 1,
+      "premier": 8,
+      "supercup": 2,
+      "super-mundial": 1
+    },
+    "Atletico de Madrid": {
+      "copa-rey": 14,
+      "europa-league": 4,
+      "laliga": 13,
+      "mundial": 1,
+      "supercopa-es": 7,
+      "supercup": 3
+    },
+    "Bologna": {
+      "conference-league": 1,
+      "coppa-italia": 10,
+      "europa-league": 1,
+      "serie-a": 12,
+      "supercup": 1,
+      "supercoppa-it": 12
+    },
+    "Palmeiras": {
+      "brasileirao": 14,
+      "libertadores": 8,
+      "copa-brasil": 7,
+      "recopa": 4,
+      "supercopa-br": 3
+    },
+    "Athletic Bilbao": {
+      "copa-rey": 24,
+      "laliga": 7,
+      "supercopa-es": 3
+    },
+    "Gremio": {
+      "brasileirao": 5,
+      "libertadores": 5,
+      "sudamericana": 1,
+      "copa-brasil": 10,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 3
+    },
+    "Vasco": {
+      "brasileirao": 9,
+      "libertadores": 7,
+      "copa-brasil": 4,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 4
+    },
+    "Aston Villa": {
+      "champions": 1,
+      "community-shield": 2,
+      "conference-league": 1,
+      "fa-cup": 8,
+      "carabao": 6,
+      "europa-league": 3,
+      "premier": 7,
+      "supercup": 1
+    },
+    "Borussia Dortmund": {
+      "bundesliga": 6,
+      "champions": 1,
+      "dfb-pokal": 8,
+      "europa-league": 1,
+      "mundial": 1,
+      "supercup-de": 9
+    },
+    "Corinthians": {
+      "brasileirao": 9,
+      "libertadores": 1,
+      "sudamericana": 1,
+      "copa-brasil": 6,
+      "mundial": 2,
+      "recopa": 1,
+      "supercopa-br": 4
+    },
+    "Everton": {
+      "community-shield": 9,
+      "fa-cup": 5,
+      "premier": 9
+    },
+    "Tottenham": {
+      "community-shield": 4,
+      "fa-cup": 9,
+      "carabao": 5,
+      "europa-league": 3,
+      "premier": 2
+    },
+    "Marseille": {
+      "conference-league": 1,
+      "coupe-france": 8,
+      "ligue-1": 6,
+      "supercopa-fr": 6
+    },
+    "Lyon": {
+      "coupe-france": 7,
+      "ligue-1": 7,
+      "supercopa-fr": 8
+    },
+    "Saint-Etienne": {
+      "coupe-france": 6,
+      "ligue-1": 10,
+      "supercopa-fr": 5
+    },
+    "Roma": {
+      "conference-league": 2,
+      "coppa-italia": 10,
+      "europa-league": 2,
+      "serie-a": 3,
+      "supercup": 1,
+      "supercoppa-it": 3
+    },
+    "Santos": {
+      "brasileirao": 8,
+      "libertadores": 3,
+      "sudamericana": 4,
+      "copa-brasil": 2,
+      "mundial": 2,
+      "recopa": 2
+    },
+    "Argentina": {
+      "copa-america": 16,
+      "world-cup": 4
+    },
+    "Valencia": {
+      "copa-rey": 8,
+      "europa-league": 2,
+      "laliga": 7,
+      "supercopa-es": 1,
+      "supercup": 2
+    },
+    "Boca Juniors": {
+      "libertadores": 7,
+      "sudamericana": 3,
+      "mundial": 3,
+      "recopa": 6
+    },
+    "Monaco": {
+      "conference-league": 1,
+      "coupe-france": 6,
+      "ligue-1": 8,
+      "supercopa-fr": 4
+    },
+    "Napoli": {
+      "coppa-italia": 6,
+      "europa-league": 2,
+      "serie-a": 4,
+      "supercup": 1,
+      "supercoppa-it": 6
+    },
+    "Cruzeiro": {
+      "brasileirao": 5,
+      "libertadores": 2,
+      "sudamericana": 1,
+      "copa-brasil": 8,
+      "recopa": 2,
+      "supercopa-br": 1
+    },
+    "Sevilla": {
+      "conference-league": 1,
+      "copa-rey": 6,
+      "europa-league": 8,
+      "laliga": 1,
+      "supercopa-es": 1,
+      "supercup": 1
+    },
+    "Newcastle": {
+      "community-shield": 2,
+      "conference-league": 1,
+      "fa-cup": 8,
+      "carabao": 2,
+      "premier": 5
+    },
+    "Brazil": {
+      "copa-america": 12,
+      "world-cup": 5
+    },
+    "Uruguay": {
+      "copa-america": 15,
+      "world-cup": 2
+    },
+    "Nantes": {
+      "coupe-france": 4,
+      "ligue-1": 8,
+      "supercopa-fr": 3
+    },
+    "Lazio": {
+      "coppa-italia": 7,
+      "serie-a": 2,
+      "supercup": 1,
+      "supercoppa-it": 5
+    },
+    "River Plate": {
+      "libertadores": 6,
+      "sudamericana": 4,
+      "mundial": 1,
+      "recopa": 3
+    },
+    "Nottingham Forest": {
+      "champions": 2,
+      "community-shield": 1,
+      "fa-cup": 2,
+      "carabao": 5,
+      "europa-league": 1,
+      "premier": 1,
+      "supercup": 2
+    },
+    "Werder Bremen": {
+      "bundesliga": 4,
+      "dfb-pokal": 6,
+      "supercup-de": 3
+    },
+    "Bordeaux": {
+      "coupe-france": 4,
+      "ligue-1": 6,
+      "supercopa-fr": 3
+    },
+    "Ajax": {
+      "champions": 4,
+      "europa-league": 4,
+      "mundial": 2,
+      "supercup": 3
+    },
+    "Fiorentina": {
+      "conference-league": 2,
+      "coppa-italia": 6,
+      "serie-a": 4,
+      "supercoppa-it": 1
+    },
+    "Frankfurt": {
+      "bundesliga": 2,
+      "champions": 1,
+      "dfb-pokal": 5,
+      "europa-league": 2,
+      "mundial": 1,
+      "supercup-de": 2
+    },
+    "Lille": {
+      "conference-league": 2,
+      "coupe-france": 6,
+      "ligue-1": 4,
+      "supercopa-fr": 1
+    },
+    "Independiente": {
+      "libertadores": 7,
+      "sudamericana": 2,
+      "mundial": 2,
+      "recopa": 1
+    },
+    "Internacional": {
+      "brasileirao": 3,
+      "libertadores": 3,
+      "sudamericana": 2,
+      "copa-brasil": 1,
+      "mundial": 1,
+      "recopa": 2
+    },
+    "Blackburn": {
+      "community-shield": 1,
+      "fa-cup": 6,
+      "carabao": 1,
+      "premier": 3
+    },
+    "Torino": {
+      "coppa-italia": 5,
+      "serie-a": 6
+    },
+    "Atletico Mineiro": {
+      "brasileirao": 3,
+      "libertadores": 2,
+      "copa-brasil": 2,
+      "recopa": 2,
+      "supercopa-br": 1
+    },
+    "Borussia Monchengladbach": {
+      "bundesliga": 1,
+      "dfb-pokal": 1,
+      "supercup-de": 1
+    },
+    "Spain": {
+      "world-cup": 3,
+      "euro": 7
+    },
+    "Fluminense": {
+      "brasileirao": 4,
+      "libertadores": 1,
+      "sudamericana": 3,
+      "copa-brasil": 1
+    },
+    "Bayer Leverkusen": {
+      "bundesliga": 2,
+      "conference-league": 1,
+      "dfb-pokal": 2,
+      "europa-league": 2,
+      "supercup-de": 1,
+      "supercup": 1
+    },
+    "Sunderland": {
+      "community-shield": 1,
+      "fa-cup": 2,
+      "premier": 6
+    },
+    "Peñarol": {
+      "libertadores": 5,
+      "mundial": 3
+    },
+    "Estudiantes": {
+      "libertadores": 5,
+      "sudamericana": 1,
+      "mundial": 1,
+      "recopa": 1
+    },
+    "Stade de Reims": {
+      "coupe-france": 2,
+      "ligue-1": 6
+    },
+    "Brighton": {
+      "community-shield": 3,
+      "conference-league": 1,
+      "fa-cup": 2,
+      "carabao": 1
+    },
+    "Germany": {
+      "world-cup": 4,
+      "euro": 3
+    },
+    "Italy": {
+      "world-cup": 5,
+      "euro": 2
+    },
+    "Schalke 04": {
+      "dfb-pokal": 5,
+      "europa-league": 1,
+      "supercup-de": 1
+    },
+    "Olimpia": {
+      "libertadores": 3,
+      "sudamericana": 1,
+      "mundial": 1,
+      "recopa": 2
+    },
+    "Nacional": {
+      "libertadores": 3,
+      "mundial": 3,
+      "recopa": 1
+    },
+    "Leipzig": {
+      "bundesliga": 2,
+      "conference-league": 1,
+      "dfb-pokal": 2,
+      "europa-league": 1,
+      "supercup-de": 1
+    },
+    "Porto": {
+      "champions": 2,
+      "europa-league": 2,
+      "mundial": 2,
+      "supercup": 1
+    },
+    "Hamburgo": {
+      "bundesliga": 3,
+      "champions": 1,
+      "dfb-pokal": 3
+    },
+    "Real Zaragoza": {
+      "copa-rey": 6,
+      "supercopa-es": 1
+    },
+    "France": {
+      "world-cup": 2,
+      "euro": 4
+    },
+    "1. FC Köln": {
+      "bundesliga": 2,
+      "dfb-pokal": 4
+    },
+    "Deportivo de La Coruña": {
+      "copa-rey": 2,
+      "laliga": 1,
+      "supercopa-es": 3
+    },
+    "Real Sociedad": {
+      "conference-league": 1,
+      "copa-rey": 2,
+      "laliga": 2,
+      "supercopa-es": 1
+    },
+    "West Ham": {
+      "conference-league": 2,
+      "fa-cup": 3,
+      "europa-league": 1
+    },
+    "The Wednesday": {
+      "fa-cup": 2,
+      "premier": 3
+    },
+    "Stuttgart": {
+      "conference-league": 1,
+      "dfb-pokal": 2
+    },
+    "Reims": {
+      "supercopa-fr": 5
+    },
+    "Red Star": {
+      "coupe-france": 5
+    },
+    "Real Betis": {
+      "conference-league": 1,
+      "copa-rey": 3,
+      "laliga": 1
+    },
+    "1. FC Nürnberg": {
+      "bundesliga": 1,
+      "dfb-pokal": 4
+    },
+    "Huddersfield": {
+      "community-shield": 1,
+      "fa-cup": 1,
+      "premier": 3
+    },
+    "Feyenoord": {
+      "champions": 1,
+      "conference-league": 1,
+      "europa-league": 2,
+      "mundial": 1
+    },
+    "Kaiserslautern": {
+      "bundesliga": 2,
+      "dfb-pokal": 2,
+      "supercup-de": 1
+    },
+    "LDU Quito": {
+      "sudamericana": 2,
+      "recopa": 2
+    },
+    "Professionals XI": {
+      "community-shield": 4
+    },
+    "Athletico Paranaense": {
+      "brasileirao": 1,
+      "sudamericana": 2,
+      "copa-brasil": 1
+    },
+    "Benfica": {
+      "champions": 2,
+      "conference-league": 1,
+      "europa-league": 1
+    },
+    "Real Unión": {
+      "copa-rey": 3
+    },
+    "Espanyol": {
+      "copa-rey": 2,
+      "laliga": 1
+    },
+    "Chile": {
+      "copa-america": 3
+    },
+    "Lanús": {
+      "libertadores": 1,
+      "sudamericana": 2
+    },
+    "Bolivia": {
+      "copa-america": 2,
+      "world-cup": 1
+    },
+    "England": {
+      "world-cup": 2
+    },
+    "Peru": {
+      "copa-america": 2
+    },
+    "Paraguay": {
+      "copa-america": 2
+    },
+    "Bahia": {
+      "brasileirao": 2
+    },
+    "Ambrosiana-Inter": {
+      "coppa-italia": 1,
+      "serie-a": 1
+    },
+    "Criciúma": {
+      "copa-brasil": 1
+    },
+    "Denmark": {
+      "euro": 1
+    },
+    "Colombia": {
+      "copa-america": 1
+    },
+    "Mallorca": {
+      "supercopa-es": 1
+    },
+    "Olympiacos": {
+      "conference-league": 1
+    },
+    "Países Baixos": {
+      "euro": 1
+    },
+    "Soviet Union": {
+      "euro": 1
+    },
+    "Czechoslovakia": {
+      "euro": 1
+    }
+  },
+  "allClubTitles": {
+    "Real Madrid": {
+      "champions": 19,
+      "copa-rey": 35,
+      "europa-league": 5,
+      "laliga": 48,
+      "mundial": 12,
+      "supercopa-es": 29,
+      "supercup": 9,
+      "super-mundial": 1
+    },
+    "Bayern": {
+      "bundesliga": 52,
+      "champions": 8,
+      "dfb-pokal": 41,
+      "europa-league": 1,
+      "mundial": 6,
+      "supercup-de": 30,
+      "supercup": 3,
+      "super-mundial": 1
+    },
+    "Barcelona": {
+      "champions": 10,
+      "copa-rey": 36,
+      "laliga": 38,
+      "mundial": 8,
+      "supercopa-es": 23,
+      "supercup": 9
+    },
+    "PSG": {
+      "champions": 7,
+      "coupe-france": 29,
+      "ligue-1": 32,
+      "mundial": 7,
+      "supercup": 7,
+      "supercopa-fr": 33,
+      "super-mundial": 1
+    },
+    "Juventus": {
+      "champions": 3,
+      "coppa-italia": 17,
+      "europa-league": 4,
+      "mundial": 3,
+      "serie-a": 42,
+      "supercup": 2,
+      "supercoppa-it": 11,
+      "super-mundial": 1
+    },
+    "Liverpool": {
+      "champions": 7,
+      "community-shield": 15,
+      "fa-cup": 10,
+      "carabao": 13,
+      "europa-league": 3,
+      "mundial": 2,
+      "premier": 24,
+      "supercup": 5
+    },
+    "Arsenal": {
+      "champions": 1,
+      "community-shield": 28,
+      "fa-cup": 21,
+      "carabao": 5,
+      "europa-league": 1,
+      "mundial": 1,
+      "premier": 20
+    },
+    "Manchester United": {
+      "champions": 3,
+      "community-shield": 22,
+      "fa-cup": 15,
+      "carabao": 9,
+      "europa-league": 3,
+      "mundial": 2,
+      "premier": 20,
+      "supercup": 2
+    },
+    "Manchester City": {
+      "champions": 4,
+      "community-shield": 12,
+      "fa-cup": 12,
+      "carabao": 15,
+      "mundial": 4,
+      "premier": 21,
+      "supercup": 3,
+      "super-mundial": 1
+    },
+    "Inter": {
+      "champions": 4,
+      "coppa-italia": 16,
+      "europa-league": 3,
+      "mundial": 4,
+      "serie-a": 23,
+      "supercup": 1,
+      "supercoppa-it": 11,
+      "super-mundial": 1
+    },
+    "Milan": {
+      "champions": 7,
+      "coppa-italia": 10,
+      "mundial": 4,
+      "serie-a": 20,
+      "supercup": 5,
+      "supercoppa-it": 12
+    },
+    "Sao Paulo": {
+      "brasileirao": 12,
+      "libertadores": 6,
+      "sudamericana": 3,
+      "copa-brasil": 6,
+      "mundial": 3,
+      "recopa": 7,
+      "supercopa-br": 7
+    },
+    "Flamengo": {
+      "brasileirao": 12,
+      "libertadores": 8,
+      "sudamericana": 1,
+      "copa-brasil": 8,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 9
+    },
+    "Chelsea": {
+      "champions": 2,
+      "community-shield": 5,
+      "conference-league": 1,
+      "fa-cup": 11,
+      "carabao": 9,
+      "europa-league": 2,
+      "mundial": 1,
+      "premier": 8,
+      "supercup": 2,
+      "super-mundial": 1
+    },
+    "Atletico de Madrid": {
+      "copa-rey": 14,
+      "europa-league": 4,
+      "laliga": 13,
+      "mundial": 1,
+      "supercopa-es": 7,
+      "supercup": 3
+    },
+    "Bologna": {
+      "conference-league": 1,
+      "coppa-italia": 10,
+      "europa-league": 1,
+      "serie-a": 12,
+      "supercup": 1,
+      "supercoppa-it": 12
+    },
+    "Palmeiras": {
+      "brasileirao": 14,
+      "libertadores": 8,
+      "copa-brasil": 7,
+      "recopa": 4,
+      "supercopa-br": 3
+    },
+    "Athletic Bilbao": {
+      "copa-rey": 24,
+      "laliga": 7,
+      "supercopa-es": 3
+    },
+    "Gremio": {
+      "brasileirao": 5,
+      "libertadores": 5,
+      "sudamericana": 1,
+      "copa-brasil": 10,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 3
+    },
+    "Vasco": {
+      "brasileirao": 9,
+      "libertadores": 7,
+      "copa-brasil": 4,
+      "mundial": 1,
+      "recopa": 5,
+      "supercopa-br": 4
+    },
+    "Aston Villa": {
+      "champions": 1,
+      "community-shield": 2,
+      "conference-league": 1,
+      "fa-cup": 8,
+      "carabao": 6,
+      "europa-league": 3,
+      "premier": 7,
+      "supercup": 1
+    },
+    "Borussia Dortmund": {
+      "bundesliga": 6,
+      "champions": 1,
+      "dfb-pokal": 8,
+      "europa-league": 1,
+      "mundial": 1,
+      "supercup-de": 9
+    },
+    "Corinthians": {
+      "brasileirao": 9,
+      "libertadores": 1,
+      "sudamericana": 1,
+      "copa-brasil": 6,
+      "mundial": 2,
+      "recopa": 1,
+      "supercopa-br": 4
+    },
+    "Everton": {
+      "community-shield": 9,
+      "fa-cup": 5,
+      "premier": 9
+    },
+    "Tottenham": {
+      "community-shield": 4,
+      "fa-cup": 9,
+      "carabao": 5,
+      "europa-league": 3,
+      "premier": 2
+    },
+    "Marseille": {
+      "conference-league": 1,
+      "coupe-france": 8,
+      "ligue-1": 6,
+      "supercopa-fr": 6
+    },
+    "Lyon": {
+      "coupe-france": 7,
+      "ligue-1": 7,
+      "supercopa-fr": 8
+    },
+    "Saint-Etienne": {
+      "coupe-france": 6,
+      "ligue-1": 10,
+      "supercopa-fr": 5
+    },
+    "Roma": {
+      "conference-league": 2,
+      "coppa-italia": 10,
+      "europa-league": 2,
+      "serie-a": 3,
+      "supercup": 1,
+      "supercoppa-it": 3
+    },
+    "Santos": {
+      "brasileirao": 8,
+      "libertadores": 3,
+      "sudamericana": 4,
+      "copa-brasil": 2,
+      "mundial": 2,
+      "recopa": 2
+    },
+    "Argentina": {
+      "copa-america": 16,
+      "world-cup": 4
+    },
+    "Valencia": {
+      "copa-rey": 8,
+      "europa-league": 2,
+      "laliga": 7,
+      "supercopa-es": 1,
+      "supercup": 2
+    },
+    "Boca Juniors": {
+      "libertadores": 7,
+      "sudamericana": 3,
+      "mundial": 3,
+      "recopa": 6
+    },
+    "Monaco": {
+      "conference-league": 1,
+      "coupe-france": 6,
+      "ligue-1": 8,
+      "supercopa-fr": 4
+    },
+    "Napoli": {
+      "coppa-italia": 6,
+      "europa-league": 2,
+      "serie-a": 4,
+      "supercup": 1,
+      "supercoppa-it": 6
+    },
+    "Cruzeiro": {
+      "brasileirao": 5,
+      "libertadores": 2,
+      "sudamericana": 1,
+      "copa-brasil": 8,
+      "recopa": 2,
+      "supercopa-br": 1
+    },
+    "Sevilla": {
+      "conference-league": 1,
+      "copa-rey": 6,
+      "europa-league": 8,
+      "laliga": 1,
+      "supercopa-es": 1,
+      "supercup": 1
+    },
+    "Newcastle": {
+      "community-shield": 2,
+      "conference-league": 1,
+      "fa-cup": 8,
+      "carabao": 2,
+      "premier": 5
+    },
+    "Brazil": {
+      "copa-america": 12,
+      "world-cup": 5
+    },
+    "Uruguay": {
+      "copa-america": 15,
+      "world-cup": 2
+    },
+    "Nantes": {
+      "coupe-france": 4,
+      "ligue-1": 8,
+      "supercopa-fr": 3
+    },
+    "Lazio": {
+      "coppa-italia": 7,
+      "serie-a": 2,
+      "supercup": 1,
+      "supercoppa-it": 5
+    },
+    "River Plate": {
+      "libertadores": 6,
+      "sudamericana": 4,
+      "mundial": 1,
+      "recopa": 3
+    },
+    "Nottingham Forest": {
+      "champions": 2,
+      "community-shield": 1,
+      "fa-cup": 2,
+      "carabao": 5,
+      "europa-league": 1,
+      "premier": 1,
+      "supercup": 2
+    },
+    "Werder Bremen": {
+      "bundesliga": 4,
+      "dfb-pokal": 6,
+      "supercup-de": 3
+    },
+    "Bordeaux": {
+      "coupe-france": 4,
+      "ligue-1": 6,
+      "supercopa-fr": 3
+    },
+    "Ajax": {
+      "champions": 4,
+      "europa-league": 4,
+      "mundial": 2,
+      "supercup": 3
+    },
+    "Fiorentina": {
+      "conference-league": 2,
+      "coppa-italia": 6,
+      "serie-a": 4,
+      "supercoppa-it": 1
+    },
+    "Frankfurt": {
+      "bundesliga": 2,
+      "champions": 1,
+      "dfb-pokal": 5,
+      "europa-league": 2,
+      "mundial": 1,
+      "supercup-de": 2
+    },
+    "Lille": {
+      "conference-league": 2,
+      "coupe-france": 6,
+      "ligue-1": 4,
+      "supercopa-fr": 1
+    },
+    "Independiente": {
+      "libertadores": 7,
+      "sudamericana": 2,
+      "mundial": 2,
+      "recopa": 1
+    },
+    "Internacional": {
+      "brasileirao": 3,
+      "libertadores": 3,
+      "sudamericana": 2,
+      "copa-brasil": 1,
+      "mundial": 1,
+      "recopa": 2
+    },
+    "Wolverhampton": {
+      "community-shield": 2,
+      "fa-cup": 4,
+      "carabao": 2,
+      "premier": 3
+    },
+    "Blackburn": {
+      "community-shield": 1,
+      "fa-cup": 6,
+      "carabao": 1,
+      "premier": 3
+    },
+    "Torino": {
+      "coppa-italia": 5,
+      "serie-a": 6
+    },
+    "Atletico Mineiro": {
+      "brasileirao": 3,
+      "libertadores": 2,
+      "copa-brasil": 2,
+      "recopa": 2,
+      "supercopa-br": 1
+    },
+    "Borussia Monchengladbach": {
+      "bundesliga": 1,
+      "dfb-pokal": 1,
+      "supercup-de": 1
+    },
+    "Spain": {
+      "world-cup": 3,
+      "euro": 7
+    },
+    "Fluminense": {
+      "brasileirao": 4,
+      "libertadores": 1,
+      "sudamericana": 3,
+      "copa-brasil": 1
+    },
+    "Nice": {
+      "conference-league": 1,
+      "coupe-france": 3,
+      "ligue-1": 4,
+      "supercopa-fr": 1
+    },
+    "Bayer Leverkusen": {
+      "bundesliga": 2,
+      "conference-league": 1,
+      "dfb-pokal": 2,
+      "europa-league": 2,
+      "supercup-de": 1,
+      "supercup": 1
+    },
+    "Sunderland": {
+      "community-shield": 1,
+      "fa-cup": 2,
+      "premier": 6
+    },
+    "Peñarol": {
+      "libertadores": 5,
+      "mundial": 3
+    },
+    "Estudiantes": {
+      "libertadores": 5,
+      "sudamericana": 1,
+      "mundial": 1,
+      "recopa": 1
+    },
+    "West Bromwich": {
+      "community-shield": 1,
+      "fa-cup": 5,
+      "carabao": 1,
+      "premier": 1
+    },
+    "Stade de Reims": {
+      "coupe-france": 2,
+      "ligue-1": 6
+    },
+    "Brighton": {
+      "community-shield": 3,
+      "conference-league": 1,
+      "fa-cup": 2,
+      "carabao": 1
+    },
+    "Germany": {
+      "world-cup": 4,
+      "euro": 3
+    },
+    "Italy": {
+      "world-cup": 5,
+      "euro": 2
+    },
+    "Schalke 04": {
+      "dfb-pokal": 5,
+      "europa-league": 1,
+      "supercup-de": 1
+    },
+    "Olimpia": {
+      "libertadores": 3,
+      "sudamericana": 1,
+      "mundial": 1,
+      "recopa": 2
+    },
+    "Nacional": {
+      "libertadores": 3,
+      "mundial": 3,
+      "recopa": 1
+    },
+    "Leipzig": {
+      "bundesliga": 2,
+      "conference-league": 1,
+      "dfb-pokal": 2,
+      "europa-league": 1,
+      "supercup-de": 1
+    },
+    "Porto": {
+      "champions": 2,
+      "europa-league": 2,
+      "mundial": 2,
+      "supercup": 1
+    },
+    "Parma": {
+      "coppa-italia": 3,
+      "europa-league": 2,
+      "supercup": 1,
+      "supercoppa-it": 1
+    },
+    "Leeds": {
+      "community-shield": 2,
+      "fa-cup": 1,
+      "carabao": 1,
+      "premier": 3
+    },
+    "Hamburgo": {
+      "bundesliga": 3,
+      "champions": 1,
+      "dfb-pokal": 3
+    },
+    "Real Zaragoza": {
+      "copa-rey": 6,
+      "supercopa-es": 1
+    },
+    "France": {
+      "world-cup": 2,
+      "euro": 4
+    },
+    "1. FC Köln": {
+      "bundesliga": 2,
+      "dfb-pokal": 4
+    },
+    "Deportivo de La Coruña": {
+      "copa-rey": 2,
+      "laliga": 1,
+      "supercopa-es": 3
+    },
+    "Real Sociedad": {
+      "conference-league": 1,
+      "copa-rey": 2,
+      "laliga": 2,
+      "supercopa-es": 1
+    },
+    "Sampdoria": {
+      "coppa-italia": 4,
+      "serie-a": 1,
+      "supercoppa-it": 1
+    },
+    "West Ham": {
+      "conference-league": 2,
+      "fa-cup": 3,
+      "europa-league": 1
+    },
+    "The Wednesday": {
+      "fa-cup": 2,
+      "premier": 3
+    },
+    "Stuttgart": {
+      "conference-league": 1,
+      "dfb-pokal": 2
+    },
+    "Wanderers": {
+      "fa-cup": 5
+    },
+    "Reims": {
+      "supercopa-fr": 5
+    },
+    "Red Star": {
+      "coupe-france": 5
+    },
+    "Sheffield United": {
+      "fa-cup": 4,
+      "premier": 1
+    },
+    "Portsmouth": {
+      "community-shield": 1,
+      "fa-cup": 2,
+      "premier": 2
+    },
+    "Racing Paris": {
+      "coupe-france": 5
+    },
+    "Real Betis": {
+      "conference-league": 1,
+      "copa-rey": 3,
+      "laliga": 1
+    },
+    "Atalanta": {
+      "conference-league": 1,
+      "coppa-italia": 3,
+      "europa-league": 1
+    },
+    "Botafogo": {
+      "brasileirao": 2,
+      "libertadores": 1,
+      "sudamericana": 1,
+      "recopa": 1
+    },
+    "1. FC Nürnberg": {
+      "bundesliga": 1,
+      "dfb-pokal": 4
+    },
+    "Huddersfield": {
+      "community-shield": 1,
+      "fa-cup": 1,
+      "premier": 3
+    },
+    "Bolton": {
+      "community-shield": 1,
+      "fa-cup": 4
+    },
+    "Feyenoord": {
+      "champions": 1,
+      "conference-league": 1,
+      "europa-league": 2,
+      "mundial": 1
+    },
+    "Kaiserslautern": {
+      "bundesliga": 2,
+      "dfb-pokal": 2,
+      "supercup-de": 1
+    },
+    "Burnley": {
+      "community-shield": 2,
+      "fa-cup": 1,
+      "premier": 2
+    },
+    "Strasbourg": {
+      "coupe-france": 4,
+      "ligue-1": 1
+    },
+    "Sète": {
+      "coupe-france": 2,
+      "ligue-1": 2
+    },
+    "Sheffield Wednesday": {
+      "community-shield": 1,
+      "fa-cup": 1,
+      "carabao": 1,
+      "premier": 1
+    },
+    "LDU Quito": {
+      "sudamericana": 2,
+      "recopa": 2
+    },
+    "Auxerre": {
+      "coupe-france": 3,
+      "ligue-1": 1
+    },
+    "Professionals XI": {
+      "community-shield": 4
+    },
+    "Sochaux": {
+      "coupe-france": 2,
+      "ligue-1": 2
+    },
+    "Velez Sarsfield": {
+      "libertadores": 1,
+      "sudamericana": 1,
+      "mundial": 1,
+      "recopa": 1
+    },
+    "Athletico Paranaense": {
+      "brasileirao": 1,
+      "sudamericana": 2,
+      "copa-brasil": 1
+    },
+    "Benfica": {
+      "champions": 2,
+      "conference-league": 1,
+      "europa-league": 1
+    },
+    "Leicester": {
+      "community-shield": 1,
+      "carabao": 3
+    },
+    "Derby County": {
+      "community-shield": 1,
+      "fa-cup": 1,
+      "premier": 2
+    },
+    "Atletico Nacional": {
+      "libertadores": 2,
+      "sudamericana": 1,
+      "recopa": 1
+    },
+    "Real Unión": {
+      "copa-rey": 3
+    },
+    "Racing": {
+      "libertadores": 1,
+      "sudamericana": 1,
+      "mundial": 1
+    },
+    "Leicester City": {
+      "community-shield": 1,
+      "fa-cup": 1,
+      "premier": 1
+    },
+    "Espanyol": {
+      "copa-rey": 2,
+      "laliga": 1
+    },
+    "Anderlecht": {
+      "europa-league": 1,
+      "supercup": 2
+    },
+    "Chile": {
+      "copa-america": 3
+    },
+    "Lanús": {
+      "libertadores": 1,
+      "sudamericana": 2
+    },
+    "Ipswich Town": {
+      "fa-cup": 1,
+      "europa-league": 1,
+      "premier": 1
+    },
+    "Bolivia": {
+      "copa-america": 2,
+      "world-cup": 1
+    },
+    "Sedan": {
+      "coupe-france": 2,
+      "supercopa-fr": 1
+    },
+    "Rennes": {
+      "coupe-france": 3
+    },
+    "VfL Wolfsburg": {
+      "bundesliga": 1,
+      "dfb-pokal": 1,
+      "supercup-de": 1
+    },
+    "Montpellier": {
+      "coupe-france": 2,
+      "ligue-1": 1
+    },
+    "PSV Eindhoven": {
+      "champions": 1,
+      "conference-league": 1,
+      "europa-league": 1
+    },
+    "TSV 1860 München": {
+      "bundesliga": 1,
+      "dfb-pokal": 1
+    },
+    "Sport": {
+      "brasileirao": 1,
+      "copa-brasil": 1
+    },
+    "Zenit": {
+      "europa-league": 1,
+      "supercup": 1
+    },
+    "San Lorenzo": {
+      "libertadores": 1,
+      "sudamericana": 1
+    },
+    "Steaua București": {
+      "champions": 1,
+      "supercup": 1
+    },
+    "Metz": {
+      "coupe-france": 2
+    },
+    "Preston North End": {
+      "premier": 2
+    },
+    "Preston": {
+      "fa-cup": 2
+    },
+    "Portugal": {
+      "world-cup": 1,
+      "euro": 1
+    },
+    "Toulouse": {
+      "coupe-france": 2
+    },
+    "Villarreal": {
+      "conference-league": 1,
+      "europa-league": 1
+    },
+    "Old Etonians": {
+      "fa-cup": 2
+    },
+    "Norwich City": {
+      "carabao": 2
+    },
+    "Nancy": {
+      "coupe-france": 2
+    },
+    "Le Havre": {
+      "coupe-france": 1,
+      "supercopa-fr": 1
+    },
+    "Fortuna Düsseldorf": {
+      "dfb-pokal": 2
+    },
+    "Dresdner SC": {
+      "dfb-pokal": 2
+    },
+    "Estrela Vermelha": {
+      "champions": 1,
+      "mundial": 1
+    },
+    "Español": {
+      "copa-rey": 2
+    },
+    "Defensa y Justicia": {
+      "sudamericana": 1,
+      "recopa": 1
+    },
+    "England": {
+      "world-cup": 2
+    },
+    "Guingamp": {
+      "coupe-france": 2
+    },
+    "Göteborg": {
+      "europa-league": 2
+    },
+    "Karlsruher": {
+      "dfb-pokal": 2
+    },
+    "Galatasaray": {
+      "europa-league": 1,
+      "supercup": 1
+    },
+    "Peru": {
+      "copa-america": 2
+    },
+    "Paraguay": {
+      "copa-america": 2
+    },
+    "Colo-Colo": {
+      "libertadores": 1,
+      "recopa": 1
+    },
+    "Crystal Palace": {
+      "community-shield": 1,
+      "conference-league": 1
+    },
+    "Independiente del Valle": {
+      "sudamericana": 2
+    },
+    "Bastia": {
+      "coupe-france": 1,
+      "supercopa-fr": 1
+    },
+    "Cardiff": {
+      "community-shield": 1,
+      "fa-cup": 1
+    },
+    "CASG Paris": {
+      "coupe-france": 2
+    },
+    "Cienciano": {
+      "sudamericana": 1,
+      "recopa": 1
+    },
+    "Ceará": {
+      "brasileirao": 1,
+      "supercopa-br": 1
+    },
+    "Bahia": {
+      "brasileirao": 2
+    },
+    "Amateurs XI": {
+      "community-shield": 2
+    },
+    "Ambrosiana-Inter": {
+      "coppa-italia": 1,
+      "serie-a": 1
+    },
+    "Birmingham": {
+      "carabao": 2
+    },
+    "Bury": {
+      "fa-cup": 2
+    },
+    "Arsenal de Sarandí": {
+      "sudamericana": 1
+    },
+    "Argentinos Juniors": {
+      "libertadores": 1
+    },
+    "Aberdeen": {
+      "supercup": 1
+    },
+    "Bayer Uerdingen": {
+      "dfb-pokal": 1
+    },
+    "Barnsley": {
+      "fa-cup": 1
+    },
+    "Barcelona de Guayaquil": {
+      "sudamericana": 1
+    },
+    "Criciúma": {
+      "copa-brasil": 1
+    },
+    "1860 München": {
+      "dfb-pokal": 1
+    },
+    "Arenas Club": {
+      "copa-rey": 1
+    },
+    "Blackburn Olympic": {
+      "fa-cup": 1
+    },
+    "Blackpool": {
+      "fa-cup": 1
+    },
+    "Bradford": {
+      "fa-cup": 1
+    },
+    "Cannes": {
+      "coupe-france": 1
+    },
+    "CSKA Moscou": {
+      "europa-league": 1
+    },
+    "Cagliari": {
+      "serie-a": 1
+    },
+    "Charlton": {
+      "fa-cup": 1
+    },
+    "Cercle Paris": {
+      "coupe-france": 1
+    },
+    "Celtic": {
+      "champions": 1
+    },
+    "Clapham Rovers": {
+      "fa-cup": 1
+    },
+    "Kickers Offenbach": {
+      "dfb-pokal": 1
+    },
+    "KV Mechelen": {
+      "supercup": 1
+    },
+    "Juventude": {
+      "copa-brasil": 1
+    },
+    "Greece": {
+      "euro": 1
+    },
+    "Guarani": {
+      "brasileirao": 1
+    },
+    "Fulham": {
+      "fa-cup": 1
+    },
+    "Netherlands": {
+      "euro": 1
+    },
+    "Hannover 96": {
+      "dfb-pokal": 1
+    },
+    "Genova 1893": {
+      "coppa-italia": 1
+    },
+    "Denmark": {
+      "euro": 1
+    },
+    "Club Français": {
+      "coupe-france": 1
+    },
+    "Club Ciclista": {
+      "copa-rey": 1
+    },
+    "Colombia": {
+      "copa-america": 1
+    },
+    "Eintracht Braunschweig": {
+      "bundesliga": 1
+    },
+    "Excelsior Athlétic": {
+      "coupe-france": 1
+    },
+    "Freiburg": {
+      "dfb-pokal": 1
+    },
+    "Dínamo de Kiev": {
+      "supercup": 1
+    },
+    "Coritiba": {
+      "brasileirao": 1
+    },
+    "Coventry City": {
+      "fa-cup": 1
+    },
+    "Mexico": {
+      "copa-america": 1
+    },
+    "Lens": {
+      "ligue-1": 1
+    },
+    "Mallorca": {
+      "supercopa-es": 1
+    },
+    "Luton Town": {
+      "carabao": 1
+    },
+    "Les Herbiers": {
+      "coupe-france": 1
+    },
+    "Middlesbrough": {
+      "carabao": 1
+    },
+    "Lorient": {
+      "coupe-france": 1
+    },
+    "Oxford United": {
+      "carabao": 1
+    },
+    "Notts County": {
+      "fa-cup": 1
+    },
+    "Old Carthusians": {
+      "fa-cup": 1
+    },
+    "Novorizontino": {
+      "sudamericana": 1
+    },
+    "Olympiacos": {
+      "conference-league": 1
+    },
+    "Olympique Lillois": {
+      "ligue-1": 1
+    },
+    "Racing de Paris": {
+      "ligue-1": 1
+    },
+    "Rapid Wien": {
+      "dfb-pokal": 1
+    },
+    "Queens Park Rangers": {
+      "carabao": 1
+    },
+    "Osasuna": {
+      "copa-rey": 1
+    },
+    "Olympique de Pantin": {
+      "coupe-france": 1
+    },
+    "Once Caldas": {
+      "libertadores": 1
+    },
+    "Países Baixos": {
+      "euro": 1
+    },
+    "Paulista": {
+      "copa-brasil": 1
+    },
+    "Pachuca": {
+      "sudamericana": 1
+    },
+    "Oxford University": {
+      "fa-cup": 1
+    },
+    "Rot-Weiss Essen": {
+      "dfb-pokal": 1
+    },
+    "Rosario Central": {
+      "sudamericana": 1
+    },
+    "Schwarz-Weiß Essen": {
+      "dfb-pokal": 1
+    },
+    "Royal Engineers": {
+      "fa-cup": 1
+    },
+    "Roubaix-Tourcoing": {
+      "ligue-1": 1
+    },
+    "Santo André": {
+      "copa-brasil": 1
+    },
+    "Swansea": {
+      "carabao": 1
+    },
+    "Stoke City": {
+      "carabao": 1
+    },
+    "Shakhtar Donetsk": {
+      "europa-league": 1
+    },
+    "Southampton": {
+      "fa-cup": 1
+    },
+    "Swindon Town": {
+      "carabao": 1
+    },
+    "Soviet Union": {
+      "euro": 1
+    },
+    "Universidad de Chile": {
+      "sudamericana": 1
+    },
+    "Czechoslovakia": {
+      "euro": 1
+    },
+    "Vado": {
+      "coppa-italia": 1
+    },
+    "Vitoria": {
+      "sudamericana": 1
+    },
+    "Verona": {
+      "serie-a": 1
+    },
+    "VfB Leipzig": {
+      "dfb-pokal": 1
+    },
+    "Venezia": {
+      "coppa-italia": 1
+    },
+    "Vicenza": {
+      "coppa-italia": 1
+    },
+    "Wimbledon": {
+      "fa-cup": 1
+    },
+    "Wigan": {
+      "fa-cup": 1
+    }
+  }
+}
