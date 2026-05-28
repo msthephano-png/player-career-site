@@ -120,7 +120,7 @@ const competitions = [
   {
     id: "supercopa-br",
     region: "Brasil",
-    name: "Supercopa do Brasil",
+    name: "Supercopa Rei",
     subtitle: "Supercopa nacional",
     accent: "#65b9ff",
     mode: "annual",
@@ -447,9 +447,27 @@ competitions.forEach((competition) => {
 
 const competitionDataAliases = {
   "Brasileirao": "Brasileirão",
+  "Supercopa Rei": "Supercopa do Brasil",
+  "Bundesliga": "Bundesliga (Alemanha)",
+  "DFB Pokal": "Copa da Alemanha (DFB-Pokal)",
+  "DFL Supercup": "Supercopa da Alemanha (DFL Supercup)",
+  "Premier League": "Premier League (Inglaterra)",
+  "Carabao Cup": "Copa da Liga Inglesa (Carabao Cup)",
+  "FA Cup": "Copa da Inglaterra (FA Cup)",
+  "Serie A": "Serie A (Itália)",
+  "Coppa Italia": "Copa da Itália (Coppa Italia)",
+  "Supercoppa Italiana": "Supercopa da Itália",
+  "Ligue 1": "Ligue 1 (França)",
+  "Coupe de France": "Copa da França",
   "Supercopa da Franca": "Supercopa da França",
+  "LaLiga": "La Liga (Espanha)",
+  "Copa del Rey": "Copa del Rey (Espanha)",
   "Libertadores": "Copa Libertadores",
   "Sul-Americana": "Copa Sul-Americana",
+  "Recopa Sul-Americana": "Recopa Sudamericana",
+  "Mundial de Clubes": "Mundial de Clubes FIFA",
+  "Super Mundial": "Supermundial",
+  "Copa do Mundo": "Copa do Mundo FIFA",
   "Copa America": "Copa América"
 };
 
@@ -495,7 +513,7 @@ function applyDatabaseCompetitionData(payload) {
     if (!source) return;
 
     competition.winners = source.results
-      .filter((result) => result.source === "Site / simulação")
+      .filter((result) => normalizeDataName(result.source).includes("simula"))
       .reduce((accumulator, result) => {
         if (/^\d{4}$/.test(result.season)) {
           accumulator[Number(result.season)] = result.champion;
@@ -523,7 +541,7 @@ function applyDatabaseCompetitionData(payload) {
 
 async function loadDatabaseCompetitionData() {
   const dataUrl = new URL("../data/competicoes.json", document.currentScript.src);
-  dataUrl.searchParams.set("v", "2051-sync");
+  dataUrl.searchParams.set("v", "2051-sync-2");
   const response = await fetch(dataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${dataUrl.pathname}`);

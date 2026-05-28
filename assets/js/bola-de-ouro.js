@@ -50,7 +50,7 @@ function getBallonImgName(yearShort, file) {
 }
 
 async function loadBallonDataFromDatabase() {
-  ballonDataUrl.searchParams.set("v", "2051-sync");
+  ballonDataUrl.searchParams.set("v", "2051-sync-2");
   const response = await fetch(ballonDataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
