@@ -1429,24 +1429,32 @@ img {
   background: linear-gradient(180deg, transparent 40%, rgba(4, 6, 10, 0.86) 100%);
 }
 
-#instagram-lightbox .lightbox-card {
+.instagram-lightbox-card {
   width: min(96vw, 1120px);
+  height: min(94vh, 920px);
+  max-height: 94vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
-#instagram-lightbox .lightbox-card__image {
+.instagram-lightbox-image {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: min(72vh, 760px);
+  flex: 1 1 auto;
+  min-height: 0;
+  height: auto;
+  max-height: none;
   background: #05070b;
 }
 
-#instagram-lightbox .lightbox-card__image img {
-  width: auto;
-  height: auto;
+.instagram-lightbox-image img {
+  width: auto !important;
+  height: auto !important;
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;
+  object-fit: contain !important;
 }
 
 .instagram-post span {

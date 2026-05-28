@@ -1,5 +1,5 @@
 const instagramDataUrl = new URL("../data/salazar-instagram.json", document.currentScript.src);
-instagramDataUrl.searchParams.set("v", "instagram-full-1");
+instagramDataUrl.searchParams.set("v", "instagram-full-2");
 const instagramImageBase = "../../assets/images/salazar_instagram";
 
 let instagramFiles = [];
