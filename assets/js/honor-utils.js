@@ -52,6 +52,8 @@ const HONOR_STATIC_IMAGES = {
   "johan cruijff schaal":
     '<img src="../../assets/images/titulos/johan_cruijff_schaal.png" alt="Johan Cruijff Schaal">',
   "ligue 1": '<img src="../../assets/images/titulos/ligue_1.png" alt="Ligue 1">',
+  "melhor jogador da copa da franca":
+    '<img src="../../assets/images/premios/best_coupe_france.png" alt="Melhor Jogador da Copa da França">',
 };
 
 function rememberHonorImage(map, key, image) {

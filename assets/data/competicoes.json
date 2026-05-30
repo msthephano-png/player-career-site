@@ -474,6 +474,11 @@
           "season": "2051",
           "champion": "Gremio",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -484,16 +489,16 @@
           "lastYear": 2048
         },
         {
+          "team": "Sao Paulo",
+          "titles": 13,
+          "firstYear": 2031,
+          "lastYear": 2052
+        },
+        {
           "team": "Flamengo",
           "titles": 12,
           "firstYear": 1980,
           "lastYear": 2047
-        },
-        {
-          "team": "Sao Paulo",
-          "titles": 12,
-          "firstYear": 2031,
-          "lastYear": 2045
         },
         {
           "team": "Corinthians",
@@ -544,46 +549,10 @@
           "lastYear": 1979
         },
         {
-          "team": "Bahia",
-          "titles": 2,
-          "firstYear": 1959,
-          "lastYear": 1988
-        },
-        {
           "team": "Botafogo",
           "titles": 2,
           "firstYear": 1995,
           "lastYear": 2024
-        },
-        {
-          "team": "Atlético Paranaense",
-          "titles": 1,
-          "firstYear": 2001,
-          "lastYear": 2001
-        },
-        {
-          "team": "Ceará",
-          "titles": 1,
-          "firstYear": null,
-          "lastYear": null
-        },
-        {
-          "team": "Coritiba",
-          "titles": 1,
-          "firstYear": 1985,
-          "lastYear": 1985
-        },
-        {
-          "team": "Guarani",
-          "titles": 1,
-          "firstYear": 1978,
-          "lastYear": 1978
-        },
-        {
-          "team": "Sport",
-          "titles": 1,
-          "firstYear": 1987,
-          "lastYear": 1987
         }
       ]
     },
@@ -811,14 +780,19 @@
           "season": "2051",
           "champion": "Bayern",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Bayern",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Bayern",
-          "titles": 55,
+          "titles": 56,
           "firstYear": 2026,
-          "lastYear": 2051
+          "lastYear": 2052
         },
         {
           "team": "Borussia Dortmund",
@@ -1044,7 +1018,7 @@
         },
         {
           "season": "1992–93",
-          "champion": "Olympique de Marselha",
+          "champion": "Olympique de Marseille",
           "source": "Tabela inicial"
         },
         {
@@ -1336,6 +1310,11 @@
           "season": "2051",
           "champion": "Ajax",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1424,6 +1403,12 @@
           "lastYear": null
         },
         {
+          "team": "Olympique de Marseille",
+          "titles": 2,
+          "firstYear": 2052,
+          "lastYear": 2052
+        },
+        {
           "team": "Porto",
           "titles": 2,
           "firstYear": null,
@@ -1467,12 +1452,6 @@
         },
         {
           "team": "Hamburgo",
-          "titles": 1,
-          "firstYear": null,
-          "lastYear": null
-        },
-        {
-          "team": "Marseille",
           "titles": 1,
           "firstYear": null,
           "lastYear": null
@@ -1631,14 +1610,19 @@
           "season": "2051",
           "champion": "Manchester City",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Arsenal",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Arsenal",
-          "titles": 28,
+          "titles": 29,
           "firstYear": 2027,
-          "lastYear": 2047
+          "lastYear": 2052
         },
         {
           "team": "Manchester United",
@@ -1758,7 +1742,7 @@
         },
         {
           "season": "2039",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -1819,6 +1803,11 @@
         {
           "season": "2051",
           "champion": "PSV",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Torino",
           "source": "Site / simulacao"
         }
       ],
@@ -1920,12 +1909,6 @@
           "lastYear": 2042
         },
         {
-          "team": "Marseille",
-          "titles": 1,
-          "firstYear": 2039,
-          "lastYear": 2039
-        },
-        {
           "team": "Monaco",
           "titles": 1,
           "firstYear": 2043,
@@ -1942,6 +1925,12 @@
           "titles": 1,
           "firstYear": 2034,
           "lastYear": 2034
+        },
+        {
+          "team": "Olympique de Marseille",
+          "titles": 1,
+          "firstYear": 2039,
+          "lastYear": 2039
         },
         {
           "team": "Real Betis",
@@ -1966,6 +1955,12 @@
           "titles": 1,
           "firstYear": 2031,
           "lastYear": 2031
+        },
+        {
+          "team": "Torino",
+          "titles": 1,
+          "firstYear": 2052,
+          "lastYear": 2052
         },
         {
           "team": "Villarreal",
@@ -2249,6 +2244,11 @@
           "season": "2048",
           "champion": "Mexico",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Chile",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2272,9 +2272,9 @@
         },
         {
           "team": "Chile",
-          "titles": 3,
+          "titles": 4,
           "firstYear": 2015,
-          "lastYear": 2032
+          "lastYear": 2052
         },
         {
           "team": "Bolivia",
@@ -2803,6 +2803,11 @@
           "season": "2051",
           "champion": "Sao Paulo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Botafogo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2903,6 +2908,12 @@
           "lastYear": null
         },
         {
+          "team": "Botafogo",
+          "titles": 2,
+          "firstYear": 2024,
+          "lastYear": 2052
+        },
+        {
           "team": "Cruzeiro",
           "titles": 2,
           "firstYear": 1976,
@@ -2913,12 +2924,6 @@
           "titles": 1,
           "firstYear": 1985,
           "lastYear": 1985
-        },
-        {
-          "team": "Botafogo",
-          "titles": 1,
-          "firstYear": 2024,
-          "lastYear": 2024
         },
         {
           "team": "Colo-Colo",
@@ -3224,6 +3229,11 @@
           "season": "2051",
           "champion": "Internacional",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Ceara",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3262,6 +3272,12 @@
           "titles": 3,
           "firstYear": 2033,
           "lastYear": 2048
+        },
+        {
+          "team": "Ceara",
+          "titles": 1,
+          "firstYear": 2052,
+          "lastYear": 2052
         },
         {
           "team": "Novorizontino",
@@ -3815,6 +3831,11 @@
           "season": "2051",
           "champion": "Bayer Leverkusen",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Borussia Dortmund",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3826,9 +3847,9 @@
         },
         {
           "team": "Borussia Dortmund",
-          "titles": 8,
+          "titles": 9,
           "firstYear": 2035,
-          "lastYear": 2038
+          "lastYear": 2052
         },
         {
           "team": "Werder Bremen",
@@ -4418,22 +4439,22 @@
         },
         {
           "season": "2029",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2030",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2031",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2032",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -4493,17 +4514,17 @@
         },
         {
           "season": "2044",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2045",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2046",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -4513,7 +4534,7 @@
         },
         {
           "season": "2048",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -4530,6 +4551,11 @@
           "season": "2051",
           "champion": "PSG",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -4540,10 +4566,10 @@
           "lastYear": 2051
         },
         {
-          "team": "Marseille",
-          "titles": 17,
+          "team": "Olympique de Marseille",
+          "titles": 18,
           "firstYear": 2029,
-          "lastYear": 2048
+          "lastYear": 2052
         },
         {
           "team": "Lille",
@@ -5424,6 +5450,11 @@
           "season": "2051",
           "champion": "Arsenal",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Aston Villa",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -5462,6 +5493,12 @@
           "titles": 9,
           "firstYear": 2035,
           "lastYear": 2035
+        },
+        {
+          "team": "Aston Villa",
+          "titles": 1,
+          "firstYear": 2033,
+          "lastYear": 2052
         }
       ]
     },
@@ -5989,14 +6026,19 @@
           "season": "2051",
           "champion": "Roma",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Juventus",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Juventus",
-          "titles": 20,
+          "titles": 21,
           "firstYear": 2039,
-          "lastYear": 2050
+          "lastYear": 2052
         },
         {
           "team": "Inter",
@@ -6158,6 +6200,11 @@
           "season": "2051",
           "champion": "Liverpool",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Aston Villa",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -6187,9 +6234,9 @@
         },
         {
           "team": "Aston Villa",
-          "titles": 6,
+          "titles": 7,
           "firstYear": 2028,
-          "lastYear": 2028
+          "lastYear": 2052
         },
         {
           "team": "Arsenal",
@@ -6950,14 +6997,19 @@
           "season": "2051",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Barcelona",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Barcelona",
-          "titles": 39,
+          "titles": 40,
           "firstYear": 1912,
-          "lastYear": 2050
+          "lastYear": 2052
         },
         {
           "team": "Real Madrid",
@@ -7304,6 +7356,11 @@
           "season": "2051",
           "champion": "Internacional",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Cruzeiro",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -7321,9 +7378,9 @@
         },
         {
           "team": "Cruzeiro",
-          "titles": 8,
+          "titles": 9,
           "firstYear": 1993,
-          "lastYear": 2045
+          "lastYear": 2052
         },
         {
           "team": "Flamengo",
@@ -7366,42 +7423,6 @@
           "titles": 2,
           "firstYear": 2010,
           "lastYear": 2044
-        },
-        {
-          "team": "Atletico Paranaense",
-          "titles": 1,
-          "firstYear": null,
-          "lastYear": null
-        },
-        {
-          "team": "Criciúma",
-          "titles": 1,
-          "firstYear": 1991,
-          "lastYear": 1991
-        },
-        {
-          "team": "Fluminense",
-          "titles": 1,
-          "firstYear": 2007,
-          "lastYear": 2007
-        },
-        {
-          "team": "Juventude",
-          "titles": 1,
-          "firstYear": 1999,
-          "lastYear": 1999
-        },
-        {
-          "team": "Paulista",
-          "titles": 1,
-          "firstYear": 2005,
-          "lastYear": 2005
-        },
-        {
-          "team": "Santo André",
-          "titles": 1,
-          "firstYear": 2004,
-          "lastYear": 2004
         }
       ]
     },
@@ -7522,12 +7543,12 @@
         },
         {
           "season": "2026",
-          "champion": "Espanha",
+          "champion": "Spain",
           "source": "Site / simulacao"
         },
         {
           "season": "2030",
-          "champion": "Espanha",
+          "champion": "Spain",
           "source": "Site / simulacao"
         },
         {
@@ -7542,31 +7563,31 @@
         },
         {
           "season": "2042",
-          "champion": "Itália",
+          "champion": "Italy",
           "source": "Site / simulacao"
         },
         {
           "season": "2046",
-          "champion": "Inglaterra",
+          "champion": "England",
           "source": "Site / simulacao"
         },
         {
           "season": "2050",
-          "champion": "Bolívia",
+          "champion": "Bolivia",
           "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
-          "team": "Brasil",
+          "team": "Brazil",
           "titles": 5,
-          "firstYear": 1958,
-          "lastYear": 2002
+          "firstYear": null,
+          "lastYear": null
         },
         {
-          "team": "Itália",
+          "team": "Italy",
           "titles": 5,
-          "firstYear": 1934,
+          "firstYear": 2042,
           "lastYear": 2042
         },
         {
@@ -7576,43 +7597,37 @@
           "lastYear": 2038
         },
         {
-          "team": "Alemanha Ocidental",
-          "titles": 3,
-          "firstYear": 1954,
-          "lastYear": 1990
+          "team": "Germany",
+          "titles": 4,
+          "firstYear": null,
+          "lastYear": null
         },
         {
-          "team": "Espanha",
+          "team": "Spain",
           "titles": 3,
-          "firstYear": 2010,
+          "firstYear": 2026,
           "lastYear": 2030
         },
         {
-          "team": "França",
+          "team": "England",
           "titles": 2,
-          "firstYear": 1998,
-          "lastYear": 2018
-        },
-        {
-          "team": "Inglaterra",
-          "titles": 2,
-          "firstYear": 1966,
+          "firstYear": 2046,
           "lastYear": 2046
         },
         {
-          "team": "Uruguai",
+          "team": "France",
           "titles": 2,
-          "firstYear": 1930,
-          "lastYear": 1950
+          "firstYear": null,
+          "lastYear": null
         },
         {
-          "team": "Alemanha",
-          "titles": 1,
-          "firstYear": 2014,
-          "lastYear": 2014
+          "team": "Uruguay",
+          "titles": 2,
+          "firstYear": null,
+          "lastYear": null
         },
         {
-          "team": "Bolívia",
+          "team": "Bolivia",
           "titles": 1,
           "firstYear": 2050,
           "lastYear": 2050
@@ -7744,6 +7759,11 @@
           "season": "2048",
           "champion": "Spain",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Dinamarca",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -7766,6 +7786,12 @@
           "lastYear": null
         },
         {
+          "team": "Dinamarca",
+          "titles": 2,
+          "firstYear": 1992,
+          "lastYear": 2052
+        },
+        {
           "team": "Italy",
           "titles": 2,
           "firstYear": null,
@@ -7782,12 +7808,6 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
-        },
-        {
-          "team": "Dinamarca",
-          "titles": 1,
-          "firstYear": 1992,
-          "lastYear": 1992
         },
         {
           "team": "Grécia",
@@ -8218,6 +8238,11 @@
           "season": "2051",
           "champion": "Aston Villa",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Borussia Dortmund",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -8358,6 +8383,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Borussia Dortmund",
+          "titles": 1,
+          "firstYear": 2046,
+          "lastYear": 2052
         },
         {
           "team": "CSKA Moscou",
@@ -8627,6 +8658,11 @@
           "season": "2051",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Atletico de Madrid",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -8644,9 +8680,9 @@
         },
         {
           "team": "Atletico de Madrid",
-          "titles": 15,
+          "titles": 16,
           "firstYear": 2031,
-          "lastYear": 2044
+          "lastYear": 2052
         },
         {
           "team": "Athletic Bilbao",
@@ -8774,7 +8810,7 @@
         },
         {
           "season": "2029",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -8844,22 +8880,22 @@
         },
         {
           "season": "2043",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2044",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2045",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2046",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -8869,7 +8905,7 @@
         },
         {
           "season": "2048",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -8884,7 +8920,12 @@
         },
         {
           "season": "2051",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         }
       ],
@@ -8896,10 +8937,10 @@
           "lastYear": 2050
         },
         {
-          "team": "Marseille",
-          "titles": 16,
+          "team": "Olympique de Marseille",
+          "titles": 17,
           "firstYear": 2029,
-          "lastYear": 2051
+          "lastYear": 2052
         },
         {
           "team": "Saint-Etienne",
@@ -9155,6 +9196,11 @@
           "season": "2051",
           "champion": "Ajax",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -9223,6 +9269,12 @@
           "titles": 1,
           "firstYear": 2019,
           "lastYear": 2029
+        },
+        {
+          "team": "Olympique de Marseille",
+          "titles": 1,
+          "firstYear": 2052,
+          "lastYear": 2052
         },
         {
           "team": "Vasco",
@@ -9456,6 +9508,11 @@
           "season": "2051",
           "champion": "Chelsea",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Manchester City",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -9467,9 +9524,9 @@
         },
         {
           "team": "Manchester City",
-          "titles": 20,
+          "titles": 21,
           "firstYear": 2030,
-          "lastYear": 2049
+          "lastYear": 2052
         },
         {
           "team": "Manchester United",
@@ -9780,6 +9837,11 @@
           "season": "2051",
           "champion": "Palmeiras",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Internacional",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -9824,6 +9886,12 @@
           "titles": 3,
           "firstYear": 2015,
           "lastYear": 2019
+        },
+        {
+          "team": "Internacional",
+          "titles": 1,
+          "firstYear": 2007,
+          "lastYear": 2052
         }
       ]
     },
@@ -10051,6 +10119,11 @@
           "season": "2051",
           "champion": "Inter",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Roma",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -10085,8 +10158,14 @@
           "lastYear": null
         },
         {
+          "team": "Roma",
+          "titles": 4,
+          "firstYear": 2052,
+          "lastYear": 2052
+        },
+        {
           "team": "Fiorentina",
-          "titles": 1,
+          "titles": 3,
           "firstYear": 2050,
           "lastYear": 2050
         }
@@ -10226,6 +10305,11 @@
           "season": "2051",
           "champion": "Bayern",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Bayer Leverkusen",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -10240,6 +10324,12 @@
           "titles": 9,
           "firstYear": 2037,
           "lastYear": 2050
+        },
+        {
+          "team": "Bayer Leverkusen",
+          "titles": 1,
+          "firstYear": 2052,
+          "lastYear": 2052
         },
         {
           "team": "Borussia Monchengladbach",
@@ -10389,6 +10479,11 @@
           "season": "2051",
           "champion": "Barcelona",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Barcelona",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -10400,19 +10495,13 @@
         },
         {
           "team": "Barcelona",
-          "titles": 23,
+          "titles": 24,
           "firstYear": 2026,
-          "lastYear": 2051
+          "lastYear": 2052
         },
         {
           "team": "Atletico de Madrid",
-          "titles": 7,
-          "firstYear": 2032,
-          "lastYear": 2050
-        },
-        {
-          "team": "Atletico de Madrid",
-          "titles": 6,
+          "titles": 13,
           "firstYear": 2032,
           "lastYear": 2050
         },
@@ -10814,6 +10903,11 @@
           "season": "2051",
           "champion": "Barcelona",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Aston Villa",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -10878,6 +10972,12 @@
           "lastYear": 1978
         },
         {
+          "team": "Aston Villa",
+          "titles": 2,
+          "firstYear": 1982,
+          "lastYear": 2052
+        },
+        {
           "team": "Bayer Leverkusen",
           "titles": 2,
           "firstYear": 2028,
@@ -10918,12 +11018,6 @@
           "titles": 1,
           "firstYear": 1983,
           "lastYear": 1983
-        },
-        {
-          "team": "Aston Villa",
-          "titles": 1,
-          "firstYear": 1982,
-          "lastYear": 1982
         },
         {
           "team": "Bologna",
@@ -11026,7 +11120,7 @@
         },
         {
           "season": "2030",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -11096,17 +11190,17 @@
         },
         {
           "season": "2044",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2045",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2046",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -11116,12 +11210,12 @@
         },
         {
           "season": "2048",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
           "season": "2049",
-          "champion": "Marseille",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         },
         {
@@ -11133,6 +11227,11 @@
           "season": "2051",
           "champion": "PSG",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -11143,10 +11242,10 @@
           "lastYear": 2051
         },
         {
-          "team": "Marseille",
-          "titles": 9,
+          "team": "Olympique de Marseille",
+          "titles": 10,
           "firstYear": 2030,
-          "lastYear": 2049
+          "lastYear": 2052
         },
         {
           "team": "Saint-Etienne",
@@ -11302,20 +11401,25 @@
           "season": "2051",
           "champion": "Milan",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Milan",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
+        {
+          "team": "Milan",
+          "titles": 13,
+          "firstYear": 2043,
+          "lastYear": 2052
+        },
         {
           "team": "Bologna",
           "titles": 12,
           "firstYear": 2029,
           "lastYear": 2040
-        },
-        {
-          "team": "Milan",
-          "titles": 12,
-          "firstYear": 2043,
-          "lastYear": 2051
         },
         {
           "team": "Inter",
@@ -11471,6 +11575,11 @@
           "season": "2051",
           "champion": "Gremio",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2052",
+          "champion": "Internacional",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -11487,16 +11596,16 @@
           "lastYear": 2046
         },
         {
+          "team": "Gremio",
+          "titles": 5,
+          "firstYear": 2029,
+          "lastYear": 2051
+        },
+        {
           "team": "Corinthians",
           "titles": 4,
           "firstYear": 2026,
           "lastYear": 2049
-        },
-        {
-          "team": "Gremio",
-          "titles": 4,
-          "firstYear": 2029,
-          "lastYear": 2051
         },
         {
           "team": "Vasco",
@@ -11511,10 +11620,10 @@
           "lastYear": 2037
         },
         {
-          "team": "Gremio",
+          "team": "Internacional",
           "titles": 1,
-          "firstYear": 2029,
-          "lastYear": 2051
+          "firstYear": 2052,
+          "lastYear": 2052
         }
       ]
     },
@@ -11660,7 +11769,7 @@
         },
         {
           "title": "Community Shield",
-          "total": 29,
+          "total": 30,
           "source": "assets/js/dados.js"
         },
         {
@@ -11690,7 +11799,7 @@
       "titles": [
         {
           "title": "Carabao Cup",
-          "total": 6,
+          "total": 7,
           "source": "assets/js/dados.js"
         },
         {
@@ -11720,12 +11829,17 @@
         },
         {
           "title": "FA Cup",
-          "total": 7,
+          "total": 8,
           "source": "assets/js/dados.js"
         },
         {
           "title": "Premier League",
           "total": 7,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Supercopa da Europa",
+          "total": 1,
           "source": "assets/js/dados.js"
         }
       ]
@@ -11775,7 +11889,7 @@
         },
         {
           "title": "LaLiga",
-          "total": 15,
+          "total": 16,
           "source": "assets/js/dados.js"
         },
         {
@@ -11825,7 +11939,7 @@
         },
         {
           "title": "Copa del Rey",
-          "total": 39,
+          "total": 40,
           "source": "assets/js/dados.js"
         },
         {
@@ -11840,7 +11954,7 @@
         },
         {
           "title": "Supercopa da Espanha",
-          "total": 23,
+          "total": 24,
           "source": "assets/js/dados.js"
         },
         {
@@ -11875,7 +11989,7 @@
         },
         {
           "title": "DFL Supercup",
-          "total": 1,
+          "total": 2,
           "source": "assets/js/dados.js"
         }
       ]
@@ -11885,7 +11999,7 @@
       "titles": [
         {
           "title": "Bundesliga",
-          "total": 55,
+          "total": 56,
           "source": "assets/js/dados.js"
         },
         {
@@ -12015,12 +12129,17 @@
         },
         {
           "title": "DFB Pokal",
-          "total": 8,
+          "total": 9,
           "source": "assets/js/dados.js"
         },
         {
           "title": "DFL Supercup",
           "total": 9,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Europa League",
+          "total": 1,
           "source": "assets/js/dados.js"
         }
       ]
@@ -12055,7 +12174,7 @@
         },
         {
           "title": "Libertadores",
-          "total": 1,
+          "total": 2,
           "source": "assets/js/dados.js"
         },
         {
@@ -12114,6 +12233,11 @@
           "source": "assets/js/dados.js"
         },
         {
+          "title": "Sul-Americana",
+          "total": 1,
+          "source": "assets/js/dados.js"
+        },
+        {
           "title": "Supercopa",
           "total": 1,
           "source": "assets/js/dados.js"
@@ -12155,7 +12279,7 @@
       "titles": [
         {
           "title": "Copa America",
-          "total": 3,
+          "total": 4,
           "source": "assets/js/dados.js"
         }
       ]
@@ -12200,7 +12324,7 @@
         },
         {
           "title": "Copa do Brasil",
-          "total": 8,
+          "total": 9,
           "source": "assets/js/dados.js"
         },
         {
@@ -12246,6 +12370,16 @@
         {
           "title": "Supercopa da Espanha",
           "total": 3,
+          "source": "assets/js/dados.js"
+        }
+      ]
+    },
+    {
+      "team": "Dinamarca",
+      "titles": [
+        {
+          "title": "Eurocopa",
+          "total": 2,
           "source": "assets/js/dados.js"
         }
       ]
@@ -12570,12 +12704,17 @@
         },
         {
           "title": "Recopa",
-          "total": 2,
+          "total": 3,
           "source": "assets/js/dados.js"
         },
         {
           "title": "Sul-Americana",
           "total": 3,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Supercopa",
+          "total": 1,
           "source": "assets/js/dados.js"
         }
       ]
@@ -12605,7 +12744,7 @@
         },
         {
           "title": "Coppa Italia",
-          "total": 20,
+          "total": 21,
           "source": "assets/js/dados.js"
         },
         {
@@ -12745,7 +12884,7 @@
         },
         {
           "title": "Premier League",
-          "total": 20,
+          "total": 21,
           "source": "assets/js/dados.js"
         },
         {
@@ -12801,36 +12940,6 @@
       ]
     },
     {
-      "team": "Marseille",
-      "titles": [
-        {
-          "title": "Champions League",
-          "total": 1,
-          "source": "assets/js/dados.js"
-        },
-        {
-          "title": "Conference League",
-          "total": 1,
-          "source": "assets/js/dados.js"
-        },
-        {
-          "title": "Coupe de France",
-          "total": 17,
-          "source": "assets/js/dados.js"
-        },
-        {
-          "title": "Ligue 1",
-          "total": 16,
-          "source": "assets/js/dados.js"
-        },
-        {
-          "title": "Supercopa da Franca",
-          "total": 9,
-          "source": "assets/js/dados.js"
-        }
-      ]
-    },
-    {
       "team": "Mexico",
       "titles": [
         {
@@ -12860,7 +12969,7 @@
         },
         {
           "title": "Supercoppa Italiana",
-          "total": 12,
+          "total": 13,
           "source": "assets/js/dados.js"
         }
       ]
@@ -13051,6 +13160,41 @@
         {
           "title": "Sul-Americana",
           "total": 5,
+          "source": "assets/js/dados.js"
+        }
+      ]
+    },
+    {
+      "team": "Olympique de Marseille",
+      "titles": [
+        {
+          "title": "Champions League",
+          "total": 2,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Conference League",
+          "total": 1,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Coupe de France",
+          "total": 18,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Ligue 1",
+          "total": 17,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Supercopa da Franca",
+          "total": 10,
+          "source": "assets/js/dados.js"
+        },
+        {
+          "title": "Mundial",
+          "total": 1,
           "source": "assets/js/dados.js"
         }
       ]
@@ -13269,6 +13413,11 @@
           "source": "assets/js/dados.js"
         },
         {
+          "title": "Serie A",
+          "total": 1,
+          "source": "assets/js/dados.js"
+        },
+        {
           "title": "Supercopa da Europa",
           "total": 1,
           "source": "assets/js/dados.js"
@@ -13345,7 +13494,7 @@
       "titles": [
         {
           "title": "Brasileirao",
-          "total": 12,
+          "total": 13,
           "source": "assets/js/dados.js"
         },
         {
@@ -13417,6 +13566,16 @@
     },
     {
       "team": "Stuttgart",
+      "titles": [
+        {
+          "title": "Conference League",
+          "total": 1,
+          "source": "assets/js/dados.js"
+        }
+      ]
+    },
+    {
+      "team": "Torino",
       "titles": [
         {
           "title": "Conference League",

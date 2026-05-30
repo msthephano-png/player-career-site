@@ -1,4 +1,5 @@
-const clubSpellDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
+﻿const clubSpellDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
+clubSpellDataUrl.searchParams.set("v", "players-2052-fixes-3");
 
 function getCurrentSpellPath() {
   const parts = window.location.pathname.split("/");
@@ -114,3 +115,4 @@ async function initClubSpellData() {
 }
 
 initClubSpellData();
+

@@ -8,20 +8,20 @@
   "summary": {
     "competitions": {
       "competitions": 32,
-      "results": 1866,
-      "clubRelevantTitles": 307
+      "results": 1895,
+      "clubRelevantTitles": 320
     },
     "ballonDor": {
-      "years": 26,
-      "rankingRows": 771,
-      "players": 272
+      "years": 27,
+      "rankingRows": 801,
+      "players": 286
     },
     "players": {
       "players": 6,
-      "spells": 25,
-      "competitionStats": 117,
-      "spellHonors": 79,
-      "aggregateHonors": 110
+      "spells": 26,
+      "competitionStats": 126,
+      "spellHonors": 90,
+      "aggregateHonors": 121
     }
   }
 }

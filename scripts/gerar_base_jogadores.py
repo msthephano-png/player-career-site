@@ -53,6 +53,7 @@ COMPETITION_NAME_MAP = {
     "Copa da Itália": "Copa da Itália (Coppa Italia)",
     "Copa do Rey": "Copa del Rey",
     "Coupe de France": "Copa da França",
+    "Copa da Franca": "Copa da França",
     "DFB Pokal": "Copa da Alemanha (DFB-Pokal)",
     "DFB-Pokal": "Copa da Alemanha (DFB-Pokal)",
     "Emirates": "FA Cup",
@@ -68,6 +69,7 @@ COMPETITION_NAME_MAP = {
     "Supercopa": "Supercopa Rei",
     "Supercopa da Alemanha": "Supercopa da Alemanha (DFL Supercup)",
     "Supercopa da França": "Supercopa da França",
+    "Supercopa da Franca": "Supercopa da França",
     "Supercopa da Inglaterra": "Community Shield",
 }
 
@@ -84,6 +86,8 @@ TROPHY_NAME_MAP = {
     "Super Mundial": "Super Mundial",
     "Supercopa Rei": "Supercopa Rei",
     "Supercopa da Alemanha": "Supercopa da Alemanha (DFL Supercup)",
+    "Copa da Franca": "Copa da França",
+    "Supercopa da Franca": "Supercopa da França",
 }
 
 
@@ -230,7 +234,7 @@ def parse_player_page(path):
         "nome": name,
         "jogos": metrics.get("Jogos", 0),
         "gols": metrics.get("Gols", 0),
-        "assistencias": metrics.get("Assistências", metrics.get("AssistÃªncias", 0)),
+        "assistencias": metrics.get("Assistências", metrics.get("AssistÃªncias", metrics.get("Assistencias", 0))),
         "titulos_coletivos": summary.get("Títulos coletivos", summary.get("TÃ­tulos coletivos", 0)),
         "premios_individuais": summary.get("Prêmios individuais", summary.get("PrÃªmios individuais", 0)),
         "clubes": clubs,
@@ -292,7 +296,7 @@ def parse_club_page(path):
         "clube_nome_completo": full_club_name,
         "jogos": summary.get("Jogos", 0),
         "gols": summary.get("Gols", 0),
-        "assistencias": summary.get("Assistências", summary.get("AssistÃªncias", 0)),
+        "assistencias": summary.get("Assistências", summary.get("AssistÃªncias", summary.get("Assistencias", 0))),
         "estatisticas_competicao": competition_stats,
         "conquistas": trophies,
     }

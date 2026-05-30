@@ -4677,21 +4677,203 @@
         "podium": false,
         "medal": ""
       }
+    ],
+    "2052": [
+      {
+        "position": 1,
+        "player": "Guarita Fonseca",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Fabio Duarte",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Moreno Escobar",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Salazar",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 5,
+        "player": "Mads Poulsen",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 6,
+        "player": "Calderon",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 7,
+        "player": "Rafael Neves",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 8,
+        "player": "Michel",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 9,
+        "player": "Lang",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 10,
+        "player": "Albert Morales",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 11,
+        "player": "Diogo Silva",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 12,
+        "player": "Powell",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 13,
+        "player": "Massey",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 14,
+        "player": "Koch",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 15,
+        "player": "Field",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 16,
+        "player": "Morales",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 17,
+        "player": "Said",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 18,
+        "player": "Bamba",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 19,
+        "player": "Pascal Martin",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 20,
+        "player": "Jacobs",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 21,
+        "player": "Leroy",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 22,
+        "player": "Carvajal",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 23,
+        "player": "Carrizo",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 24,
+        "player": "Refferty",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 25,
+        "player": "Sosa",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 26,
+        "player": "Ibrahim",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 27,
+        "player": "Sierra",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 28,
+        "player": "David Bouchard",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 29,
+        "player": "Charles Mohamed",
+        "podium": false,
+        "medal": ""
+      },
+      {
+        "position": 30,
+        "player": "Norman",
+        "podium": false,
+        "medal": ""
+      }
     ]
   },
   "playerStats": [
     {
       "player": "Fabio Duarte",
-      "nominations": 11,
-      "podiums": 8,
+      "nominations": 12,
+      "podiums": 9,
       "wins": 3,
-      "seconds": 5,
+      "seconds": 6,
       "thirds": 0,
       "bestPosition": 1,
       "bestPositionYears": "2042, 2045, 2047",
       "firstNomination": 2040,
-      "lastNomination": 2051,
-      "history": "2040: 2?; 2042: 1?; 2043: 2?; 2044: 2?; 2045: 1?; 2046: 8?; 2047: 1?; 2048: 2?; 2049: 22?; 2050: 7?; 2051: 2?"
+      "lastNomination": 2052,
+      "history": "2040: 2?; 2042: 1?; 2043: 2?; 2044: 2?; 2045: 1?; 2046: 8?; 2047: 1?; 2048: 2?; 2049: 22?; 2050: 7?; 2051: 2?; 2052: 2?"
     },
     {
       "player": "Yamal",
@@ -4760,7 +4942,7 @@
     },
     {
       "player": "David Bouchard",
-      "nominations": 8,
+      "nominations": 9,
       "podiums": 4,
       "wins": 1,
       "seconds": 2,
@@ -4768,8 +4950,8 @@
       "bestPosition": 1,
       "bestPositionYears": "2044",
       "firstNomination": 2044,
-      "lastNomination": 2051,
-      "history": "2044: 1?; 2045: 2?; 2046: 6?; 2047: 2?; 2048: 24?; 2049: 3?; 2050: 6?; 2051: 30?"
+      "lastNomination": 2052,
+      "history": "2044: 1?; 2045: 2?; 2046: 6?; 2047: 2?; 2048: 24?; 2049: 3?; 2050: 6?; 2051: 30?; 2052: 28?"
     },
     {
       "player": "Escobar",
@@ -4838,7 +5020,7 @@
     },
     {
       "player": "Charles Mohamed",
-      "nominations": 7,
+      "nominations": 8,
       "podiums": 2,
       "wins": 1,
       "seconds": 0,
@@ -4846,8 +5028,8 @@
       "bestPosition": 1,
       "bestPositionYears": "2043",
       "firstNomination": 2043,
-      "lastNomination": 2051,
-      "history": "2043: 1?; 2044: 25?; 2045: 29?; 2046: 23?; 2047: 26?; 2048: 29?; 2051: 3?"
+      "lastNomination": 2052,
+      "history": "2043: 1?; 2044: 25?; 2045: 29?; 2046: 23?; 2047: 26?; 2048: 29?; 2051: 3?; 2052: 29?"
     },
     {
       "player": "Wirtz",
@@ -4890,7 +5072,7 @@
     },
     {
       "player": "Salazar",
-      "nominations": 2,
+      "nominations": 3,
       "podiums": 1,
       "wins": 1,
       "seconds": 0,
@@ -4898,8 +5080,21 @@
       "bestPosition": 1,
       "bestPositionYears": "2051",
       "firstNomination": 2050,
-      "lastNomination": 2051,
-      "history": "2050: 4?; 2051: 1?"
+      "lastNomination": 2052,
+      "history": "2050: 4?; 2051: 1?; 2052: 4?"
+    },
+    {
+      "player": "Guarita Fonseca",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 1,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 1,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 1?"
     },
     {
       "player": "Garcia",
@@ -5110,6 +5305,19 @@
       "history": "2036: 3?; 2037: 11?"
     },
     {
+      "player": "Moreno Escobar",
+      "nominations": 2,
+      "podiums": 1,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 1,
+      "bestPosition": 3,
+      "bestPositionYears": "2052",
+      "firstNomination": 2050,
+      "lastNomination": 2052,
+      "history": "2050: 15?; 2052: 3?"
+    },
+    {
       "player": "Tyler Norman",
       "nominations": 2,
       "podiums": 1,
@@ -5266,6 +5474,19 @@
       "history": "2026: 16?; 2027: 18?; 2028: 22?; 2029: 30?; 2030: 12?; 2031: 26?; 2032: 28?; 2033: 27?; 2034: 26?; 2035: 26?; 2036: 26?"
     },
     {
+      "player": "Leroy",
+      "nominations": 10,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 4,
+      "bestPositionYears": "2047",
+      "firstNomination": 2040,
+      "lastNomination": 2052,
+      "history": "2040: 8?; 2042: 13?; 2043: 21?; 2044: 22?; 2045: 11?; 2047: 4?; 2048: 12?; 2049: 15?; 2051: 21?; 2052: 21?"
+    },
+    {
       "player": "Gavi",
       "nominations": 10,
       "podiums": 0,
@@ -5277,19 +5498,6 @@
       "firstNomination": 2026,
       "lastNomination": 2036,
       "history": "2026: 8?; 2027: 30?; 2028: 19?; 2029: 20?; 2030: 5?; 2031: 23?; 2032: 21?; 2034: 24?; 2035: 16?; 2036: 16?"
-    },
-    {
-      "player": "Leroy",
-      "nominations": 9,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 4,
-      "bestPositionYears": "2047",
-      "firstNomination": 2040,
-      "lastNomination": 2051,
-      "history": "2040: 8?; 2042: 13?; 2043: 21?; 2044: 22?; 2045: 11?; 2047: 4?; 2048: 12?; 2049: 15?; 2051: 21?"
     },
     {
       "player": "Cubarsí",
@@ -5552,6 +5760,19 @@
       "history": "2037: 8?; 2038: 20?; 2039: 11?; 2041: 14?; 2041: 19?"
     },
     {
+      "player": "Lang",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2052",
+      "firstNomination": 2045,
+      "lastNomination": 2052,
+      "history": "2045: 12?; 2047: 13?; 2048: 13?; 2051: 13?; 2052: 9?"
+    },
+    {
       "player": "Rodrygo",
       "nominations": 5,
       "podiums": 0,
@@ -5576,6 +5797,19 @@
       "firstNomination": 2035,
       "lastNomination": 2039,
       "history": "2035: 24?; 2036: 24?; 2037: 14?; 2038: 26?; 2039: 14?"
+    },
+    {
+      "player": "Ibrahim",
+      "nominations": 5,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2048",
+      "firstNomination": 2040,
+      "lastNomination": 2052,
+      "history": "2040: 18?; 2041: 18?; 2045: 24?; 2048: 14?; 2052: 26?"
     },
     {
       "player": "Rodri Jr",
@@ -5656,6 +5890,19 @@
       "history": "2047: 10?; 2048: 17?; 2050: 27?; 2051: 6?"
     },
     {
+      "player": "Powell",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2048",
+      "firstNomination": 2045,
+      "lastNomination": 2052,
+      "history": "2045: 15?; 2047: 18?; 2048: 7?; 2052: 12?"
+    },
+    {
       "player": "Sesko",
       "nominations": 4,
       "podiums": 0,
@@ -5695,6 +5942,19 @@
       "history": "2045: 21?; 2047: 12?; 2048: 27?; 2050: 17?"
     },
     {
+      "player": "Field",
+      "nominations": 4,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 12,
+      "bestPositionYears": "2051",
+      "firstNomination": 2046,
+      "lastNomination": 2052,
+      "history": "2046: 13?; 2047: 24?; 2051: 12?; 2052: 15?"
+    },
+    {
       "player": "Fiore",
       "nominations": 4,
       "podiums": 0,
@@ -5706,32 +5966,6 @@
       "firstNomination": 2046,
       "lastNomination": 2050,
       "history": "2046: 25?; 2048: 16?; 2049: 16?; 2050: 12?"
-    },
-    {
-      "player": "Lang",
-      "nominations": 4,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 12,
-      "bestPositionYears": "2045",
-      "firstNomination": 2045,
-      "lastNomination": 2051,
-      "history": "2045: 12?; 2047: 13?; 2048: 13?; 2051: 13?"
-    },
-    {
-      "player": "Ibrahim",
-      "nominations": 4,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 14,
-      "bestPositionYears": "2048",
-      "firstNomination": 2040,
-      "lastNomination": 2048,
-      "history": "2040: 18?; 2041: 18?; 2045: 24?; 2048: 14?"
     },
     {
       "player": "Theo Hernández",
@@ -5799,19 +6033,6 @@
       "history": "2026: 6?; 2027: 7?; 2028: 6?"
     },
     {
-      "player": "Powell",
-      "nominations": 3,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 7,
-      "bestPositionYears": "2048",
-      "firstNomination": 2045,
-      "lastNomination": 2048,
-      "history": "2045: 15?; 2047: 18?; 2048: 7?"
-    },
-    {
       "player": "Saka",
       "nominations": 3,
       "podiums": 0,
@@ -5825,6 +6046,19 @@
       "history": "2026: 12?; 2027: 12?; 2028: 7?"
     },
     {
+      "player": "Michel",
+      "nominations": 3,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 8,
+      "bestPositionYears": "2052",
+      "firstNomination": 2047,
+      "lastNomination": 2052,
+      "history": "2047: 30?; 2051: 14?; 2052: 8?"
+    },
+    {
       "player": "Dani Nieto",
       "nominations": 3,
       "podiums": 0,
@@ -5836,19 +6070,6 @@
       "firstNomination": 2040,
       "lastNomination": 2043,
       "history": "2040: 20?; 2041: 9?; 2043: 24?"
-    },
-    {
-      "player": "Field",
-      "nominations": 3,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 12,
-      "bestPositionYears": "2051",
-      "firstNomination": 2046,
-      "lastNomination": 2051,
-      "history": "2046: 13?; 2047: 24?; 2051: 12?"
     },
     {
       "player": "Thomas",
@@ -6072,6 +6293,19 @@
       "history": "2044: 6?; 2046: 16?"
     },
     {
+      "player": "Norman",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2040",
+      "firstNomination": 2040,
+      "lastNomination": 2052,
+      "history": "2040: 6?; 2052: 30?"
+    },
+    {
       "player": "Pawtowski",
       "nominations": 2,
       "podiums": 0,
@@ -6189,6 +6423,32 @@
       "history": "2040: 9?; 2041: 17?"
     },
     {
+      "player": "Morales",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 9,
+      "bestPositionYears": "2051",
+      "firstNomination": 2051,
+      "lastNomination": 2052,
+      "history": "2051: 9?; 2052: 16?"
+    },
+    {
+      "player": "Albert Morales",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 10,
+      "bestPositionYears": "2052",
+      "firstNomination": 2044,
+      "lastNomination": 2052,
+      "history": "2044: 21?; 2052: 10?"
+    },
+    {
       "player": "Martin Sanchez",
       "nominations": 2,
       "podiums": 0,
@@ -6241,17 +6501,17 @@
       "history": "2039: 27?; 2043: 12?"
     },
     {
-      "player": "Michel",
+      "player": "Massey",
       "nominations": 2,
       "podiums": 0,
       "wins": 0,
       "seconds": 0,
       "thirds": 0,
-      "bestPosition": 14,
-      "bestPositionYears": "2051",
-      "firstNomination": 2047,
-      "lastNomination": 2051,
-      "history": "2047: 30?; 2051: 14?"
+      "bestPosition": 13,
+      "bestPositionYears": "2052",
+      "firstNomination": 2043,
+      "lastNomination": 2052,
+      "history": "2043: 28?; 2052: 13?"
     },
     {
       "player": "Rice",
@@ -6291,6 +6551,19 @@
       "firstNomination": 2029,
       "lastNomination": 2030,
       "history": "2029: 22?; 2030: 16?"
+    },
+    {
+      "player": "Carrizo",
+      "nominations": 2,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2051",
+      "firstNomination": 2051,
+      "lastNomination": 2052,
+      "history": "2051: 17?; 2052: 23?"
     },
     {
       "player": "Osimhen",
@@ -6501,6 +6774,19 @@
       "history": "2042: 5?"
     },
     {
+      "player": "Mads Poulsen",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 5,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 5?"
+    },
+    {
       "player": "Mann",
       "nominations": 1,
       "podiums": 0,
@@ -6538,6 +6824,19 @@
       "firstNomination": 2047,
       "lastNomination": 2047,
       "history": "2047: 5?"
+    },
+    {
+      "player": "Calderon",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 6,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 6?"
     },
     {
       "player": "De Jong",
@@ -6590,19 +6889,6 @@
       "firstNomination": 2042,
       "lastNomination": 2042,
       "history": "2042: 6?"
-    },
-    {
-      "player": "Norman",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 6,
-      "bestPositionYears": "2040",
-      "firstNomination": 2040,
-      "lastNomination": 2040,
-      "history": "2040: 6?"
     },
     {
       "player": "Pino",
@@ -6696,6 +6982,19 @@
       "history": "2043: 7?"
     },
     {
+      "player": "Rafael Neves",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 7,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 7?"
+    },
+    {
       "player": "Acuna",
       "nominations": 1,
       "podiums": 0,
@@ -6772,19 +7071,6 @@
       "firstNomination": 2042,
       "lastNomination": 2042,
       "history": "2042: 9?"
-    },
-    {
-      "player": "Morales",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 9,
-      "bestPositionYears": "2051",
-      "firstNomination": 2051,
-      "lastNomination": 2051,
-      "history": "2051: 9?"
     },
     {
       "player": "Pawlowski",
@@ -6915,6 +7201,19 @@
       "firstNomination": 2051,
       "lastNomination": 2051,
       "history": "2051: 11?"
+    },
+    {
+      "player": "Diogo Silva",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 11,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 11?"
     },
     {
       "player": "George",
@@ -7086,6 +7385,19 @@
       "history": "2043: 14?"
     },
     {
+      "player": "Koch",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 14,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 14?"
+    },
+    {
       "player": "Siegmund",
       "nominations": 1,
       "podiums": 0,
@@ -7123,19 +7435,6 @@
       "firstNomination": 2026,
       "lastNomination": 2026,
       "history": "2026: 15?"
-    },
-    {
-      "player": "Moreno Escobar",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 15,
-      "bestPositionYears": "2050",
-      "firstNomination": 2050,
-      "lastNomination": 2050,
-      "history": "2050: 15?"
     },
     {
       "player": "Navarro",
@@ -7242,19 +7541,6 @@
       "history": "2051: 16?"
     },
     {
-      "player": "Carrizo",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 17,
-      "bestPositionYears": "2051",
-      "firstNomination": 2051,
-      "lastNomination": 2051,
-      "history": "2051: 17?"
-    },
-    {
       "player": "Hassan",
       "nominations": 1,
       "podiums": 0,
@@ -7281,6 +7567,19 @@
       "history": "2044: 17?"
     },
     {
+      "player": "Said",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 17,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 17?"
+    },
+    {
       "player": "Vuskovic",
       "nominations": 1,
       "podiums": 0,
@@ -7305,6 +7604,19 @@
       "firstNomination": 2051,
       "lastNomination": 2051,
       "history": "2051: 18?"
+    },
+    {
+      "player": "Bamba",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 18,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 18?"
     },
     {
       "player": "Bernal",
@@ -7437,6 +7749,19 @@
       "history": "2039: 19?"
     },
     {
+      "player": "Pascal Martin",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 19,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 19?"
+    },
+    {
       "player": "Shevchuk",
       "nominations": 1,
       "podiums": 0,
@@ -7489,6 +7814,19 @@
       "history": "2042: 20?"
     },
     {
+      "player": "Jacobs",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 20,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 20?"
+    },
+    {
       "player": "Koren",
       "nominations": 1,
       "podiums": 0,
@@ -7526,19 +7864,6 @@
       "firstNomination": 2046,
       "lastNomination": 2046,
       "history": "2046: 20?"
-    },
-    {
-      "player": "Albert Morales",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 21,
-      "bestPositionYears": "2044",
-      "firstNomination": 2044,
-      "lastNomination": 2044,
-      "history": "2044: 21?"
     },
     {
       "player": "Cherki",
@@ -7617,6 +7942,19 @@
       "firstNomination": 2048,
       "lastNomination": 2048,
       "history": "2048: 21?"
+    },
+    {
+      "player": "Carvajal",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 22,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 22?"
     },
     {
       "player": "Eduardo Ribeiros",
@@ -7853,6 +8191,19 @@
       "history": "2040: 24?"
     },
     {
+      "player": "Refferty",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 24,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 24?"
+    },
+    {
       "player": "Wells",
       "nominations": 1,
       "podiums": 0,
@@ -7918,6 +8269,19 @@
       "history": "2029: 25?"
     },
     {
+      "player": "Sosa",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 25,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 25?"
+    },
+    {
       "player": "Szczęsny",
       "nominations": 1,
       "podiums": 0,
@@ -7968,6 +8332,19 @@
       "firstNomination": 2049,
       "lastNomination": 2049,
       "history": "2049: 26?"
+    },
+    {
+      "player": "Sierra",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "seconds": 0,
+      "thirds": 0,
+      "bestPosition": 27,
+      "bestPositionYears": "2052",
+      "firstNomination": 2052,
+      "lastNomination": 2052,
+      "history": "2052: 27?"
     },
     {
       "player": "Walsh",
@@ -8033,19 +8410,6 @@
       "firstNomination": 2030,
       "lastNomination": 2030,
       "history": "2030: 28?"
-    },
-    {
-      "player": "Massey",
-      "nominations": 1,
-      "podiums": 0,
-      "wins": 0,
-      "seconds": 0,
-      "thirds": 0,
-      "bestPosition": 28,
-      "bestPositionYears": "2043",
-      "firstNomination": 2043,
-      "lastNomination": 2043,
-      "history": "2043: 28?"
     },
     {
       "player": "Rossi",
