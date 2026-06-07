@@ -535,11 +535,11 @@
     {
       "slug": "salazar",
       "nome": "Salazar",
-      "jogos": 351,
-      "gols": 263,
-      "assistencias": 226,
-      "titulos_coletivos": 14,
-      "premios_individuais": 9,
+      "jogos": 404,
+      "gols": 317,
+      "assistencias": 267,
+      "titulos_coletivos": 16,
+      "premios_individuais": 10,
       "clubes": [
         {
           "href": "salazar-oriente.html",
@@ -549,12 +549,17 @@
         {
           "href": "salazar-ajax.html",
           "nome": "Ajax",
-          "descricao": "153 gols, mais ta?as pelo Ajax e presen?a constante na elite europeia."
+          "descricao": "153 gols, mais taças pelo Ajax e presença constante na elite europeia."
+        },
+        {
+          "href": "salazar-torino.html",
+          "nome": "Torino",
+          "descricao": "53 jogos, Supercopa da Itália e Europa League."
         },
         {
           "href": "salazar-bolivia.html",
           "nome": "Bolívia",
-          "descricao": "61 jogos pela sele??o, com mais uma Copa Am?rica no curr?culo."
+          "descricao": "61 jogos pela seleção, com mais uma Copa América no currículo."
         }
       ],
       "conquistas": [
@@ -581,7 +586,7 @@
         {
           "categoria": "Título coletivo",
           "nome": "Europa League",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
@@ -601,6 +606,11 @@
         {
           "categoria": "Título coletivo",
           "nome": "Mundial",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Itália",
           "quantidade": 1
         },
         {
@@ -627,11 +637,16 @@
           "categoria": "Prêmio individual",
           "nome": "Bola de Ouro",
           "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Artilheiro da Serie A",
+          "quantidade": 1
         }
       ],
-      "jogos_hub": 351,
-      "gols_hub": 263,
-      "assistencias_hub": 226,
+      "jogos_hub": 404,
+      "gols_hub": 317,
+      "assistencias_hub": 267,
       "dif_jogos_hub": 0,
       "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
@@ -639,31 +654,31 @@
     {
       "slug": "guarita-fonseca",
       "nome": "Guarita Fonseca",
-      "jogos": 209,
-      "gols": 84,
-      "assistencias": 115,
-      "titulos_coletivos": 6,
+      "jogos": 255,
+      "gols": 113,
+      "assistencias": 147,
+      "titulos_coletivos": 12,
       "premios_individuais": 5,
       "clubes": [
         {
           "href": "guarita-fonseca-potosi.html",
-          "nome": "Nacional de Potosí",
+          "nome": "Nacional de Potos?",
           "descricao": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador."
         },
         {
           "href": "guarita-fonseca-napoli.html",
           "nome": "Napoli",
-          "descricao": "Primeira experiência na Serie A e Europa League italiana."
+          "descricao": "Primeira experi?ncia na Serie A e Europa League italiana."
         },
         {
           "href": "guarita-fonseca-marseille.html",
           "nome": "Olympique de Marseille",
-          "descricao": "57 jogos, Champions League e Bola de Ouro."
+          "descricao": "103 jogos, domínio francês, Champions League e Bola de Ouro."
         },
         {
           "href": "guarita-fonseca-bolivia.html",
-          "nome": "Bolívia",
-          "descricao": "Titular na Copa do Mundo campeã — e a história mal começou."
+          "nome": "Bol?via",
+          "descricao": "Titular na Copa do Mundo campe? ? e a história mal come?ou."
         }
       ],
       "conquistas": [
@@ -680,21 +695,31 @@
         {
           "categoria": "Título coletivo",
           "nome": "Ligue 1",
-          "quantidade": 1
-        },
-        {
-          "categoria": "Título coletivo",
-          "nome": "Copa da França",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
           "nome": "Supercopa da França",
-          "quantidade": 1
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Copa da França",
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
           "nome": "Champions League",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Mundial",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Europa",
           "quantidade": 1
         },
         {
@@ -718,9 +743,9 @@
           "quantidade": 1
         }
       ],
-      "jogos_hub": 209,
-      "gols_hub": 84,
-      "assistencias_hub": 115,
+      "jogos_hub": 255,
+      "gols_hub": 113,
+      "assistencias_hub": 147,
       "dif_jogos_hub": 0,
       "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
@@ -728,11 +753,11 @@
     {
       "slug": "moreno-escobar",
       "nome": "Moreno Escobar",
-      "jogos": 260,
-      "gols": 362,
-      "assistencias": 67,
-      "titulos_coletivos": 10,
-      "premios_individuais": 15,
+      "jogos": 316,
+      "gols": 442,
+      "assistencias": 95,
+      "titulos_coletivos": 16,
+      "premios_individuais": 21,
       "clubes": [
         {
           "href": "moreno-escobar-the-strongest.html",
@@ -747,12 +772,12 @@
         {
           "href": "moreno-escobar-marseille.html",
           "nome": "Olympique de Marseille",
-          "descricao": "101 gols, Champions League e dominio completo na Franca."
+          "descricao": "181 gols, Champions League, Mundial e domínio completo na França."
         },
         {
           "href": "moreno-escobar-bolivia.html",
-          "nome": "Bolívia",
-          "descricao": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo."
+          "nome": "Bol?via",
+          "descricao": "Artilheiro da Copa do Mundo ? 13 gols no torneio que mudou tudo."
         }
       ],
       "conquistas": [
@@ -774,21 +799,31 @@
         {
           "categoria": "Título coletivo",
           "nome": "Ligue 1",
-          "quantidade": 2
+          "quantidade": 3
         },
         {
           "categoria": "Título coletivo",
           "nome": "Supercopa da França",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
           "nome": "Copa da França",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Título coletivo",
           "nome": "Champions League",
+          "quantidade": 2
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Mundial",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Título coletivo",
+          "nome": "Supercopa da Europa",
           "quantidade": 1
         },
         {
@@ -824,17 +859,32 @@
         {
           "categoria": "Prêmio individual",
           "nome": "Melhor da Ligue 1",
-          "quantidade": 1
+          "quantidade": 2
         },
         {
           "categoria": "Prêmio individual",
           "nome": "Artilheiro da Ligue 1",
-          "quantidade": 2
+          "quantidade": 3
         },
         {
           "categoria": "Prêmio individual",
           "nome": "Artilheiro da Copa da França",
-          "quantidade": 2
+          "quantidade": 3
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Melhor Jogador da Copa da França",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Chuteira de Ouro",
+          "quantidade": 1
+        },
+        {
+          "categoria": "Prêmio individual",
+          "nome": "Bola de Ouro",
+          "quantidade": 1
         },
         {
           "categoria": "Prêmio individual",
@@ -842,9 +892,9 @@
           "quantidade": 1
         }
       ],
-      "jogos_hub": 260,
-      "gols_hub": 362,
-      "assistencias_hub": 67,
+      "jogos_hub": 316,
+      "gols_hub": 442,
+      "assistencias_hub": 95,
       "dif_jogos_hub": 0,
       "dif_gols_hub": 0,
       "dif_assistencias_hub": 0
@@ -1087,13 +1137,27 @@
       "gols": 153,
       "assistencias": 143,
       "pagina": "pages/clubes/salazar-ajax.html",
-      "descricao": "153 gols, mais ta?as pelo Ajax e presen?a constante na elite europeia."
+      "descricao": "153 gols, mais taças pelo Ajax e presença constante na elite europeia."
     },
     {
-      "id": "salazar-bolivia-3",
+      "id": "salazar-torino-3",
       "jogador": "Salazar",
       "jogador_slug": "salazar",
       "ordem": 3,
+      "clube": "Torino",
+      "clube_nome_completo": "Torino",
+      "tipo": "Clube",
+      "jogos": 53,
+      "gols": 54,
+      "assistencias": 41,
+      "pagina": "pages/clubes/salazar-torino.html",
+      "descricao": "53 jogos, Supercopa da Itália e Europa League."
+    },
+    {
+      "id": "salazar-bolivia-4",
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "ordem": 4,
       "clube": "Bolívia",
       "clube_nome_completo": "Bolívia",
       "tipo": "Seleção",
@@ -1101,7 +1165,7 @@
       "gols": 48,
       "assistencias": 39,
       "pagina": "pages/clubes/salazar-bolivia.html",
-      "descricao": "61 jogos pela sele??o, com mais uma Copa Am?rica no curr?culo."
+      "descricao": "61 jogos pela seleção, com mais uma Copa América no currículo."
     },
     {
       "id": "guarita-fonseca-nacional-de-potosi-1",
@@ -1129,7 +1193,7 @@
       "gols": 9,
       "assistencias": 13,
       "pagina": "pages/clubes/guarita-fonseca-napoli.html",
-      "descricao": "Primeira experiência na Serie A e Europa League italiana."
+      "descricao": "Primeira experi?ncia na Serie A e Europa League italiana."
     },
     {
       "id": "guarita-fonseca-olympique-de-marseille-3",
@@ -1139,11 +1203,11 @@
       "clube": "Olympique de Marseille",
       "clube_nome_completo": "Olympique de Marseille",
       "tipo": "Clube",
-      "jogos": 57,
-      "gols": 34,
-      "assistencias": 32,
+      "jogos": 103,
+      "gols": 63,
+      "assistencias": 64,
       "pagina": "pages/clubes/guarita-fonseca-marseille.html",
-      "descricao": "57 jogos, Champions League e Bola de Ouro."
+      "descricao": "103 jogos, domínio francês, Champions League e Bola de Ouro."
     },
     {
       "id": "guarita-fonseca-bolivia-4",
@@ -1157,7 +1221,7 @@
       "gols": 15,
       "assistencias": 22,
       "pagina": "pages/clubes/guarita-fonseca-bolivia.html",
-      "descricao": "Titular na Copa do Mundo campeã — e a história mal começou."
+      "descricao": "Titular na Copa do Mundo campe? ? e a história mal come?ou."
     },
     {
       "id": "moreno-escobar-the-strongest-1",
@@ -1195,11 +1259,11 @@
       "clube": "Olympique de Marseille",
       "clube_nome_completo": "Olympique de Marseille",
       "tipo": "Clube",
-      "jogos": 98,
-      "gols": 101,
-      "assistencias": 27,
+      "jogos": 154,
+      "gols": 181,
+      "assistencias": 55,
       "pagina": "pages/clubes/moreno-escobar-marseille.html",
-      "descricao": "101 gols, Champions League e dominio completo na Franca."
+      "descricao": "181 gols, Champions League, Mundial e domínio completo na França."
     },
     {
       "id": "moreno-escobar-bolivia-4",
@@ -1213,7 +1277,7 @@
       "gols": 36,
       "assistencias": 13,
       "pagina": "pages/clubes/moreno-escobar-bolivia.html",
-      "descricao": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo."
+      "descricao": "Artilheiro da Copa do Mundo ? 13 gols no torneio que mudou tudo."
     }
   ],
   "desempenho_por_competicao": [
@@ -1959,7 +2023,7 @@
       "passagem_id": "guarita-fonseca-bolivia-4",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
-      "competicao": "Eliminat?rias",
+      "competicao": "Eliminatórias",
       "jogos": 20,
       "gols": 6,
       "assistencias": 9
@@ -1968,7 +2032,7 @@
       "passagem_id": "guarita-fonseca-bolivia-4",
       "jogador": "Guarita Fonseca",
       "clube": "Bolívia",
-      "competicao": "Copa Am?rica",
+      "competicao": "Copa América",
       "jogos": 6,
       "gols": 2,
       "assistencias": 4
@@ -1996,36 +2060,45 @@
       "jogador": "Guarita Fonseca",
       "clube": "Olympique de Marseille",
       "competicao": "Ligue 1",
-      "jogos": 34,
-      "gols": 17,
-      "assistencias": 20
+      "jogos": 60,
+      "gols": 30,
+      "assistencias": 38
     },
     {
       "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
       "jogador": "Guarita Fonseca",
       "clube": "Olympique de Marseille",
       "competicao": "Copa da França",
-      "jogos": 5,
-      "gols": 6,
-      "assistencias": 5
+      "jogos": 9,
+      "gols": 9,
+      "assistencias": 9
     },
     {
       "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
       "jogador": "Guarita Fonseca",
       "clube": "Olympique de Marseille",
       "competicao": "Supercopa da França",
-      "jogos": 1,
-      "gols": 0,
-      "assistencias": 1
+      "jogos": 2,
+      "gols": 1,
+      "assistencias": 2
     },
     {
       "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
       "jogador": "Guarita Fonseca",
       "clube": "Olympique de Marseille",
       "competicao": "Champions League",
-      "jogos": 17,
-      "gols": 11,
-      "assistencias": 6
+      "jogos": 31,
+      "gols": 22,
+      "assistencias": 15
+    },
+    {
+      "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
+      "jogador": "Guarita Fonseca",
+      "clube": "Olympique de Marseille",
+      "competicao": "Supercopa da Europa",
+      "jogos": 1,
+      "gols": 1,
+      "assistencias": 0
     },
     {
       "passagem_id": "guarita-fonseca-napoli-2",
@@ -2085,7 +2158,7 @@
       "passagem_id": "moreno-escobar-bolivia-4",
       "jogador": "Moreno Escobar",
       "clube": "Bolívia",
-      "competicao": "Eliminat?rias",
+      "competicao": "Eliminatórias",
       "jogos": 26,
       "gols": 16,
       "assistencias": 7
@@ -2094,7 +2167,7 @@
       "passagem_id": "moreno-escobar-bolivia-4",
       "jogador": "Moreno Escobar",
       "clube": "Bolívia",
-      "competicao": "Copa Am?rica",
+      "competicao": "Copa América",
       "jogos": 6,
       "gols": 7,
       "assistencias": 3
@@ -2158,27 +2231,27 @@
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Ligue 1",
-      "jogos": 59,
-      "gols": 60,
-      "assistencias": 12
+      "jogos": 91,
+      "gols": 102,
+      "assistencias": 25
     },
     {
       "passagem_id": "moreno-escobar-olympique-de-marseille-3",
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Copa da França",
-      "jogos": 12,
-      "gols": 17,
-      "assistencias": 4
+      "jogos": 17,
+      "gols": 29,
+      "assistencias": 8
     },
     {
       "passagem_id": "moreno-escobar-olympique-de-marseille-3",
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Supercopa da França",
-      "jogos": 1,
-      "gols": 1,
-      "assistencias": 0
+      "jogos": 2,
+      "gols": 3,
+      "assistencias": 1
     },
     {
       "passagem_id": "moreno-escobar-olympique-de-marseille-3",
@@ -2194,9 +2267,18 @@
       "jogador": "Moreno Escobar",
       "clube": "Olympique de Marseille",
       "competicao": "Champions League",
-      "jogos": 14,
-      "gols": 13,
-      "assistencias": 9
+      "jogos": 31,
+      "gols": 35,
+      "assistencias": 19
+    },
+    {
+      "passagem_id": "moreno-escobar-olympique-de-marseille-3",
+      "jogador": "Moreno Escobar",
+      "clube": "Olympique de Marseille",
+      "competicao": "Mundial de Clubes",
+      "jogos": 1,
+      "gols": 2,
+      "assistencias": 0
     },
     {
       "passagem_id": "moreno-escobar-the-strongest-1",
@@ -2280,25 +2362,25 @@
       "assistencias": 3
     },
     {
-      "passagem_id": "salazar-bolivia-3",
+      "passagem_id": "salazar-bolivia-4",
       "jogador": "Salazar",
       "clube": "Bolívia",
-      "competicao": "Eliminat?rias",
+      "competicao": "Eliminatórias",
       "jogos": 34,
       "gols": 28,
       "assistencias": 17
     },
     {
-      "passagem_id": "salazar-bolivia-3",
+      "passagem_id": "salazar-bolivia-4",
       "jogador": "Salazar",
       "clube": "Bolívia",
-      "competicao": "Copa Am?rica",
+      "competicao": "Copa América",
       "jogos": 9,
       "gols": 8,
       "assistencias": 5
     },
     {
-      "passagem_id": "salazar-bolivia-3",
+      "passagem_id": "salazar-bolivia-4",
       "jogador": "Salazar",
       "clube": "Bolívia",
       "competicao": "Amistosos",
@@ -2307,7 +2389,7 @@
       "assistencias": 6
     },
     {
-      "passagem_id": "salazar-bolivia-3",
+      "passagem_id": "salazar-bolivia-4",
       "jogador": "Salazar",
       "clube": "Bolívia",
       "competicao": "Copa do Mundo",
@@ -2350,6 +2432,42 @@
       "jogos": 12,
       "gols": 8,
       "assistencias": 7
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "competicao": "Serie A",
+      "jogos": 33,
+      "gols": 33,
+      "assistencias": 28
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "competicao": "Copa da Itália (Coppa Italia)",
+      "jogos": 3,
+      "gols": 5,
+      "assistencias": 4
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "competicao": "Europa League",
+      "jogos": 16,
+      "gols": 15,
+      "assistencias": 6
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "competicao": "Supercopa da Itália",
+      "jogos": 1,
+      "gols": 1,
+      "assistencias": 3
     }
   ],
   "conquistas_por_passagem": [
@@ -2799,15 +2917,7 @@
       "clube": "Olympique de Marseille",
       "categoria": "Título coletivo",
       "nome": "Ligue 1",
-      "quantidade": 1
-    },
-    {
-      "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
-      "jogador": "Guarita Fonseca",
-      "clube": "Olympique de Marseille",
-      "categoria": "Título coletivo",
-      "nome": "Copa da França",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
@@ -2815,7 +2925,15 @@
       "clube": "Olympique de Marseille",
       "categoria": "Título coletivo",
       "nome": "Supercopa da França",
-      "quantidade": 1
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
+      "jogador": "Guarita Fonseca",
+      "clube": "Olympique de Marseille",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 2
     },
     {
       "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
@@ -2823,6 +2941,22 @@
       "clube": "Olympique de Marseille",
       "categoria": "Título coletivo",
       "nome": "Champions League",
+      "quantidade": 2
+    },
+    {
+      "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
+      "jogador": "Guarita Fonseca",
+      "clube": "Olympique de Marseille",
+      "categoria": "Título coletivo",
+      "nome": "Mundial",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "guarita-fonseca-olympique-de-marseille-3",
+      "jogador": "Guarita Fonseca",
+      "clube": "Olympique de Marseille",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
       "quantidade": 1
     },
     {
@@ -3050,7 +3184,7 @@
       "quantidade": 1
     },
     {
-      "passagem_id": "salazar-bolivia-3",
+      "passagem_id": "salazar-bolivia-4",
       "jogador": "Salazar",
       "clube": "Bolívia",
       "categoria": "Título coletivo",
@@ -3071,6 +3205,22 @@
       "clube": "Oriente Petrolero",
       "categoria": "Título coletivo",
       "nome": "Copa Boliviana",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Itália",
+      "quantidade": 1
+    },
+    {
+      "passagem_id": "salazar-torino-3",
+      "jogador": "Salazar",
+      "clube": "Torino",
+      "categoria": "Título coletivo",
+      "nome": "Europa League",
       "quantidade": 1
     }
   ],
@@ -3668,7 +3818,7 @@
       "jogador_slug": "salazar",
       "categoria": "Título coletivo",
       "nome": "Europa League",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Salazar",
@@ -3696,6 +3846,13 @@
       "jogador_slug": "salazar",
       "categoria": "Título coletivo",
       "nome": "Mundial",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Itália",
       "quantidade": 1
     },
     {
@@ -3734,6 +3891,13 @@
       "quantidade": 1
     },
     {
+      "jogador": "Salazar",
+      "jogador_slug": "salazar",
+      "categoria": "Prêmio individual",
+      "nome": "Artilheiro da Serie A",
+      "quantidade": 1
+    },
+    {
       "jogador": "Guarita Fonseca",
       "jogador_slug": "guarita-fonseca",
       "categoria": "Título coletivo",
@@ -3752,27 +3916,41 @@
       "jogador_slug": "guarita-fonseca",
       "categoria": "Título coletivo",
       "nome": "Ligue 1",
-      "quantidade": 1
-    },
-    {
-      "jogador": "Guarita Fonseca",
-      "jogador_slug": "guarita-fonseca",
-      "categoria": "Título coletivo",
-      "nome": "Copa da França",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Guarita Fonseca",
       "jogador_slug": "guarita-fonseca",
       "categoria": "Título coletivo",
       "nome": "Supercopa da França",
-      "quantidade": 1
+      "quantidade": 2
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Copa da França",
+      "quantidade": 2
     },
     {
       "jogador": "Guarita Fonseca",
       "jogador_slug": "guarita-fonseca",
       "categoria": "Título coletivo",
       "nome": "Champions League",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Mundial",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Guarita Fonseca",
+      "jogador_slug": "guarita-fonseca",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
       "quantidade": 1
     },
     {
@@ -3829,27 +4007,41 @@
       "jogador_slug": "moreno-escobar",
       "categoria": "Título coletivo",
       "nome": "Ligue 1",
-      "quantidade": 2
+      "quantidade": 3
     },
     {
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Título coletivo",
       "nome": "Supercopa da França",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Título coletivo",
       "nome": "Copa da França",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Título coletivo",
       "nome": "Champions League",
+      "quantidade": 2
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Mundial",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Título coletivo",
+      "nome": "Supercopa da Europa",
       "quantidade": 1
     },
     {
@@ -3899,21 +4091,42 @@
       "jogador_slug": "moreno-escobar",
       "categoria": "Prêmio individual",
       "nome": "Melhor da Ligue 1",
-      "quantidade": 1
+      "quantidade": 2
     },
     {
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Prêmio individual",
       "nome": "Artilheiro da Ligue 1",
-      "quantidade": 2
+      "quantidade": 3
     },
     {
       "jogador": "Moreno Escobar",
       "jogador_slug": "moreno-escobar",
       "categoria": "Prêmio individual",
       "nome": "Artilheiro da Copa da França",
-      "quantidade": 2
+      "quantidade": 3
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Melhor Jogador da Copa da França",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Chuteira de Ouro",
+      "quantidade": 1
+    },
+    {
+      "jogador": "Moreno Escobar",
+      "jogador_slug": "moreno-escobar",
+      "categoria": "Prêmio individual",
+      "nome": "Bola de Ouro",
+      "quantidade": 1
     },
     {
       "jogador": "Moreno Escobar",
@@ -3965,40 +4178,40 @@
     },
     {
       "jogador": "Salazar",
-      "jogos_hub": 351,
-      "jogos_reais": 351,
+      "jogos_hub": 404,
+      "jogos_reais": 404,
       "dif_jogos": 0,
-      "gols_hub": 263,
-      "gols_reais": 263,
+      "gols_hub": 317,
+      "gols_reais": 317,
       "dif_gols": 0,
-      "assistencias_hub": 226,
-      "assistencias_reais": 226,
+      "assistencias_hub": 267,
+      "assistencias_reais": 267,
       "dif_assistencias": 0,
       "status": "OK"
     },
     {
       "jogador": "Guarita Fonseca",
-      "jogos_hub": 209,
-      "jogos_reais": 209,
+      "jogos_hub": 255,
+      "jogos_reais": 255,
       "dif_jogos": 0,
-      "gols_hub": 84,
-      "gols_reais": 84,
+      "gols_hub": 113,
+      "gols_reais": 113,
       "dif_gols": 0,
-      "assistencias_hub": 115,
-      "assistencias_reais": 115,
+      "assistencias_hub": 147,
+      "assistencias_reais": 147,
       "dif_assistencias": 0,
       "status": "OK"
     },
     {
       "jogador": "Moreno Escobar",
-      "jogos_hub": 260,
-      "jogos_reais": 260,
+      "jogos_hub": 316,
+      "jogos_reais": 316,
       "dif_jogos": 0,
-      "gols_hub": 362,
-      "gols_reais": 362,
+      "gols_hub": 442,
+      "gols_reais": 442,
       "dif_gols": 0,
-      "assistencias_hub": 67,
-      "assistencias_reais": 67,
+      "assistencias_hub": 95,
+      "assistencias_reais": 95,
       "dif_assistencias": 0,
       "status": "OK"
     }

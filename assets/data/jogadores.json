@@ -1473,16 +1473,16 @@
       "slug": "salazar",
       "name": "Salazar",
       "totals": {
-        "matches": 351,
-        "goals": 263,
-        "assists": 226,
-        "collectiveTitles": 14,
-        "individualAwards": 9
+        "matches": 404,
+        "goals": 317,
+        "assists": 267,
+        "collectiveTitles": 16,
+        "individualAwards": 10
       },
       "hubTotals": {
-        "matches": 351,
-        "goals": 263,
-        "assists": 226,
+        "matches": 404,
+        "goals": 317,
+        "assists": 267,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1548,7 +1548,7 @@
           "goals": 153,
           "assists": 143,
           "pagePath": "pages/clubes/salazar-ajax.html",
-          "description": "153 gols, mais ta?as pelo Ajax e presen?a constante na elite europeia.",
+          "description": "153 gols, mais taças pelo Ajax e presença constante na elite europeia.",
           "competitionStats": [
             {
               "competition": "Eredivisie",
@@ -1621,8 +1621,63 @@
           ]
         },
         {
-          "id": "salazar-bolivia-3",
+          "id": "salazar-torino-1",
           "order": 3,
+          "team": "Torino",
+          "teamFullName": "Torino",
+          "teamType": "Clube",
+          "matches": 53,
+          "goals": 54,
+          "assists": 41,
+          "pagePath": "pages/clubes/salazar-torino.html",
+          "description": "53 jogos, Supercopa da Itália e Europa League em uma estreia explosiva no calcio.",
+          "competitionStats": [
+            {
+              "competition": "Serie A",
+              "matches": 33,
+              "goals": 33,
+              "assists": 28
+            },
+            {
+              "competition": "Copa da Itália",
+              "matches": 3,
+              "goals": 5,
+              "assists": 4
+            },
+            {
+              "competition": "Europa League",
+              "matches": 16,
+              "goals": 15,
+              "assists": 6
+            },
+            {
+              "competition": "Supercopa da Itália",
+              "matches": 1,
+              "goals": 1,
+              "assists": 3
+            }
+          ],
+          "honors": [
+            {
+              "category": "Título coletivo",
+              "name": "Supercopa da Itália",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Europa League",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Artilheiro da Serie A",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "salazar-bolivia-3",
+          "order": 4,
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
@@ -1630,16 +1685,16 @@
           "goals": 48,
           "assists": 39,
           "pagePath": "pages/clubes/salazar-bolivia.html",
-          "description": "61 jogos pela sele??o, com mais uma Copa Am?rica no curr?culo.",
+          "description": "61 jogos pela seleção, com mais uma Copa América no currículo.",
           "competitionStats": [
             {
-              "competition": "Eliminat?rias",
+              "competition": "Eliminatórias",
               "matches": 34,
               "goals": 28,
               "assists": 17
             },
             {
-              "competition": "Copa Am?rica",
+              "competition": "Copa América",
               "matches": 9,
               "goals": 8,
               "assists": 5
@@ -1690,7 +1745,7 @@
         {
           "category": "Título coletivo",
           "name": "Europa League",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
@@ -1710,6 +1765,11 @@
         {
           "category": "Título coletivo",
           "name": "Mundial",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Supercopa da Itália",
           "quantity": 1
         },
         {
@@ -1736,6 +1796,11 @@
           "category": "Prêmio individual",
           "name": "Bola de Ouro",
           "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Artilheiro da Serie A",
+          "quantity": 1
         }
       ]
     },
@@ -1743,16 +1808,16 @@
       "slug": "guarita-fonseca",
       "name": "Guarita Fonseca",
       "totals": {
-        "matches": 209,
-        "goals": 84,
-        "assists": 115,
-        "collectiveTitles": 6,
+        "matches": 255,
+        "goals": 113,
+        "assists": 147,
+        "collectiveTitles": 12,
         "individualAwards": 5
       },
       "hubTotals": {
-        "matches": 209,
-        "goals": 84,
-        "assists": 115,
+        "matches": 255,
+        "goals": 113,
+        "assists": 147,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1841,17 +1906,17 @@
           "team": "Olympique de Marseille",
           "teamFullName": "Olympique de Marseille",
           "teamType": "Clube",
-          "matches": 57,
-          "goals": 34,
-          "assists": 32,
+          "matches": 103,
+          "goals": 63,
+          "assists": 64,
           "pagePath": "pages/clubes/guarita-fonseca-marseille.html",
-          "description": "57 jogos, Champions League e Bola de Ouro.",
+          "description": "103 jogos, domínio francês, Champions League e protagonismo continental.",
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 34,
-              "goals": 17,
-              "assists": 20
+              "matches": 60,
+              "goals": 30,
+              "assists": 38
             },
             {
               "competition": "Copa da França",
@@ -1867,30 +1932,58 @@
             },
             {
               "competition": "Champions League",
-              "matches": 17,
-              "goals": 11,
-              "assists": 6
+              "matches": 31,
+              "goals": 22,
+              "assists": 15
+            },
+            {
+              "competition": "Copa da França",
+              "matches": 9,
+              "goals": 9,
+              "assists": 9
+            },
+            {
+              "competition": "Supercopa da França",
+              "matches": 2,
+              "goals": 1,
+              "assists": 2
+            },
+            {
+              "competition": "Supercopa da Europa",
+              "matches": 1,
+              "goals": 1,
+              "assists": 0
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 1
-            },
-            {
-              "category": "Título coletivo",
-              "name": "Copa da França",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 1
+              "quantity": 2
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Copa da França",
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
+              "quantity": 2
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Mundial",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Supercopa da Europa",
               "quantity": 1
             },
             {
@@ -1923,13 +2016,13 @@
           "description": "Titular na Copa do Mundo campeã — e a história mal começou.",
           "competitionStats": [
             {
-              "competition": "Eliminat?rias",
+              "competition": "Eliminatórias",
               "matches": 20,
               "goals": 6,
               "assists": 9
             },
             {
-              "competition": "Copa Am?rica",
+              "competition": "Copa América",
               "matches": 6,
               "goals": 2,
               "assists": 4
@@ -1970,21 +2063,31 @@
         {
           "category": "Título coletivo",
           "name": "Ligue 1",
-          "quantity": 1
-        },
-        {
-          "category": "Título coletivo",
-          "name": "Copa da França",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
           "name": "Supercopa da França",
-          "quantity": 1
+          "quantity": 2
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Copa da França",
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
           "name": "Champions League",
+          "quantity": 2
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Mundial",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Supercopa da Europa",
           "quantity": 1
         },
         {
@@ -2013,16 +2116,16 @@
       "slug": "moreno-escobar",
       "name": "Moreno Escobar",
       "totals": {
-        "matches": 260,
-        "goals": 362,
-        "assists": 67,
-        "collectiveTitles": 10,
-        "individualAwards": 15
+        "matches": 316,
+        "goals": 442,
+        "assists": 95,
+        "collectiveTitles": 16,
+        "individualAwards": 21
       },
       "hubTotals": {
-        "matches": 260,
-        "goals": 362,
-        "assists": 67,
+        "matches": 316,
+        "goals": 442,
+        "assists": 95,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -2148,17 +2251,17 @@
           "team": "Olympique de Marseille",
           "teamFullName": "Olympique de Marseille",
           "teamType": "Clube",
-          "matches": 98,
-          "goals": 101,
-          "assists": 27,
+          "matches": 154,
+          "goals": 181,
+          "assists": 55,
           "pagePath": "pages/clubes/moreno-escobar-marseille.html",
-          "description": "101 gols, Champions League e dominio completo na Franca.",
+          "description": "181 gols, Champions League, Mundial e domínio completo na França.",
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 59,
-              "goals": 60,
-              "assists": 12
+              "matches": 91,
+              "goals": 102,
+              "assists": 25
             },
             {
               "competition": "Copa da França",
@@ -2180,46 +2283,89 @@
             },
             {
               "competition": "Champions League",
-              "matches": 14,
-              "goals": 13,
-              "assists": 9
+              "matches": 31,
+              "goals": 35,
+              "assists": 19
+            },
+            {
+              "competition": "Copa da França",
+              "matches": 17,
+              "goals": 29,
+              "assists": 8
+            },
+            {
+              "competition": "Supercopa da França",
+              "matches": 2,
+              "goals": 3,
+              "assists": 1
+            },
+            {
+              "competition": "Mundial",
+              "matches": 1,
+              "goals": 2,
+              "assists": 0
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 2
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Copa da França",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
+              "quantity": 2
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Mundial",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Supercopa da Europa",
               "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor da Ligue 1",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Ligue 1",
-              "quantity": 2
+              "quantity": 3
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa da França",
-              "quantity": 2
+              "quantity": 3
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Melhor Jogador da Copa da França",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Chuteira de Ouro",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Bola de Ouro",
+              "quantity": 1
             }
           ]
         },
@@ -2236,13 +2382,13 @@
           "description": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo.",
           "competitionStats": [
             {
-              "competition": "Eliminat?rias",
+              "competition": "Eliminatórias",
               "matches": 26,
               "goals": 16,
               "assists": 7
             },
             {
-              "competition": "Copa Am?rica",
+              "competition": "Copa América",
               "matches": 6,
               "goals": 7,
               "assists": 3
@@ -2293,21 +2439,31 @@
         {
           "category": "Título coletivo",
           "name": "Ligue 1",
-          "quantity": 2
+          "quantity": 3
         },
         {
           "category": "Título coletivo",
           "name": "Supercopa da França",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
           "name": "Copa da França",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
           "name": "Champions League",
+          "quantity": 2
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Mundial",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Supercopa da Europa",
           "quantity": 1
         },
         {
@@ -2343,17 +2499,32 @@
         {
           "category": "Prêmio individual",
           "name": "Melhor da Ligue 1",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Prêmio individual",
           "name": "Artilheiro da Ligue 1",
-          "quantity": 2
+          "quantity": 3
         },
         {
           "category": "Prêmio individual",
           "name": "Artilheiro da Copa da França",
-          "quantity": 2
+          "quantity": 3
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Melhor Jogador da Copa da França",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Chuteira de Ouro",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Bola de Ouro",
+          "quantity": 1
         },
         {
           "category": "Prêmio individual",

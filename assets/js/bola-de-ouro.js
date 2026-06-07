@@ -1,6 +1,6 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
-const ballonYears = Array.from({ length: 28 }, (_, i) => 2026 + i);
+const ballonYears = Array.from({ length: 29 }, (_, i) => 2026 + i);
 const ballonDataUrl = new URL("../data/bola-de-ouro.json", document.currentScript.src);
 let ballonStatsFromDatabase = null;
 
@@ -128,7 +128,7 @@ const ballonData = {
     "Donnarumma",
     "Diogo Jota",
     "Luis Díaz",
-    "João Neves",
+    "João Rafael Neves",
     "Hakimi",
     "Cubarsí",
     "Zaire-Emery",
@@ -145,7 +145,7 @@ const ballonData = {
     "Wirtz",
     "Mbappé",
     "Vitinha",
-    "João Neves",
+    "João Rafael Neves",
     "Rafael Leão",
     "Kvaratskhelia",
     "Theo Hernández",
@@ -191,7 +191,7 @@ const ballonData = {
     "Nico Williams",
     "Gavi",
     "Cubarsí",
-    "João Neves",
+    "João Rafael Neves",
     "Rafael Leão",
     "Hakimi",
     "Ter Stegen",
@@ -222,7 +222,7 @@ const ballonData = {
     "Gavi",
     "Endrick",
     "Cubarsí",
-    "João Neves",
+    "João Rafael Neves",
     "Vitinha",
     "Adeyemi",
     "Rodri",
@@ -254,7 +254,7 @@ const ballonData = {
     "Carreras",
     "Endrick",
     "Cubarsí",
-    "João Neves",
+    "João Rafael Neves",
     "Vitinha",
     "Xavi Simons",
     "Rafael Leão",
@@ -279,7 +279,7 @@ const ballonData = {
     "Nico Williams",
     "Estevão",
     "Vitinha",
-    "João Neves",
+    "João Rafael Neves",
     "Donnarumma",
     "Balde",
     "Tomás Araújo",
@@ -425,7 +425,7 @@ const ballonData = {
     "Garcia",
     "Endrick",
     "Santigo",
-    "João Neves",
+    "João Rafael Neves",
     "Estevão",
     "Germain",
     "Obi",
@@ -836,7 +836,7 @@ const ballonData = {
     "Salazar",
     "Mads Poulsen",
     "Calderon",
-    "Rafael Neves",
+    "Rafael Rafael Neves",
     "Michel",
     "Lang",
     "Albert Morales",
@@ -861,7 +861,129 @@ const ballonData = {
     "Charles Mohamed",
     "Norman"
   ],
-  2053: null
+  2053: [
+    {
+      pos: 1,
+      name: "Moreno Escobar"
+    },
+    {
+      pos: 2,
+      name: "Thomas Leroy"
+    },
+    {
+      pos: 3,
+      name: "Fabio Duarte"
+    },
+    {
+      pos: 4,
+      name: "Salazar"
+    },
+    {
+      pos: 5,
+      name: "Guarita Fonseca"
+    },
+    {
+      pos: 6,
+      name: "Koch"
+    },
+    {
+      pos: 7,
+      name: "Xavier Estrada"
+    },
+    {
+      pos: 8,
+      name: "Bamba"
+    },
+    {
+      pos: 9,
+      name: "Fischer"
+    },
+    {
+      pos: 10,
+      name: "Massey"
+    },
+    {
+      pos: 11,
+      name: "Silva"
+    },
+    {
+      pos: 12,
+      name: "Guido"
+    },
+    {
+      pos: 13,
+      name: "Barbosa"
+    },
+    {
+      pos: 14,
+      name: "Rafael Neves"
+    },
+    {
+      pos: 15,
+      name: "Calderon"
+    },
+    {
+      pos: 16,
+      name: "Rafferty"
+    },
+    {
+      pos: 17,
+      name: "Pethardo"
+    },
+    {
+      pos: 18,
+      name: "Lang"
+    },
+    {
+      pos: 19,
+      name: "Powell"
+    },
+    {
+      pos: 20,
+      name: "Alvarado"
+    },
+    {
+      pos: 21,
+      name: "Afonso Garcia"
+    },
+    {
+      pos: 22,
+      name: "Charles Mohamed"
+    },
+    {
+      pos: 23,
+      name: "Minestre"
+    },
+    {
+      pos: 24,
+      name: "Fiore"
+    },
+    {
+      pos: 25,
+      name: "Zepeda"
+    },
+    {
+      pos: 26,
+      name: "Ramiro Escobar"
+    },
+    {
+      pos: 27,
+      name: "David Bouchard"
+    },
+    {
+      pos: 28,
+      name: "Nieto"
+    },
+    {
+      pos: 29,
+      name: "Dorssen"
+    },
+    {
+      pos: 30,
+      name: "Maric"
+    }
+  ],
+  2054: null
 };
 
 // Extensão dos arquivos de foto por ano
@@ -879,7 +1001,7 @@ function getBallonImgName(yearShort, file) {
 }
 
 async function loadBallonDataFromDatabase() {
-  ballonDataUrl.searchParams.set("v", "2052-sync");
+  ballonDataUrl.searchParams.set("v", "2053-sync");
   const response = await fetch(ballonDataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
@@ -895,7 +1017,7 @@ async function loadBallonDataFromDatabase() {
       .sort((left, right) => left.position - right.position)
       .map((item) => item.player);
   });
-  if (!ballonData[2053]) ballonData[2053] = null;
+  if (!ballonData[2054]) ballonData[2054] = null;
 
   ballonStatsFromDatabase = payload.playerStats.reduce((accumulator, player) => {
     const positions = String(player.history || "")
@@ -1097,8 +1219,8 @@ async function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2053 ? `${y} · em andamento` : String(y);
-    if (y === 2053) opt.selected = true;
+    opt.textContent = y === 2054 ? `${y} · em andamento` : String(y);
+    if (y === 2054) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -1113,7 +1235,7 @@ async function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2053);
+  renderBallonSection(2054);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);

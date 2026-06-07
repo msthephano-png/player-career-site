@@ -1,5 +1,5 @@
 ﻿const clubSpellDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
-clubSpellDataUrl.searchParams.set("v", "players-2052-fixes-3");
+clubSpellDataUrl.searchParams.set("v", "players-2053-fix3");
 
 function getCurrentSpellPath() {
   const parts = window.location.pathname.split("/");
@@ -58,10 +58,7 @@ function normalizeText(value) {
 }
 
 function captureTrophyImageMap() {
-  const grid = document.querySelector(".trophy-grid");
-  if (!grid) return new Map();
-
-  return Array.from(grid.querySelectorAll(".trophy-card")).reduce((accumulator, card) => {
+  return Array.from(document.querySelectorAll(".trophy-grid .trophy-card")).reduce((accumulator, card) => {
     const name = card.querySelector(".trophy-card__name")?.textContent.trim();
     const image = card.querySelector(".trophy-card__visual")?.innerHTML || "";
     if (!name) return accumulator;
@@ -74,15 +71,19 @@ function captureTrophyImageMap() {
   }, new Map());
 }
 
-function updateHonorGrid(spell, imageMap) {
-  const grid = document.querySelector(".trophy-grid");
-  if (!grid || !spell.honors.length) return;
+function getHonorCategoryFromClubSection(section) {
+  const text = normalizeText(
+    `${section.querySelector(".section__eyebrow")?.textContent || ""} ${section.querySelector(".section__title")?.textContent || ""}`,
+  );
+  if (text.includes("premio") || text.includes("reconhecimento")) return "Prêmio individual";
+  if (text.includes("titulo") || text.includes("trofeu") || text.includes("conquista")) return "Título coletivo";
+  return "";
+}
 
-  const resolvedMap = imageMap || captureTrophyImageMap();
-
-  grid.innerHTML = dedupeHonors(spell.honors)
+function buildTrophyCards(honors, imageMap) {
+  return honors
     .map((honor) => {
-      const image = resolveHonorImage(resolvedMap, honor.name);
+      const image = resolveHonorImage(imageMap, honor.name);
       return `
         <article class="trophy-card">
           <div class="trophy-card__visual">${image}</div>
@@ -92,6 +93,20 @@ function updateHonorGrid(spell, imageMap) {
       `;
     })
     .join("");
+}
+
+function updateHonorGrids(spell, imageMap) {
+  if (!spell.honors.length) return;
+
+  const resolvedMap = imageMap || captureTrophyImageMap();
+  document.querySelectorAll(".section").forEach((section) => {
+    const grid = section.querySelector(".trophy-grid");
+    const category = getHonorCategoryFromClubSection(section);
+    if (!grid || !category) return;
+
+    const honors = dedupeHonors(spell.honors.filter((honor) => honor.category === category));
+    grid.innerHTML = honors.length ? buildTrophyCards(honors, resolvedMap) : "";
+  });
 }
 
 async function initClubSpellData() {
@@ -108,7 +123,7 @@ async function initClubSpellData() {
     const honorImageMap = captureTrophyImageMap();
     updateSummaryCards(spell);
     updateCompetitionTable(spell);
-    updateHonorGrid(spell, honorImageMap);
+    updateHonorGrids(spell, honorImageMap);
   } catch (error) {
     console.warn("Usando dados embutidos da passagem como fallback.", error);
   }

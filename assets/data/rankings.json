@@ -5,15 +5,15 @@
     "brasileirao": [
       {
         "team": "Palmeiras",
+        "titles": 15
+      },
+      {
+        "team": "Flamengo",
         "titles": 14
       },
       {
         "team": "Sao Paulo",
         "titles": 13
-      },
-      {
-        "team": "Flamengo",
-        "titles": 12
       },
       {
         "team": "Corinthians",
@@ -55,7 +55,7 @@
     "bundesliga": [
       {
         "team": "Bayern",
-        "titles": 56
+        "titles": 57
       },
       {
         "team": "Borussia Dortmund",
@@ -93,7 +93,7 @@
       },
       {
         "team": "Liverpool",
-        "titles": 7
+        "titles": 8
       },
       {
         "team": "Milan",
@@ -124,6 +124,10 @@
         "titles": 3
       },
       {
+        "team": "Olympique de Marseille",
+        "titles": 3
+      },
+      {
         "team": "Benfica",
         "titles": 2
       },
@@ -133,10 +137,6 @@
       },
       {
         "team": "Nottingham Forest",
-        "titles": 2
-      },
-      {
-        "team": "Olympique de Marseille",
         "titles": 2
       },
       {
@@ -187,7 +187,7 @@
     "community-shield": [
       {
         "team": "Arsenal",
-        "titles": 29
+        "titles": 30
       },
       {
         "team": "Manchester United",
@@ -199,7 +199,7 @@
       },
       {
         "team": "Manchester City",
-        "titles": 10
+        "titles": 14
       },
       {
         "team": "Everton",
@@ -232,10 +232,6 @@
         "titles": 2
       },
       {
-        "team": "Valencia",
-        "titles": 2
-      },
-      {
         "team": "West Ham",
         "titles": 2
       },
@@ -265,6 +261,10 @@
       },
       {
         "team": "Feyenoord",
+        "titles": 1
+      },
+      {
+        "team": "Lausanne",
         "titles": 1
       },
       {
@@ -308,6 +308,10 @@
         "titles": 1
       },
       {
+        "team": "Valencia",
+        "titles": 1
+      },
+      {
         "team": "Villarreal",
         "titles": 1
       }
@@ -334,6 +338,10 @@
         "titles": 2
       },
       {
+        "team": "Mexico",
+        "titles": 2
+      },
+      {
         "team": "Paraguay",
         "titles": 2
       },
@@ -343,10 +351,6 @@
       },
       {
         "team": "Colombia",
-        "titles": 1
-      },
-      {
-        "team": "Mexico",
         "titles": 1
       }
     ],
@@ -376,15 +380,11 @@
         "titles": 7
       },
       {
-        "team": "Gremio",
-        "titles": 6
-      },
-      {
         "team": "River Plate",
         "titles": 6
       },
       {
-        "team": "Estudiantes",
+        "team": "Gremio",
         "titles": 5
       },
       {
@@ -392,7 +392,11 @@
         "titles": 5
       },
       {
-        "team": "Internacional",
+        "team": "Estudiantes",
+        "titles": 4
+      },
+      {
+        "team": "Botafogo",
         "titles": 3
       },
       {
@@ -416,11 +420,11 @@
         "titles": 2
       },
       {
-        "team": "Botafogo",
+        "team": "Cruzeiro",
         "titles": 2
       },
       {
-        "team": "Cruzeiro",
+        "team": "Internacional",
         "titles": 2
       },
       {
@@ -470,10 +474,6 @@
         "titles": 3
       },
       {
-        "team": "Fluminense",
-        "titles": 3
-      },
-      {
         "team": "Internacional",
         "titles": 3
       },
@@ -487,7 +487,11 @@
       },
       {
         "team": "Ceara",
-        "titles": 1
+        "titles": 2
+      },
+      {
+        "team": "Fluminense",
+        "titles": 2
       },
       {
         "team": "Novorizontino",
@@ -497,7 +501,7 @@
     "dfb-pokal": [
       {
         "team": "Bayern",
-        "titles": 41
+        "titles": 42
       },
       {
         "team": "Borussia Dortmund",
@@ -527,7 +531,7 @@
       },
       {
         "team": "Olympique de Marseille",
-        "titles": 18
+        "titles": 19
       },
       {
         "team": "Lille",
@@ -549,7 +553,7 @@
       },
       {
         "team": "Manchester United",
-        "titles": 15
+        "titles": 16
       },
       {
         "team": "Manchester City",
@@ -557,7 +561,7 @@
       },
       {
         "team": "Chelsea",
-        "titles": 10
+        "titles": 11
       },
       {
         "team": "Liverpool",
@@ -569,47 +573,51 @@
       },
       {
         "team": "Aston Villa",
-        "titles": 1
+        "titles": 8
       }
     ],
     "coppa-italia": [
       {
         "team": "Juventus",
-        "titles": 21
+        "titles": 22
       },
       {
         "team": "Inter",
         "titles": 15
       },
       {
-        "team": "Roma",
-        "titles": 12
+        "team": "Bologna",
+        "titles": 11
       },
       {
-        "team": "Bologna",
+        "team": "Roma",
         "titles": 11
       },
       {
         "team": "Milan",
         "titles": 8
+      },
+      {
+        "team": "Torino",
+        "titles": 5
       }
     ],
     "carabao": [
+      {
+        "team": "Liverpool",
+        "titles": 15
+      },
       {
         "team": "Manchester City",
         "titles": 15
       },
       {
-        "team": "Liverpool",
-        "titles": 14
+        "team": "Manchester United",
+        "titles": 9
       },
       {
         "team": "Chelsea",
-        "titles": 9
-      },
-      {
-        "team": "Manchester United",
-        "titles": 9
+        "titles": 8
       },
       {
         "team": "Aston Villa",
@@ -631,7 +639,7 @@
     "copa-rey": [
       {
         "team": "Barcelona",
-        "titles": 40
+        "titles": 41
       },
       {
         "team": "Real Madrid",
@@ -653,11 +661,7 @@
     "copa-brasil": [
       {
         "team": "Gremio",
-        "titles": 11
-      },
-      {
-        "team": "Corinthians",
-        "titles": 9
+        "titles": 10
       },
       {
         "team": "Cruzeiro",
@@ -665,6 +669,14 @@
       },
       {
         "team": "Flamengo",
+        "titles": 8
+      },
+      {
+        "team": "Corinthians",
+        "titles": 7
+      },
+      {
+        "team": "Palmeiras",
         "titles": 7
       },
       {
@@ -672,19 +684,15 @@
         "titles": 7
       },
       {
-        "team": "Palmeiras",
-        "titles": 6
-      },
-      {
         "team": "Vasco",
         "titles": 4
       },
       {
-        "team": "Internacional",
-        "titles": 3
+        "team": "Atletico Mineiro",
+        "titles": 2
       },
       {
-        "team": "Atletico Mineiro",
+        "team": "Internacional",
         "titles": 2
       },
       {
@@ -737,7 +745,7 @@
     "euro": [
       {
         "team": "Spain",
-        "titles": 7
+        "titles": 6
       },
       {
         "team": "France",
@@ -786,20 +794,20 @@
         "titles": 5
       },
       {
-        "team": "Ajax",
+        "team": "Juventus",
         "titles": 4
+      },
+      {
+        "team": "Ajax",
+        "titles": 3
       },
       {
         "team": "Aston Villa",
-        "titles": 4
+        "titles": 3
       },
       {
         "team": "Atletico de Madrid",
-        "titles": 4
-      },
-      {
-        "team": "Juventus",
-        "titles": 4
+        "titles": 3
       },
       {
         "team": "Inter",
@@ -810,11 +818,11 @@
         "titles": 3
       },
       {
-        "team": "Manchester United",
+        "team": "Tottenham",
         "titles": 3
       },
       {
-        "team": "Tottenham",
+        "team": "Valencia",
         "titles": 3
       },
       {
@@ -834,15 +842,11 @@
         "titles": 2
       },
       {
-        "team": "Frankfurt",
-        "titles": 2
-      },
-      {
         "team": "Göteborg",
         "titles": 2
       },
       {
-        "team": "Napoli",
+        "team": "Manchester United",
         "titles": 2
       },
       {
@@ -855,10 +859,6 @@
       },
       {
         "team": "Roma",
-        "titles": 2
-      },
-      {
-        "team": "Valencia",
         "titles": 2
       },
       {
@@ -878,11 +878,19 @@
         "titles": 1
       },
       {
+        "team": "Frankfurt",
+        "titles": 1
+      },
+      {
         "team": "Galatasaray",
         "titles": 1
       },
       {
         "team": "Ipswich Town",
+        "titles": 1
+      },
+      {
+        "team": "Napoli",
         "titles": 1
       },
       {
@@ -898,6 +906,10 @@
         "titles": 1
       },
       {
+        "team": "Torino",
+        "titles": 1
+      },
+      {
         "team": "Zenit",
         "titles": 1
       }
@@ -905,7 +917,7 @@
     "laliga": [
       {
         "team": "Real Madrid",
-        "titles": 49
+        "titles": 50
       },
       {
         "team": "Barcelona",
@@ -931,7 +943,7 @@
       },
       {
         "team": "Olympique de Marseille",
-        "titles": 17
+        "titles": 18
       },
       {
         "team": "Saint-Etienne",
@@ -968,6 +980,10 @@
         "titles": 4
       },
       {
+        "team": "Ajax",
+        "titles": 3
+      },
+      {
         "team": "Arsenal",
         "titles": 2
       },
@@ -976,8 +992,8 @@
         "titles": 2
       },
       {
-        "team": "Ajax",
-        "titles": 1
+        "team": "Olympique de Marseille",
+        "titles": 2
       },
       {
         "team": "Frankfurt",
@@ -989,10 +1005,6 @@
       },
       {
         "team": "Liverpool",
-        "titles": 1
-      },
-      {
-        "team": "Olympique de Marseille",
         "titles": 1
       },
       {
@@ -1019,7 +1031,7 @@
       },
       {
         "team": "Chelsea",
-        "titles": 9
+        "titles": 10
       }
     ],
     "recopa": [
@@ -1032,8 +1044,12 @@
         "titles": 6
       },
       {
+        "team": "Flamengo",
+        "titles": 5
+      },
+      {
         "team": "Gremio",
-        "titles": 6
+        "titles": 5
       },
       {
         "team": "Palmeiras",
@@ -1044,22 +1060,18 @@
         "titles": 5
       },
       {
-        "team": "Flamengo",
+        "team": "Internacional",
         "titles": 4
       },
       {
         "team": "River Plate",
         "titles": 3
-      },
-      {
-        "team": "Internacional",
-        "titles": 1
       }
     ],
     "serie-a": [
       {
         "team": "Juventus",
-        "titles": 42
+        "titles": 43
       },
       {
         "team": "Inter",
@@ -1072,6 +1084,10 @@
       {
         "team": "Bologna",
         "titles": 16
+      },
+      {
+        "team": "Torino",
+        "titles": 7
       },
       {
         "team": "Napoli",
@@ -1089,7 +1105,7 @@
     "supercup-de": [
       {
         "team": "Bayern",
-        "titles": 32
+        "titles": 33
       },
       {
         "team": "Borussia Dortmund",
@@ -1097,7 +1113,7 @@
       },
       {
         "team": "Bayer Leverkusen",
-        "titles": 1
+        "titles": 2
       },
       {
         "team": "Borussia Monchengladbach",
@@ -1119,7 +1135,7 @@
       },
       {
         "team": "Atletico de Madrid",
-        "titles": 13
+        "titles": 7
       },
       {
         "team": "Athletic Bilbao",
@@ -1132,16 +1148,16 @@
     ],
     "supercup": [
       {
-        "team": "Barcelona",
-        "titles": 10
+        "team": "Real Madrid",
+        "titles": 11
       },
       {
-        "team": "Real Madrid",
+        "team": "Barcelona",
         "titles": 9
       },
       {
         "team": "PSG",
-        "titles": 7
+        "titles": 6
       },
       {
         "team": "Liverpool",
@@ -1152,20 +1168,16 @@
         "titles": 5
       },
       {
-        "team": "Ajax",
-        "titles": 3
-      },
-      {
         "team": "Atletico de Madrid",
-        "titles": 3
-      },
-      {
-        "team": "Bayern",
         "titles": 3
       },
       {
         "team": "Manchester City",
         "titles": 3
+      },
+      {
+        "team": "Ajax",
+        "titles": 2
       },
       {
         "team": "Anderlecht",
@@ -1188,19 +1200,15 @@
         "titles": 2
       },
       {
-        "team": "Manchester United",
-        "titles": 2
-      },
-      {
-        "team": "Nottingham Forest",
-        "titles": 2
-      },
-      {
         "team": "Valencia",
         "titles": 2
       },
       {
         "team": "Aberdeen",
+        "titles": 1
+      },
+      {
+        "team": "Bayern",
         "titles": 1
       },
       {
@@ -1220,11 +1228,19 @@
         "titles": 1
       },
       {
+        "team": "Manchester United",
+        "titles": 1
+      },
+      {
         "team": "Mechelen",
         "titles": 1
       },
       {
         "team": "Napoli",
+        "titles": 1
+      },
+      {
+        "team": "Nottingham Forest",
         "titles": 1
       },
       {
@@ -1259,7 +1275,7 @@
       },
       {
         "team": "Olympique de Marseille",
-        "titles": 10
+        "titles": 11
       },
       {
         "team": "Saint-Etienne",
@@ -1294,6 +1310,10 @@
       {
         "team": "Napoli",
         "titles": 6
+      },
+      {
+        "team": "Torino",
+        "titles": 1
       }
     ],
     "supercopa-br": [
@@ -1303,11 +1323,7 @@
       },
       {
         "team": "Sao Paulo",
-        "titles": 7
-      },
-      {
-        "team": "Gremio",
-        "titles": 5
+        "titles": 8
       },
       {
         "team": "Corinthians",
@@ -1316,6 +1332,10 @@
       {
         "team": "Vasco",
         "titles": 4
+      },
+      {
+        "team": "Gremio",
+        "titles": 3
       },
       {
         "team": "Palmeiras",
@@ -1327,6 +1347,10 @@
       }
     ],
     "super-mundial": [
+      {
+        "team": "Ajax",
+        "titles": 1
+      },
       {
         "team": "Bayern",
         "titles": 1
@@ -1354,1782 +1378,1765 @@
     ]
   },
   "clubTitles": {
-    "Real Madrid": {
-      "champions": 19,
-      "copa-rey": 35,
-      "europa-league": 5,
-      "laliga": 48,
-      "mundial": 12,
-      "supercopa-es": 29,
-      "supercup": 9,
-      "super-mundial": 1
-    },
-    "Bayern": {
-      "bundesliga": 52,
-      "champions": 8,
-      "dfb-pokal": 41,
-      "europa-league": 1,
-      "mundial": 6,
-      "supercup-de": 30,
-      "supercup": 3,
-      "super-mundial": 1
-    },
-    "Barcelona": {
-      "champions": 10,
-      "copa-rey": 36,
-      "laliga": 38,
-      "mundial": 8,
-      "supercopa-es": 23,
-      "supercup": 9
-    },
-    "PSG": {
-      "champions": 7,
-      "coupe-france": 29,
-      "ligue-1": 32,
-      "mundial": 7,
-      "supercup": 7,
-      "supercopa-fr": 33,
-      "super-mundial": 1
-    },
-    "Juventus": {
-      "champions": 3,
-      "coppa-italia": 17,
-      "europa-league": 4,
-      "mundial": 3,
-      "serie-a": 42,
-      "supercup": 2,
-      "supercoppa-it": 11,
-      "super-mundial": 1
-    },
-    "Liverpool": {
-      "champions": 7,
-      "community-shield": 15,
-      "fa-cup": 10,
-      "carabao": 13,
-      "europa-league": 3,
-      "mundial": 2,
-      "premier": 24,
-      "supercup": 5
-    },
-    "Arsenal": {
-      "champions": 1,
-      "community-shield": 28,
-      "fa-cup": 21,
-      "carabao": 5,
-      "europa-league": 1,
-      "mundial": 1,
-      "premier": 20
-    },
-    "Manchester United": {
-      "champions": 3,
-      "community-shield": 22,
-      "fa-cup": 15,
-      "carabao": 9,
-      "europa-league": 3,
-      "mundial": 2,
-      "premier": 20,
-      "supercup": 2
-    },
-    "Manchester City": {
-      "champions": 4,
-      "community-shield": 12,
-      "fa-cup": 12,
-      "carabao": 15,
-      "mundial": 4,
-      "premier": 21,
-      "supercup": 3,
-      "super-mundial": 1
-    },
-    "Inter": {
-      "champions": 4,
-      "coppa-italia": 16,
-      "europa-league": 3,
-      "mundial": 4,
-      "serie-a": 23,
-      "supercup": 1,
-      "supercoppa-it": 11,
-      "super-mundial": 1
-    },
-    "Milan": {
-      "champions": 7,
-      "coppa-italia": 10,
-      "mundial": 4,
-      "serie-a": 20,
-      "supercup": 5,
-      "supercoppa-it": 12
-    },
-    "Sao Paulo": {
-      "brasileirao": 12,
-      "libertadores": 6,
-      "sudamericana": 3,
-      "copa-brasil": 6,
-      "mundial": 3,
-      "recopa": 7,
-      "supercopa-br": 7
-    },
     "Flamengo": {
-      "brasileirao": 12,
-      "libertadores": 8,
-      "sudamericana": 1,
-      "copa-brasil": 8,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 9
-    },
-    "Chelsea": {
-      "champions": 2,
-      "community-shield": 5,
-      "conference-league": 1,
-      "fa-cup": 11,
-      "carabao": 9,
-      "europa-league": 2,
-      "mundial": 1,
-      "premier": 8,
-      "supercup": 2,
-      "super-mundial": 1
-    },
-    "Atletico de Madrid": {
-      "copa-rey": 14,
-      "europa-league": 4,
-      "laliga": 13,
-      "mundial": 1,
-      "supercopa-es": 7,
-      "supercup": 3
-    },
-    "Bologna": {
-      "conference-league": 1,
-      "coppa-italia": 10,
-      "europa-league": 1,
-      "serie-a": 12,
-      "supercup": 1,
-      "supercoppa-it": 12
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/flamengo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 14,
+        "Copa do Brasil": 8,
+        "Supercopa": 9,
+        "Libertadores": 8,
+        "Sul-Americana": 1,
+        "Recopa": 5
+      }
     },
     "Palmeiras": {
-      "brasileirao": 14,
-      "libertadores": 8,
-      "copa-brasil": 7,
-      "recopa": 4,
-      "supercopa-br": 3
-    },
-    "Athletic Bilbao": {
-      "copa-rey": 24,
-      "laliga": 7,
-      "supercopa-es": 3
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/palmeiras.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 15,
+        "Copa do Brasil": 7,
+        "Supercopa": 3,
+        "Libertadores": 8,
+        "Recopa": 5
+      }
     },
     "Gremio": {
-      "brasileirao": 5,
-      "libertadores": 5,
-      "sudamericana": 1,
-      "copa-brasil": 10,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 3
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/gremio.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 6,
+        "Copa do Brasil": 10,
+        "Supercopa": 3,
+        "Libertadores": 5,
+        "Sul-Americana": 1,
+        "Recopa": 5,
+        "Mundial": 1
+      }
     },
     "Vasco": {
-      "brasileirao": 9,
-      "libertadores": 7,
-      "copa-brasil": 4,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 4
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/vasco-da-gama.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 9,
+        "Copa do Brasil": 4,
+        "Supercopa": 4,
+        "Libertadores": 7,
+        "Recopa": 5,
+        "Mundial": 1
+      }
     },
-    "Aston Villa": {
-      "champions": 1,
-      "community-shield": 2,
-      "conference-league": 1,
-      "fa-cup": 8,
-      "carabao": 6,
-      "europa-league": 3,
-      "premier": 7,
-      "supercup": 1
-    },
-    "Borussia Dortmund": {
-      "bundesliga": 6,
-      "champions": 1,
-      "dfb-pokal": 8,
-      "europa-league": 1,
-      "mundial": 1,
-      "supercup-de": 9
-    },
-    "Corinthians": {
-      "brasileirao": 9,
-      "libertadores": 1,
-      "sudamericana": 1,
-      "copa-brasil": 6,
-      "mundial": 2,
-      "recopa": 1,
-      "supercopa-br": 4
-    },
-    "Everton": {
-      "community-shield": 9,
-      "fa-cup": 5,
-      "premier": 9
-    },
-    "Tottenham": {
-      "community-shield": 4,
-      "fa-cup": 9,
-      "carabao": 5,
-      "europa-league": 3,
-      "premier": 2
-    },
-    "Lyon": {
-      "coupe-france": 7,
-      "ligue-1": 7,
-      "supercopa-fr": 8
-    },
-    "Saint-Etienne": {
-      "coupe-france": 6,
-      "ligue-1": 10,
-      "supercopa-fr": 5
-    },
-    "Roma": {
-      "conference-league": 2,
-      "coppa-italia": 10,
-      "europa-league": 2,
-      "serie-a": 4,
-      "supercup": 1,
-      "supercoppa-it": 3
-    },
-    "Santos": {
-      "brasileirao": 8,
-      "libertadores": 3,
-      "sudamericana": 4,
-      "copa-brasil": 2,
-      "mundial": 2,
-      "recopa": 2
-    },
-    "Argentina": {
-      "copa-america": 16,
-      "world-cup": 4
-    },
-    "Valencia": {
-      "copa-rey": 8,
-      "europa-league": 2,
-      "laliga": 7,
-      "supercopa-es": 1,
-      "supercup": 2
-    },
-    "Boca Juniors": {
-      "libertadores": 7,
-      "sudamericana": 3,
-      "mundial": 3,
-      "recopa": 6
-    },
-    "Monaco": {
-      "conference-league": 1,
-      "coupe-france": 6,
-      "ligue-1": 8,
-      "supercopa-fr": 4
-    },
-    "Napoli": {
-      "coppa-italia": 6,
-      "europa-league": 2,
-      "serie-a": 4,
-      "supercup": 1,
-      "supercoppa-it": 6
+    "Sao Paulo": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/sao-paulo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 13,
+        "Copa do Brasil": 7,
+        "Supercopa": 8,
+        "Libertadores": 7,
+        "Sul-Americana": 3,
+        "Recopa": 7
+      }
     },
     "Cruzeiro": {
-      "brasileirao": 5,
-      "libertadores": 2,
-      "sudamericana": 1,
-      "copa-brasil": 8,
-      "recopa": 2,
-      "supercopa-br": 1
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/cruzeiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 5,
+        "Copa do Brasil": 9,
+        "Supercopa": 1,
+        "Libertadores": 2,
+        "Sul-Americana": 1
+      }
     },
-    "Sevilla": {
-      "conference-league": 1,
-      "copa-rey": 6,
-      "europa-league": 8,
-      "laliga": 1,
-      "supercopa-es": 1,
-      "supercup": 1
+    "Corinthians": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/corinthians.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 9,
+        "Copa do Brasil": 7,
+        "Supercopa": 4,
+        "Libertadores": 1,
+        "Sul-Americana": 1
+      }
     },
-    "Newcastle": {
-      "community-shield": 2,
-      "conference-league": 1,
-      "fa-cup": 8,
-      "carabao": 2,
-      "premier": 5
+    "Ceara": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/cruzeiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 1,
+        "Supercopa": 1,
+        "Sul-Americana": 2
+      }
     },
-    "Brazil": {
-      "copa-america": 12,
-      "world-cup": 5
+    "Santos": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/santos.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 8,
+        "Copa do Brasil": 2,
+        "Libertadores": 3,
+        "Sul-Americana": 4,
+        "Recopa": 2
+      }
     },
-    "Uruguay": {
-      "copa-america": 15,
-      "world-cup": 2
-    },
-    "Nantes": {
-      "coupe-france": 4,
-      "ligue-1": 8,
-      "supercopa-fr": 3
-    },
-    "Lazio": {
-      "coppa-italia": 7,
-      "serie-a": 2,
-      "supercup": 1,
-      "supercoppa-it": 5
-    },
-    "River Plate": {
-      "libertadores": 6,
-      "sudamericana": 4,
-      "mundial": 1,
-      "recopa": 3
-    },
-    "Nottingham Forest": {
-      "champions": 2,
-      "community-shield": 1,
-      "fa-cup": 2,
-      "carabao": 5,
-      "europa-league": 1,
-      "premier": 1,
-      "supercup": 2
-    },
-    "Werder Bremen": {
-      "bundesliga": 4,
-      "dfb-pokal": 6,
-      "supercup-de": 3
-    },
-    "Bordeaux": {
-      "coupe-france": 4,
-      "ligue-1": 6,
-      "supercopa-fr": 3
-    },
-    "Ajax": {
-      "champions": 4,
-      "europa-league": 4,
-      "mundial": 2,
-      "supercup": 3
-    },
-    "Fiorentina": {
-      "conference-league": 2,
-      "coppa-italia": 6,
-      "serie-a": 3,
-      "supercoppa-it": 1
-    },
-    "Frankfurt": {
-      "bundesliga": 2,
-      "champions": 1,
-      "dfb-pokal": 5,
-      "europa-league": 2,
-      "mundial": 1,
-      "supercup-de": 2
-    },
-    "Lille": {
-      "conference-league": 2,
-      "coupe-france": 6,
-      "ligue-1": 4,
-      "supercopa-fr": 1
-    },
-    "Independiente": {
-      "libertadores": 7,
-      "sudamericana": 2,
-      "mundial": 2,
-      "recopa": 1
-    },
-    "Internacional": {
-      "brasileirao": 3,
-      "libertadores": 3,
-      "sudamericana": 2,
-      "copa-brasil": 1,
-      "mundial": 1,
-      "recopa": 2
-    },
-    "Blackburn": {
-      "community-shield": 1,
-      "fa-cup": 6,
-      "carabao": 1,
-      "premier": 3
-    },
-    "Torino": {
-      "coppa-italia": 5,
-      "serie-a": 6
-    },
-    "Atletico Mineiro": {
-      "brasileirao": 3,
-      "libertadores": 2,
-      "copa-brasil": 2,
-      "recopa": 2,
-      "supercopa-br": 1
-    },
-    "Borussia Monchengladbach": {
-      "bundesliga": 1,
-      "dfb-pokal": 1,
-      "supercup-de": 1
-    },
-    "Spain": {
-      "world-cup": 3,
-      "euro": 7
+    "Botafogo": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/botafogo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 2,
+        "Libertadores": 3,
+        "Sul-Americana": 1
+      }
     },
     "Fluminense": {
-      "brasileirao": 4,
-      "libertadores": 1,
-      "sudamericana": 3,
-      "copa-brasil": 1
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/fluminense.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 4,
+        "Copa do Brasil": 1,
+        "Libertadores": 1,
+        "Sul-Americana": 2
+      }
+    },
+    "Internacional": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/internacional.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 3,
+        "Copa do Brasil": 2,
+        "Libertadores": 2,
+        "Sul-Americana": 3,
+        "Recopa": 4,
+        "Supercopa": 1
+      }
+    },
+    "Atletico Mineiro": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/atletico-mineiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 3,
+        "Copa do Brasil": 2,
+        "Supercopa": 1,
+        "Libertadores": 2,
+        "Recopa": 2
+      }
+    },
+    "Bayern": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayern-munchen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 57,
+        "DFB Pokal": 42,
+        "DFL Supercup": 33,
+        "Champions League": 8,
+        "Mundial": 4,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 1
+      }
     },
     "Bayer Leverkusen": {
-      "bundesliga": 2,
-      "conference-league": 1,
-      "dfb-pokal": 2,
-      "europa-league": 2,
-      "supercup-de": 1,
-      "supercup": 1
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayer-leverkusen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 2,
+        "DFB Pokal": 3,
+        "DFL Supercup": 2
+      }
     },
-    "Sunderland": {
-      "community-shield": 1,
-      "fa-cup": 2,
-      "premier": 6
+    "RB Leipzig": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/rb-leipzig.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 1,
+        "DFB Pokal": 2,
+        "DFL Supercup": 1
+      }
     },
-    "Peñarol": {
-      "libertadores": 5,
-      "mundial": 3
+    "Frankfurt": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/eintracht-frankfurt.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 3,
+        "DFB Pokal": 5,
+        "DFL Supercup": 1,
+        "Champions League": 1,
+        "Europa League": 1,
+        "Conference League": 2
+      }
     },
-    "Estudiantes": {
-      "libertadores": 5,
-      "sudamericana": 1,
-      "mundial": 1,
-      "recopa": 1
+    "Borussia Dortmund": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/borussia-dortmund.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 9,
+        "DFB Pokal": 9,
+        "DFL Supercup": 9,
+        "Champions League": 1,
+        "Europa League": 1
+      }
     },
-    "Stade de Reims": {
-      "coupe-france": 2,
-      "ligue-1": 6
+    "Borussia Monchengladbach": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/borussia-monchengladbach.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 6,
+        "DFB Pokal": 4,
+        "DFL Supercup": 1
+      }
     },
-    "Brighton": {
-      "community-shield": 3,
-      "conference-league": 1,
-      "fa-cup": 2,
-      "carabao": 1
-    },
-    "Germany": {
-      "world-cup": 4,
-      "euro": 3
-    },
-    "Italy": {
-      "world-cup": 5,
-      "euro": 2
-    },
-    "Schalke 04": {
-      "dfb-pokal": 5,
-      "europa-league": 1,
-      "supercup-de": 1
-    },
-    "Olimpia": {
-      "libertadores": 3,
-      "sudamericana": 1,
-      "mundial": 1,
-      "recopa": 2
-    },
-    "Nacional": {
-      "libertadores": 3,
-      "mundial": 3,
-      "recopa": 1
-    },
-    "Leipzig": {
-      "bundesliga": 2,
-      "conference-league": 1,
-      "dfb-pokal": 2,
-      "europa-league": 1,
-      "supercup-de": 1
-    },
-    "Porto": {
-      "champions": 2,
-      "europa-league": 2,
-      "mundial": 2,
-      "supercup": 1
+    "Werder Bremen": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/werder-bremen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 4,
+        "DFB Pokal": 6
+      }
     },
     "Hamburgo": {
-      "bundesliga": 3,
-      "champions": 1,
-      "dfb-pokal": 3
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/hamburger-sv.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 3
+      }
     },
-    "Real Zaragoza": {
-      "copa-rey": 6,
-      "supercopa-es": 1
+    "Schalke 04": {
+      "logo": "../../assets/images/clubes/germany-2-bundesliga-2025-2026.football-logos.cc/256x256/schalke-04.football-logos.cc.png",
+      "titles": {
+        "DFB Pokal": 5
+      }
+    },
+    "Liverpool": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/liverpool.football-logos.cc.png",
+      "titles": {
+        "Premier League": 24,
+        "Carabao Cup": 15,
+        "Community Shield": 17,
+        "Champions League": 8,
+        "Europa League": 3,
+        "Supercopa da Europa": 5
+      }
+    },
+    "Arsenal": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/arsenal.football-logos.cc.png",
+      "titles": {
+        "Premier League": 19,
+        "Carabao Cup": 5,
+        "FA Cup": 21,
+        "Community Shield": 30,
+        "Champions League": 1,
+        "Europa League": 1,
+        "Mundial": 2
+      }
+    },
+    "Manchester City": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/manchester-city.football-logos.cc.png",
+      "titles": {
+        "Premier League": 21,
+        "Carabao Cup": 15,
+        "FA Cup": 12,
+        "Community Shield": 14,
+        "Champions League": 4,
+        "Mundial": 4,
+        "Super Mundial": 1
+      }
+    },
+    "Chelsea": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/chelsea.football-logos.cc.png",
+      "titles": {
+        "Premier League": 10,
+        "Carabao Cup": 8,
+        "Champions League": 2,
+        "Community Shield": 5,
+        "FA Cup": 11
+      }
+    },
+    "Newcastle United": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/newcastle.football-logos.cc.png",
+      "titles": {
+        "Premier League": 4,
+        "Carabao Cup": 3,
+        "FA Cup": 6,
+        "Emirates Cup": 2
+      }
+    },
+    "Aston Villa": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/aston-villa.football-logos.cc.png",
+      "titles": {
+        "Premier League": 7,
+        "Carabao Cup": 7,
+        "FA Cup": 8,
+        "Emirates Cup": 1,
+        "Community Shield": 2,
+        "Champions League": 1,
+        "Europa League": 3,
+        "Conference League": 1,
+        "Supercopa da Europa": 2
+      }
+    },
+    "Manchester United": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/manchester-united.football-logos.cc.png",
+      "titles": {
+        "Premier League": 20,
+        "Carabao Cup": 9,
+        "FA Cup": 16,
+        "Emirates Cup": 2,
+        "Community Shield": 22,
+        "Champions League": 3,
+        "Europa League": 2,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Tottenham": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/tottenham.football-logos.cc.png",
+      "titles": {
+        "Premier League": 2,
+        "Carabao Cup": 5,
+        "FA Cup": 9,
+        "Emirates Cup": 1,
+        "Community Shield": 7
+      }
+    },
+    "Brighton": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/brighton.football-logos.cc.png",
+      "titles": {
+        "Carabao Cup": 1,
+        "Emirates Cup": 2,
+        "Community Shield": 3,
+        "Conference League": 1
+      }
+    },
+    "Nottingham Forest": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/nottingham-forest.football-logos.cc.png",
+      "titles": {
+        "Premier League": 1,
+        "Carabao Cup": 5,
+        "Champions League": 2,
+        "Community Shield": 1,
+        "Europa League": 1,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Fulham": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/fulham.football-logos.cc.png",
+      "titles": {
+        "Emirates Cup": 1
+      }
+    },
+    "Crystal Palace": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/crystal-palace.football-logos.cc.png",
+      "titles": {
+        "Emirates Cup": 1,
+        "Community Shield": 1,
+        "Conference League": 1
+      }
+    },
+    "Everton": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/everton.football-logos.cc.png",
+      "titles": {
+        "Community Shield": 9
+      }
+    },
+    "Napoli": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/napoli.football-logos.cc.png",
+      "titles": {
+        "Serie A": 4,
+        "Coppa Italia": 6,
+        "Supercoppa Italiana": 6,
+        "Europa League": 1,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Inter": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/inter.football-logos.cc.png",
+      "titles": {
+        "Serie A": 26,
+        "Coppa Italia": 15,
+        "Supercoppa Italiana": 11,
+        "Champions League": 4,
+        "Europa League": 3,
+        "Mundial": 1,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Milan": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/milan.football-logos.cc.png",
+      "titles": {
+        "Serie A": 23,
+        "Coppa Italia": 8,
+        "Supercoppa Italiana": 13,
+        "Champions League": 7
+      }
+    },
+    "Bologna": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/bologna.football-logos.cc.png",
+      "titles": {
+        "Serie A": 16,
+        "Coppa Italia": 11,
+        "Supercoppa Italiana": 12,
+        "Europa League": 1,
+        "Conference League": 1,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Juventus": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/juventus.football-logos.cc.png",
+      "titles": {
+        "Serie A": 43,
+        "Coppa Italia": 22,
+        "Supercoppa Italiana": 11,
+        "Champions League": 3,
+        "Europa League": 4,
+        "Mundial": 2,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 2
+      }
+    },
+    "Roma": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/roma.football-logos.cc.png",
+      "titles": {
+        "Coppa Italia": 11,
+        "Supercoppa Italiana": 2,
+        "Europa League": 2,
+        "Conference League": 2,
+        "Supercopa da Europa": 1,
+        "Serie A": 4
+      }
+    },
+    "Atletico de Madrid": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/atletico-madrid.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 16,
+        "Copa del Rey": 14,
+        "Supercopa da Espanha": 7,
+        "Europa League": 3
+      }
+    },
+    "Barcelona": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/barcelona.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 36,
+        "Copa del Rey": 41,
+        "Supercopa da Espanha": 24,
+        "Champions League": 10,
+        "Mundial": 8,
+        "Supercopa da Europa": 9
+      }
+    },
+    "Real Madrid": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-madrid.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 50,
+        "Copa del Rey": 34,
+        "Supercopa da Espanha": 26,
+        "Champions League": 19,
+        "Europa League": 5,
+        "Mundial": 11,
+        "Supercopa da Europa": 11
+      }
+    },
+    "Athletic Bilbao": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/athletic-club.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 8,
+        "Copa del Rey": 24,
+        "Supercopa da Espanha": 3
+      }
+    },
+    "Valencia": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/valencia.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 6,
+        "Copa del Rey": 8,
+        "Europa League": 3,
+        "Conference League": 1
+      }
+    },
+    "Deportivo": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/deportivo.football-logos.cc.png",
+      "titles": {
+        "Supercopa da Espanha": 3
+      }
+    },
+    "PSG": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/paris-saint-germain.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 35,
+        "Coupe de France": 36,
+        "Supercopa da Franca": 33,
+        "Champions League": 7,
+        "Mundial": 6,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 6
+      }
+    },
+    "Saint-Etienne": {
+      "logo": "../../assets/images/clubes/france-ligue-2-2025-2026.football-logos.cc/256x256/as-saint-etienne.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 10,
+        "Coupe de France": 6,
+        "Supercopa da Franca": 5
+      }
+    },
+    "Monaco": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/as-monaco.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 8,
+        "Coupe de France": 5,
+        "Supercopa da Franca": 4,
+        "Conference League": 1
+      }
+    },
+    "Nantes": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/nantes.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 8,
+        "Supercopa da Franca": 3
+      }
+    },
+    "Lille": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/lille.football-logos.cc.png",
+      "titles": {
+        "Coupe de France": 6,
+        "Conference League": 2
+      }
+    },
+    "Boca Juniors": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/boca-juniors.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 7,
+        "Sul-Americana": 3,
+        "Recopa": 6
+      }
+    },
+    "River Plate": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/river-plate.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 6,
+        "Sul-Americana": 3,
+        "Recopa": 3
+      }
+    },
+    "Independiente": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/independiente.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 7
+      }
+    },
+    "Barcelona de Guayaquil": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/velez-sarsfield.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
+    },
+    "Velez Sarsfield": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/velez-sarsfield.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1,
+        "Libertadores": 1
+      }
+    },
+    "Estudiantes": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/estudiantes-de-la-plata.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1,
+        "Libertadores": 4
+      }
+    },
+    "Vitoria": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/vitoria.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
+    },
+    "Novorizontino": {
+      "logo": "../../assets/images/clubes/brazil-serie-b-2025-2026.football-logos.cc/256x256/novorizontino.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
+    },
+    "Rosario Central": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/rosario-central.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
+    },
+    "Spain": {
+      "logo": "../../assets/images/clubes/espanha.png",
+      "titles": {
+        "Copa do Mundo": 3,
+        "Eurocopa": 6
+      }
+    },
+    "Portugal": {
+      "logo": "../../assets/images/clubes/portugal.png",
+      "titles": {
+        "Copa do Mundo": 1,
+        "Eurocopa": 1
+      }
+    },
+    "Argentina": {
+      "logo": "../../assets/images/clubes/argentina.png",
+      "titles": {
+        "Copa do Mundo": 4,
+        "Copa America": 16
+      }
+    },
+    "Italy": {
+      "logo": "../../assets/images/clubes/italia.png",
+      "titles": {
+        "Copa do Mundo": 5,
+        "Eurocopa": 2
+      }
+    },
+    "Netherlands": {
+      "logo": "../../assets/images/clubes/holanda.png",
+      "titles": {
+        "Eurocopa": 2
+      }
     },
     "France": {
-      "world-cup": 2,
-      "euro": 4
-    },
-    "1. FC Köln": {
-      "bundesliga": 2,
-      "dfb-pokal": 4
-    },
-    "Deportivo de La Coruña": {
-      "copa-rey": 2,
-      "laliga": 1,
-      "supercopa-es": 3
-    },
-    "Real Sociedad": {
-      "conference-league": 1,
-      "copa-rey": 2,
-      "laliga": 2,
-      "supercopa-es": 1
-    },
-    "West Ham": {
-      "conference-league": 2,
-      "fa-cup": 3,
-      "europa-league": 1
-    },
-    "The Wednesday": {
-      "fa-cup": 2,
-      "premier": 3
-    },
-    "Stuttgart": {
-      "conference-league": 1,
-      "dfb-pokal": 2
-    },
-    "Reims": {
-      "supercopa-fr": 5
-    },
-    "Red Star": {
-      "coupe-france": 5
-    },
-    "Real Betis": {
-      "conference-league": 1,
-      "copa-rey": 3,
-      "laliga": 1
-    },
-    "1. FC Nürnberg": {
-      "bundesliga": 1,
-      "dfb-pokal": 4
-    },
-    "Huddersfield": {
-      "community-shield": 1,
-      "fa-cup": 1,
-      "premier": 3
-    },
-    "Feyenoord": {
-      "champions": 1,
-      "conference-league": 1,
-      "europa-league": 2,
-      "mundial": 1
-    },
-    "Kaiserslautern": {
-      "bundesliga": 2,
-      "dfb-pokal": 2,
-      "supercup-de": 1
-    },
-    "LDU Quito": {
-      "sudamericana": 2,
-      "recopa": 2
-    },
-    "Professionals XI": {
-      "community-shield": 4
-    },
-    "Athletico Paranaense": {
-      "brasileirao": 1,
-      "sudamericana": 2,
-      "copa-brasil": 1
-    },
-    "Benfica": {
-      "champions": 2,
-      "conference-league": 1,
-      "europa-league": 1
-    },
-    "Real Unión": {
-      "copa-rey": 3
-    },
-    "Espanyol": {
-      "copa-rey": 2,
-      "laliga": 1
-    },
-    "Chile": {
-      "copa-america": 3
-    },
-    "Lanús": {
-      "libertadores": 1,
-      "sudamericana": 2
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/france-national-team.football-logos.cc.png",
+      "titles": {
+        "Eurocopa": 4,
+        "Copa do Mundo": 2
+      }
     },
     "Bolivia": {
-      "copa-america": 2,
-      "world-cup": 1
+      "logo": "../../assets/images/clubes/bolivia.png",
+      "titles": {
+        "Copa America": 2
+      }
+    },
+    "Chile": {
+      "logo": "../../assets/images/clubes/chile.png",
+      "titles": {
+        "Copa America": 4
+      }
+    },
+    "Brazil": {
+      "logo": "../../assets/images/clubes/brasil.png",
+      "titles": {
+        "Copa America": 12,
+        "Copa do Mundo": 5
+      }
+    },
+    "Germany": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/germany-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa do Mundo": 4,
+        "Eurocopa": 3
+      }
+    },
+    "Uruguay": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/uruguay-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa America": 15
+      }
     },
     "England": {
-      "world-cup": 2
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/england-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa do Mundo": 2
+      }
     },
-    "Peru": {
-      "copa-america": 2
+    "Ajax": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/ajax.football-logos.cc.png",
+      "titles": {
+        "Europa League": 3,
+        "Conference League": 1,
+        "Supercopa da Europa": 2,
+        "Champions League": 5,
+        "Mundial": 3,
+        "Super Mundial": 1
+      }
     },
-    "Paraguay": {
-      "copa-america": 2
+    "Sevilla": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/sevilla.football-logos.cc.png",
+      "titles": {
+        "Europa League": 8,
+        "Conference League": 1
+      }
     },
-    "Bahia": {
-      "brasileirao": 2
+    "Benfica": {
+      "logo": "../../assets/images/clubes/portugal-primeira-liga-2025-2026.football-logos.cc/256x256/benfica.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 2
+      }
     },
-    "Ambrosiana-Inter": {
-      "coppa-italia": 1,
-      "serie-a": 1
+    "Fiorentina": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/fiorentina.football-logos.cc.png",
+      "titles": {
+        "Conference League": 2,
+        "Serie A": 3
+      }
     },
-    "Criciúma": {
-      "copa-brasil": 1
+    "Real Betis": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-betis.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
     },
-    "Colombia": {
-      "copa-america": 1
+    "Atalanta": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/atalanta.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
     },
-    "Mallorca": {
-      "supercopa-es": 1
+    "Stuttgart": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/vfb-stuttgart.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
     },
-    "Olympiacos": {
-      "conference-league": 1
+    "Feyenoord": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/feyenoord.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
     },
-    "Países Baixos": {
-      "euro": 1
+    "Newcastle": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/newcastle.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1,
+        "Premier League": 1
+      }
     },
-    "Soviet Union": {
-      "euro": 1
+    "Villarreal": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/villarreal.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
     },
-    "Czechoslovakia": {
-      "euro": 1
+    "Nice": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/nice.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Real Sociedad": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-sociedad.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "PSV": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/psv.football-logos.cc.png",
+      "titles": {
+        "Conference League": 2
+      }
+    },
+    "Leipzig": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/rb-leipzig.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 1,
+        "Bundesliga": 1,
+        "DFB Pokal": 1
+      }
+    },
+    "West Ham": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/west-ham.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 2
+      }
+    },
+    "Mexico": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/mexico-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa America": 2
+      }
+    },
+    "Olimpia": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/independiente.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 3,
+        "Sul-Americana": 5
+      }
     },
     "Olympique de Marseille": {
-      "champions": 2,
-      "conference-league": 1,
-      "coupe-france": 18,
-      "ligue-1": 17,
-      "mundial": 1,
-      "supercopa-fr": 10
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/marseille.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 18,
+        "Coupe de France": 19,
+        "Supercopa da Franca": 11,
+        "Champions League": 3,
+        "Conference League": 1,
+        "Mundial": 2
+      }
+    },
+    "Torino": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/torino.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1,
+        "Supercopa da Italia": 1,
+        "Europa League": 1,
+        "Serie A": 7,
+        "Coppa Italia": 5
+      }
     },
     "Dinamarca": {
-      "euro": 2
+      "logo": "../../assets/images/clubes/Dansk_boldspil_union_logo.svg.png",
+      "titles": {
+        "Eurocopa": 2
+      }
+    },
+    "Porto": {
+      "logo": "../../assets/images/clubes/portugal-primeira-liga-2025-2026.football-logos.cc/256x256/fc-porto.football-logos.cc.png",
+      "titles": {}
+    },
+    "Celtic": {
+      "logo": "../../assets/images/clubes/Celtic_FC_logo.png",
+      "titles": {}
+    },
+    "Steaua Bucareste": {
+      "logo": "../../assets/images/clubes/Fcsb-logo.svg.png",
+      "titles": {}
+    },
+    "Estrela Vermelha": {
+      "logo": "../../assets/images/clubes/OK_Crvena_Zvezda(logo).png",
+      "titles": {}
+    },
+    "Goteborg": {
+      "logo": "../../assets/images/clubes/goteborg.png",
+      "titles": {}
+    },
+    "Parma": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/parma.football-logos.cc.png",
+      "titles": {}
+    },
+    "Anderlecht": {
+      "logo": "../../assets/images/clubes/belgium-pro-league-2025-2026.football-logos.cc/256x256/anderlecht.football-logos.cc.png",
+      "titles": {}
+    },
+    "Galatasaray": {
+      "logo": "../../assets/images/clubes/turkey-super-lig-2025-2026.football-logos.cc/256x256/galatasaray.football-logos.cc.png",
+      "titles": {}
+    },
+    "Ipswich Town": {
+      "logo": "../../assets/images/clubes/england-efl-championship-2025-2026.football-logos.cc/256x256/ipswich.football-logos.cc.png",
+      "titles": {}
+    },
+    "CSKA Moscow": {
+      "logo": "../../assets/images/clubes/PFC_CSKA.svg.png",
+      "titles": {}
+    },
+    "Cska Moscow": {
+      "logo": "../../assets/images/clubes/PFC_CSKA.svg.png",
+      "titles": {}
+    },
+    "Zenit": {
+      "logo": "../../assets/images/clubes/FC_Zenit_2_star_2023_logo.png",
+      "titles": {}
+    },
+    "Shakhtar Donetsk": {
+      "logo": "../../assets/images/clubes/shakhtar_donetsk.png",
+      "titles": {}
+    },
+    "Lazio": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/lazio.football-logos.cc.png",
+      "titles": {}
+    },
+    "Dynamo Kyiv": {
+      "logo": "../../assets/images/clubes/Dynamo_logo.svg.png",
+      "titles": {}
+    },
+    "Aberdeen": {
+      "logo": "../../assets/images/clubes/Aberdeen_F.C._logo_2014.svg.png",
+      "titles": {}
+    },
+    "Czechoslovakia": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/czech-republic-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Grecia": {
+      "logo": "../../assets/images/clubes/Greece_National_Football_Team.svg.png",
+      "titles": {}
+    },
+    "Soviet Union": {
+      "logo": "../../assets/images/clubes/Russian_Football_Union.png",
+      "titles": {}
+    },
+    "Paraguai": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/paraguay-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Peru": {
+      "logo": "../../assets/images/clubes/Logotipo_de_la_Federación_Peruana_de_Fútbol.svg.png",
+      "titles": {}
+    },
+    "Colombia": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/colombia-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Lausanne": {
+      "logo": "",
+      "titles": {
+        "Conference League": 1
+      }
     }
   },
   "allClubTitles": {
-    "Real Madrid": {
-      "champions": 19,
-      "copa-rey": 35,
-      "europa-league": 5,
-      "laliga": 48,
-      "mundial": 12,
-      "supercopa-es": 29,
-      "supercup": 9,
-      "super-mundial": 1
-    },
-    "Bayern": {
-      "bundesliga": 52,
-      "champions": 8,
-      "dfb-pokal": 41,
-      "europa-league": 1,
-      "mundial": 6,
-      "supercup-de": 30,
-      "supercup": 3,
-      "super-mundial": 1
-    },
-    "Barcelona": {
-      "champions": 10,
-      "copa-rey": 36,
-      "laliga": 38,
-      "mundial": 8,
-      "supercopa-es": 23,
-      "supercup": 9
-    },
-    "PSG": {
-      "champions": 7,
-      "coupe-france": 29,
-      "ligue-1": 32,
-      "mundial": 7,
-      "supercup": 7,
-      "supercopa-fr": 33,
-      "super-mundial": 1
-    },
-    "Juventus": {
-      "champions": 3,
-      "coppa-italia": 17,
-      "europa-league": 4,
-      "mundial": 3,
-      "serie-a": 42,
-      "supercup": 2,
-      "supercoppa-it": 11,
-      "super-mundial": 1
-    },
-    "Liverpool": {
-      "champions": 7,
-      "community-shield": 15,
-      "fa-cup": 10,
-      "carabao": 13,
-      "europa-league": 3,
-      "mundial": 2,
-      "premier": 24,
-      "supercup": 5
-    },
-    "Arsenal": {
-      "champions": 1,
-      "community-shield": 28,
-      "fa-cup": 21,
-      "carabao": 5,
-      "europa-league": 1,
-      "mundial": 1,
-      "premier": 20
-    },
-    "Manchester United": {
-      "champions": 3,
-      "community-shield": 22,
-      "fa-cup": 15,
-      "carabao": 9,
-      "europa-league": 3,
-      "mundial": 2,
-      "premier": 20,
-      "supercup": 2
-    },
-    "Manchester City": {
-      "champions": 4,
-      "community-shield": 12,
-      "fa-cup": 12,
-      "carabao": 15,
-      "mundial": 4,
-      "premier": 21,
-      "supercup": 3,
-      "super-mundial": 1
-    },
-    "Inter": {
-      "champions": 4,
-      "coppa-italia": 16,
-      "europa-league": 3,
-      "mundial": 4,
-      "serie-a": 23,
-      "supercup": 1,
-      "supercoppa-it": 11,
-      "super-mundial": 1
-    },
-    "Milan": {
-      "champions": 7,
-      "coppa-italia": 10,
-      "mundial": 4,
-      "serie-a": 20,
-      "supercup": 5,
-      "supercoppa-it": 12
-    },
-    "Sao Paulo": {
-      "brasileirao": 12,
-      "libertadores": 6,
-      "sudamericana": 3,
-      "copa-brasil": 6,
-      "mundial": 3,
-      "recopa": 7,
-      "supercopa-br": 7
-    },
     "Flamengo": {
-      "brasileirao": 12,
-      "libertadores": 8,
-      "sudamericana": 1,
-      "copa-brasil": 8,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 9
-    },
-    "Chelsea": {
-      "champions": 2,
-      "community-shield": 5,
-      "conference-league": 1,
-      "fa-cup": 11,
-      "carabao": 9,
-      "europa-league": 2,
-      "mundial": 1,
-      "premier": 8,
-      "supercup": 2,
-      "super-mundial": 1
-    },
-    "Atletico de Madrid": {
-      "copa-rey": 14,
-      "europa-league": 4,
-      "laliga": 13,
-      "mundial": 1,
-      "supercopa-es": 7,
-      "supercup": 3
-    },
-    "Bologna": {
-      "conference-league": 1,
-      "coppa-italia": 10,
-      "europa-league": 1,
-      "serie-a": 12,
-      "supercup": 1,
-      "supercoppa-it": 12
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/flamengo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 14,
+        "Copa do Brasil": 8,
+        "Supercopa": 9,
+        "Libertadores": 8,
+        "Sul-Americana": 1,
+        "Recopa": 5
+      }
     },
     "Palmeiras": {
-      "brasileirao": 14,
-      "libertadores": 8,
-      "copa-brasil": 7,
-      "recopa": 4,
-      "supercopa-br": 3
-    },
-    "Athletic Bilbao": {
-      "copa-rey": 24,
-      "laliga": 7,
-      "supercopa-es": 3
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/palmeiras.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 15,
+        "Copa do Brasil": 7,
+        "Supercopa": 3,
+        "Libertadores": 8,
+        "Recopa": 5
+      }
     },
     "Gremio": {
-      "brasileirao": 5,
-      "libertadores": 5,
-      "sudamericana": 1,
-      "copa-brasil": 10,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 3
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/gremio.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 6,
+        "Copa do Brasil": 10,
+        "Supercopa": 3,
+        "Libertadores": 5,
+        "Sul-Americana": 1,
+        "Recopa": 5,
+        "Mundial": 1
+      }
     },
     "Vasco": {
-      "brasileirao": 9,
-      "libertadores": 7,
-      "copa-brasil": 4,
-      "mundial": 1,
-      "recopa": 5,
-      "supercopa-br": 4
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/vasco-da-gama.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 9,
+        "Copa do Brasil": 4,
+        "Supercopa": 4,
+        "Libertadores": 7,
+        "Recopa": 5,
+        "Mundial": 1
+      }
     },
-    "Aston Villa": {
-      "champions": 1,
-      "community-shield": 2,
-      "conference-league": 1,
-      "fa-cup": 8,
-      "carabao": 6,
-      "europa-league": 3,
-      "premier": 7,
-      "supercup": 1
-    },
-    "Borussia Dortmund": {
-      "bundesliga": 6,
-      "champions": 1,
-      "dfb-pokal": 8,
-      "europa-league": 1,
-      "mundial": 1,
-      "supercup-de": 9
-    },
-    "Corinthians": {
-      "brasileirao": 9,
-      "libertadores": 1,
-      "sudamericana": 1,
-      "copa-brasil": 6,
-      "mundial": 2,
-      "recopa": 1,
-      "supercopa-br": 4
-    },
-    "Everton": {
-      "community-shield": 9,
-      "fa-cup": 5,
-      "premier": 9
-    },
-    "Tottenham": {
-      "community-shield": 4,
-      "fa-cup": 9,
-      "carabao": 5,
-      "europa-league": 3,
-      "premier": 2
-    },
-    "Lyon": {
-      "coupe-france": 7,
-      "ligue-1": 7,
-      "supercopa-fr": 8
-    },
-    "Saint-Etienne": {
-      "coupe-france": 6,
-      "ligue-1": 10,
-      "supercopa-fr": 5
-    },
-    "Roma": {
-      "conference-league": 2,
-      "coppa-italia": 10,
-      "europa-league": 2,
-      "serie-a": 4,
-      "supercup": 1,
-      "supercoppa-it": 3
-    },
-    "Santos": {
-      "brasileirao": 8,
-      "libertadores": 3,
-      "sudamericana": 4,
-      "copa-brasil": 2,
-      "mundial": 2,
-      "recopa": 2
-    },
-    "Argentina": {
-      "copa-america": 16,
-      "world-cup": 4
-    },
-    "Valencia": {
-      "copa-rey": 8,
-      "europa-league": 2,
-      "laliga": 7,
-      "supercopa-es": 1,
-      "supercup": 2
-    },
-    "Boca Juniors": {
-      "libertadores": 7,
-      "sudamericana": 3,
-      "mundial": 3,
-      "recopa": 6
-    },
-    "Monaco": {
-      "conference-league": 1,
-      "coupe-france": 6,
-      "ligue-1": 8,
-      "supercopa-fr": 4
-    },
-    "Napoli": {
-      "coppa-italia": 6,
-      "europa-league": 2,
-      "serie-a": 4,
-      "supercup": 1,
-      "supercoppa-it": 6
+    "Sao Paulo": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/sao-paulo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 13,
+        "Copa do Brasil": 7,
+        "Supercopa": 8,
+        "Libertadores": 7,
+        "Sul-Americana": 3,
+        "Recopa": 7
+      }
     },
     "Cruzeiro": {
-      "brasileirao": 5,
-      "libertadores": 2,
-      "sudamericana": 1,
-      "copa-brasil": 8,
-      "recopa": 2,
-      "supercopa-br": 1
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/cruzeiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 5,
+        "Copa do Brasil": 9,
+        "Supercopa": 1,
+        "Libertadores": 2,
+        "Sul-Americana": 1
+      }
     },
-    "Sevilla": {
-      "conference-league": 1,
-      "copa-rey": 6,
-      "europa-league": 8,
-      "laliga": 1,
-      "supercopa-es": 1,
-      "supercup": 1
+    "Corinthians": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/corinthians.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 9,
+        "Copa do Brasil": 7,
+        "Supercopa": 4,
+        "Libertadores": 1,
+        "Sul-Americana": 1
+      }
     },
-    "Newcastle": {
-      "community-shield": 2,
-      "conference-league": 1,
-      "fa-cup": 8,
-      "carabao": 2,
-      "premier": 5
+    "Ceara": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/cruzeiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 1,
+        "Supercopa": 1,
+        "Sul-Americana": 2
+      }
     },
-    "Brazil": {
-      "copa-america": 12,
-      "world-cup": 5
-    },
-    "Uruguay": {
-      "copa-america": 15,
-      "world-cup": 2
-    },
-    "Nantes": {
-      "coupe-france": 4,
-      "ligue-1": 8,
-      "supercopa-fr": 3
-    },
-    "Lazio": {
-      "coppa-italia": 7,
-      "serie-a": 2,
-      "supercup": 1,
-      "supercoppa-it": 5
-    },
-    "River Plate": {
-      "libertadores": 6,
-      "sudamericana": 4,
-      "mundial": 1,
-      "recopa": 3
-    },
-    "Nottingham Forest": {
-      "champions": 2,
-      "community-shield": 1,
-      "fa-cup": 2,
-      "carabao": 5,
-      "europa-league": 1,
-      "premier": 1,
-      "supercup": 2
-    },
-    "Werder Bremen": {
-      "bundesliga": 4,
-      "dfb-pokal": 6,
-      "supercup-de": 3
-    },
-    "Bordeaux": {
-      "coupe-france": 4,
-      "ligue-1": 6,
-      "supercopa-fr": 3
-    },
-    "Ajax": {
-      "champions": 4,
-      "europa-league": 4,
-      "mundial": 2,
-      "supercup": 3
-    },
-    "Fiorentina": {
-      "conference-league": 2,
-      "coppa-italia": 6,
-      "serie-a": 3,
-      "supercoppa-it": 1
-    },
-    "Frankfurt": {
-      "bundesliga": 2,
-      "champions": 1,
-      "dfb-pokal": 5,
-      "europa-league": 2,
-      "mundial": 1,
-      "supercup-de": 2
-    },
-    "Lille": {
-      "conference-league": 2,
-      "coupe-france": 6,
-      "ligue-1": 4,
-      "supercopa-fr": 1
-    },
-    "Independiente": {
-      "libertadores": 7,
-      "sudamericana": 2,
-      "mundial": 2,
-      "recopa": 1
-    },
-    "Internacional": {
-      "brasileirao": 3,
-      "libertadores": 3,
-      "sudamericana": 2,
-      "copa-brasil": 1,
-      "mundial": 1,
-      "recopa": 2
-    },
-    "Wolverhampton": {
-      "community-shield": 2,
-      "fa-cup": 4,
-      "carabao": 2,
-      "premier": 3
-    },
-    "Blackburn": {
-      "community-shield": 1,
-      "fa-cup": 6,
-      "carabao": 1,
-      "premier": 3
-    },
-    "Torino": {
-      "coppa-italia": 5,
-      "serie-a": 6
-    },
-    "Atletico Mineiro": {
-      "brasileirao": 3,
-      "libertadores": 2,
-      "copa-brasil": 2,
-      "recopa": 2,
-      "supercopa-br": 1
-    },
-    "Borussia Monchengladbach": {
-      "bundesliga": 1,
-      "dfb-pokal": 1,
-      "supercup-de": 1
-    },
-    "Spain": {
-      "world-cup": 3,
-      "euro": 7
-    },
-    "Fluminense": {
-      "brasileirao": 4,
-      "libertadores": 1,
-      "sudamericana": 3,
-      "copa-brasil": 1
-    },
-    "Nice": {
-      "conference-league": 1,
-      "coupe-france": 3,
-      "ligue-1": 4,
-      "supercopa-fr": 1
-    },
-    "Bayer Leverkusen": {
-      "bundesliga": 2,
-      "conference-league": 1,
-      "dfb-pokal": 2,
-      "europa-league": 2,
-      "supercup-de": 1,
-      "supercup": 1
-    },
-    "Sunderland": {
-      "community-shield": 1,
-      "fa-cup": 2,
-      "premier": 6
-    },
-    "Peñarol": {
-      "libertadores": 5,
-      "mundial": 3
-    },
-    "Estudiantes": {
-      "libertadores": 5,
-      "sudamericana": 1,
-      "mundial": 1,
-      "recopa": 1
-    },
-    "West Bromwich": {
-      "community-shield": 1,
-      "fa-cup": 5,
-      "carabao": 1,
-      "premier": 1
-    },
-    "Stade de Reims": {
-      "coupe-france": 2,
-      "ligue-1": 6
-    },
-    "Brighton": {
-      "community-shield": 3,
-      "conference-league": 1,
-      "fa-cup": 2,
-      "carabao": 1
-    },
-    "Germany": {
-      "world-cup": 4,
-      "euro": 3
-    },
-    "Italy": {
-      "world-cup": 5,
-      "euro": 2
-    },
-    "Schalke 04": {
-      "dfb-pokal": 5,
-      "europa-league": 1,
-      "supercup-de": 1
-    },
-    "Olimpia": {
-      "libertadores": 3,
-      "sudamericana": 1,
-      "mundial": 1,
-      "recopa": 2
-    },
-    "Nacional": {
-      "libertadores": 3,
-      "mundial": 3,
-      "recopa": 1
-    },
-    "Leipzig": {
-      "bundesliga": 2,
-      "conference-league": 1,
-      "dfb-pokal": 2,
-      "europa-league": 1,
-      "supercup-de": 1
-    },
-    "Porto": {
-      "champions": 2,
-      "europa-league": 2,
-      "mundial": 2,
-      "supercup": 1
-    },
-    "Parma": {
-      "coppa-italia": 3,
-      "europa-league": 2,
-      "supercup": 1,
-      "supercoppa-it": 1
-    },
-    "Leeds": {
-      "community-shield": 2,
-      "fa-cup": 1,
-      "carabao": 1,
-      "premier": 3
-    },
-    "Hamburgo": {
-      "bundesliga": 3,
-      "champions": 1,
-      "dfb-pokal": 3
-    },
-    "Real Zaragoza": {
-      "copa-rey": 6,
-      "supercopa-es": 1
-    },
-    "France": {
-      "world-cup": 2,
-      "euro": 4
-    },
-    "1. FC Köln": {
-      "bundesliga": 2,
-      "dfb-pokal": 4
-    },
-    "Deportivo de La Coruña": {
-      "copa-rey": 2,
-      "laliga": 1,
-      "supercopa-es": 3
-    },
-    "Real Sociedad": {
-      "conference-league": 1,
-      "copa-rey": 2,
-      "laliga": 2,
-      "supercopa-es": 1
-    },
-    "Sampdoria": {
-      "coppa-italia": 4,
-      "serie-a": 1,
-      "supercoppa-it": 1
-    },
-    "West Ham": {
-      "conference-league": 2,
-      "fa-cup": 3,
-      "europa-league": 1
-    },
-    "The Wednesday": {
-      "fa-cup": 2,
-      "premier": 3
-    },
-    "Stuttgart": {
-      "conference-league": 1,
-      "dfb-pokal": 2
-    },
-    "Wanderers": {
-      "fa-cup": 5
-    },
-    "Reims": {
-      "supercopa-fr": 5
-    },
-    "Red Star": {
-      "coupe-france": 5
-    },
-    "Sheffield United": {
-      "fa-cup": 4,
-      "premier": 1
-    },
-    "Portsmouth": {
-      "community-shield": 1,
-      "fa-cup": 2,
-      "premier": 2
-    },
-    "Racing Paris": {
-      "coupe-france": 5
-    },
-    "Real Betis": {
-      "conference-league": 1,
-      "copa-rey": 3,
-      "laliga": 1
-    },
-    "Atalanta": {
-      "conference-league": 1,
-      "coppa-italia": 3,
-      "europa-league": 1
+    "Santos": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/santos.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 8,
+        "Copa do Brasil": 2,
+        "Libertadores": 3,
+        "Sul-Americana": 4,
+        "Recopa": 2
+      }
     },
     "Botafogo": {
-      "brasileirao": 2,
-      "libertadores": 1,
-      "sudamericana": 1,
-      "recopa": 1
-    },
-    "1. FC Nürnberg": {
-      "bundesliga": 1,
-      "dfb-pokal": 4
-    },
-    "Huddersfield": {
-      "community-shield": 1,
-      "fa-cup": 1,
-      "premier": 3
-    },
-    "Bolton": {
-      "community-shield": 1,
-      "fa-cup": 4
-    },
-    "Feyenoord": {
-      "champions": 1,
-      "conference-league": 1,
-      "europa-league": 2,
-      "mundial": 1
-    },
-    "Kaiserslautern": {
-      "bundesliga": 2,
-      "dfb-pokal": 2,
-      "supercup-de": 1
-    },
-    "Burnley": {
-      "community-shield": 2,
-      "fa-cup": 1,
-      "premier": 2
-    },
-    "Strasbourg": {
-      "coupe-france": 4,
-      "ligue-1": 1
-    },
-    "Sète": {
-      "coupe-france": 2,
-      "ligue-1": 2
-    },
-    "Sheffield Wednesday": {
-      "community-shield": 1,
-      "fa-cup": 1,
-      "carabao": 1,
-      "premier": 1
-    },
-    "LDU Quito": {
-      "sudamericana": 2,
-      "recopa": 2
-    },
-    "Auxerre": {
-      "coupe-france": 3,
-      "ligue-1": 1
-    },
-    "Professionals XI": {
-      "community-shield": 4
-    },
-    "Sochaux": {
-      "coupe-france": 2,
-      "ligue-1": 2
-    },
-    "Velez Sarsfield": {
-      "libertadores": 1,
-      "sudamericana": 1,
-      "mundial": 1,
-      "recopa": 1
-    },
-    "Athletico Paranaense": {
-      "brasileirao": 1,
-      "sudamericana": 2,
-      "copa-brasil": 1
-    },
-    "Benfica": {
-      "champions": 2,
-      "conference-league": 1,
-      "europa-league": 1
-    },
-    "Leicester": {
-      "community-shield": 1,
-      "carabao": 3
-    },
-    "Derby County": {
-      "community-shield": 1,
-      "fa-cup": 1,
-      "premier": 2
-    },
-    "Atletico Nacional": {
-      "libertadores": 2,
-      "sudamericana": 1,
-      "recopa": 1
-    },
-    "Real Unión": {
-      "copa-rey": 3
-    },
-    "Racing": {
-      "libertadores": 1,
-      "sudamericana": 1,
-      "mundial": 1
-    },
-    "Leicester City": {
-      "community-shield": 1,
-      "fa-cup": 1,
-      "premier": 1
-    },
-    "Espanyol": {
-      "copa-rey": 2,
-      "laliga": 1
-    },
-    "Anderlecht": {
-      "europa-league": 1,
-      "supercup": 2
-    },
-    "Chile": {
-      "copa-america": 3
-    },
-    "Lanús": {
-      "libertadores": 1,
-      "sudamericana": 2
-    },
-    "Ipswich Town": {
-      "fa-cup": 1,
-      "europa-league": 1,
-      "premier": 1
-    },
-    "Bolivia": {
-      "copa-america": 2,
-      "world-cup": 1
-    },
-    "Sedan": {
-      "coupe-france": 2,
-      "supercopa-fr": 1
-    },
-    "Rennes": {
-      "coupe-france": 3
-    },
-    "VfL Wolfsburg": {
-      "bundesliga": 1,
-      "dfb-pokal": 1,
-      "supercup-de": 1
-    },
-    "Montpellier": {
-      "coupe-france": 2,
-      "ligue-1": 1
-    },
-    "PSV Eindhoven": {
-      "champions": 1,
-      "conference-league": 1,
-      "europa-league": 1
-    },
-    "TSV 1860 München": {
-      "bundesliga": 1,
-      "dfb-pokal": 1
-    },
-    "Sport": {
-      "brasileirao": 1,
-      "copa-brasil": 1
-    },
-    "Zenit": {
-      "europa-league": 1,
-      "supercup": 1
-    },
-    "San Lorenzo": {
-      "libertadores": 1,
-      "sudamericana": 1
-    },
-    "Steaua București": {
-      "champions": 1,
-      "supercup": 1
-    },
-    "Metz": {
-      "coupe-france": 2
-    },
-    "Preston North End": {
-      "premier": 2
-    },
-    "Preston": {
-      "fa-cup": 2
-    },
-    "Portugal": {
-      "world-cup": 1,
-      "euro": 1
-    },
-    "Toulouse": {
-      "coupe-france": 2
-    },
-    "Villarreal": {
-      "conference-league": 1,
-      "europa-league": 1
-    },
-    "Old Etonians": {
-      "fa-cup": 2
-    },
-    "Norwich City": {
-      "carabao": 2
-    },
-    "Nancy": {
-      "coupe-france": 2
-    },
-    "Le Havre": {
-      "coupe-france": 1,
-      "supercopa-fr": 1
-    },
-    "Fortuna Düsseldorf": {
-      "dfb-pokal": 2
-    },
-    "Dresdner SC": {
-      "dfb-pokal": 2
-    },
-    "Estrela Vermelha": {
-      "champions": 1,
-      "mundial": 1
-    },
-    "Español": {
-      "copa-rey": 2
-    },
-    "Defensa y Justicia": {
-      "sudamericana": 1,
-      "recopa": 1
-    },
-    "England": {
-      "world-cup": 2
-    },
-    "Guingamp": {
-      "coupe-france": 2
-    },
-    "Göteborg": {
-      "europa-league": 2
-    },
-    "Karlsruher": {
-      "dfb-pokal": 2
-    },
-    "Galatasaray": {
-      "europa-league": 1,
-      "supercup": 1
-    },
-    "Peru": {
-      "copa-america": 2
-    },
-    "Paraguay": {
-      "copa-america": 2
-    },
-    "Colo-Colo": {
-      "libertadores": 1,
-      "recopa": 1
-    },
-    "Crystal Palace": {
-      "community-shield": 1,
-      "conference-league": 1
-    },
-    "Independiente del Valle": {
-      "sudamericana": 2
-    },
-    "Bastia": {
-      "coupe-france": 1,
-      "supercopa-fr": 1
-    },
-    "Cardiff": {
-      "community-shield": 1,
-      "fa-cup": 1
-    },
-    "CASG Paris": {
-      "coupe-france": 2
-    },
-    "Cienciano": {
-      "sudamericana": 1,
-      "recopa": 1
-    },
-    "Ceará": {
-      "brasileirao": 1,
-      "supercopa-br": 1
-    },
-    "Bahia": {
-      "brasileirao": 2
-    },
-    "Amateurs XI": {
-      "community-shield": 2
-    },
-    "Ambrosiana-Inter": {
-      "coppa-italia": 1,
-      "serie-a": 1
-    },
-    "Birmingham": {
-      "carabao": 2
-    },
-    "Bury": {
-      "fa-cup": 2
-    },
-    "Arsenal de Sarandí": {
-      "sudamericana": 1
-    },
-    "Argentinos Juniors": {
-      "libertadores": 1
-    },
-    "Aberdeen": {
-      "supercup": 1
-    },
-    "Bayer Uerdingen": {
-      "dfb-pokal": 1
-    },
-    "Barnsley": {
-      "fa-cup": 1
-    },
-    "Barcelona de Guayaquil": {
-      "sudamericana": 1
-    },
-    "Criciúma": {
-      "copa-brasil": 1
-    },
-    "1860 München": {
-      "dfb-pokal": 1
-    },
-    "Arenas Club": {
-      "copa-rey": 1
-    },
-    "Blackburn Olympic": {
-      "fa-cup": 1
-    },
-    "Blackpool": {
-      "fa-cup": 1
-    },
-    "Bradford": {
-      "fa-cup": 1
-    },
-    "Cannes": {
-      "coupe-france": 1
-    },
-    "CSKA Moscou": {
-      "europa-league": 1
-    },
-    "Cagliari": {
-      "serie-a": 1
-    },
-    "Charlton": {
-      "fa-cup": 1
-    },
-    "Cercle Paris": {
-      "coupe-france": 1
-    },
-    "Celtic": {
-      "champions": 1
-    },
-    "Clapham Rovers": {
-      "fa-cup": 1
-    },
-    "Kickers Offenbach": {
-      "dfb-pokal": 1
-    },
-    "KV Mechelen": {
-      "supercup": 1
-    },
-    "Juventude": {
-      "copa-brasil": 1
-    },
-    "Greece": {
-      "euro": 1
-    },
-    "Guarani": {
-      "brasileirao": 1
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/botafogo.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 2,
+        "Libertadores": 3,
+        "Sul-Americana": 1
+      }
+    },
+    "Fluminense": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/fluminense.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 4,
+        "Copa do Brasil": 1,
+        "Libertadores": 1,
+        "Sul-Americana": 2
+      }
+    },
+    "Internacional": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/internacional.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 3,
+        "Copa do Brasil": 2,
+        "Libertadores": 2,
+        "Sul-Americana": 3,
+        "Recopa": 4,
+        "Supercopa": 1
+      }
+    },
+    "Atletico Mineiro": {
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/atletico-mineiro.football-logos.cc.png",
+      "titles": {
+        "Brasileirao": 3,
+        "Copa do Brasil": 2,
+        "Supercopa": 1,
+        "Libertadores": 2,
+        "Recopa": 2
+      }
+    },
+    "Bayern": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayern-munchen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 57,
+        "DFB Pokal": 42,
+        "DFL Supercup": 33,
+        "Champions League": 8,
+        "Mundial": 4,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Bayer Leverkusen": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayer-leverkusen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 2,
+        "DFB Pokal": 3,
+        "DFL Supercup": 2
+      }
+    },
+    "RB Leipzig": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/rb-leipzig.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 1,
+        "DFB Pokal": 2,
+        "DFL Supercup": 1
+      }
+    },
+    "Frankfurt": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/eintracht-frankfurt.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 3,
+        "DFB Pokal": 5,
+        "DFL Supercup": 1,
+        "Champions League": 1,
+        "Europa League": 1,
+        "Conference League": 2
+      }
+    },
+    "Borussia Dortmund": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/borussia-dortmund.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 9,
+        "DFB Pokal": 9,
+        "DFL Supercup": 9,
+        "Champions League": 1,
+        "Europa League": 1
+      }
+    },
+    "Borussia Monchengladbach": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/borussia-monchengladbach.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 6,
+        "DFB Pokal": 4,
+        "DFL Supercup": 1
+      }
+    },
+    "Werder Bremen": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/werder-bremen.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 4,
+        "DFB Pokal": 6
+      }
+    },
+    "Hamburgo": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/hamburger-sv.football-logos.cc.png",
+      "titles": {
+        "Bundesliga": 3
+      }
+    },
+    "Schalke 04": {
+      "logo": "../../assets/images/clubes/germany-2-bundesliga-2025-2026.football-logos.cc/256x256/schalke-04.football-logos.cc.png",
+      "titles": {
+        "DFB Pokal": 5
+      }
+    },
+    "Liverpool": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/liverpool.football-logos.cc.png",
+      "titles": {
+        "Premier League": 24,
+        "Carabao Cup": 15,
+        "Community Shield": 17,
+        "Champions League": 8,
+        "Europa League": 3,
+        "Supercopa da Europa": 5
+      }
+    },
+    "Arsenal": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/arsenal.football-logos.cc.png",
+      "titles": {
+        "Premier League": 19,
+        "Carabao Cup": 5,
+        "FA Cup": 21,
+        "Community Shield": 30,
+        "Champions League": 1,
+        "Europa League": 1,
+        "Mundial": 2
+      }
+    },
+    "Manchester City": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/manchester-city.football-logos.cc.png",
+      "titles": {
+        "Premier League": 21,
+        "Carabao Cup": 15,
+        "FA Cup": 12,
+        "Community Shield": 14,
+        "Champions League": 4,
+        "Mundial": 4,
+        "Super Mundial": 1
+      }
+    },
+    "Chelsea": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/chelsea.football-logos.cc.png",
+      "titles": {
+        "Premier League": 10,
+        "Carabao Cup": 8,
+        "Champions League": 2,
+        "Community Shield": 5,
+        "FA Cup": 11
+      }
+    },
+    "Newcastle United": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/newcastle.football-logos.cc.png",
+      "titles": {
+        "Premier League": 4,
+        "Carabao Cup": 3,
+        "FA Cup": 6,
+        "Emirates Cup": 2
+      }
+    },
+    "Aston Villa": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/aston-villa.football-logos.cc.png",
+      "titles": {
+        "Premier League": 7,
+        "Carabao Cup": 7,
+        "FA Cup": 8,
+        "Emirates Cup": 1,
+        "Community Shield": 2,
+        "Champions League": 1,
+        "Europa League": 3,
+        "Conference League": 1,
+        "Supercopa da Europa": 2
+      }
+    },
+    "Manchester United": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/manchester-united.football-logos.cc.png",
+      "titles": {
+        "Premier League": 20,
+        "Carabao Cup": 9,
+        "FA Cup": 16,
+        "Emirates Cup": 2,
+        "Community Shield": 22,
+        "Champions League": 3,
+        "Europa League": 2,
+        "Supercopa da Europa": 1
+      }
+    },
+    "Tottenham": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/tottenham.football-logos.cc.png",
+      "titles": {
+        "Premier League": 2,
+        "Carabao Cup": 5,
+        "FA Cup": 9,
+        "Emirates Cup": 1,
+        "Community Shield": 7
+      }
+    },
+    "Brighton": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/brighton.football-logos.cc.png",
+      "titles": {
+        "Carabao Cup": 1,
+        "Emirates Cup": 2,
+        "Community Shield": 3,
+        "Conference League": 1
+      }
+    },
+    "Nottingham Forest": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/nottingham-forest.football-logos.cc.png",
+      "titles": {
+        "Premier League": 1,
+        "Carabao Cup": 5,
+        "Champions League": 2,
+        "Community Shield": 1,
+        "Europa League": 1,
+        "Supercopa da Europa": 1
+      }
     },
     "Fulham": {
-      "fa-cup": 1
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/fulham.football-logos.cc.png",
+      "titles": {
+        "Emirates Cup": 1
+      }
     },
-    "Netherlands": {
-      "euro": 1
+    "Crystal Palace": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/crystal-palace.football-logos.cc.png",
+      "titles": {
+        "Emirates Cup": 1,
+        "Community Shield": 1,
+        "Conference League": 1
+      }
     },
-    "Hannover 96": {
-      "dfb-pokal": 1
+    "Everton": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/everton.football-logos.cc.png",
+      "titles": {
+        "Community Shield": 9
+      }
     },
-    "Genova 1893": {
-      "coppa-italia": 1
+    "Napoli": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/napoli.football-logos.cc.png",
+      "titles": {
+        "Serie A": 4,
+        "Coppa Italia": 6,
+        "Supercoppa Italiana": 6,
+        "Europa League": 1,
+        "Supercopa da Europa": 1
+      }
     },
-    "Club Français": {
-      "coupe-france": 1
+    "Inter": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/inter.football-logos.cc.png",
+      "titles": {
+        "Serie A": 26,
+        "Coppa Italia": 15,
+        "Supercoppa Italiana": 11,
+        "Champions League": 4,
+        "Europa League": 3,
+        "Mundial": 1,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 1
+      }
     },
-    "Club Ciclista": {
-      "copa-rey": 1
+    "Milan": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/milan.football-logos.cc.png",
+      "titles": {
+        "Serie A": 23,
+        "Coppa Italia": 8,
+        "Supercoppa Italiana": 13,
+        "Champions League": 7
+      }
     },
-    "Colombia": {
-      "copa-america": 1
+    "Bologna": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/bologna.football-logos.cc.png",
+      "titles": {
+        "Serie A": 16,
+        "Coppa Italia": 11,
+        "Supercoppa Italiana": 12,
+        "Europa League": 1,
+        "Conference League": 1,
+        "Supercopa da Europa": 1
+      }
     },
-    "Eintracht Braunschweig": {
-      "bundesliga": 1
+    "Juventus": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/juventus.football-logos.cc.png",
+      "titles": {
+        "Serie A": 43,
+        "Coppa Italia": 22,
+        "Supercoppa Italiana": 11,
+        "Champions League": 3,
+        "Europa League": 4,
+        "Mundial": 2,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 2
+      }
     },
-    "Excelsior Athlétic": {
-      "coupe-france": 1
+    "Roma": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/roma.football-logos.cc.png",
+      "titles": {
+        "Coppa Italia": 11,
+        "Supercoppa Italiana": 2,
+        "Europa League": 2,
+        "Conference League": 2,
+        "Supercopa da Europa": 1,
+        "Serie A": 4
+      }
     },
-    "Freiburg": {
-      "dfb-pokal": 1
+    "Atletico de Madrid": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/atletico-madrid.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 16,
+        "Copa del Rey": 14,
+        "Supercopa da Espanha": 7,
+        "Europa League": 3
+      }
     },
-    "Dínamo de Kiev": {
-      "supercup": 1
+    "Barcelona": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/barcelona.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 36,
+        "Copa del Rey": 41,
+        "Supercopa da Espanha": 24,
+        "Champions League": 10,
+        "Mundial": 8,
+        "Supercopa da Europa": 9
+      }
     },
-    "Coritiba": {
-      "brasileirao": 1
+    "Real Madrid": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-madrid.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 50,
+        "Copa del Rey": 34,
+        "Supercopa da Espanha": 26,
+        "Champions League": 19,
+        "Europa League": 5,
+        "Mundial": 11,
+        "Supercopa da Europa": 11
+      }
     },
-    "Coventry City": {
-      "fa-cup": 1
+    "Athletic Bilbao": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/athletic-club.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 8,
+        "Copa del Rey": 24,
+        "Supercopa da Espanha": 3
+      }
     },
-    "Mexico": {
-      "copa-america": 1
+    "Valencia": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/valencia.football-logos.cc.png",
+      "titles": {
+        "LaLiga": 6,
+        "Copa del Rey": 8,
+        "Europa League": 3,
+        "Conference League": 1
+      }
     },
-    "Lens": {
-      "ligue-1": 1
+    "Deportivo": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/deportivo.football-logos.cc.png",
+      "titles": {
+        "Supercopa da Espanha": 3
+      }
     },
-    "Mallorca": {
-      "supercopa-es": 1
+    "PSG": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/paris-saint-germain.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 35,
+        "Coupe de France": 36,
+        "Supercopa da Franca": 33,
+        "Champions League": 7,
+        "Mundial": 6,
+        "Super Mundial": 1,
+        "Supercopa da Europa": 6
+      }
     },
-    "Luton Town": {
-      "carabao": 1
+    "Saint-Etienne": {
+      "logo": "../../assets/images/clubes/france-ligue-2-2025-2026.football-logos.cc/256x256/as-saint-etienne.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 10,
+        "Coupe de France": 6,
+        "Supercopa da Franca": 5
+      }
     },
-    "Les Herbiers": {
-      "coupe-france": 1
+    "Monaco": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/as-monaco.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 8,
+        "Coupe de France": 5,
+        "Supercopa da Franca": 4,
+        "Conference League": 1
+      }
     },
-    "Middlesbrough": {
-      "carabao": 1
+    "Nantes": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/nantes.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 8,
+        "Supercopa da Franca": 3
+      }
     },
-    "Lorient": {
-      "coupe-france": 1
+    "Lille": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/lille.football-logos.cc.png",
+      "titles": {
+        "Coupe de France": 6,
+        "Conference League": 2
+      }
     },
-    "Oxford United": {
-      "carabao": 1
+    "Boca Juniors": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/boca-juniors.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 7,
+        "Sul-Americana": 3,
+        "Recopa": 6
+      }
     },
-    "Notts County": {
-      "fa-cup": 1
+    "River Plate": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/river-plate.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 6,
+        "Sul-Americana": 3,
+        "Recopa": 3
+      }
     },
-    "Old Carthusians": {
-      "fa-cup": 1
+    "Independiente": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/independiente.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 7
+      }
     },
-    "Novorizontino": {
-      "sudamericana": 1
+    "Barcelona de Guayaquil": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/velez-sarsfield.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
     },
-    "Olympiacos": {
-      "conference-league": 1
+    "Velez Sarsfield": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/velez-sarsfield.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1,
+        "Libertadores": 1
+      }
     },
-    "Olympique Lillois": {
-      "ligue-1": 1
-    },
-    "Racing de Paris": {
-      "ligue-1": 1
-    },
-    "Rapid Wien": {
-      "dfb-pokal": 1
-    },
-    "Queens Park Rangers": {
-      "carabao": 1
-    },
-    "Osasuna": {
-      "copa-rey": 1
-    },
-    "Olympique de Pantin": {
-      "coupe-france": 1
-    },
-    "Once Caldas": {
-      "libertadores": 1
-    },
-    "Países Baixos": {
-      "euro": 1
-    },
-    "Paulista": {
-      "copa-brasil": 1
-    },
-    "Pachuca": {
-      "sudamericana": 1
-    },
-    "Oxford University": {
-      "fa-cup": 1
-    },
-    "Rot-Weiss Essen": {
-      "dfb-pokal": 1
-    },
-    "Rosario Central": {
-      "sudamericana": 1
-    },
-    "Schwarz-Weiß Essen": {
-      "dfb-pokal": 1
-    },
-    "Royal Engineers": {
-      "fa-cup": 1
-    },
-    "Roubaix-Tourcoing": {
-      "ligue-1": 1
-    },
-    "Santo André": {
-      "copa-brasil": 1
-    },
-    "Swansea": {
-      "carabao": 1
-    },
-    "Stoke City": {
-      "carabao": 1
-    },
-    "Shakhtar Donetsk": {
-      "europa-league": 1
-    },
-    "Southampton": {
-      "fa-cup": 1
-    },
-    "Swindon Town": {
-      "carabao": 1
-    },
-    "Soviet Union": {
-      "euro": 1
-    },
-    "Universidad de Chile": {
-      "sudamericana": 1
-    },
-    "Czechoslovakia": {
-      "euro": 1
-    },
-    "Vado": {
-      "coppa-italia": 1
+    "Estudiantes": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/estudiantes-de-la-plata.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1,
+        "Libertadores": 4
+      }
     },
     "Vitoria": {
-      "sudamericana": 1
+      "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/vitoria.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
     },
-    "Verona": {
-      "serie-a": 1
+    "Novorizontino": {
+      "logo": "../../assets/images/clubes/brazil-serie-b-2025-2026.football-logos.cc/256x256/novorizontino.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
     },
-    "VfB Leipzig": {
-      "dfb-pokal": 1
+    "Rosario Central": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/rosario-central.football-logos.cc.png",
+      "titles": {
+        "Sul-Americana": 1
+      }
     },
-    "Venezia": {
-      "coppa-italia": 1
+    "Spain": {
+      "logo": "../../assets/images/clubes/espanha.png",
+      "titles": {
+        "Copa do Mundo": 3,
+        "Eurocopa": 6
+      }
     },
-    "Vicenza": {
-      "coppa-italia": 1
+    "Portugal": {
+      "logo": "../../assets/images/clubes/portugal.png",
+      "titles": {
+        "Copa do Mundo": 1,
+        "Eurocopa": 1
+      }
     },
-    "Wimbledon": {
-      "fa-cup": 1
+    "Argentina": {
+      "logo": "../../assets/images/clubes/argentina.png",
+      "titles": {
+        "Copa do Mundo": 4,
+        "Copa America": 16
+      }
     },
-    "Wigan": {
-      "fa-cup": 1
+    "Italy": {
+      "logo": "../../assets/images/clubes/italia.png",
+      "titles": {
+        "Copa do Mundo": 5,
+        "Eurocopa": 2
+      }
+    },
+    "Netherlands": {
+      "logo": "../../assets/images/clubes/holanda.png",
+      "titles": {
+        "Eurocopa": 2
+      }
+    },
+    "France": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/france-national-team.football-logos.cc.png",
+      "titles": {
+        "Eurocopa": 4,
+        "Copa do Mundo": 2
+      }
+    },
+    "Bolivia": {
+      "logo": "../../assets/images/clubes/bolivia.png",
+      "titles": {
+        "Copa America": 2
+      }
+    },
+    "Chile": {
+      "logo": "../../assets/images/clubes/chile.png",
+      "titles": {
+        "Copa America": 4
+      }
+    },
+    "Brazil": {
+      "logo": "../../assets/images/clubes/brasil.png",
+      "titles": {
+        "Copa America": 12,
+        "Copa do Mundo": 5
+      }
+    },
+    "Germany": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/germany-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa do Mundo": 4,
+        "Eurocopa": 3
+      }
+    },
+    "Uruguay": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/uruguay-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa America": 15
+      }
+    },
+    "England": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/england-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa do Mundo": 2
+      }
+    },
+    "Ajax": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/ajax.football-logos.cc.png",
+      "titles": {
+        "Europa League": 3,
+        "Conference League": 1,
+        "Supercopa da Europa": 2,
+        "Champions League": 5,
+        "Mundial": 3,
+        "Super Mundial": 1
+      }
+    },
+    "Sevilla": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/sevilla.football-logos.cc.png",
+      "titles": {
+        "Europa League": 8,
+        "Conference League": 1
+      }
+    },
+    "Benfica": {
+      "logo": "../../assets/images/clubes/portugal-primeira-liga-2025-2026.football-logos.cc/256x256/benfica.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 2
+      }
+    },
+    "Fiorentina": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/fiorentina.football-logos.cc.png",
+      "titles": {
+        "Conference League": 2,
+        "Serie A": 3
+      }
+    },
+    "Real Betis": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-betis.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Atalanta": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/atalanta.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Stuttgart": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/vfb-stuttgart.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Feyenoord": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/feyenoord.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Newcastle": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/newcastle.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1,
+        "Premier League": 1
+      }
+    },
+    "Villarreal": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/villarreal.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Nice": {
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/nice.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "Real Sociedad": {
+      "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-sociedad.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1
+      }
+    },
+    "PSV": {
+      "logo": "../../assets/images/clubes/netherlands-eredivisie-2025-2026.football-logos.cc/256x256/psv.football-logos.cc.png",
+      "titles": {
+        "Conference League": 2
+      }
+    },
+    "Leipzig": {
+      "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/rb-leipzig.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 1,
+        "Bundesliga": 1,
+        "DFB Pokal": 1
+      }
+    },
+    "West Ham": {
+      "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/west-ham.football-logos.cc.png",
+      "titles": {
+        "Europa League": 1,
+        "Conference League": 2
+      }
+    },
+    "Mexico": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/mexico-national-team.football-logos.cc.png",
+      "titles": {
+        "Copa America": 2
+      }
+    },
+    "Olimpia": {
+      "logo": "../../assets/images/clubes/argentina-primera-division-2025-2026.football-logos.cc/256x256/independiente.football-logos.cc.png",
+      "titles": {
+        "Libertadores": 3,
+        "Sul-Americana": 5
+      }
     },
     "Olympique de Marseille": {
-      "champions": 2,
-      "conference-league": 1,
-      "coupe-france": 18,
-      "ligue-1": 17,
-      "mundial": 1,
-      "supercopa-fr": 10
+      "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/marseille.football-logos.cc.png",
+      "titles": {
+        "Ligue 1": 18,
+        "Coupe de France": 19,
+        "Supercopa da Franca": 11,
+        "Champions League": 3,
+        "Conference League": 1,
+        "Mundial": 2
+      }
+    },
+    "Torino": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/torino.football-logos.cc.png",
+      "titles": {
+        "Conference League": 1,
+        "Supercopa da Italia": 1,
+        "Europa League": 1,
+        "Serie A": 7,
+        "Coppa Italia": 5
+      }
     },
     "Dinamarca": {
-      "euro": 2
+      "logo": "../../assets/images/clubes/Dansk_boldspil_union_logo.svg.png",
+      "titles": {
+        "Eurocopa": 2
+      }
+    },
+    "Porto": {
+      "logo": "../../assets/images/clubes/portugal-primeira-liga-2025-2026.football-logos.cc/256x256/fc-porto.football-logos.cc.png",
+      "titles": {}
+    },
+    "Celtic": {
+      "logo": "../../assets/images/clubes/Celtic_FC_logo.png",
+      "titles": {}
+    },
+    "Steaua Bucareste": {
+      "logo": "../../assets/images/clubes/Fcsb-logo.svg.png",
+      "titles": {}
+    },
+    "Estrela Vermelha": {
+      "logo": "../../assets/images/clubes/OK_Crvena_Zvezda(logo).png",
+      "titles": {}
+    },
+    "Goteborg": {
+      "logo": "../../assets/images/clubes/goteborg.png",
+      "titles": {}
+    },
+    "Parma": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/parma.football-logos.cc.png",
+      "titles": {}
+    },
+    "Anderlecht": {
+      "logo": "../../assets/images/clubes/belgium-pro-league-2025-2026.football-logos.cc/256x256/anderlecht.football-logos.cc.png",
+      "titles": {}
+    },
+    "Galatasaray": {
+      "logo": "../../assets/images/clubes/turkey-super-lig-2025-2026.football-logos.cc/256x256/galatasaray.football-logos.cc.png",
+      "titles": {}
+    },
+    "Ipswich Town": {
+      "logo": "../../assets/images/clubes/england-efl-championship-2025-2026.football-logos.cc/256x256/ipswich.football-logos.cc.png",
+      "titles": {}
+    },
+    "CSKA Moscow": {
+      "logo": "../../assets/images/clubes/PFC_CSKA.svg.png",
+      "titles": {}
+    },
+    "Cska Moscow": {
+      "logo": "../../assets/images/clubes/PFC_CSKA.svg.png",
+      "titles": {}
+    },
+    "Zenit": {
+      "logo": "../../assets/images/clubes/FC_Zenit_2_star_2023_logo.png",
+      "titles": {}
+    },
+    "Shakhtar Donetsk": {
+      "logo": "../../assets/images/clubes/shakhtar_donetsk.png",
+      "titles": {}
+    },
+    "Lazio": {
+      "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/lazio.football-logos.cc.png",
+      "titles": {}
+    },
+    "Dynamo Kyiv": {
+      "logo": "../../assets/images/clubes/Dynamo_logo.svg.png",
+      "titles": {}
+    },
+    "Aberdeen": {
+      "logo": "../../assets/images/clubes/Aberdeen_F.C._logo_2014.svg.png",
+      "titles": {}
+    },
+    "Czechoslovakia": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/czech-republic-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Grecia": {
+      "logo": "../../assets/images/clubes/Greece_National_Football_Team.svg.png",
+      "titles": {}
+    },
+    "Soviet Union": {
+      "logo": "../../assets/images/clubes/Russian_Football_Union.png",
+      "titles": {}
+    },
+    "Paraguai": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/paraguay-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Peru": {
+      "logo": "../../assets/images/clubes/Logotipo_de_la_Federación_Peruana_de_Fútbol.svg.png",
+      "titles": {}
+    },
+    "Colombia": {
+      "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/colombia-national-team.football-logos.cc.png",
+      "titles": {}
+    },
+    "Lausanne": {
+      "logo": "",
+      "titles": {
+        "Conference League": 1
+      }
     }
   }
 }

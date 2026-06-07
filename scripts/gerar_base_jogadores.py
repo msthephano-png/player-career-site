@@ -179,6 +179,32 @@ def extract_metric_cards(content, card_class):
     return rows
 
 
+def metric_value(rows, *labels):
+    for label in labels:
+        if label in rows:
+            return rows[label]
+    normalized_labels = [normalize_for_match(label) for label in labels]
+    for key, value in rows.items():
+        normalized_key = normalize_for_match(key)
+        if normalized_key in normalized_labels:
+            return value
+    if any("assist" in label for label in normalized_labels):
+        for key, value in rows.items():
+            if "assist" in normalize_for_match(key):
+                return value
+    if any("titulo" in label for label in normalized_labels):
+        for key, value in rows.items():
+            normalized_key = normalize_for_match(key)
+            if normalized_key.startswith("t") and "coletivos" in normalized_key:
+                return value
+    if any("premio" in label for label in normalized_labels):
+        for key, value in rows.items():
+            normalized_key = normalize_for_match(key)
+            if normalized_key.startswith("pr") and "individuais" in normalized_key:
+                return value
+    return 0
+
+
 def extract_awards_by_section(content):
     sections = re.findall(r'<section class="[^"]*\bsection\b[^"]*"[^>]*>(.*?)</section>', content, re.S)
     awards = []
@@ -234,7 +260,7 @@ def parse_player_page(path):
         "nome": name,
         "jogos": metrics.get("Jogos", 0),
         "gols": metrics.get("Gols", 0),
-        "assistencias": metrics.get("Assistências", metrics.get("AssistÃªncias", metrics.get("Assistencias", 0))),
+        "assistencias": metric_value(metrics, "Assistências", "AssistÃªncias", "Assistencias"),
         "titulos_coletivos": summary.get("Títulos coletivos", summary.get("TÃ­tulos coletivos", 0)),
         "premios_individuais": summary.get("Prêmios individuais", summary.get("PrÃªmios individuais", 0)),
         "clubes": clubs,
@@ -296,7 +322,7 @@ def parse_club_page(path):
         "clube_nome_completo": full_club_name,
         "jogos": summary.get("Jogos", 0),
         "gols": summary.get("Gols", 0),
-        "assistencias": summary.get("Assistências", summary.get("AssistÃªncias", summary.get("Assistencias", 0))),
+        "assistencias": metric_value(summary, "Assistências", "AssistÃªncias", "Assistencias"),
         "estatisticas_competicao": competition_stats,
         "conquistas": trophies,
     }

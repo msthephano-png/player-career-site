@@ -1,5 +1,5 @@
 ﻿const playerProfileDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
-playerProfileDataUrl.searchParams.set("v", "players-2052-fixes-3");
+playerProfileDataUrl.searchParams.set("v", "players-2053-fix3");
 
 function getCurrentPlayerSlug() {
   const fileName = window.location.pathname.split("/").pop() || "";

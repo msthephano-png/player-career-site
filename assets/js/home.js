@@ -1,5 +1,5 @@
 ﻿const playersDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
-playersDataUrl.searchParams.set("v", "players-2052-fixes-3");
+playersDataUrl.searchParams.set("v", "players-2053-sync");
 
 function updatePlayerCards(players) {
   players.forEach((player) => {

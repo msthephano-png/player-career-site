@@ -3,7 +3,7 @@
     "Flamengo": {
       "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/flamengo.football-logos.cc.png",
       "titles": {
-        "Brasileirao": 13,
+        "Brasileirao": 14,
         "Copa do Brasil": 8,
         "Supercopa": 9,
         "Libertadores": 8,
@@ -48,8 +48,8 @@
       "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/sao-paulo.football-logos.cc.png",
       "titles": {
         "Brasileirao": 13,
-        "Copa do Brasil": 6,
-        "Supercopa": 7,
+        "Copa do Brasil": 7,
+        "Supercopa": 8,
         "Libertadores": 7,
         "Sul-Americana": 3,
         "Recopa": 7
@@ -80,7 +80,7 @@
       "titles": {
         "Brasileirao": 1,
         "Supercopa": 1,
-        "Sul-Americana": 1
+        "Sul-Americana": 2
       }
     },
     "Santos": {
@@ -97,7 +97,7 @@
       "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/botafogo.football-logos.cc.png",
       "titles": {
         "Brasileirao": 2,
-        "Libertadores": 2,
+        "Libertadores": 3,
         "Sul-Americana": 1
       }
     },
@@ -117,7 +117,7 @@
         "Copa do Brasil": 2,
         "Libertadores": 2,
         "Sul-Americana": 3,
-        "Recopa": 3,
+        "Recopa": 4,
         "Supercopa": 1
       }
     },
@@ -134,9 +134,9 @@
     "Bayern": {
       "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayern-munchen.football-logos.cc.png",
       "titles": {
-        "Bundesliga": 56,
-        "DFB Pokal": 41,
-        "DFL Supercup": 32,
+        "Bundesliga": 57,
+        "DFB Pokal": 42,
+        "DFL Supercup": 33,
         "Champions League": 8,
         "Mundial": 4,
         "Super Mundial": 1,
@@ -211,7 +211,7 @@
       "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/liverpool.football-logos.cc.png",
       "titles": {
         "Premier League": 24,
-        "Carabao Cup": 14,
+        "Carabao Cup": 15,
         "Community Shield": 17,
         "Champions League": 8,
         "Europa League": 3,
@@ -236,7 +236,7 @@
         "Premier League": 21,
         "Carabao Cup": 15,
         "FA Cup": 12,
-        "Community Shield": 13,
+        "Community Shield": 14,
         "Champions League": 4,
         "Mundial": 4,
         "Super Mundial": 1
@@ -245,7 +245,7 @@
     "Chelsea": {
       "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/chelsea.football-logos.cc.png",
       "titles": {
-        "Premier League": 9,
+        "Premier League": 10,
         "Carabao Cup": 8,
         "Champions League": 2,
         "Community Shield": 5,
@@ -272,7 +272,7 @@
         "Champions League": 1,
         "Europa League": 3,
         "Conference League": 1,
-        "Supercopa da Europa": 1
+        "Supercopa da Europa": 2
       }
     },
     "Manchester United": {
@@ -280,7 +280,7 @@
       "titles": {
         "Premier League": 20,
         "Carabao Cup": 9,
-        "FA Cup": 15,
+        "FA Cup": 16,
         "Emirates Cup": 2,
         "Community Shield": 22,
         "Champions League": 3,
@@ -384,8 +384,8 @@
     "Juventus": {
       "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/juventus.football-logos.cc.png",
       "titles": {
-        "Serie A": 42,
-        "Coppa Italia": 21,
+        "Serie A": 43,
+        "Coppa Italia": 22,
         "Supercoppa Italiana": 11,
         "Champions League": 3,
         "Europa League": 4,
@@ -418,7 +418,7 @@
       "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/barcelona.football-logos.cc.png",
       "titles": {
         "LaLiga": 36,
-        "Copa del Rey": 40,
+        "Copa del Rey": 41,
         "Supercopa da Espanha": 24,
         "Champions League": 10,
         "Mundial": 8,
@@ -428,9 +428,9 @@
     "Real Madrid": {
       "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/real-madrid.football-logos.cc.png",
       "titles": {
-        "LaLiga": 49,
+        "LaLiga": 50,
         "Copa del Rey": 34,
-        "Supercopa da Espanha": 25,
+        "Supercopa da Espanha": 26,
         "Champions League": 19,
         "Europa League": 5,
         "Mundial": 11,
@@ -649,7 +649,8 @@
         "Conference League": 1,
         "Supercopa da Europa": 2,
         "Champions League": 5,
-        "Mundial": 3
+        "Mundial": 3,
+        "Super Mundial": 1
       }
     },
     "Sevilla": {
@@ -760,18 +761,22 @@
     "Olympique de Marseille": {
       "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/marseille.football-logos.cc.png",
       "titles": {
-        "Ligue 1": 17,
-        "Coupe de France": 18,
-        "Supercopa da Franca": 10,
-        "Champions League": 2,
+        "Ligue 1": 18,
+        "Coupe de France": 19,
+        "Supercopa da Franca": 11,
+        "Champions League": 3,
         "Conference League": 1,
-        "Mundial": 1
+        "Mundial": 2
       }
     },
     "Torino": {
       "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/torino.football-logos.cc.png",
       "titles": {
-        "Conference League": 1
+        "Conference League": 1,
+        "Supercopa da Italia": 1,
+        "Europa League": 1,
+        "Serie A": 7,
+        "Coppa Italia": 5
       }
     },
     "Dinamarca": {
@@ -867,16 +872,20 @@
     "Colombia": {
       "logo": "../../assets/images/clubes/fifa-world-cup-2026.football-logos.cc/256x256/colombia-national-team.football-logos.cc.png",
       "titles": {}
+    },
+    "Lausanne": {
+      "logo": "",
+      "titles": {
+        "Conference League": 1
+      }
     }
   },
   "competitions": [
     {
       "id": "brasileirao",
-      "region": "Brasil",
       "name": "Brasileirao",
-      "subtitle": "Liga nacional",
-      "accent": "#17b56d",
-      "mode": "annual",
+      "region": "Brasil",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Campeonato_Brasileiro_Serie_A_logo_2024.png",
       "winners": {
         "2026": "Palmeiras",
@@ -905,20 +914,21 @@
         "2049": "Corinthians",
         "2050": "Gremio",
         "2051": "Gremio",
-        "2052": "Sao Paulo"
+        "2052": "Sao Paulo",
+        "2053": "Flamengo"
       },
       "top": [
         {
           "team": "Palmeiras",
+          "titles": 15
+        },
+        {
+          "team": "Flamengo",
           "titles": 14
         },
         {
           "team": "Sao Paulo",
           "titles": 13
-        },
-        {
-          "team": "Flamengo",
-          "titles": 12
         },
         {
           "team": "Corinthians",
@@ -956,16 +966,13 @@
           "team": "Botafogo",
           "titles": 2
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "copa-brasil",
-      "region": "Brasil",
       "name": "Copa do Brasil",
-      "subtitle": "Mata-mata nacional",
-      "accent": "#f1d064",
-      "mode": "annual",
+      "region": "Brasil",
+      "type": "Liga",
       "logo": "../../assets/images/icones/CopaDoBrasil.png",
       "winners": {
         "2026": "Palmeiras",
@@ -994,16 +1001,13 @@
         "2049": "Corinthians",
         "2050": "Sao Paulo",
         "2051": "Internacional",
-        "2052": "Cruzeiro"
+        "2052": "Cruzeiro",
+        "2053": "Sao Paulo"
       },
       "top": [
         {
           "team": "Gremio",
-          "titles": 11
-        },
-        {
-          "team": "Corinthians",
-          "titles": 9
+          "titles": 10
         },
         {
           "team": "Cruzeiro",
@@ -1011,6 +1015,14 @@
         },
         {
           "team": "Flamengo",
+          "titles": 8
+        },
+        {
+          "team": "Corinthians",
+          "titles": 7
+        },
+        {
+          "team": "Palmeiras",
           "titles": 7
         },
         {
@@ -1018,35 +1030,28 @@
           "titles": 7
         },
         {
-          "team": "Palmeiras",
-          "titles": 6
-        },
-        {
           "team": "Vasco",
           "titles": 4
-        },
-        {
-          "team": "Internacional",
-          "titles": 3
         },
         {
           "team": "Atletico Mineiro",
           "titles": 2
         },
         {
+          "team": "Internacional",
+          "titles": 2
+        },
+        {
           "team": "Santos",
           "titles": 2
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "supercopa-br",
-      "region": "Brasil",
       "name": "Supercopa Rei",
-      "subtitle": "Supercopa nacional",
-      "accent": "#65b9ff",
-      "mode": "annual",
+      "region": "Brasil",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Supercopa_Rei_logo_(2023).png",
       "winners": {
         "2026": "Corinthians",
@@ -1075,7 +1080,8 @@
         "2049": "Corinthians",
         "2050": "Flamengo",
         "2051": "Gremio",
-        "2052": "Internacional"
+        "2052": "Internacional",
+        "2053": "Sao Paulo"
       },
       "top": [
         {
@@ -1084,11 +1090,7 @@
         },
         {
           "team": "Sao Paulo",
-          "titles": 7
-        },
-        {
-          "team": "Gremio",
-          "titles": 5
+          "titles": 8
         },
         {
           "team": "Corinthians",
@@ -1099,6 +1101,10 @@
           "titles": 4
         },
         {
+          "team": "Gremio",
+          "titles": 3
+        },
+        {
           "team": "Palmeiras",
           "titles": 3
         },
@@ -1106,16 +1112,13 @@
           "team": "Internacional",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "bundesliga",
-      "region": "Alemanha",
       "name": "Bundesliga",
-      "subtitle": "Elite alema",
-      "accent": "#ff5f5f",
-      "mode": "annual",
+      "region": "Alemanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Bundesliga_logo_(2017).png",
       "winners": {
         "2026": "Bayern",
@@ -1144,12 +1147,13 @@
         "2049": "Leipzig",
         "2050": "Bayern",
         "2051": "Bayern",
-        "2052": "Bayern"
+        "2052": "Bayern",
+        "2053": "Bayern"
       },
       "top": [
         {
           "team": "Bayern",
-          "titles": 56
+          "titles": 57
         },
         {
           "team": "Borussia Dortmund",
@@ -1171,16 +1175,13 @@
           "team": "Leipzig",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "dfb-pokal",
-      "region": "Alemanha",
       "name": "DFB Pokal",
-      "subtitle": "Copa nacional",
-      "accent": "#f2d266",
-      "mode": "annual",
+      "region": "Alemanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/DFB-Pokal.jpeg",
       "winners": {
         "2026": "Bayern",
@@ -1209,12 +1210,13 @@
         "2049": "Leipzig",
         "2050": "Bayern",
         "2051": "Bayer Leverkusen",
-        "2052": "Borussia Dortmund"
+        "2052": "Borussia Dortmund",
+        "2053": "Bayern"
       },
       "top": [
         {
           "team": "Bayern",
-          "titles": 41
+          "titles": 42
         },
         {
           "team": "Borussia Dortmund",
@@ -1236,16 +1238,13 @@
           "team": "Leipzig",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "supercup-de",
-      "region": "Alemanha",
       "name": "DFL Supercup",
-      "subtitle": "Abertura da temporada",
-      "accent": "#78d5ff",
-      "mode": "annual",
+      "region": "Alemanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/german super cup (1).jpg",
       "winners": {
         "2026": "Bayern",
@@ -1274,12 +1273,13 @@
         "2049": "Bayern",
         "2050": "Borussia Dortmund",
         "2051": "Bayern",
-        "2052": "Bayer Leverkusen"
+        "2052": "Bayer Leverkusen",
+        "2053": "Bayern"
       },
       "top": [
         {
           "team": "Bayern",
-          "titles": 32
+          "titles": 33
         },
         {
           "team": "Borussia Dortmund",
@@ -1287,7 +1287,7 @@
         },
         {
           "team": "Bayer Leverkusen",
-          "titles": 1
+          "titles": 2
         },
         {
           "team": "Borussia Monchengladbach",
@@ -1297,16 +1297,13 @@
           "team": "Frankfurt",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "premier",
-      "region": "Inglaterra",
       "name": "Premier League",
-      "subtitle": "Liga inglesa",
-      "accent": "#79d9ff",
-      "mode": "annual",
+      "region": "Inglaterra",
+      "type": "Liga",
       "logo": "../../assets/images/icones/premier.png",
       "winners": {
         "2026": "Arsenal",
@@ -1335,7 +1332,8 @@
         "2049": "Manchester City",
         "2050": "Newcastle",
         "2051": "Chelsea",
-        "2052": "Manchester City"
+        "2052": "Manchester City",
+        "2053": "Chelsea"
       },
       "top": [
         {
@@ -1356,18 +1354,15 @@
         },
         {
           "team": "Chelsea",
-          "titles": 9
+          "titles": 10
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "carabao",
-      "region": "Inglaterra",
       "name": "Carabao Cup",
-      "subtitle": "Copa da liga",
-      "accent": "#8af56f",
-      "mode": "annual",
+      "region": "Inglaterra",
+      "type": "Liga",
       "logo": "../../assets/images/icones/carabao.png",
       "winners": {
         "2026": "Arsenal",
@@ -1396,24 +1391,25 @@
         "2049": "Manchester United",
         "2050": "Manchester United",
         "2051": "Liverpool",
-        "2052": "Aston Villa"
+        "2052": "Aston Villa",
+        "2053": "Liverpool"
       },
       "top": [
+        {
+          "team": "Liverpool",
+          "titles": 15
+        },
         {
           "team": "Manchester City",
           "titles": 15
         },
         {
-          "team": "Liverpool",
-          "titles": 14
+          "team": "Manchester United",
+          "titles": 9
         },
         {
           "team": "Chelsea",
-          "titles": 9
-        },
-        {
-          "team": "Manchester United",
-          "titles": 9
+          "titles": 8
         },
         {
           "team": "Aston Villa",
@@ -1431,16 +1427,13 @@
           "team": "Tottenham",
           "titles": 5
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "fa-cup",
-      "region": "Inglaterra",
       "name": "FA Cup",
-      "subtitle": "Emirates Cup",
-      "accent": "#ff7b6b",
-      "mode": "annual",
+      "region": "Inglaterra",
+      "type": "Liga",
       "logo": "../../assets/images/icones/emiretes.png",
       "winners": {
         "2026": "Manchester City",
@@ -1469,7 +1462,8 @@
         "2049": "Chelsea",
         "2050": "Manchester City",
         "2051": "Arsenal",
-        "2052": "Aston Villa"
+        "2052": "Aston Villa",
+        "2053": "Manchester United"
       },
       "top": [
         {
@@ -1478,7 +1472,7 @@
         },
         {
           "team": "Manchester United",
-          "titles": 15
+          "titles": 16
         },
         {
           "team": "Manchester City",
@@ -1486,7 +1480,7 @@
         },
         {
           "team": "Chelsea",
-          "titles": 10
+          "titles": 11
         },
         {
           "team": "Liverpool",
@@ -1498,18 +1492,15 @@
         },
         {
           "team": "Aston Villa",
-          "titles": 1
+          "titles": 8
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "community-shield",
-      "region": "Inglaterra",
       "name": "Community Shield",
-      "subtitle": "Supercopa inglesa",
-      "accent": "#f5c96a",
-      "mode": "annual",
+      "region": "Inglaterra",
+      "type": "Liga",
       "logo": "../../assets/images/icones/efl_cup.png",
       "winners": {
         "2026": "Crystal Palace",
@@ -1538,12 +1529,13 @@
         "2049": "Manchester City",
         "2050": "Manchester City",
         "2051": "Manchester City",
-        "2052": "Arsenal"
+        "2052": "Arsenal",
+        "2053": "Manchester City"
       },
       "top": [
         {
           "team": "Arsenal",
-          "titles": 29
+          "titles": 30
         },
         {
           "team": "Manchester United",
@@ -1555,22 +1547,19 @@
         },
         {
           "team": "Manchester City",
-          "titles": 10
+          "titles": 14
         },
         {
           "team": "Everton",
           "titles": 9
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "serie-a",
-      "region": "Italia",
       "name": "Serie A",
-      "subtitle": "Liga italiana",
-      "accent": "#63afff",
-      "mode": "annual",
+      "region": "Italia",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Serie_A_logo_2022.png",
       "winners": {
         "2026": "Inter",
@@ -1599,12 +1588,13 @@
         "2049": "Juventus",
         "2050": "Fiorentina",
         "2051": "Inter",
-        "2052": "Roma"
+        "2052": "Roma",
+        "2053": "Juventus"
       },
       "top": [
         {
           "team": "Juventus",
-          "titles": 42
+          "titles": 43
         },
         {
           "team": "Inter",
@@ -1619,6 +1609,10 @@
           "titles": 16
         },
         {
+          "team": "Torino",
+          "titles": 7
+        },
+        {
           "team": "Napoli",
           "titles": 4
         },
@@ -1630,16 +1624,13 @@
           "team": "Fiorentina",
           "titles": 3
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "coppa-italia",
-      "region": "Italia",
       "name": "Coppa Italia",
-      "subtitle": "Copa nacional",
-      "accent": "#f0d06a",
-      "mode": "annual",
+      "region": "Italia",
+      "type": "Liga",
       "logo": "../../assets/images/icones/coppa_italia.png",
       "winners": {
         "2026": "Inter",
@@ -1668,39 +1659,41 @@
         "2049": "Roma",
         "2050": "Juventus",
         "2051": "Roma",
-        "2052": "Juventus"
+        "2052": "Juventus",
+        "2053": "Juventus"
       },
       "top": [
         {
           "team": "Juventus",
-          "titles": 21
+          "titles": 22
         },
         {
           "team": "Inter",
           "titles": 15
         },
         {
-          "team": "Roma",
-          "titles": 12
+          "team": "Bologna",
+          "titles": 11
         },
         {
-          "team": "Bologna",
+          "team": "Roma",
           "titles": 11
         },
         {
           "team": "Milan",
           "titles": 8
+        },
+        {
+          "team": "Torino",
+          "titles": 5
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "supercoppa-it",
-      "region": "Italia",
       "name": "Supercoppa Italiana",
-      "subtitle": "Abertura do calcio",
-      "accent": "#ff6e66",
-      "mode": "annual",
+      "region": "Italia",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Logo_EA_SPORTS_FC_SuperCup_2024-2025.jpg",
       "winners": {
         "2026": "Napoli",
@@ -1729,7 +1722,8 @@
         "2049": "Roma",
         "2050": "Milan",
         "2051": "Milan",
-        "2052": "Milan"
+        "2052": "Milan",
+        "2053": "Torino"
       },
       "top": [
         {
@@ -1751,17 +1745,18 @@
         {
           "team": "Napoli",
           "titles": 6
+        },
+        {
+          "team": "Torino",
+          "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "ligue-1",
-      "region": "Franca",
       "name": "Ligue 1",
-      "subtitle": "Liga francesa",
-      "accent": "#5fb9ff",
-      "mode": "annual",
+      "region": "Franca",
+      "type": "Liga",
       "logo": "../../assets/images/icones/ligue_1.png",
       "winners": {
         "2026": "PSG",
@@ -1790,7 +1785,8 @@
         "2049": "PSG",
         "2050": "PSG",
         "2051": "Olympique de Marseille",
-        "2052": "Olympique de Marseille"
+        "2052": "Olympique de Marseille",
+        "2053": "Olympique de Marseille"
       },
       "top": [
         {
@@ -1799,7 +1795,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 17
+          "titles": 18
         },
         {
           "team": "Saint-Etienne",
@@ -1813,16 +1809,13 @@
           "team": "Nantes",
           "titles": 8
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "coupe-france",
-      "region": "Franca",
       "name": "Coupe de France",
-      "subtitle": "Copa francesa",
-      "accent": "#f4cf70",
-      "mode": "annual",
+      "region": "Franca",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Coupe_de_France_logo.png",
       "winners": {
         "2026": "PSG",
@@ -1851,7 +1844,8 @@
         "2049": "PSG",
         "2050": "PSG",
         "2051": "PSG",
-        "2052": "Olympique de Marseille"
+        "2052": "Olympique de Marseille",
+        "2053": "Olympique de Marseille"
       },
       "top": [
         {
@@ -1860,7 +1854,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 18
+          "titles": 19
         },
         {
           "team": "Lille",
@@ -1874,16 +1868,13 @@
           "team": "Monaco",
           "titles": 5
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "supercopa-fr",
-      "region": "Franca",
       "name": "Supercopa da Franca",
-      "subtitle": "Trofeu dos campeoes",
-      "accent": "#8ad4ff",
-      "mode": "annual",
+      "region": "Franca",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Trophe_des_champions_2016.jpg",
       "winners": {
         "2026": "PSG",
@@ -1912,7 +1903,8 @@
         "2049": "Olympique de Marseille",
         "2050": "PSG",
         "2051": "PSG",
-        "2052": "Olympique de Marseille"
+        "2052": "Olympique de Marseille",
+        "2053": "Olympique de Marseille"
       },
       "top": [
         {
@@ -1921,7 +1913,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 10
+          "titles": 11
         },
         {
           "team": "Saint-Etienne",
@@ -1935,16 +1927,13 @@
           "team": "Nantes",
           "titles": 3
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "laliga",
-      "region": "Espanha",
       "name": "LaLiga",
-      "subtitle": "Liga espanhola",
-      "accent": "#ff7b63",
-      "mode": "annual",
+      "region": "Espanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/LaLiga_logo_2023.png",
       "winners": {
         "2026": "Barcelona",
@@ -1973,12 +1962,13 @@
         "2049": "Barcelona",
         "2050": "Real Madrid",
         "2051": "Real Madrid",
-        "2052": "Atletico de Madrid"
+        "2052": "Atletico de Madrid",
+        "2053": "Real Madrid"
       },
       "top": [
         {
           "team": "Real Madrid",
-          "titles": 49
+          "titles": 50
         },
         {
           "team": "Barcelona",
@@ -1996,16 +1986,13 @@
           "team": "Valencia",
           "titles": 6
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "copa-rey",
-      "region": "Espanha",
       "name": "Copa del Rey",
-      "subtitle": "Copa do rei",
-      "accent": "#f2d16c",
-      "mode": "annual",
+      "region": "Espanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Copa_Del_Rey_Official_Logo.png",
       "winners": {
         "2026": "Atletico de Madrid",
@@ -2034,12 +2021,13 @@
         "2049": "Real Madrid",
         "2050": "Barcelona",
         "2051": "Real Madrid",
-        "2052": "Barcelona"
+        "2052": "Barcelona",
+        "2053": "Barcelona"
       },
       "top": [
         {
           "team": "Barcelona",
-          "titles": 40
+          "titles": 41
         },
         {
           "team": "Real Madrid",
@@ -2057,16 +2045,13 @@
           "team": "Valencia",
           "titles": 8
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "supercopa-es",
-      "region": "Espanha",
       "name": "Supercopa da Espanha",
-      "subtitle": "Supercopa espanhola",
-      "accent": "#7ac8ff",
-      "mode": "annual",
+      "region": "Espanha",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Supercopa_de_Espana_Logo.png",
       "winners": {
         "2026": "Barcelona",
@@ -2095,7 +2080,8 @@
         "2049": "Barcelona",
         "2050": "Atletico de Madrid",
         "2051": "Barcelona",
-        "2052": "Barcelona"
+        "2052": "Barcelona",
+        "2053": "Real Madrid"
       },
       "top": [
         {
@@ -2108,7 +2094,7 @@
         },
         {
           "team": "Atletico de Madrid",
-          "titles": 13
+          "titles": 7
         },
         {
           "team": "Athletic Bilbao",
@@ -2118,16 +2104,13 @@
           "team": "Deportivo",
           "titles": 3
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "champions",
-      "region": "Europa",
       "name": "Champions League",
-      "subtitle": "Continente europeu",
-      "accent": "#71a7ff",
-      "mode": "annual",
+      "region": "Europa",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Logo_UEFA_Champions_League.png",
       "winners": {
         "2026": "Barcelona",
@@ -2156,7 +2139,8 @@
         "2049": "Inter",
         "2050": "Barcelona",
         "2051": "Ajax",
-        "2052": "Olympique de Marseille"
+        "2052": "Olympique de Marseille",
+        "2053": "Olympique de Marseille"
       },
       "top": [
         {
@@ -2173,7 +2157,7 @@
         },
         {
           "team": "Liverpool",
-          "titles": 7
+          "titles": 8
         },
         {
           "team": "Milan",
@@ -2204,6 +2188,10 @@
           "titles": 3
         },
         {
+          "team": "Olympique de Marseille",
+          "titles": 3
+        },
+        {
           "team": "Benfica",
           "titles": 2
         },
@@ -2213,10 +2201,6 @@
         },
         {
           "team": "Nottingham Forest",
-          "titles": 2
-        },
-        {
-          "team": "Olympique de Marseille",
           "titles": 2
         },
         {
@@ -2263,16 +2247,13 @@
           "team": "Steaua Bucharest",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "libertadores",
-      "region": "America do Sul",
       "name": "Libertadores",
-      "subtitle": "Continente sul-americano",
-      "accent": "#f0d06a",
-      "mode": "annual",
+      "region": "America do Sul",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Conmebol_Libertadores_logo.png",
       "winners": {
         "2026": "River Plate",
@@ -2301,7 +2282,8 @@
         "2049": "Flamengo",
         "2050": "Palmeiras",
         "2051": "Sao Paulo",
-        "2052": "Botafogo"
+        "2052": "Botafogo",
+        "2053": "Botafogo"
       },
       "top": [
         {
@@ -2329,15 +2311,11 @@
           "titles": 7
         },
         {
-          "team": "Gremio",
-          "titles": 6
-        },
-        {
           "team": "River Plate",
           "titles": 6
         },
         {
-          "team": "Estudiantes",
+          "team": "Gremio",
           "titles": 5
         },
         {
@@ -2345,7 +2323,11 @@
           "titles": 5
         },
         {
-          "team": "Internacional",
+          "team": "Estudiantes",
+          "titles": 4
+        },
+        {
+          "team": "Botafogo",
           "titles": 3
         },
         {
@@ -2369,11 +2351,11 @@
           "titles": 2
         },
         {
-          "team": "Botafogo",
+          "team": "Cruzeiro",
           "titles": 2
         },
         {
-          "team": "Cruzeiro",
+          "team": "Internacional",
           "titles": 2
         },
         {
@@ -2412,16 +2394,13 @@
           "team": "Velez Sarsfield",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "sudamericana",
-      "region": "America do Sul",
       "name": "Sul-Americana",
-      "subtitle": "Copa continental",
-      "accent": "#6bd0ff",
-      "mode": "annual",
+      "region": "America do Sul",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Conmebol_Sudamericana_logo.png",
       "winners": {
         "2026": "Boca Juniors",
@@ -2450,7 +2429,8 @@
         "2049": "Fluminense",
         "2050": "Olimpia",
         "2051": "Internacional",
-        "2052": "Ceara"
+        "2052": "Ceara",
+        "2053": "Ceara"
       },
       "top": [
         {
@@ -2459,10 +2439,6 @@
         },
         {
           "team": "Boca Juniors",
-          "titles": 3
-        },
-        {
-          "team": "Fluminense",
           "titles": 3
         },
         {
@@ -2479,22 +2455,23 @@
         },
         {
           "team": "Ceara",
-          "titles": 1
+          "titles": 2
+        },
+        {
+          "team": "Fluminense",
+          "titles": 2
         },
         {
           "team": "Novorizontino",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "recopa",
-      "region": "America do Sul",
       "name": "Recopa Sul-Americana",
-      "subtitle": "Superfinal continental",
-      "accent": "#8fe987",
-      "mode": "annual",
+      "region": "America do Sul",
+      "type": "Liga",
       "logo": "../../assets/images/icones/Conmebol_Recopa_logo_(after_2017).png",
       "winners": {
         "2027": "Boca Juniors",
@@ -2522,7 +2499,8 @@
         "2049": "Sao Paulo",
         "2050": "Estudiantes",
         "2051": "Palmeiras",
-        "2052": "Internacional"
+        "2052": "Internacional",
+        "2053": "Internacional"
       },
       "top": [
         {
@@ -2534,8 +2512,12 @@
           "titles": 6
         },
         {
+          "team": "Flamengo",
+          "titles": 5
+        },
+        {
           "team": "Gremio",
-          "titles": 6
+          "titles": 5
         },
         {
           "team": "Palmeiras",
@@ -2546,27 +2528,20 @@
           "titles": 5
         },
         {
-          "team": "Flamengo",
+          "team": "Internacional",
           "titles": 4
         },
         {
           "team": "River Plate",
           "titles": 3
-        },
-        {
-          "team": "Internacional",
-          "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "europa-league",
-      "region": "Europa",
       "name": "Europa League",
-      "subtitle": "Segunda competicao europeia",
-      "accent": "#f07030",
-      "mode": "annual",
+      "region": "Europa",
+      "type": "Liga",
       "logo": "../../assets/images/icones/UEFA_Europa_League_logo_(2024_version).svg.png",
       "winners": {
         "2026": "Aston Villa",
@@ -2595,7 +2570,8 @@
         "2049": "Manchester United",
         "2050": "Ajax",
         "2051": "Aston Villa",
-        "2052": "Borussia Dortmund"
+        "2052": "Borussia Dortmund",
+        "2053": "Torino"
       },
       "top": [
         {
@@ -2607,20 +2583,20 @@
           "titles": 5
         },
         {
-          "team": "Ajax",
+          "team": "Juventus",
           "titles": 4
+        },
+        {
+          "team": "Ajax",
+          "titles": 3
         },
         {
           "team": "Aston Villa",
-          "titles": 4
+          "titles": 3
         },
         {
           "team": "Atletico de Madrid",
-          "titles": 4
-        },
-        {
-          "team": "Juventus",
-          "titles": 4
+          "titles": 3
         },
         {
           "team": "Inter",
@@ -2631,11 +2607,11 @@
           "titles": 3
         },
         {
-          "team": "Manchester United",
+          "team": "Tottenham",
           "titles": 3
         },
         {
-          "team": "Tottenham",
+          "team": "Valencia",
           "titles": 3
         },
         {
@@ -2655,15 +2631,11 @@
           "titles": 2
         },
         {
-          "team": "Frankfurt",
-          "titles": 2
-        },
-        {
           "team": "Göteborg",
           "titles": 2
         },
         {
-          "team": "Napoli",
+          "team": "Manchester United",
           "titles": 2
         },
         {
@@ -2676,10 +2648,6 @@
         },
         {
           "team": "Roma",
-          "titles": 2
-        },
-        {
-          "team": "Valencia",
           "titles": 2
         },
         {
@@ -2699,11 +2667,19 @@
           "titles": 1
         },
         {
+          "team": "Frankfurt",
+          "titles": 1
+        },
+        {
           "team": "Galatasaray",
           "titles": 1
         },
         {
           "team": "Ipswich Town",
+          "titles": 1
+        },
+        {
+          "team": "Napoli",
           "titles": 1
         },
         {
@@ -2719,19 +2695,20 @@
           "titles": 1
         },
         {
+          "team": "Torino",
+          "titles": 1
+        },
+        {
           "team": "Zenit",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "conference-league",
-      "region": "Europa",
       "name": "Conference League",
-      "subtitle": "Terceira competicao europeia",
-      "accent": "#30c090",
-      "mode": "annual",
+      "region": "Europa",
+      "type": "Liga",
       "logo": "../../assets/images/icones/conference_league.png",
       "winners": {
         "2026": "Fiorentina",
@@ -2760,7 +2737,8 @@
         "2049": "Fiorentina",
         "2050": "Lille",
         "2051": "PSV",
-        "2052": "Torino"
+        "2052": "Torino",
+        "2053": "Lausanne"
       },
       "top": [
         {
@@ -2785,10 +2763,6 @@
         },
         {
           "team": "Roma",
-          "titles": 2
-        },
-        {
-          "team": "Valencia",
           "titles": 2
         },
         {
@@ -2821,6 +2795,10 @@
         },
         {
           "team": "Feyenoord",
+          "titles": 1
+        },
+        {
+          "team": "Lausanne",
           "titles": 1
         },
         {
@@ -2864,19 +2842,20 @@
           "titles": 1
         },
         {
+          "team": "Valencia",
+          "titles": 1
+        },
+        {
           "team": "Villarreal",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "mundial",
-      "region": "Europa",
       "name": "Mundial de Clubes",
-      "subtitle": "Melhor clube do planeta",
-      "accent": "#f4cf6a",
-      "mode": "annual",
+      "region": "Europa",
+      "type": "Liga",
       "logo": "../../assets/images/icones/mundial.png",
       "winners": {
         "2026": "Barcelona",
@@ -2905,7 +2884,8 @@
         "2049": "Inter",
         "2050": "Barcelona",
         "2051": "Ajax",
-        "2052": "Olympique de Marseille"
+        "2052": "Olympique de Marseille",
+        "2053": "Olympique de Marseille"
       },
       "top": [
         {
@@ -2929,6 +2909,10 @@
           "titles": 4
         },
         {
+          "team": "Ajax",
+          "titles": 3
+        },
+        {
           "team": "Arsenal",
           "titles": 2
         },
@@ -2937,8 +2921,8 @@
           "titles": 2
         },
         {
-          "team": "Ajax",
-          "titles": 1
+          "team": "Olympique de Marseille",
+          "titles": 2
         },
         {
           "team": "Frankfurt",
@@ -2953,23 +2937,16 @@
           "titles": 1
         },
         {
-          "team": "Olympique de Marseille",
-          "titles": 1
-        },
-        {
           "team": "Vasco",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "super-mundial",
-      "region": "Europa",
       "name": "Super Mundial",
-      "subtitle": "Torneio especial de clubes",
-      "accent": "#d4a0ff",
-      "mode": "periodic",
+      "region": "Europa",
+      "type": "Copa",
       "logo": "../../assets/images/icones/super_mundial.png",
       "winners": {
         "2029": "Real Madrid",
@@ -2977,9 +2954,14 @@
         "2037": "Juventus",
         "2041": "Manchester City",
         "2045": "Bayern",
-        "2049": "Inter"
+        "2049": "Inter",
+        "2053": "Ajax"
       },
       "top": [
+        {
+          "team": "Ajax",
+          "titles": 1
+        },
         {
           "team": "Bayern",
           "titles": 1
@@ -3008,11 +2990,9 @@
     },
     {
       "id": "supercup",
-      "region": "Europa",
       "name": "Supercopa da Europa",
-      "subtitle": "Champions vs Europa League",
-      "accent": "#71a7ff",
-      "mode": "annual",
+      "region": "Europa",
+      "type": "Liga",
       "logo": "../../assets/images/icones/UEFA_Super_Cup.png",
       "winners": {
         "2026": "PSG",
@@ -3041,20 +3021,21 @@
         "2049": "Barcelona",
         "2050": "Inter",
         "2051": "Barcelona",
-        "2052": "Aston Villa"
+        "2052": "Aston Villa",
+        "2053": "Aston Villa"
       },
       "top": [
         {
-          "team": "Barcelona",
-          "titles": 10
+          "team": "Real Madrid",
+          "titles": 11
         },
         {
-          "team": "Real Madrid",
+          "team": "Barcelona",
           "titles": 9
         },
         {
           "team": "PSG",
-          "titles": 7
+          "titles": 6
         },
         {
           "team": "Liverpool",
@@ -3065,20 +3046,16 @@
           "titles": 5
         },
         {
-          "team": "Ajax",
-          "titles": 3
-        },
-        {
           "team": "Atletico de Madrid",
-          "titles": 3
-        },
-        {
-          "team": "Bayern",
           "titles": 3
         },
         {
           "team": "Manchester City",
           "titles": 3
+        },
+        {
+          "team": "Ajax",
+          "titles": 2
         },
         {
           "team": "Anderlecht",
@@ -3101,19 +3078,15 @@
           "titles": 2
         },
         {
-          "team": "Manchester United",
-          "titles": 2
-        },
-        {
-          "team": "Nottingham Forest",
-          "titles": 2
-        },
-        {
           "team": "Valencia",
           "titles": 2
         },
         {
           "team": "Aberdeen",
+          "titles": 1
+        },
+        {
+          "team": "Bayern",
           "titles": 1
         },
         {
@@ -3133,11 +3106,19 @@
           "titles": 1
         },
         {
+          "team": "Manchester United",
+          "titles": 1
+        },
+        {
           "team": "Mechelen",
           "titles": 1
         },
         {
           "team": "Napoli",
+          "titles": 1
+        },
+        {
+          "team": "Nottingham Forest",
           "titles": 1
         },
         {
@@ -3164,16 +3145,13 @@
           "team": "Zenit",
           "titles": 1
         }
-      ],
-      "type": "Liga"
+      ]
     },
     {
       "id": "world-cup",
-      "region": "Selecoes",
       "name": "Copa do Mundo",
-      "subtitle": "Selecoes nacionais",
-      "accent": "#f4cf6a",
-      "mode": "periodic",
+      "region": "Selecoes",
+      "type": "Copa",
       "logo": "../../assets/images/icones/copa_do_mundo.png",
       "winners": {
         "2026": "Spain",
@@ -3229,11 +3207,9 @@
     },
     {
       "id": "euro",
-      "region": "Selecoes",
       "name": "Eurocopa",
-      "subtitle": "Principal torneio europeu",
-      "accent": "#6fb6ff",
-      "mode": "periodic",
+      "region": "Selecoes",
+      "type": "Copa",
       "logo": "../../assets/images/icones/eurocopa.png",
       "winners": {
         "2028": "Spain",
@@ -3247,7 +3223,7 @@
       "top": [
         {
           "team": "Spain",
-          "titles": 7
+          "titles": 6
         },
         {
           "team": "France",
@@ -3289,11 +3265,9 @@
     },
     {
       "id": "copa-america",
-      "region": "Selecoes",
       "name": "Copa America",
-      "subtitle": "Principal torneio sul-americano",
-      "accent": "#7bd989",
-      "mode": "periodic",
+      "region": "Selecoes",
+      "type": "Copa",
       "logo": "../../assets/images/icones/copa_america.png",
       "winners": {
         "2028": "Bolivia",
@@ -3326,6 +3300,10 @@
           "titles": 2
         },
         {
+          "team": "Mexico",
+          "titles": 2
+        },
+        {
           "team": "Paraguay",
           "titles": 2
         },
@@ -3335,10 +3313,6 @@
         },
         {
           "team": "Colombia",
-          "titles": 1
-        },
-        {
-          "team": "Mexico",
           "titles": 1
         }
       ]

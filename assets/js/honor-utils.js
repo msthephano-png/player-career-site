@@ -1,4 +1,4 @@
-/* honor-utils v2 */
+/* honor-utils v3 */
 const HONOR_IMAGE_ALIASES = {
   "mundial de clubes": ["intercontinental", "mundial"],
   intercontinental: ["mundial de clubes"],
@@ -22,6 +22,7 @@ const HONOR_IMAGE_ALIASES = {
   "eredivisie": ["eredivisie"],
   "knvb beker": ["knvb"],
   "taca de portugal": ["taca"],
+  "liga boliviana": ["liga boliviana"],
 };
 
 const HONOR_CANONICAL_ALIASES = {
@@ -52,6 +53,8 @@ const HONOR_STATIC_IMAGES = {
   "johan cruijff schaal":
     '<img src="../../assets/images/titulos/johan_cruijff_schaal.png" alt="Johan Cruijff Schaal">',
   "ligue 1": '<img src="../../assets/images/titulos/ligue_1.png" alt="Ligue 1">',
+  "liga boliviana":
+    '<img src="../../assets/images/titulos/Liga_Boliviana.png" alt="Liga Boliviana">',
   "melhor jogador da copa da franca":
     '<img src="../../assets/images/premios/best_coupe_france.png" alt="Melhor Jogador da Copa da França">',
 };
