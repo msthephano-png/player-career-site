@@ -983,7 +983,7 @@ const ballonData = {
       name: "Maric"
     }
   ],
-  2054: null
+  2055: null
 };
 
 // Extensão dos arquivos de foto por ano
@@ -1001,7 +1001,7 @@ function getBallonImgName(yearShort, file) {
 }
 
 async function loadBallonDataFromDatabase() {
-  ballonDataUrl.searchParams.set("v", "2054-sync");
+  ballonDataUrl.searchParams.set("v", "2053-sync");
   const response = await fetch(ballonDataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
@@ -1017,7 +1017,7 @@ async function loadBallonDataFromDatabase() {
       .sort((left, right) => left.position - right.position)
       .map((item) => item.player);
   });
-  if (!ballonData[2054]) ballonData[2054] = null;
+  if (!ballonData[2055]) ballonData[2055] = null;
 
   ballonStatsFromDatabase = payload.playerStats.reduce((accumulator, player) => {
     const positions = String(player.history || "")
@@ -1163,7 +1163,7 @@ function openBallonModal(playerName, stats) {
   const posRows = pStats.positions
     .sort((a, b) => a.year - b.year)
     .map(p => {
-      const medal = p.pos === 1 ? '??' : p.pos === 2 ? '??' : p.pos === 3 ? '??' : '';
+      const medal = p.pos === 1 ? '🥇' : p.pos === 2 ? '🥈' : p.pos === 3 ? '🥉' : '';
       return `<tr class="${p.pos <= 3 ? 'ballon-modal__highlight' : ''}">
         <td>${p.year}</td>
         <td>${medal} ${p.pos}º</td>
@@ -1219,8 +1219,8 @@ async function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2055 ? `${y} ? em andamento` : String(y);
-    if (y === 2054) opt.selected = true;
+    opt.textContent = y === 2055 ? `${y} · em andamento` : String(y);
+    if (y === 2055) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -1235,7 +1235,7 @@ async function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2054);
+  renderBallonSection(2055);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);

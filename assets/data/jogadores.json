@@ -32,42 +32,40 @@
           "description": "Primeira etapa, agora ainda mais pesada em números e com duas ligas bolivianas no currículo.",
           "competitionStats": [
             {
-              "competition": "Liga Bolíviana",
-              "matches": 176,
-              "goals": 74,
-              "assists": 120
+              "competition": "Liga Boliviana",
+              "matches": 88,
+              "goals": 37,
+              "assists": 60
             },
             {
-              "competition": "Copa Bolíviana",
-              "matches": 46,
-              "goals": 14,
-              "assists": 20
+              "competition": "Copa Boliviana",
+              "matches": 23,
+              "goals": 7,
+              "assists": 10
             },
             {
               "competition": "Sul-Americana",
-              "matches": 34,
-              "goals": 20,
-              "assists": 24
+              "matches": 17,
+              "goals": 10,
+              "assists": 12
             },
             {
               "competition": "Libertadores",
-              "matches": 12,
+              "matches": 6,
               "goals": 0,
-              "assists": 2
+              "assists": 1
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
-              "name": "Liga Bolíviana",
-              "quantity": 3,
-              "count": 0
+              "name": "Liga Boliviana",
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
-              "name": "Copa Bolíviana",
-              "quantity": 1,
-              "count": 0
+              "name": "Copa Boliviana",
+              "quantity": 1
             }
           ]
         },
@@ -85,101 +83,94 @@
           "competitionStats": [
             {
               "competition": "Brasileirão",
-              "matches": 592,
-              "goals": 284,
-              "assists": 426
+              "matches": 296,
+              "goals": 142,
+              "assists": 213
             },
             {
               "competition": "Brasileirão Série B",
-              "matches": 148,
-              "goals": 60,
-              "assists": 86
+              "matches": 74,
+              "goals": 30,
+              "assists": 43
             },
             {
               "competition": "Copa do Brasil",
-              "matches": 60,
-              "goals": 30,
-              "assists": 46
+              "matches": 30,
+              "goals": 15,
+              "assists": 23
             },
             {
               "competition": "Sul-Americana",
-              "matches": 24,
-              "goals": 8,
-              "assists": 20
-            },
-            {
-              "competition": "Libertadores",
-              "matches": 184,
-              "goals": 100,
-              "assists": 186
-            },
-            {
-              "competition": "Recopa Sul-Americana",
               "matches": 12,
-              "goals": 6,
-              "assists": 6
-            },
-            {
-              "competition": "Supercopa Rei",
-              "matches": 10,
-              "goals": 8,
-              "assists": 2
-            },
-            {
-              "competition": "Mundial de Clubes",
-              "matches": 20,
-              "goals": 12,
+              "goals": 4,
               "assists": 10
             },
             {
-              "competition": "Super Mundial",
+              "competition": "Libertadores",
+              "matches": 92,
+              "goals": 50,
+              "assists": 93
+            },
+            {
+              "competition": "Recopa Sul-Americana",
+              "matches": 6,
+              "goals": 3,
+              "assists": 3
+            },
+            {
+              "competition": "Supercopa Rei",
+              "matches": 5,
+              "goals": 4,
+              "assists": 1
+            },
+            {
+              "competition": "Mundial de Clubes",
               "matches": 10,
+              "goals": 6,
+              "assists": 5
+            },
+            {
+              "competition": "Super Mundial",
+              "matches": 5,
               "goals": 0,
-              "assists": 12
+              "assists": 6
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Libertadores",
-              "quantity": 5,
-              "count": 0
+              "quantity": 5
             },
             {
               "category": "Título coletivo",
               "name": "Brasileirão",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa Rei",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Recopa Sul-Americana",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Copa do Brasil",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Brasileirão Série B",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Mundial de Clubes",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -197,44 +188,44 @@
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 520,
-              "goals": 278,
-              "assists": 398
+              "matches": 260,
+              "goals": 139,
+              "assists": 199
             },
             {
               "competition": "Copa da França",
-              "matches": 64,
-              "goals": 38,
-              "assists": 68
+              "matches": 32,
+              "goals": 19,
+              "assists": 34
             },
             {
               "competition": "Supercopa da França",
-              "matches": 18,
-              "goals": 4,
-              "assists": 2
+              "matches": 9,
+              "goals": 2,
+              "assists": 1
             },
             {
               "competition": "Supercopa da Europa",
-              "matches": 10,
+              "matches": 5,
               "goals": 0,
-              "assists": 4
+              "assists": 2
             },
             {
               "competition": "Champions League",
-              "matches": 232,
-              "goals": 114,
-              "assists": 258
+              "matches": 116,
+              "goals": 57,
+              "assists": 129
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 10,
-              "goals": 16,
-              "assists": 14
+              "matches": 5,
+              "goals": 8,
+              "assists": 7
             },
             {
               "competition": "Super Mundial",
-              "matches": 2,
-              "goals": 2,
+              "matches": 1,
+              "goals": 1,
               "assists": 0
             }
           ],
@@ -242,44 +233,37 @@
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 10,
-              "count": 0
+              "quantity": 10
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 9,
-              "count": 0
+              "quantity": 9
             },
             {
               "category": "Título coletivo",
               "name": "Copa da França",
-              "quantity": 7,
-              "count": 0
+              "quantity": 7
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 5,
-              "count": 0
+              "quantity": 5
             },
             {
               "category": "Título coletivo",
               "name": "Mundial de Clubes",
-              "quantity": 5,
-              "count": 0
+              "quantity": 5
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Europa",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Super Mundial",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -297,35 +281,34 @@
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 172,
-              "goals": 110,
-              "assists": 118
+              "matches": 86,
+              "goals": 55,
+              "assists": 59
             },
             {
               "competition": "Copa América",
-              "matches": 48,
-              "goals": 10,
-              "assists": 16
+              "matches": 24,
+              "goals": 5,
+              "assists": 8
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 52,
-              "goals": 26,
-              "assists": 36
+              "matches": 26,
+              "goals": 13,
+              "assists": 18
             },
             {
               "competition": "Amistosos",
-              "matches": 116,
-              "goals": 56,
-              "assists": 68
+              "matches": 58,
+              "goals": 28,
+              "assists": 34
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Copa América",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         }
@@ -333,12 +316,12 @@
       "honors": [
         {
           "category": "Título coletivo",
-          "name": "Liga Bolíviana",
+          "name": "Liga Boliviana",
           "quantity": 3
         },
         {
           "category": "Título coletivo",
-          "name": "Copa Bolíviana",
+          "name": "Copa Boliviana",
           "quantity": 1
         },
         {
@@ -443,12 +426,12 @@
         },
         {
           "category": "Prêmio individual",
-          "name": "Melhor Jogador da Liga Bolíviana",
+          "name": "Melhor Jogador da Liga Boliviana",
           "quantity": 2
         },
         {
           "category": "Prêmio individual",
-          "name": "Melhor Jogador da Copa Bolíviana",
+          "name": "Melhor Jogador da Copa Boliviana",
           "quantity": 1
         },
         {
@@ -491,44 +474,44 @@
           "competitionStats": [
             {
               "competition": "Brasileirão",
-              "matches": 318,
-              "goals": 236,
-              "assists": 68
+              "matches": 159,
+              "goals": 118,
+              "assists": 34
             },
             {
               "competition": "Copa do Brasil",
-              "matches": 28,
-              "goals": 32,
-              "assists": 16
+              "matches": 14,
+              "goals": 16,
+              "assists": 8
             },
             {
               "competition": "Libertadores",
-              "matches": 114,
-              "goals": 88,
-              "assists": 44
+              "matches": 57,
+              "goals": 44,
+              "assists": 22
             },
             {
               "competition": "Recopa Sul-Americana",
-              "matches": 6,
-              "goals": 4,
-              "assists": 4
+              "matches": 3,
+              "goals": 2,
+              "assists": 2
             },
             {
               "competition": "Supercopa Rei",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
               "assists": 0
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 6,
+              "matches": 3,
               "goals": 0,
-              "assists": 2
+              "assists": 1
             },
             {
               "competition": "Super Mundial",
-              "matches": 10,
-              "goals": 2,
+              "matches": 5,
+              "goals": 1,
               "assists": 0
             }
           ],
@@ -536,32 +519,27 @@
             {
               "category": "Título coletivo",
               "name": "Brasileirão",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Libertadores",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Recopa Sul-Americana",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa Rei",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Copa do Brasil",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             }
           ]
         },
@@ -579,53 +557,50 @@
           "competitionStats": [
             {
               "competition": "Bundesliga",
-              "matches": 278,
-              "goals": 322,
-              "assists": 82
+              "matches": 139,
+              "goals": 161,
+              "assists": 41
             },
             {
               "competition": "Copa da Alemanha (DFB-Pokal)",
-              "matches": 26,
-              "goals": 32,
-              "assists": 10
+              "matches": 13,
+              "goals": 16,
+              "assists": 5
             },
             {
               "competition": "Supercopa da Alemanha (DFL Supercup)",
-              "matches": 8,
-              "goals": 2,
-              "assists": 4
+              "matches": 4,
+              "goals": 1,
+              "assists": 2
             },
             {
               "competition": "Champions League",
-              "matches": 104,
-              "goals": 98,
-              "assists": 30
+              "matches": 52,
+              "goals": 49,
+              "assists": 15
             },
             {
               "competition": "Super Mundial",
-              "matches": 14,
-              "goals": 18,
-              "assists": 2
+              "matches": 7,
+              "goals": 9,
+              "assists": 1
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Bundesliga",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Alemanha (DFL Supercup)",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Copa da Alemanha (DFB-Pokal)",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             }
           ]
         },
@@ -643,89 +618,83 @@
           "competitionStats": [
             {
               "competition": "Premier League",
-              "matches": 426,
-              "goals": 408,
-              "assists": 122
+              "matches": 213,
+              "goals": 204,
+              "assists": 61
             },
             {
               "competition": "Carabao Cup",
-              "matches": 62,
-              "goals": 44,
-              "assists": 22
+              "matches": 31,
+              "goals": 22,
+              "assists": 11
             },
             {
               "competition": "FA Cup",
-              "matches": 46,
-              "goals": 50,
-              "assists": 24
+              "matches": 23,
+              "goals": 25,
+              "assists": 12
             },
             {
               "competition": "Community Shield",
-              "matches": 4,
-              "goals": 2,
-              "assists": 2
+              "matches": 2,
+              "goals": 1,
+              "assists": 1
             },
             {
               "competition": "Supercopa da Europa",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
               "assists": 0
             },
             {
               "competition": "Champions League",
-              "matches": 154,
-              "goals": 164,
-              "assists": 96
+              "matches": 77,
+              "goals": 82,
+              "assists": 48
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 2,
-              "goals": 4,
+              "matches": 1,
+              "goals": 2,
               "assists": 0
             },
             {
               "competition": "Super Mundial",
-              "matches": 30,
-              "goals": 18,
-              "assists": 4
+              "matches": 15,
+              "goals": 9,
+              "assists": 2
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Premier League",
-              "quantity": 6,
-              "count": 0
+              "quantity": 6
             },
             {
               "category": "Título coletivo",
               "name": "Carabao Cup",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "FA Cup",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Inglaterra",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Mundial de Clubes",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Super Mundial",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -743,14 +712,14 @@
           "competitionStats": [
             {
               "competition": "Serie A",
-              "matches": 90,
-              "goals": 112,
-              "assists": 28
+              "matches": 45,
+              "goals": 56,
+              "assists": 14
             },
             {
               "competition": "Copa da Itália (Coppa Italia)",
-              "matches": 4,
-              "goals": 2,
+              "matches": 2,
+              "goals": 1,
               "assists": 0
             },
             {
@@ -761,23 +730,21 @@
             },
             {
               "competition": "Champions League",
-              "matches": 28,
-              "goals": 24,
-              "assists": 6
+              "matches": 14,
+              "goals": 12,
+              "assists": 3
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Supercopa da Itália",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Serie A",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -795,27 +762,27 @@
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 128,
-              "goals": 62,
-              "assists": 26
+              "matches": 64,
+              "goals": 31,
+              "assists": 13
             },
             {
               "competition": "Copa América",
-              "matches": 22,
-              "goals": 8,
-              "assists": 12
+              "matches": 11,
+              "goals": 4,
+              "assists": 6
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 44,
-              "goals": 32,
-              "assists": 4
+              "matches": 22,
+              "goals": 16,
+              "assists": 2
             },
             {
               "competition": "Amistosos",
-              "matches": 78,
-              "goals": 30,
-              "assists": 20
+              "matches": 39,
+              "goals": 15,
+              "assists": 10
             }
           ],
           "honors": []
@@ -1002,44 +969,44 @@
           "competitionStats": [
             {
               "competition": "Brasileirão",
-              "matches": 374,
-              "goals": 186,
-              "assists": 222
+              "matches": 187,
+              "goals": 93,
+              "assists": 111
             },
             {
               "competition": "Copa do Brasil",
-              "matches": 30,
-              "goals": 24,
-              "assists": 22
+              "matches": 15,
+              "goals": 12,
+              "assists": 11
             },
             {
               "competition": "Libertadores",
-              "matches": 122,
-              "goals": 74,
-              "assists": 64
+              "matches": 61,
+              "goals": 37,
+              "assists": 32
             },
             {
               "competition": "Recopa Sul-Americana",
-              "matches": 12,
-              "goals": 6,
-              "assists": 6
+              "matches": 6,
+              "goals": 3,
+              "assists": 3
             },
             {
               "competition": "Supercopa Rei",
-              "matches": 6,
+              "matches": 3,
               "goals": 0,
-              "assists": 8
+              "assists": 4
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 12,
+              "matches": 6,
               "goals": 0,
-              "assists": 6
+              "assists": 3
             },
             {
               "competition": "Super Mundial",
-              "matches": 8,
-              "goals": 2,
+              "matches": 4,
+              "goals": 1,
               "assists": 0
             }
           ],
@@ -1047,32 +1014,27 @@
             {
               "category": "Título coletivo",
               "name": "Libertadores",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Brasileirão",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Recopa Sul-Americana",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa Rei",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Copa do Brasil",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             }
           ]
         },
@@ -1090,53 +1052,50 @@
           "competitionStats": [
             {
               "competition": "Bundesliga",
-              "matches": 148,
-              "goals": 72,
-              "assists": 130
+              "matches": 74,
+              "goals": 36,
+              "assists": 65
             },
             {
               "competition": "Copa da Alemanha (DFB-Pokal)",
-              "matches": 12,
-              "goals": 8,
-              "assists": 8
+              "matches": 6,
+              "goals": 4,
+              "assists": 4
             },
             {
               "competition": "Supercopa da Alemanha (DFL Supercup)",
-              "matches": 4,
-              "goals": 6,
-              "assists": 2
+              "matches": 2,
+              "goals": 3,
+              "assists": 1
             },
             {
               "competition": "Champions League",
-              "matches": 56,
-              "goals": 22,
-              "assists": 32
+              "matches": 28,
+              "goals": 11,
+              "assists": 16
             },
             {
               "competition": "Super Mundial",
-              "matches": 14,
-              "goals": 8,
-              "assists": 16
+              "matches": 7,
+              "goals": 4,
+              "assists": 8
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Bundesliga",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Alemanha (DFL Supercup)",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Copa da Alemanha (DFB-Pokal)",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -1154,65 +1113,59 @@
           "competitionStats": [
             {
               "competition": "LaLiga",
-              "matches": 356,
-              "goals": 280,
-              "assists": 246
+              "matches": 178,
+              "goals": 140,
+              "assists": 123
             },
             {
               "competition": "Copa del Rey",
-              "matches": 44,
-              "goals": 28,
-              "assists": 46
+              "matches": 22,
+              "goals": 14,
+              "assists": 23
             },
             {
               "competition": "Supercopa da Espanha",
-              "matches": 18,
-              "goals": 12,
-              "assists": 10
+              "matches": 9,
+              "goals": 6,
+              "assists": 5
             },
             {
               "competition": "Champions League",
-              "matches": 136,
-              "goals": 118,
-              "assists": 88
+              "matches": 68,
+              "goals": 59,
+              "assists": 44
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "LaLiga",
-              "quantity": 5,
-              "count": 0
+              "quantity": 5
             },
             {
               "category": "Título coletivo",
               "name": "Copa do Rey",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Espanha",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Mundial de Clubes",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Europa",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -1230,83 +1183,77 @@
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 118,
-              "goals": 64,
-              "assists": 108
+              "matches": 59,
+              "goals": 32,
+              "assists": 54
             },
             {
               "competition": "Copa da França",
-              "matches": 18,
-              "goals": 28,
-              "assists": 16
+              "matches": 9,
+              "goals": 14,
+              "assists": 8
             },
             {
               "competition": "Supercopa da França",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
               "assists": 0
             },
             {
               "competition": "Supercopa da Europa",
-              "matches": 2,
-              "goals": 2,
-              "assists": 2
+              "matches": 1,
+              "goals": 1,
+              "assists": 1
             },
             {
               "competition": "Champions League",
-              "matches": 28,
-              "goals": 24,
-              "assists": 36
+              "matches": 14,
+              "goals": 12,
+              "assists": 18
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
               "assists": 0
             },
             {
               "competition": "Super Mundial",
-              "matches": 12,
+              "matches": 6,
               "goals": 0,
-              "assists": 2
+              "assists": 1
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Copa da França",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Mundial de Clubes",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Europa",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -1324,29 +1271,28 @@
           "competitionStats": [
             {
               "competition": "Brasileirão",
-              "matches": 22,
-              "goals": 18,
-              "assists": 28
+              "matches": 11,
+              "goals": 9,
+              "assists": 14
             },
             {
               "competition": "Copa do Brasil",
-              "matches": 6,
-              "goals": 12,
-              "assists": 6
+              "matches": 3,
+              "goals": 6,
+              "assists": 3
             },
             {
               "competition": "Libertadores",
-              "matches": 10,
-              "goals": 6,
-              "assists": 4
+              "matches": 5,
+              "goals": 3,
+              "assists": 2
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Copa do Brasil",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -1364,27 +1310,27 @@
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 120,
-              "goals": 32,
-              "assists": 40
+              "matches": 60,
+              "goals": 16,
+              "assists": 20
             },
             {
               "competition": "Copa América",
-              "matches": 22,
-              "goals": 18,
-              "assists": 6
+              "matches": 11,
+              "goals": 9,
+              "assists": 3
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 32,
-              "goals": 14,
-              "assists": 16
+              "matches": 16,
+              "goals": 7,
+              "assists": 8
             },
             {
               "competition": "Amistosos",
-              "matches": 72,
-              "goals": 26,
-              "assists": 24
+              "matches": 36,
+              "goals": 13,
+              "assists": 12
             }
           ],
           "honors": []
@@ -1531,12 +1477,12 @@
         "goals": 373,
         "assists": 325,
         "collectiveTitles": 17,
-        "individualAwards": 13
+        "individualAwards": 14
       },
       "hubTotals": {
-        "matches": 404,
-        "goals": 317,
-        "assists": 267,
+        "matches": 465,
+        "goals": 373,
+        "assists": 325,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1552,45 +1498,43 @@
           "goals": 62,
           "assists": 44,
           "pagePath": "pages/clubes/salazar-oriente.html",
-          "description": "Primeiro clube — Liga e Copa Bolíviana conquistadas logo de início.",
+          "description": "Primeiro clube — Liga e Copa Boliviana conquistadas logo de início.",
           "competitionStats": [
             {
-              "competition": "Copa Bolíviana",
-              "matches": 38,
-              "goals": 26,
-              "assists": 10
+              "competition": "Copa Boliviana",
+              "matches": 19,
+              "goals": 13,
+              "assists": 5
             },
             {
-              "competition": "Liga Bolíviana",
-              "matches": 108,
-              "goals": 74,
-              "assists": 62
+              "competition": "Liga Boliviana",
+              "matches": 54,
+              "goals": 37,
+              "assists": 31
             },
             {
               "competition": "Libertadores",
-              "matches": 12,
-              "goals": 8,
-              "assists": 4
+              "matches": 6,
+              "goals": 4,
+              "assists": 2
             },
             {
               "competition": "Sul-Americana",
-              "matches": 24,
-              "goals": 16,
-              "assists": 14
+              "matches": 12,
+              "goals": 8,
+              "assists": 7
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
-              "name": "Liga Bolíviana",
-              "quantity": 2,
-              "count": 0
+              "name": "Liga Boliviana",
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
-              "name": "Copa Bolíviana",
-              "quantity": 1,
-              "count": 0
+              "name": "Copa Boliviana",
+              "quantity": 1
             }
           ]
         },
@@ -1608,77 +1552,71 @@
           "competitionStats": [
             {
               "competition": "Eredivisie",
-              "matches": 266,
-              "goals": 220,
-              "assists": 194
+              "matches": 133,
+              "goals": 110,
+              "assists": 97
             },
             {
               "competition": "KNVB Beker",
-              "matches": 34,
-              "goals": 26,
-              "assists": 18
+              "matches": 17,
+              "goals": 13,
+              "assists": 9
             },
             {
               "competition": "Europa League",
-              "matches": 38,
-              "goals": 26,
-              "assists": 26
+              "matches": 19,
+              "goals": 13,
+              "assists": 13
             },
             {
               "competition": "Champions League",
-              "matches": 56,
-              "goals": 34,
-              "assists": 38
+              "matches": 28,
+              "goals": 17,
+              "assists": 19
             },
             {
               "competition": "Mundial de Clubes",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
-              "assists": 4
+              "assists": 2
             },
             {
               "competition": "Johan Cruijff Schaal",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
-              "assists": 6
+              "assists": 3
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Eredivisie",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "KNVB Beker",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Europa League",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Johan Cruijff Schaal",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Mundial",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -1692,73 +1630,66 @@
           "goals": 95,
           "assists": 91,
           "pagePath": "pages/clubes/salazar-torino.html",
-          "description": "100 jogos, Serie A, Europa League e artilharia dupla no futebol italiano.",
+          "description": "Campeão da Serie A com artilharia e prêmio de melhor — domínio total no calcio.",
           "competitionStats": [
             {
               "competition": "Serie A",
-              "matches": 134,
-              "goals": 124,
-              "assists": 126
+              "matches": 67,
+              "goals": 62,
+              "assists": 63
             },
             {
               "competition": "Copa da Itália",
-              "matches": 12,
-              "goals": 18,
-              "assists": 18
+              "matches": 6,
+              "goals": 9,
+              "assists": 9
             },
             {
               "competition": "Europa League",
-              "matches": 32,
-              "goals": 30,
-              "assists": 12
-            },
-            {
-              "competition": "Champions League",
-              "matches": 20,
-              "goals": 16,
-              "assists": 20
+              "matches": 16,
+              "goals": 15,
+              "assists": 6
             },
             {
               "competition": "Supercopa da Itália",
-              "matches": 2,
-              "goals": 2,
-              "assists": 6
+              "matches": 1,
+              "goals": 1,
+              "assists": 3
+            },
+            {
+              "competition": "Champions League",
+              "matches": 10,
+              "goals": 8,
+              "assists": 10
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Supercopa da Itália",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Europa League",
-              "quantity": 1,
-              "count": 0
-            },
-            {
-              "category": "Título coletivo",
-              "name": "Serie A",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Serie A",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Serie A",
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
-              "name": "Melhor Jogador da Serie A",
-              "quantity": 1,
-              "count": 0
+              "name": "Melhor da Serie A",
+              "quantity": 1
             }
-          ],
-          "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/torino.football-logos.cc.png",
-          "color": "#7b1020"
+          ]
         },
         {
           "id": "salazar-bolivia-3",
@@ -1766,49 +1697,52 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 136,
-          "goals": 111,
-          "assists": 86,
+          "matches": 75,
+          "goals": 63,
+          "assists": 47,
           "pagePath": "pages/clubes/salazar-bolivia.html",
           "description": "61 jogos pela seleção, com mais uma Copa América no currículo.",
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 102,
-              "goals": 84,
-              "assists": 51
+              "matches": 34,
+              "goals": 28,
+              "assists": 17
             },
             {
               "competition": "Copa América",
-              "matches": 27,
-              "goals": 24,
-              "assists": 15
+              "matches": 9,
+              "goals": 8,
+              "assists": 5
             },
             {
               "competition": "Amistosos",
-              "matches": 52,
-              "goals": 40,
-              "assists": 32
+              "matches": 16,
+              "goals": 11,
+              "assists": 10
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 48,
-              "goals": 38,
-              "assists": 52
+              "matches": 16,
+              "goals": 16,
+              "assists": 15
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Copa do Mundo",
-              "quantity": 1,
-              "count": 4
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa do Mundo",
-              "quantity": 1,
-              "count": 2
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Melhor da Copa do Mundo",
+              "quantity": 1
             }
           ]
         }
@@ -1816,12 +1750,12 @@
       "honors": [
         {
           "category": "Título coletivo",
-          "name": "Liga Bolíviana",
+          "name": "Liga Boliviana",
           "quantity": 2
         },
         {
           "category": "Título coletivo",
-          "name": "Copa Bolíviana",
+          "name": "Copa Boliviana",
           "quantity": 1
         },
         {
@@ -1865,13 +1799,8 @@
           "quantity": 1
         },
         {
-          "category": "Título coletivo",
-          "name": "Serie A",
-          "quantity": 1
-        },
-        {
           "category": "Prêmio individual",
-          "name": "Melhor da Liga Bolíviana",
+          "name": "Melhor da Liga Boliviana",
           "quantity": 2
         },
         {
@@ -1900,13 +1829,23 @@
           "quantity": 2
         },
         {
+          "category": "Título coletivo",
+          "name": "Serie A",
+          "quantity": 1
+        },
+        {
           "category": "Prêmio individual",
-          "name": "Melhor Jogador da Serie A",
+          "name": "Melhor da Serie A",
           "quantity": 1
         },
         {
           "category": "Prêmio individual",
           "name": "Artilheiro da Copa do Mundo",
+          "quantity": 1
+        },
+        {
+          "category": "Prêmio individual",
+          "name": "Melhor da Copa do Mundo",
           "quantity": 1
         }
       ]
@@ -1922,9 +1861,9 @@
         "individualAwards": 5
       },
       "hubTotals": {
-        "matches": 255,
-        "goals": 113,
-        "assists": 147,
+        "matches": 291,
+        "goals": 130,
+        "assists": 163,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1940,39 +1879,37 @@
           "goals": 26,
           "assists": 48,
           "pagePath": "pages/clubes/guarita-fonseca-potosi.html",
-          "description": "81 jogos, Liga Bolíviana conquistada e dois prêmios de melhor jogador.",
+          "description": "81 jogos, Liga Boliviana conquistada e dois prêmios de melhor jogador.",
           "competitionStats": [
             {
-              "competition": "Liga Bolíviana",
-              "matches": 110,
-              "goals": 28,
-              "assists": 74
+              "competition": "Liga Boliviana",
+              "matches": 55,
+              "goals": 14,
+              "assists": 37
             },
             {
-              "competition": "Copa Bolíviana",
-              "matches": 36,
-              "goals": 20,
-              "assists": 4
+              "competition": "Copa Boliviana",
+              "matches": 18,
+              "goals": 10,
+              "assists": 2
             },
             {
               "competition": "Libertadores",
-              "matches": 16,
-              "goals": 4,
-              "assists": 18
+              "matches": 8,
+              "goals": 2,
+              "assists": 9
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
-              "name": "Liga Bolíviana",
-              "quantity": 1,
-              "count": 0
+              "name": "Liga Boliviana",
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
-              "name": "Melhor da Liga Bolíviana",
-              "quantity": 2,
-              "count": 0
+              "name": "Melhor da Liga Boliviana",
+              "quantity": 2
             }
           ]
         },
@@ -1990,21 +1927,21 @@
           "competitionStats": [
             {
               "competition": "Serie A",
-              "matches": 38,
-              "goals": 16,
-              "assists": 16
+              "matches": 19,
+              "goals": 8,
+              "assists": 8
             },
             {
               "competition": "Coppa Italia",
-              "matches": 4,
+              "matches": 2,
               "goals": 0,
-              "assists": 4
+              "assists": 2
             },
             {
               "competition": "Europa League",
-              "matches": 12,
-              "goals": 2,
-              "assists": 6
+              "matches": 6,
+              "goals": 1,
+              "assists": 3
             }
           ],
           "honors": []
@@ -2023,32 +1960,44 @@
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 120,
-              "goals": 60,
-              "assists": 76
+              "matches": 60,
+              "goals": 30,
+              "assists": 38
             },
             {
               "competition": "Copa da França",
-              "matches": 19,
-              "goals": 21,
-              "assists": 19
+              "matches": 5,
+              "goals": 6,
+              "assists": 5
             },
             {
               "competition": "Supercopa da França",
-              "matches": 4,
-              "goals": 1,
-              "assists": 4
+              "matches": 1,
+              "goals": 0,
+              "assists": 1
             },
             {
               "competition": "Champions League",
-              "matches": 62,
-              "goals": 44,
-              "assists": 30
+              "matches": 31,
+              "goals": 22,
+              "assists": 15
+            },
+            {
+              "competition": "Copa da França",
+              "matches": 9,
+              "goals": 9,
+              "assists": 9
+            },
+            {
+              "competition": "Supercopa da França",
+              "matches": 2,
+              "goals": 1,
+              "assists": 2
             },
             {
               "competition": "Supercopa da Europa",
-              "matches": 2,
-              "goals": 2,
+              "matches": 1,
+              "goals": 1,
               "assists": 0
             }
           ],
@@ -2056,56 +2005,47 @@
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Copa da França",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Mundial",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Europa",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor Jogador da Ligue 1",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor Jogador da Copa da França",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Bola de Ouro",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -2115,79 +2055,80 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 94,
-          "goals": 32,
-          "assists": 50,
+          "matches": 50,
+          "goals": 17,
+          "assists": 28,
           "pagePath": "pages/clubes/guarita-fonseca-bolivia.html",
           "description": "Titular na Copa do Mundo campeã — e a história mal começou.",
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 60,
-              "goals": 18,
-              "assists": 27
+              "matches": 20,
+              "goals": 6,
+              "assists": 9
             },
             {
               "competition": "Copa América",
-              "matches": 18,
-              "goals": 6,
-              "assists": 12
+              "matches": 6,
+              "goals": 2,
+              "assists": 4
             },
             {
               "competition": "Amistosos",
-              "matches": 52,
-              "goals": 20,
-              "assists": 32
+              "matches": 16,
+              "goals": 6,
+              "assists": 11
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 32,
-              "goals": 12,
-              "assists": 16
+              "matches": 8,
+              "goals": 3,
+              "assists": 4
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Copa do Mundo",
-              "quantity": 1,
-              "count": 4
+              "quantity": 1
             }
           ]
         },
         {
+          "id": "guarita-fonseca-barcelona-5",
+          "order": 5,
           "team": "Barcelona",
-          "pagePath": "pages/clubes/guarita-fonseca-barcelona.html",
-          "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/barcelona.football-logos.cc.png",
-          "color": "#a50044",
-          "description": "Chegada ao Barcelona: 30 jogos, 15 gols e 10 assistências entre Espanha e Champions.",
+          "teamFullName": "Barcelona",
+          "teamType": "Clube",
           "matches": 30,
           "goals": 15,
           "assists": 10,
+          "pagePath": "pages/clubes/guarita-fonseca-barcelona.html",
+          "description": "Chegada ao Barcelona com participação ativa em LaLiga e Champions League.",
           "competitionStats": [
             {
               "competition": "LaLiga",
-              "matches": 40,
-              "goals": 18,
-              "assists": 14
+              "matches": 20,
+              "goals": 9,
+              "assists": 7
             },
             {
-              "competition": "Copa do Rey",
-              "matches": 4,
-              "goals": 2,
-              "assists": 2
+              "competition": "Copa del Rey",
+              "matches": 2,
+              "goals": 1,
+              "assists": 1
             },
             {
               "competition": "Supercopa da Espanha",
-              "matches": 2,
+              "matches": 1,
               "goals": 0,
               "assists": 0
             },
             {
               "competition": "Champions League",
-              "matches": 14,
-              "goals": 10,
-              "assists": 4
+              "matches": 7,
+              "goals": 5,
+              "assists": 2
             }
           ],
           "honors": []
@@ -2196,7 +2137,7 @@
       "honors": [
         {
           "category": "Título coletivo",
-          "name": "Liga Bolíviana",
+          "name": "Liga Boliviana",
           "quantity": 1
         },
         {
@@ -2236,7 +2177,7 @@
         },
         {
           "category": "Prêmio individual",
-          "name": "Melhor da Liga Bolíviana",
+          "name": "Melhor da Liga Boliviana",
           "quantity": 2
         },
         {
@@ -2267,9 +2208,9 @@
         "individualAwards": 26
       },
       "hubTotals": {
-        "matches": 316,
-        "goals": 442,
-        "assists": 95,
+        "matches": 378,
+        "goals": 539,
+        "assists": 126,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -2285,33 +2226,32 @@
           "goals": 50,
           "assists": 5,
           "pagePath": "pages/clubes/moreno-escobar-the-strongest.html",
-          "description": "Estreia profissional e artilharia imediata na Copa Bolíviana.",
+          "description": "Estreia profissional e artilharia imediata na Copa Boliviana.",
           "competitionStats": [
             {
-              "competition": "Copa Bolíviana",
-              "matches": 18,
-              "goals": 36,
-              "assists": 4
+              "competition": "Copa Boliviana",
+              "matches": 9,
+              "goals": 18,
+              "assists": 2
             },
             {
-              "competition": "Liga Bolíviana",
-              "matches": 44,
-              "goals": 60,
-              "assists": 4
+              "competition": "Liga Boliviana",
+              "matches": 22,
+              "goals": 30,
+              "assists": 2
             },
             {
               "competition": "Libertadores",
-              "matches": 4,
-              "goals": 4,
-              "assists": 2
+              "matches": 2,
+              "goals": 2,
+              "assists": 1
             }
           ],
           "honors": [
             {
               "category": "Prêmio individual",
-              "name": "Artilheiro da Copa Bolíviana",
-              "quantity": 1,
-              "count": 0
+              "name": "Artilheiro da Copa Boliviana",
+              "quantity": 1
             }
           ]
         },
@@ -2329,71 +2269,64 @@
           "competitionStats": [
             {
               "competition": "Brasileirão",
-              "matches": 134,
-              "goals": 236,
-              "assists": 20
+              "matches": 67,
+              "goals": 118,
+              "assists": 10
             },
             {
               "competition": "Copa do Brasil",
-              "matches": 22,
-              "goals": 60,
-              "assists": 8
+              "matches": 11,
+              "goals": 30,
+              "assists": 4
             },
             {
               "competition": "Supercopa Rei",
-              "matches": 68,
-              "goals": 136,
-              "assists": 16
+              "matches": 34,
+              "goals": 68,
+              "assists": 8
             },
             {
               "competition": "Libertadores",
-              "matches": 24,
-              "goals": 54,
-              "assists": 6
+              "matches": 12,
+              "goals": 27,
+              "assists": 3
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Brasileirão",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Título coletivo",
               "name": "Copa do Brasil",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa Rei",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor do Brasileirão",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro do Brasileirão",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor da Copa do Brasil",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa do Brasil",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             }
           ]
         },
@@ -2407,117 +2340,117 @@
           "goals": 272,
           "assists": 74,
           "pagePath": "pages/clubes/moreno-escobar-marseille.html",
-          "description": "272 gols, Champions League, Mundial e domínio completo na França.",
+          "description": "Temporada histórica: Ligue 1, Mundial e Supercopa da Europa — Chuteira de Ouro nas mãos.",
           "competitionStats": [
             {
               "competition": "Ligue 1",
-              "matches": 240,
-              "goals": 308,
-              "assists": 70
+              "matches": 120,
+              "goals": 154,
+              "assists": 35
             },
             {
               "competition": "Copa da França",
-              "matches": 44,
-              "goals": 76,
-              "assists": 20
+              "matches": 17,
+              "goals": 26,
+              "assists": 6
             },
             {
               "competition": "Supercopa da França",
-              "matches": 6,
-              "goals": 12,
-              "assists": 2
+              "matches": 2,
+              "goals": 4,
+              "assists": 0
             },
             {
               "competition": "Europa League",
-              "matches": 24,
-              "goals": 20,
-              "assists": 4
+              "matches": 12,
+              "goals": 10,
+              "assists": 2
             },
             {
               "competition": "Champions League",
-              "matches": 90,
-              "goals": 120,
-              "assists": 48
+              "matches": 45,
+              "goals": 60,
+              "assists": 24
+            },
+            {
+              "competition": "Copa da França",
+              "matches": 17,
+              "goals": 29,
+              "assists": 8
+            },
+            {
+              "competition": "Supercopa da França",
+              "matches": 2,
+              "goals": 3,
+              "assists": 1
             },
             {
               "competition": "Mundial",
-              "matches": 4,
-              "goals": 8,
-              "assists": 4
+              "matches": 2,
+              "goals": 4,
+              "assists": 2
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Ligue 1",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da França",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Título coletivo",
               "name": "Copa da França",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Champions League",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Mundial",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
               "name": "Supercopa da Europa",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor da Ligue 1",
-              "quantity": 3,
-              "count": 0
+              "quantity": 3
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Ligue 1",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa da França",
-              "quantity": 4,
-              "count": 0
+              "quantity": 4
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor Jogador da Copa da França",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Chuteira de Ouro",
-              "quantity": 2,
-              "count": 0
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Bola de Ouro",
-              "quantity": 1,
-              "count": 0
+              "quantity": 1
             }
           ]
         },
@@ -2527,49 +2460,47 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 100,
-          "goals": 78,
-          "assists": 38,
+          "matches": 56,
+          "goals": 42,
+          "assists": 25,
           "pagePath": "pages/clubes/moreno-escobar-bolivia.html",
           "description": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo.",
           "competitionStats": [
             {
               "competition": "Eliminatórias",
-              "matches": 78,
-              "goals": 48,
-              "assists": 21
+              "matches": 26,
+              "goals": 16,
+              "assists": 7
             },
             {
               "competition": "Copa América",
-              "matches": 18,
-              "goals": 21,
-              "assists": 9
+              "matches": 6,
+              "goals": 7,
+              "assists": 3
             },
             {
               "competition": "Amistosos",
-              "matches": 28,
+              "matches": 10,
               "goals": 0,
-              "assists": 12
+              "assists": 5
             },
             {
               "competition": "Copa do Mundo",
-              "matches": 44,
-              "goals": 64,
-              "assists": 24
+              "matches": 14,
+              "goals": 19,
+              "assists": 10
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Copa do Mundo",
-              "quantity": 1,
-              "count": 4
+              "quantity": 1
             },
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa do Mundo",
-              "quantity": 1,
-              "count": 4
+              "quantity": 1
             }
           ]
         }
@@ -2577,7 +2508,7 @@
       "honors": [
         {
           "category": "Título coletivo",
-          "name": "Brasileir?o",
+          "name": "Brasileirão",
           "quantity": 1
         },
         {
@@ -2627,17 +2558,17 @@
         },
         {
           "category": "Prêmio individual",
-          "name": "Artilheiro da Copa Bolíviana",
+          "name": "Artilheiro da Copa Boliviana",
           "quantity": 1
         },
         {
           "category": "Prêmio individual",
-          "name": "Melhor do Brasileir?o",
+          "name": "Melhor do Brasileirão",
           "quantity": 2
         },
         {
           "category": "Prêmio individual",
-          "name": "Artilheiro do Brasileir?o",
+          "name": "Artilheiro do Brasileirão",
           "quantity": 2
         },
         {

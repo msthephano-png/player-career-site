@@ -154,7 +154,7 @@
       "ranking": [
         {
           "team": "Palmeiras",
-          "titles": 14,
+          "titles": 15,
           "firstYear": null,
           "lastYear": null
         },
@@ -404,7 +404,7 @@
         },
         {
           "team": "Flamengo",
-          "titles": 7,
+          "titles": 8,
           "firstYear": null,
           "lastYear": null
         },
@@ -600,7 +600,7 @@
         },
         {
           "team": "Sao Paulo",
-          "titles": 8,
+          "titles": 9,
           "firstYear": null,
           "lastYear": null
         },
@@ -796,7 +796,7 @@
         },
         {
           "team": "Borussia Dortmund",
-          "titles": 9,
+          "titles": 10,
           "firstYear": null,
           "lastYear": null
         },
@@ -986,7 +986,7 @@
         },
         {
           "team": "Borussia Dortmund",
-          "titles": 9,
+          "titles": 10,
           "firstYear": null,
           "lastYear": null
         },
@@ -1176,7 +1176,7 @@
         },
         {
           "team": "Borussia Dortmund",
-          "titles": 9,
+          "titles": 10,
           "firstYear": null,
           "lastYear": null
         },
@@ -1378,7 +1378,7 @@
         },
         {
           "team": "Chelsea",
-          "titles": 10,
+          "titles": 11,
           "firstYear": null,
           "lastYear": null
         }
@@ -1538,7 +1538,7 @@
       "ranking": [
         {
           "team": "Liverpool",
-          "titles": 15,
+          "titles": 16,
           "firstYear": null,
           "lastYear": null
         },
@@ -1779,6 +1779,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Fulham",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -1963,6 +1969,12 @@
           "titles": 9,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Chelsea",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -2144,7 +2156,7 @@
         },
         {
           "team": "Torino",
-          "titles": 7,
+          "titles": 8,
           "firstYear": null,
           "lastYear": null
         },
@@ -2355,6 +2367,12 @@
           "titles": 5,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Lazio",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -2530,7 +2548,7 @@
         },
         {
           "team": "Juventus",
-          "titles": 11,
+          "titles": 12,
           "firstYear": null,
           "lastYear": null
         },
@@ -2708,7 +2726,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 18,
+          "titles": 19,
           "firstYear": null,
           "lastYear": null
         },
@@ -2913,6 +2931,12 @@
           "titles": 5,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Le Havre",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -3076,7 +3100,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 11,
+          "titles": 12,
           "firstYear": null,
           "lastYear": null
         },
@@ -3254,7 +3278,7 @@
       "ranking": [
         {
           "team": "Real Madrid",
-          "titles": 50,
+          "titles": 51,
           "firstYear": null,
           "lastYear": null
         },
@@ -3428,6 +3452,11 @@
           "season": "2053",
           "champion": "Barcelona",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Real Valladolid",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3458,6 +3487,12 @@
         {
           "team": "Valencia",
           "titles": 8,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Real Valladolid",
+          "titles": 1,
           "firstYear": null,
           "lastYear": null
         }
@@ -3607,12 +3642,17 @@
           "season": "2053",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Real Madrid",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Real Madrid",
-          "titles": 27,
+          "titles": 28,
           "firstYear": null,
           "lastYear": null
         },
@@ -3949,6 +3989,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Monaco",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -4166,7 +4212,7 @@
         },
         {
           "team": "Botafogo",
-          "titles": 3,
+          "titles": 4,
           "firstYear": null,
           "lastYear": null
         },
@@ -4452,7 +4498,7 @@
         },
         {
           "team": "Sao Paulo",
-          "titles": 3,
+          "titles": 4,
           "firstYear": null,
           "lastYear": null
         },
@@ -4607,7 +4653,7 @@
         },
         {
           "season": "2053",
-          "champion": "Internacional",
+          "champion": "Ceara",
           "source": "Site / simulacao"
         },
         {
@@ -4661,7 +4707,19 @@
         },
         {
           "team": "Internacional",
-          "titles": 2,
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Botafogo",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Ceara",
+          "titles": 1,
           "firstYear": null,
           "lastYear": null
         }
@@ -5010,6 +5068,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Lazio",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -5326,6 +5390,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Porto",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -5525,7 +5595,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 2,
+          "titles": 3,
           "firstYear": null,
           "lastYear": null
         },
@@ -5791,11 +5861,6 @@
           "season": "2053",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
-        },
-        {
-          "season": "2054",
-          "champion": "Olympique de Marseille",
-          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -5836,12 +5901,6 @@
           "lastYear": null
         },
         {
-          "team": "Aston Villa",
-          "titles": 3,
-          "firstYear": null,
-          "lastYear": null
-        },
-        {
           "team": "Atletico de Madrid",
           "titles": 3,
           "firstYear": null,
@@ -5856,6 +5915,12 @@
         {
           "team": "Manchester City",
           "titles": 3,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Aston Villa",
+          "titles": 2,
           "firstYear": null,
           "lastYear": null
         },
@@ -5978,6 +6043,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Olympique de Marseille",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -6084,6 +6155,12 @@
         },
         {
           "team": "Portugal",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Mexico",
           "titles": 1,
           "firstYear": null,
           "lastYear": null
