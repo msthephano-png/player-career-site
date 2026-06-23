@@ -1,6 +1,6 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
-const ballonYears = Array.from({ length: 29 }, (_, i) => 2026 + i);
+const ballonYears = Array.from({ length: 30 }, (_, i) => 2026 + i);
 const ballonDataUrl = new URL("../data/bola-de-ouro.json", document.currentScript.src);
 let ballonStatsFromDatabase = null;
 
@@ -794,14 +794,14 @@ const ballonData = {
     "Blanco",
     "Edwards",
     "Kovacevic",
-    "Zapeda",
+    "Zepeda",
     "Valencia"
   ],
   2051: [
     "Salazar",
     "Fabio Duarte",
     "Charles Mohamed",
-    "Zapeda",
+    "Zepeda",
     "Lefebvre",
     "Edwards",
     "Dorssen",
@@ -988,7 +988,7 @@ const ballonData = {
 
 // Extensão dos arquivos de foto por ano
 function getBallonImgExt(yearShort, file) {
-  const jpgYears = { 27: ['vencedor'], 28: ['vencedor'], 38: ['vencedor'], 48: ['terceiro'], 49: ['segundo'], 50: ['terceiro'], 51: ['terceiro'], 52: ['terceiro'] };
+  const jpgYears = { 27: ['vencedor'], 28: ['vencedor'], 38: ['vencedor'], 48: ['terceiro'], 49: ['segundo'], 50: ['terceiro'], 51: ['terceiro'], 52: ['terceiro'], 54: ['terceiro'] };
   const capitalS = { 46: ['segundo'] }; // pasta 46 tem Segundo.png (maiúsculo)
   if (jpgYears[yearShort] && jpgYears[yearShort].includes(file)) return 'jpg';
   return 'png';
@@ -1001,7 +1001,7 @@ function getBallonImgName(yearShort, file) {
 }
 
 async function loadBallonDataFromDatabase() {
-  ballonDataUrl.searchParams.set("v", "2053-sync");
+  ballonDataUrl.searchParams.set("v", "2054-sync");
   const response = await fetch(ballonDataUrl);
   if (!response.ok) {
     throw new Error(`Nao foi possivel carregar ${ballonDataUrl.pathname}`);
@@ -1163,7 +1163,7 @@ function openBallonModal(playerName, stats) {
   const posRows = pStats.positions
     .sort((a, b) => a.year - b.year)
     .map(p => {
-      const medal = p.pos === 1 ? '🥇' : p.pos === 2 ? '🥈' : p.pos === 3 ? '🥉' : '';
+      const medal = p.pos === 1 ? '??' : p.pos === 2 ? '??' : p.pos === 3 ? '??' : '';
       return `<tr class="${p.pos <= 3 ? 'ballon-modal__highlight' : ''}">
         <td>${p.year}</td>
         <td>${medal} ${p.pos}º</td>
@@ -1219,7 +1219,7 @@ async function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2054 ? `${y} · em andamento` : String(y);
+    opt.textContent = y === 2055 ? `${y} ? em andamento` : String(y);
     if (y === 2054) opt.selected = true;
     select.appendChild(opt);
   });

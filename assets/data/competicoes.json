@@ -144,6 +144,11 @@
           "season": "2053",
           "champion": "Flamengo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Palmeiras",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -365,6 +370,11 @@
           "season": "2053",
           "champion": "Sao Paulo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Flamengo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -574,6 +584,11 @@
           "season": "2053",
           "champion": "Sao Paulo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -765,6 +780,11 @@
           "season": "2053",
           "champion": "Bayern",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Borussia Dortmund",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -949,6 +969,11 @@
         {
           "season": "2053",
           "champion": "Bayern",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Borussia Dortmund",
           "source": "Site / simulacao"
         }
       ],
@@ -1135,6 +1160,11 @@
           "season": "2053",
           "champion": "Bayern",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Borussia Dortmund",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1314,6 +1344,11 @@
           "season": "2053",
           "champion": "Chelsea",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Chelsea",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1491,6 +1526,11 @@
         },
         {
           "season": "2053",
+          "champion": "Liverpool",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
           "champion": "Liverpool",
           "source": "Site / simulacao"
         }
@@ -1690,6 +1730,11 @@
           "season": "2053",
           "champion": "Manchester United",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Fulham",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1881,6 +1926,11 @@
           "season": "2053",
           "champion": "Manchester City",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Chelsea",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2059,6 +2109,11 @@
         {
           "season": "2053",
           "champion": "Juventus",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Torino",
           "source": "Site / simulacao"
         }
       ],
@@ -2257,6 +2312,11 @@
           "season": "2053",
           "champion": "Juventus",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Lazio",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2441,6 +2501,11 @@
         {
           "season": "2053",
           "champion": "Torino",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Juventus",
           "source": "Site / simulacao"
         }
       ],
@@ -2627,6 +2692,11 @@
           "season": "2053",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2805,6 +2875,11 @@
         {
           "season": "2053",
           "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Le Havre",
           "source": "Site / simulacao"
         }
       ],
@@ -2985,6 +3060,11 @@
           "season": "2053",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3162,6 +3242,11 @@
         },
         {
           "season": "2053",
+          "champion": "Real Madrid",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
         }
@@ -3701,6 +3786,11 @@
           "season": "2053",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Monaco",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -4004,6 +4094,11 @@
         },
         {
           "season": "2053",
+          "champion": "Botafogo",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
           "champion": "Botafogo",
           "source": "Site / simulacao"
         }
@@ -4317,6 +4412,11 @@
           "season": "2053",
           "champion": "Ceara",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -4508,6 +4608,11 @@
         {
           "season": "2053",
           "champion": "Internacional",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Botafogo",
           "source": "Site / simulacao"
         }
       ],
@@ -4705,6 +4810,11 @@
         {
           "season": "2053",
           "champion": "Torino",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Lazio",
           "source": "Site / simulacao"
         }
       ],
@@ -5047,6 +5157,11 @@
           "season": "2053",
           "champion": "Lausanne",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Porto",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -5356,6 +5471,11 @@
         },
         {
           "season": "2053",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         }
@@ -5669,7 +5789,12 @@
         },
         {
           "season": "2053",
-          "champion": "Aston Villa",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
         }
       ],
@@ -5894,6 +6019,11 @@
         {
           "season": "2050",
           "champion": "Bolivia",
+          "source": "Site / simulacao"
+        },
+        {
+          "season": "2054",
+          "champion": "Mexico",
           "source": "Site / simulacao"
         }
       ],

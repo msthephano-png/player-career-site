@@ -1,5 +1,5 @@
 ﻿const clubSpellDataUrl = new URL("../data/jogadores.json", document.currentScript.src);
-clubSpellDataUrl.searchParams.set("v", "players-2053-fix3");
+clubSpellDataUrl.searchParams.set("v", "players-2054-sync");
 
 function getCurrentSpellPath() {
   const parts = window.location.pathname.split("/");
