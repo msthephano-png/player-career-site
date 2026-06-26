@@ -1,5 +1,5 @@
 const galleryDataUrl = new URL("../data/galeria.json", document.currentScript.src);
-galleryDataUrl.searchParams.set("v", "gallery-20260607-2");
+galleryDataUrl.searchParams.set("v", "gallery-20260626-3");
 const galleryImageBase = "../../assets/images/galeria";
 
 let galleryFiles = [];
