@@ -5223,6 +5223,188 @@
         "podium": false,
         "medal": null
       }
+    ],
+    "2055": [
+      {
+        "position": 1,
+        "player": "Salazar",
+        "podium": true,
+        "medal": "Ouro"
+      },
+      {
+        "position": 2,
+        "player": "Alexandre Riou",
+        "podium": true,
+        "medal": "Prata"
+      },
+      {
+        "position": 3,
+        "player": "Carlton Palmer",
+        "podium": true,
+        "medal": "Bronze"
+      },
+      {
+        "position": 4,
+        "player": "Xavier Estrada",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 5,
+        "player": "Minestre",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 6,
+        "player": "Zepeda",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 7,
+        "player": "Quiroga",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 8,
+        "player": "Villares",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 9,
+        "player": "Fabio Duarte",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 10,
+        "player": "Rufos Schimaizer",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 11,
+        "player": "Alex Daems",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 12,
+        "player": "Damiano Villa",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 13,
+        "player": "Mustashi",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 14,
+        "player": "Akinola Akpan",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 15,
+        "player": "Francolino",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 16,
+        "player": "Yasin Demir",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 17,
+        "player": "Thomas Leroy",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 18,
+        "player": "Renato Ramos",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 19,
+        "player": "Tshibalai",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 20,
+        "player": "Kacper Wilk",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 21,
+        "player": "Moreno Escobar",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 22,
+        "player": "Maximo",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 23,
+        "player": "Sergio Montes",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 24,
+        "player": "Nisal",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 25,
+        "player": "Michel",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 26,
+        "player": "De Anjos",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 27,
+        "player": "Francisco",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 28,
+        "player": "Julen Molina",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 29,
+        "player": "Walsh",
+        "podium": false,
+        "medal": null
+      },
+      {
+        "position": 30,
+        "player": "Uribe",
+        "podium": false,
+        "medal": null
+      }
     ]
   },
   "playerStats": {
@@ -8272,7 +8454,7 @@
     },
     "Fabio Duarte": {
       "player": "Fabio Duarte",
-      "nominations": 14,
+      "nominations": 15,
       "podiums": 10,
       "wins": 3,
       "bestPosition": 1,
@@ -8332,6 +8514,10 @@
         {
           "year": 2054,
           "position": 5
+        },
+        {
+          "year": 2055,
+          "position": 9
         }
       ]
     },
@@ -9320,7 +9506,7 @@
     },
     "Sergio Montes": {
       "player": "Sergio Montes",
-      "nominations": 2,
+      "nominations": 3,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 19,
@@ -9332,6 +9518,10 @@
         {
           "year": 2050,
           "position": 22
+        },
+        {
+          "year": 2055,
+          "position": 23
         }
       ]
     },
@@ -9371,7 +9561,7 @@
     },
     "Uribe": {
       "player": "Uribe",
-      "nominations": 1,
+      "nominations": 2,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 23,
@@ -9379,6 +9569,10 @@
         {
           "year": 2043,
           "position": 23
+        },
+        {
+          "year": 2055,
+          "position": 30
         }
       ]
     },
@@ -9397,7 +9591,7 @@
     },
     "Walsh": {
       "player": "Walsh",
-      "nominations": 1,
+      "nominations": 2,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 27,
@@ -9405,6 +9599,10 @@
         {
           "year": 2043,
           "position": 27
+        },
+        {
+          "year": 2055,
+          "position": 29
         }
       ]
     },
@@ -9877,14 +10075,18 @@
     },
     "Carlton Palmer": {
       "player": "Carlton Palmer",
-      "nominations": 1,
-      "podiums": 0,
+      "nominations": 2,
+      "podiums": 1,
       "wins": 0,
-      "bestPosition": 23,
+      "bestPosition": 3,
       "years": [
         {
           "year": 2045,
           "position": 23
+        },
+        {
+          "year": 2055,
+          "position": 3
         }
       ]
     },
@@ -10106,7 +10308,7 @@
     },
     "Yasin Demir": {
       "player": "Yasin Demir",
-      "nominations": 1,
+      "nominations": 2,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 5,
@@ -10114,6 +10316,10 @@
         {
           "year": 2047,
           "position": 5
+        },
+        {
+          "year": 2055,
+          "position": 16
         }
       ]
     },
@@ -10204,7 +10410,7 @@
     },
     "Michel": {
       "player": "Michel",
-      "nominations": 4,
+      "nominations": 5,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 8,
@@ -10224,6 +10430,10 @@
         {
           "year": 2054,
           "position": 22
+        },
+        {
+          "year": 2055,
+          "position": 25
         }
       ]
     },
@@ -10607,9 +10817,9 @@
     },
     "Salazar": {
       "player": "Salazar",
-      "nominations": 5,
-      "podiums": 2,
-      "wins": 1,
+      "nominations": 6,
+      "podiums": 3,
+      "wins": 2,
       "bestPosition": 1,
       "years": [
         {
@@ -10631,6 +10841,10 @@
         {
           "year": 2054,
           "position": 2
+        },
+        {
+          "year": 2055,
+          "position": 1
         }
       ]
     },
@@ -10662,7 +10876,7 @@
     },
     "Moreno Escobar": {
       "player": "Moreno Escobar",
-      "nominations": 4,
+      "nominations": 5,
       "podiums": 3,
       "wins": 1,
       "bestPosition": 1,
@@ -10682,6 +10896,10 @@
         {
           "year": 2054,
           "position": 3
+        },
+        {
+          "year": 2055,
+          "position": 21
         }
       ]
     },
@@ -11143,7 +11361,7 @@
     },
     "Thomas Leroy": {
       "player": "Thomas Leroy",
-      "nominations": 1,
+      "nominations": 2,
       "podiums": 1,
       "wins": 0,
       "bestPosition": 2,
@@ -11151,15 +11369,19 @@
         {
           "year": 2053,
           "position": 2
+        },
+        {
+          "year": 2055,
+          "position": 17
         }
       ]
     },
     "Xavier Estrada": {
       "player": "Xavier Estrada",
-      "nominations": 2,
+      "nominations": 3,
       "podiums": 0,
       "wins": 0,
-      "bestPosition": 7,
+      "bestPosition": 4,
       "years": [
         {
           "year": 2053,
@@ -11168,6 +11390,10 @@
         {
           "year": 2054,
           "position": 28
+        },
+        {
+          "year": 2055,
+          "position": 4
         }
       ]
     },
@@ -11238,10 +11464,10 @@
     },
     "Minestre": {
       "player": "Minestre",
-      "nominations": 2,
+      "nominations": 3,
       "podiums": 0,
       "wins": 0,
-      "bestPosition": 23,
+      "bestPosition": 5,
       "years": [
         {
           "year": 2053,
@@ -11250,12 +11476,16 @@
         {
           "year": 2054,
           "position": 24
+        },
+        {
+          "year": 2055,
+          "position": 5
         }
       ]
     },
     "Zepeda": {
       "player": "Zepeda",
-      "nominations": 4,
+      "nominations": 5,
       "podiums": 0,
       "wins": 0,
       "bestPosition": 4,
@@ -11275,6 +11505,10 @@
         {
           "year": 2054,
           "position": 4
+        },
+        {
+          "year": 2055,
+          "position": 6
         }
       ]
     },
@@ -11457,6 +11691,227 @@
         {
           "year": 2054,
           "position": 30
+        }
+      ]
+    },
+    "Alexandre Riou": {
+      "player": "Alexandre Riou",
+      "nominations": 1,
+      "podiums": 1,
+      "wins": 0,
+      "bestPosition": 2,
+      "years": [
+        {
+          "year": 2055,
+          "position": 2
+        }
+      ]
+    },
+    "Quiroga": {
+      "player": "Quiroga",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 7,
+      "years": [
+        {
+          "year": 2055,
+          "position": 7
+        }
+      ]
+    },
+    "Villares": {
+      "player": "Villares",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 8,
+      "years": [
+        {
+          "year": 2055,
+          "position": 8
+        }
+      ]
+    },
+    "Rufos Schimaizer": {
+      "player": "Rufos Schimaizer",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 10,
+      "years": [
+        {
+          "year": 2055,
+          "position": 10
+        }
+      ]
+    },
+    "Alex Daems": {
+      "player": "Alex Daems",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 11,
+      "years": [
+        {
+          "year": 2055,
+          "position": 11
+        }
+      ]
+    },
+    "Damiano Villa": {
+      "player": "Damiano Villa",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 12,
+      "years": [
+        {
+          "year": 2055,
+          "position": 12
+        }
+      ]
+    },
+    "Mustashi": {
+      "player": "Mustashi",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 13,
+      "years": [
+        {
+          "year": 2055,
+          "position": 13
+        }
+      ]
+    },
+    "Akinola Akpan": {
+      "player": "Akinola Akpan",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 14,
+      "years": [
+        {
+          "year": 2055,
+          "position": 14
+        }
+      ]
+    },
+    "Francolino": {
+      "player": "Francolino",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 15,
+      "years": [
+        {
+          "year": 2055,
+          "position": 15
+        }
+      ]
+    },
+    "Renato Ramos": {
+      "player": "Renato Ramos",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 18,
+      "years": [
+        {
+          "year": 2055,
+          "position": 18
+        }
+      ]
+    },
+    "Tshibalai": {
+      "player": "Tshibalai",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 19,
+      "years": [
+        {
+          "year": 2055,
+          "position": 19
+        }
+      ]
+    },
+    "Kacper Wilk": {
+      "player": "Kacper Wilk",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 20,
+      "years": [
+        {
+          "year": 2055,
+          "position": 20
+        }
+      ]
+    },
+    "Maximo": {
+      "player": "Maximo",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 22,
+      "years": [
+        {
+          "year": 2055,
+          "position": 22
+        }
+      ]
+    },
+    "Nisal": {
+      "player": "Nisal",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 24,
+      "years": [
+        {
+          "year": 2055,
+          "position": 24
+        }
+      ]
+    },
+    "De Anjos": {
+      "player": "De Anjos",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 26,
+      "years": [
+        {
+          "year": 2055,
+          "position": 26
+        }
+      ]
+    },
+    "Francisco": {
+      "player": "Francisco",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 27,
+      "years": [
+        {
+          "year": 2055,
+          "position": 27
+        }
+      ]
+    },
+    "Julen Molina": {
+      "player": "Julen Molina",
+      "nominations": 1,
+      "podiums": 0,
+      "wins": 0,
+      "bestPosition": 28,
+      "years": [
+        {
+          "year": 2055,
+          "position": 28
         }
       ]
     }

@@ -1473,16 +1473,16 @@
       "slug": "salazar",
       "name": "Salazar",
       "totals": {
-        "matches": 465,
-        "goals": 373,
-        "assists": 325,
-        "collectiveTitles": 17,
-        "individualAwards": 14
+        "matches": 519,
+        "goals": 420,
+        "assists": 376,
+        "collectiveTitles": 20,
+        "individualAwards": 15
       },
       "hubTotals": {
-        "matches": 465,
-        "goals": 373,
-        "assists": 325,
+        "matches": 519,
+        "goals": 420,
+        "assists": 376,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -1626,21 +1626,21 @@
           "team": "Torino",
           "teamFullName": "Torino",
           "teamType": "Clube",
-          "matches": 100,
-          "goals": 95,
-          "assists": 91,
+          "matches": 146,
+          "goals": 138,
+          "assists": 138,
           "pagePath": "pages/clubes/salazar-torino.html",
-          "description": "Campeão da Serie A com artilharia e prêmio de melhor — domínio total no calcio.",
+          "description": "Temporada de ouro: Serie A, Supercopa da Itália e Champions League no Torino.",
           "competitionStats": [
             {
               "competition": "Serie A",
-              "matches": 67,
-              "goals": 62,
-              "assists": 63
+              "matches": 98,
+              "goals": 87,
+              "assists": 96
             },
             {
               "competition": "Copa da Itália",
-              "matches": 6,
+              "matches": 7,
               "goals": 9,
               "assists": 9
             },
@@ -1652,22 +1652,22 @@
             },
             {
               "competition": "Supercopa da Itália",
-              "matches": 1,
-              "goals": 1,
-              "assists": 3
+              "matches": 3,
+              "goals": 4,
+              "assists": 6
             },
             {
               "competition": "Champions League",
-              "matches": 10,
-              "goals": 8,
-              "assists": 10
+              "matches": 22,
+              "goals": 23,
+              "assists": 21
             }
           ],
           "honors": [
             {
               "category": "Título coletivo",
               "name": "Supercopa da Itália",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Título coletivo",
@@ -1682,11 +1682,21 @@
             {
               "category": "Título coletivo",
               "name": "Serie A",
-              "quantity": 1
+              "quantity": 2
             },
             {
               "category": "Prêmio individual",
               "name": "Melhor da Serie A",
+              "quantity": 1
+            },
+            {
+              "category": "Título coletivo",
+              "name": "Champions League",
+              "quantity": 1
+            },
+            {
+              "category": "Prêmio individual",
+              "name": "Bola de Ouro",
               "quantity": 1
             }
           ]
@@ -1697,9 +1707,9 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 75,
-          "goals": 63,
-          "assists": 47,
+          "matches": 83,
+          "goals": 67,
+          "assists": 51,
           "pagePath": "pages/clubes/salazar-bolivia.html",
           "description": "61 jogos pela seleção, com mais uma Copa América no currículo.",
           "competitionStats": [
@@ -1717,9 +1727,9 @@
             },
             {
               "competition": "Amistosos",
-              "matches": 16,
-              "goals": 11,
-              "assists": 10
+              "matches": 24,
+              "goals": 15,
+              "assists": 14
             },
             {
               "competition": "Copa do Mundo",
@@ -1776,7 +1786,7 @@
         {
           "category": "Título coletivo",
           "name": "Champions League",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Título coletivo",
@@ -1796,7 +1806,7 @@
         {
           "category": "Título coletivo",
           "name": "Supercopa da Itália",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Prêmio individual",
@@ -1821,7 +1831,7 @@
         {
           "category": "Prêmio individual",
           "name": "Bola de Ouro",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Prêmio individual",
@@ -1831,7 +1841,7 @@
         {
           "category": "Título coletivo",
           "name": "Serie A",
-          "quantity": 1
+          "quantity": 2
         },
         {
           "category": "Prêmio individual",
@@ -1854,16 +1864,16 @@
       "slug": "guarita-fonseca",
       "name": "Guarita Fonseca",
       "totals": {
-        "matches": 291,
-        "goals": 130,
-        "assists": 163,
-        "collectiveTitles": 12,
+        "matches": 350,
+        "goals": 154,
+        "assists": 178,
+        "collectiveTitles": 13,
         "individualAwards": 5
       },
       "hubTotals": {
-        "matches": 291,
-        "goals": 130,
-        "assists": 163,
+        "matches": 350,
+        "goals": 154,
+        "assists": 178,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -2055,9 +2065,9 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 50,
-          "goals": 17,
-          "assists": 28,
+          "matches": 58,
+          "goals": 20,
+          "assists": 31,
           "pagePath": "pages/clubes/guarita-fonseca-bolivia.html",
           "description": "Titular na Copa do Mundo campeã — e a história mal começou.",
           "competitionStats": [
@@ -2075,9 +2085,9 @@
             },
             {
               "competition": "Amistosos",
-              "matches": 16,
-              "goals": 6,
-              "assists": 11
+              "matches": 24,
+              "goals": 9,
+              "assists": 14
             },
             {
               "competition": "Copa do Mundo",
@@ -2100,28 +2110,28 @@
           "team": "Barcelona",
           "teamFullName": "Barcelona",
           "teamType": "Clube",
-          "matches": 30,
-          "goals": 15,
-          "assists": 10,
+          "matches": 81,
+          "goals": 36,
+          "assists": 22,
           "pagePath": "pages/clubes/guarita-fonseca-barcelona.html",
-          "description": "Chegada ao Barcelona com participação ativa em LaLiga e Champions League.",
+          "description": "Campeão da Copa del Rey pelo Barcelona, com presença forte em LaLiga.",
           "competitionStats": [
             {
               "competition": "LaLiga",
-              "matches": 20,
-              "goals": 9,
-              "assists": 7
+              "matches": 55,
+              "goals": 20,
+              "assists": 15
             },
             {
               "competition": "Copa del Rey",
-              "matches": 2,
-              "goals": 1,
-              "assists": 1
+              "matches": 7,
+              "goals": 6,
+              "assists": 2
             },
             {
               "competition": "Supercopa da Espanha",
-              "matches": 1,
-              "goals": 0,
+              "matches": 2,
+              "goals": 1,
               "assists": 0
             },
             {
@@ -2129,9 +2139,21 @@
               "matches": 7,
               "goals": 5,
               "assists": 2
+            },
+            {
+              "competition": "Europa League",
+              "matches": 10,
+              "goals": 4,
+              "assists": 3
             }
           ],
-          "honors": []
+          "honors": [
+            {
+              "category": "Título coletivo",
+              "name": "Copa del Rey",
+              "quantity": 1
+            }
+          ]
         }
       ],
       "honors": [
@@ -2194,6 +2216,11 @@
           "category": "Prêmio individual",
           "name": "Bola de Ouro",
           "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Copa del Rey",
+          "quantity": 1
         }
       ]
     },
@@ -2201,16 +2228,16 @@
       "slug": "moreno-escobar",
       "name": "Moreno Escobar",
       "totals": {
-        "matches": 378,
-        "goals": 539,
-        "assists": 126,
-        "collectiveTitles": 20,
+        "matches": 428,
+        "goals": 599,
+        "assists": 162,
+        "collectiveTitles": 21,
         "individualAwards": 26
       },
       "hubTotals": {
-        "matches": 378,
-        "goals": 539,
-        "assists": 126,
+        "matches": 428,
+        "goals": 599,
+        "assists": 162,
         "diffMatches": 0,
         "diffGoals": 0,
         "diffAssists": 0
@@ -2460,9 +2487,9 @@
           "team": "Bolívia",
           "teamFullName": "Bolívia",
           "teamType": "Seleção",
-          "matches": 56,
-          "goals": 42,
-          "assists": 25,
+          "matches": 64,
+          "goals": 44,
+          "assists": 26,
           "pagePath": "pages/clubes/moreno-escobar-bolivia.html",
           "description": "Artilheiro da Copa do Mundo — 13 gols no torneio que mudou tudo.",
           "competitionStats": [
@@ -2480,9 +2507,9 @@
             },
             {
               "competition": "Amistosos",
-              "matches": 10,
-              "goals": 0,
-              "assists": 5
+              "matches": 18,
+              "goals": 2,
+              "assists": 6
             },
             {
               "competition": "Copa do Mundo",
@@ -2500,6 +2527,51 @@
             {
               "category": "Prêmio individual",
               "name": "Artilheiro da Copa do Mundo",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "moreno-escobar-real-madrid-5",
+          "order": 5,
+          "team": "Real Madrid",
+          "teamFullName": "Real Madrid",
+          "teamType": "Clube",
+          "matches": 42,
+          "goals": 58,
+          "assists": 35,
+          "pagePath": "pages/clubes/moreno-escobar-real-madrid.html",
+          "description": "Chegada em grande estilo ao Real Madrid — campeão da Supercopa da Espanha.",
+          "competitionStats": [
+            {
+              "competition": "LaLiga",
+              "matches": 26,
+              "goals": 36,
+              "assists": 26
+            },
+            {
+              "competition": "Copa del Rey",
+              "matches": 4,
+              "goals": 5,
+              "assists": 2
+            },
+            {
+              "competition": "Supercopa da Espanha",
+              "matches": 2,
+              "goals": 4,
+              "assists": 1
+            },
+            {
+              "competition": "Champions League",
+              "matches": 10,
+              "goals": 13,
+              "assists": 6
+            }
+          ],
+          "honors": [
+            {
+              "category": "Título coletivo",
+              "name": "Supercopa da Espanha",
               "quantity": 1
             }
           ]
@@ -2614,6 +2686,11 @@
         {
           "category": "Prêmio individual",
           "name": "Artilheiro da Copa do Mundo",
+          "quantity": 1
+        },
+        {
+          "category": "Título coletivo",
+          "name": "Supercopa da Espanha",
           "quantity": 1
         }
       ]

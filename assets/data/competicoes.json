@@ -149,6 +149,11 @@
           "season": "2054",
           "champion": "Palmeiras",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Fortaleza",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -221,6 +226,12 @@
         {
           "team": "Botafogo",
           "titles": 2,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Fortaleza",
+          "titles": 1,
           "firstYear": null,
           "lastYear": null
         }
@@ -375,6 +386,11 @@
           "season": "2054",
           "champion": "Flamengo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -398,7 +414,7 @@
         },
         {
           "team": "Sao Paulo",
-          "titles": 8,
+          "titles": 9,
           "firstYear": null,
           "lastYear": null
         },
@@ -589,12 +605,17 @@
           "season": "2054",
           "champion": "Sao Paulo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Flamengo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Flamengo",
-          "titles": 9,
+          "titles": 10,
           "firstYear": null,
           "lastYear": null
         },
@@ -785,6 +806,11 @@
           "season": "2054",
           "champion": "Borussia Dortmund",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Wolfsburg",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -820,6 +846,12 @@
         },
         {
           "team": "Leipzig",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Wolfsburg",
           "titles": 1,
           "firstYear": null,
           "lastYear": null
@@ -975,6 +1007,11 @@
           "season": "2054",
           "champion": "Borussia Dortmund",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Bayer Leverkusen",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1010,6 +1047,12 @@
         },
         {
           "team": "Leipzig",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Bayer Leverkusen",
           "titles": 1,
           "firstYear": null,
           "lastYear": null
@@ -1165,6 +1208,11 @@
           "season": "2054",
           "champion": "Borussia Dortmund",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Borussia Dortmund",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1176,7 +1224,7 @@
         },
         {
           "team": "Borussia Dortmund",
-          "titles": 10,
+          "titles": 11,
           "firstYear": null,
           "lastYear": null
         },
@@ -1349,6 +1397,11 @@
           "season": "2054",
           "champion": "Chelsea",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Manchester City",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1360,7 +1413,7 @@
         },
         {
           "team": "Manchester City",
-          "titles": 21,
+          "titles": 22,
           "firstYear": null,
           "lastYear": null
         },
@@ -1533,6 +1586,11 @@
           "season": "2054",
           "champion": "Liverpool",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Crystal Palace",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1581,6 +1639,12 @@
         {
           "team": "Tottenham",
           "titles": 5,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Crystal Palace",
+          "titles": 1,
           "firstYear": null,
           "lastYear": null
         }
@@ -1735,6 +1799,11 @@
           "season": "2054",
           "champion": "Fulham",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Manchester United",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1746,7 +1815,7 @@
         },
         {
           "team": "Manchester United",
-          "titles": 16,
+          "titles": 17,
           "firstYear": null,
           "lastYear": null
         },
@@ -1937,6 +2006,11 @@
           "season": "2054",
           "champion": "Chelsea",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Chelsea",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -1972,7 +2046,7 @@
         },
         {
           "team": "Chelsea",
-          "titles": 1,
+          "titles": 2,
           "firstYear": null,
           "lastYear": null
         }
@@ -2127,6 +2201,11 @@
           "season": "2054",
           "champion": "Torino",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Torino",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2156,7 +2235,7 @@
         },
         {
           "team": "Torino",
-          "titles": 8,
+          "titles": 9,
           "firstYear": null,
           "lastYear": null
         },
@@ -2329,6 +2408,11 @@
           "season": "2054",
           "champion": "Lazio",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Lazio",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2370,7 +2454,7 @@
         },
         {
           "team": "Lazio",
-          "titles": 1,
+          "titles": 2,
           "firstYear": null,
           "lastYear": null
         }
@@ -2525,6 +2609,11 @@
           "season": "2054",
           "champion": "Juventus",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Torino",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2560,7 +2649,7 @@
         },
         {
           "team": "Torino",
-          "titles": 1,
+          "titles": 2,
           "firstYear": null,
           "lastYear": null
         }
@@ -2715,6 +2804,11 @@
           "season": "2054",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Olympique de Marseille",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -2726,7 +2820,7 @@
         },
         {
           "team": "Olympique de Marseille",
-          "titles": 19,
+          "titles": 20,
           "firstYear": null,
           "lastYear": null
         },
@@ -2899,12 +2993,17 @@
           "season": "2054",
           "champion": "Le Havre",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "PSG",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "PSG",
-          "titles": 36,
+          "titles": 37,
           "firstYear": null,
           "lastYear": null
         },
@@ -3089,6 +3188,11 @@
           "season": "2054",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Le Havre",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3119,6 +3223,12 @@
         {
           "team": "Nantes",
           "titles": 3,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Le Havre",
+          "titles": 1,
           "firstYear": null,
           "lastYear": null
         }
@@ -3273,6 +3383,11 @@
           "season": "2054",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Atletico de Madrid",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3290,7 +3405,7 @@
         },
         {
           "team": "Atletico de Madrid",
-          "titles": 16,
+          "titles": 17,
           "firstYear": null,
           "lastYear": null
         },
@@ -3457,12 +3572,17 @@
           "season": "2054",
           "champion": "Real Valladolid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Barcelona",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Barcelona",
-          "titles": 41,
+          "titles": 42,
           "firstYear": null,
           "lastYear": null
         },
@@ -3647,12 +3767,17 @@
           "season": "2054",
           "champion": "Real Madrid",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Real Madrid",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Real Madrid",
-          "titles": 28,
+          "titles": 29,
           "firstYear": null,
           "lastYear": null
         },
@@ -3831,6 +3956,11 @@
           "season": "2054",
           "champion": "Monaco",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Torino",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -3995,6 +4125,12 @@
           "titles": 1,
           "firstYear": null,
           "lastYear": null
+        },
+        {
+          "team": "Torino",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
         }
       ]
     },
@@ -4147,6 +4283,11 @@
           "season": "2054",
           "champion": "Botafogo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -4176,7 +4317,7 @@
         },
         {
           "team": "Sao Paulo",
-          "titles": 7,
+          "titles": 8,
           "firstYear": null,
           "lastYear": null
         },
@@ -4463,11 +4604,22 @@
           "season": "2054",
           "champion": "Sao Paulo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Fortaleza",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Santos",
+          "titles": 4,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Sao Paulo",
           "titles": 4,
           "firstYear": null,
           "lastYear": null
@@ -4497,12 +4649,6 @@
           "lastYear": null
         },
         {
-          "team": "Sao Paulo",
-          "titles": 4,
-          "firstYear": null,
-          "lastYear": null
-        },
-        {
           "team": "Ceara",
           "titles": 2,
           "firstYear": null,
@@ -4510,6 +4656,12 @@
         },
         {
           "team": "Novorizontino",
+          "titles": 1,
+          "firstYear": null,
+          "lastYear": null
+        },
+        {
+          "team": "Fortaleza",
           "titles": 1,
           "firstYear": null,
           "lastYear": null
@@ -4660,12 +4812,17 @@
           "season": "2054",
           "champion": "Botafogo",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Sao Paulo",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
         {
           "team": "Sao Paulo",
-          "titles": 7,
+          "titles": 8,
           "firstYear": null,
           "lastYear": null
         },
@@ -4874,6 +5031,11 @@
           "season": "2054",
           "champion": "Lazio",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Aston Villa",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -4897,7 +5059,7 @@
         },
         {
           "team": "Aston Villa",
-          "titles": 4,
+          "titles": 5,
           "firstYear": null,
           "lastYear": null
         },
@@ -5226,6 +5388,11 @@
           "season": "2054",
           "champion": "Porto",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Fiorentina",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -5243,7 +5410,7 @@
         },
         {
           "team": "Fiorentina",
-          "titles": 2,
+          "titles": 3,
           "firstYear": null,
           "lastYear": null
         },
@@ -5861,6 +6028,11 @@
           "season": "2053",
           "champion": "Olympique de Marseille",
           "source": "Site / simulacao"
+        },
+        {
+          "season": "2055",
+          "champion": "Lazio",
+          "source": "Site / simulacao"
         }
       ],
       "ranking": [
@@ -5992,7 +6164,7 @@
         },
         {
           "team": "Lazio",
-          "titles": 1,
+          "titles": 2,
           "firstYear": null,
           "lastYear": null
         },

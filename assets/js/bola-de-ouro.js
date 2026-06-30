@@ -1,6 +1,6 @@
 // ── Bola de Ouro – dados e lógica ───────────────────────────────────────────
 
-const ballonYears = Array.from({ length: 30 }, (_, i) => 2026 + i);
+const ballonYears = Array.from({ length: 31 }, (_, i) => 2026 + i);
 const ballonDataUrl = new URL("../data/bola-de-ouro.json", document.currentScript.src);
 let ballonStatsFromDatabase = null;
 
@@ -983,7 +983,7 @@ const ballonData = {
       name: "Maric"
     }
   ],
-  2055: null
+  2056: null
 };
 
 // Extensão dos arquivos de foto por ano
@@ -1017,7 +1017,7 @@ async function loadBallonDataFromDatabase() {
       .sort((left, right) => left.position - right.position)
       .map((item) => item.player);
   });
-  if (!ballonData[2055]) ballonData[2055] = null;
+  if (!ballonData[2056]) ballonData[2056] = null;
 
   ballonStatsFromDatabase = payload.playerStats.reduce((accumulator, player) => {
     const positions = String(player.history || "")
@@ -1219,8 +1219,8 @@ async function initBallonSection() {
   ballonYears.forEach(y => {
     const opt = document.createElement('option');
     opt.value = y;
-    opt.textContent = y === 2055 ? `${y} · em andamento` : String(y);
-    if (y === 2055) opt.selected = true;
+    opt.textContent = y === 2056 ? `${y} · em andamento` : String(y);
+    if (y === 2056) opt.selected = true;
     select.appendChild(opt);
   });
 
@@ -1235,7 +1235,7 @@ async function initBallonSection() {
     if (e.key === 'Escape') closeBallonModal();
   });
 
-  renderBallonSection(2055);
+  renderBallonSection(2056);
 }
 
 document.addEventListener('DOMContentLoaded', initBallonSection);

@@ -1,4 +1,17 @@
 const teamData = {
+  "Wolfsburg": {
+    "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/wolfsburg.football-logos.cc.png",
+    "titles": {
+      "Bundesliga": 1
+    }
+  },
+  "Fortaleza": {
+    "logo": "../../assets/images/clubes/brazil-serie-b-2025-2026.football-logos.cc/256x256/fortaleza.football-logos.cc.png",
+    "titles": {
+      "Brasileirao": 1,
+      "Sul-Americana": 1
+    }
+  },
   "Real Valladolid": {
     "logo": "../../assets/images/clubes/spain-la-liga-2-2025-2026.football-logos.cc/256x256/valladolid.football-logos.cc.png",
     "titles": {
@@ -9,6 +22,8 @@ const teamData = {
     "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/le-havre-ac.football-logos.cc.png",
     "titles": {
       "Coupe de France": 1
+    ,
+      "Supercopa da Franca": 1
     }
   },
   "Flamengo": {
@@ -20,6 +35,8 @@ const teamData = {
       "Libertadores": 8,
       "Sul-Americana": 1,
       "Recopa": 5
+    ,
+      "Supercopa Rei": 1
     }
   },
   "Palmeiras": {
@@ -59,13 +76,12 @@ const teamData = {
     "logo": "../../assets/images/clubes/brazil-serie-a-2025-2026.football-logos.cc/256x256/sao-paulo.football-logos.cc.png",
     "titles": {
       "Brasileirao": 13,
-      "Copa do Brasil": 7,
+      "Copa do Brasil": 8,
       "Supercopa": 8,
-      "Libertadores": 7,
+      "Supercopa Rei": 1,
+      "Libertadores": 8,
       "Sul-Americana": 4,
-      "Recopa": 7
-    ,
-      "Supercopa Rei": 1
+      "Recopa": 8
     }
   },
   "Cruzeiro": {
@@ -162,7 +178,7 @@ const teamData = {
     "logo": "../../assets/images/clubes/germany-bundesliga-2025-2026.football-logos.cc/256x256/bayer-leverkusen.football-logos.cc.png",
     "titles": {
       "Bundesliga": 2,
-      "DFB Pokal": 3,
+      "DFB Pokal": 4,
       "DFL Supercup": 2
     }
   },
@@ -190,9 +206,10 @@ const teamData = {
     "titles": {
       "Bundesliga": 10,
       "DFB Pokal": 10,
-      "DFL Supercup": 10,
       "Champions League": 1,
-      "Europa League": 1
+      "Europa League": 1,
+      "Supercopa da Alemanha": 2,
+      "DFL Supercup": 9
     }
   },
   "Borussia Monchengladbach": {
@@ -248,7 +265,7 @@ const teamData = {
   "Manchester City": {
     "logo": "../../assets/images/clubes/english-premier-league-2025-2026.football-logos.cc/256x256/manchester-city.football-logos.cc.png",
     "titles": {
-      "Premier League": 21,
+      "Premier League": 22,
       "Carabao Cup": 15,
       "FA Cup": 12,
       "Community Shield": 14,
@@ -263,7 +280,7 @@ const teamData = {
       "Premier League": 11,
       "Carabao Cup": 8,
       "Champions League": 2,
-      "Community Shield": 6,
+      "Community Shield": 7,
       "FA Cup": 11
     }
   },
@@ -285,7 +302,7 @@ const teamData = {
       "Emirates Cup": 1,
       "Community Shield": 2,
       "Champions League": 1,
-      "Europa League": 3,
+      "Europa League": 4,
       "Conference League": 1,
       "Supercopa da Europa": 1
     }
@@ -295,7 +312,7 @@ const teamData = {
     "titles": {
       "Premier League": 20,
       "Carabao Cup": 9,
-      "FA Cup": 16,
+      "FA Cup": 17,
       "Emirates Cup": 2,
       "Community Shield": 22,
       "Champions League": 3,
@@ -347,6 +364,8 @@ const teamData = {
       "Emirates Cup": 1,
       "Community Shield": 1,
       "Conference League": 1
+    ,
+      "Carabao Cup": 1
     }
   },
   "Everton": {
@@ -425,7 +444,7 @@ const teamData = {
   "Atletico de Madrid": {
     "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/atletico-madrid.football-logos.cc.png",
     "titles": {
-      "LaLiga": 16,
+      "LaLiga": 17,
       "Copa del Rey": 14,
       "Supercopa da Espanha": 7,
       "Europa League": 3
@@ -435,7 +454,7 @@ const teamData = {
     "logo": "../../assets/images/clubes/spain-la-liga-2025-2026.football-logos.cc/256x256/barcelona.football-logos.cc.png",
     "titles": {
       "LaLiga": 36,
-      "Copa del Rey": 41,
+      "Copa del Rey": 42,
       "Supercopa da Espanha": 24,
       "Champions League": 10,
       "Mundial": 8,
@@ -447,7 +466,7 @@ const teamData = {
     "titles": {
       "LaLiga": 51,
       "Copa del Rey": 34,
-      "Supercopa da Espanha": 27,
+      "Supercopa da Espanha": 28,
       "Champions League": 19,
       "Europa League": 5,
       "Mundial": 11,
@@ -481,7 +500,7 @@ const teamData = {
     "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/paris-saint-germain.football-logos.cc.png",
     "titles": {
       "Ligue 1": 35,
-      "Coupe de France": 36,
+      "Coupe de France": 37,
       "Supercopa da Franca": 33,
       "Champions League": 7,
       "Mundial": 6,
@@ -690,7 +709,7 @@ const teamData = {
   "Fiorentina": {
     "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/fiorentina.football-logos.cc.png",
     "titles": {
-      "Conference League": 2,
+      "Conference League": 3,
       "Serie A": 3
     }
   },
@@ -782,15 +801,12 @@ const teamData = {
   "Olympique de Marseille": {
     "logo": "../../assets/images/clubes/france-ligue-1-2025-2026.football-logos.cc/256x256/marseille.football-logos.cc.png",
     "titles": {
-      "Ligue 1": 19,
+      "Ligue 1": 20,
       "Coupe de France": 19,
       "Supercopa da Franca": 12,
       "Champions League": 3,
       "Conference League": 1,
-      "Mundial": 2
-    ,
-      "Mundial de Clubes": 1
-    ,
+      "Mundial": 3,
       "Supercopa da Europa": 1
     }
   },
@@ -798,10 +814,11 @@ const teamData = {
     "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/torino.football-logos.cc.png",
     "titles": {
       "Conference League": 1,
-      "Supercopa da Italia": 1,
+      "Supercopa da Italia": 2,
       "Europa League": 1,
-      "Serie A": 8,
-      "Coppa Italia": 5
+      "Serie A": 9,
+      "Coppa Italia": 5,
+      "Champions League": 1
     }
   },
   "Dinamarca": {
@@ -867,9 +884,11 @@ const teamData = {
   "Lazio": {
     "logo": "../../assets/images/clubes/italy-serie-a-2025-2026.football-logos.cc/256x256/lazio.football-logos.cc.png",
     "titles": {
-      "Coppa Italia": 1
+      "Coppa Italia": 2
     ,
       "Europa League": 1
+    ,
+      "Supercopa da Europa": 1
     }
   },
   "Dynamo Kyiv": {
@@ -950,7 +969,8 @@ const competitions = [
       "2051": "Gremio",
       "2052": "Sao Paulo",
       "2053": "Flamengo",
-      "2054": "Palmeiras"
+      "2054": "Palmeiras",
+      "2055": "Fortaleza"
     },
     "top": [
       {
@@ -1000,6 +1020,10 @@ const competitions = [
       {
         "team": "Botafogo",
         "titles": 2
+      },
+      {
+        "team": "Fortaleza",
+        "titles": 1
       }
     ]
   },
@@ -1040,7 +1064,8 @@ const competitions = [
       "2051": "Internacional",
       "2052": "Cruzeiro",
       "2053": "Sao Paulo",
-      "2054": "Flamengo"
+      "2054": "Flamengo",
+      "2055": "Sao Paulo"
     },
     "top": [
       {
@@ -1065,7 +1090,7 @@ const competitions = [
       },
       {
         "team": "Sao Paulo",
-        "titles": 7
+        "titles": 8
       },
       {
         "team": "Vasco",
@@ -1122,12 +1147,13 @@ const competitions = [
       "2051": "Gremio",
       "2052": "Internacional",
       "2053": "Sao Paulo",
-      "2054": "Sao Paulo"
+      "2054": "Sao Paulo",
+      "2055": "Flamengo"
     },
     "top": [
       {
         "team": "Flamengo",
-        "titles": 9
+        "titles": 10
       },
       {
         "team": "Sao Paulo",
@@ -1192,7 +1218,8 @@ const competitions = [
       "2051": "Bayern",
       "2052": "Bayern",
       "2053": "Bayern",
-      "2054": "Borussia Dortmund"
+      "2054": "Borussia Dortmund",
+      "2055": "Wolfsburg"
     },
     "top": [
       {
@@ -1217,6 +1244,10 @@ const competitions = [
       },
       {
         "team": "Leipzig",
+        "titles": 1
+      },
+      {
+        "team": "Wolfsburg",
         "titles": 1
       }
     ]
@@ -1258,7 +1289,8 @@ const competitions = [
       "2051": "Bayer Leverkusen",
       "2052": "Borussia Dortmund",
       "2053": "Bayern",
-      "2054": "Borussia Dortmund"
+      "2054": "Borussia Dortmund",
+      "2055": "Bayer Leverkusen"
     },
     "top": [
       {
@@ -1284,6 +1316,10 @@ const competitions = [
       {
         "team": "Leipzig",
         "titles": 1
+      },
+      {
+        "team": "Bayer Leverkusen",
+        "titles": 5
       }
     ]
   },
@@ -1324,7 +1360,8 @@ const competitions = [
       "2051": "Bayern",
       "2052": "Bayer Leverkusen",
       "2053": "Bayern",
-      "2054": "Borussia Dortmund"
+      "2054": "Borussia Dortmund",
+      "2055": "Borussia Dortmund"
     },
     "top": [
       {
@@ -1333,7 +1370,7 @@ const competitions = [
       },
       {
         "team": "Borussia Dortmund",
-        "titles": 10
+        "titles": 11
       },
       {
         "team": "Bayer Leverkusen",
@@ -1386,7 +1423,8 @@ const competitions = [
       "2051": "Chelsea",
       "2052": "Manchester City",
       "2053": "Chelsea",
-      "2054": "Chelsea"
+      "2054": "Chelsea",
+      "2055": "Manchester City"
     },
     "top": [
       {
@@ -1395,7 +1433,7 @@ const competitions = [
       },
       {
         "team": "Manchester City",
-        "titles": 21
+        "titles": 22
       },
       {
         "team": "Manchester United",
@@ -1448,7 +1486,8 @@ const competitions = [
       "2051": "Liverpool",
       "2052": "Aston Villa",
       "2053": "Liverpool",
-      "2054": "Liverpool"
+      "2054": "Liverpool",
+      "2055": "Crystal Palace"
     },
     "top": [
       {
@@ -1482,6 +1521,10 @@ const competitions = [
       {
         "team": "Tottenham",
         "titles": 5
+      },
+      {
+        "team": "Crystal Palace",
+        "titles": 1
       }
     ]
   },
@@ -1522,7 +1565,8 @@ const competitions = [
       "2051": "Arsenal",
       "2052": "Aston Villa",
       "2053": "Manchester United",
-      "2054": "Fulham"
+      "2054": "Fulham",
+      "2055": "Manchester United"
     },
     "top": [
       {
@@ -1531,7 +1575,7 @@ const competitions = [
       },
       {
         "team": "Manchester United",
-        "titles": 16
+        "titles": 17
       },
       {
         "team": "Manchester City",
@@ -1596,7 +1640,8 @@ const competitions = [
       "2051": "Manchester City",
       "2052": "Arsenal",
       "2053": "Manchester City",
-      "2054": "Chelsea"
+      "2054": "Chelsea",
+      "2055": "Chelsea"
     },
     "top": [
       {
@@ -1621,7 +1666,7 @@ const competitions = [
       },
       {
         "team": "Chelsea",
-        "titles": 1
+        "titles": 2
       }
     ]
   },
@@ -1662,7 +1707,8 @@ const competitions = [
       "2051": "Inter",
       "2052": "Roma",
       "2053": "Juventus",
-      "2054": "Torino"
+      "2054": "Torino",
+      "2055": "Torino"
     },
     "top": [
       {
@@ -1683,7 +1729,7 @@ const competitions = [
       },
       {
         "team": "Torino",
-        "titles": 8
+        "titles": 9
       },
       {
         "team": "Napoli",
@@ -1736,7 +1782,8 @@ const competitions = [
       "2051": "Roma",
       "2052": "Juventus",
       "2053": "Juventus",
-      "2054": "Lazio"
+      "2054": "Lazio",
+      "2055": "Lazio"
     },
     "top": [
       {
@@ -1765,7 +1812,7 @@ const competitions = [
       },
       {
         "team": "Lazio",
-        "titles": 1
+        "titles": 2
       }
     ]
   },
@@ -1806,7 +1853,8 @@ const competitions = [
       "2051": "Milan",
       "2052": "Milan",
       "2053": "Torino",
-      "2054": "Juventus"
+      "2054": "Juventus",
+      "2055": "Torino"
     },
     "top": [
       {
@@ -1831,7 +1879,7 @@ const competitions = [
       },
       {
         "team": "Torino",
-        "titles": 1
+        "titles": 2
       }
     ]
   },
@@ -1872,7 +1920,8 @@ const competitions = [
       "2051": "Olympique de Marseille",
       "2052": "Olympique de Marseille",
       "2053": "Olympique de Marseille",
-      "2054": "Olympique de Marseille"
+      "2054": "Olympique de Marseille",
+      "2055": "Olympique de Marseille"
     },
     "top": [
       {
@@ -1881,7 +1930,7 @@ const competitions = [
       },
       {
         "team": "Olympique de Marseille",
-        "titles": 19
+        "titles": 20
       },
       {
         "team": "Saint-Etienne",
@@ -1934,12 +1983,13 @@ const competitions = [
       "2051": "PSG",
       "2052": "Olympique de Marseille",
       "2053": "Olympique de Marseille",
-      "2054": "Le Havre"
+      "2054": "Le Havre",
+      "2055": "PSG"
     },
     "top": [
       {
         "team": "PSG",
-        "titles": 36
+        "titles": 37
       },
       {
         "team": "Olympique de Marseille",
@@ -2000,7 +2050,8 @@ const competitions = [
       "2051": "PSG",
       "2052": "Olympique de Marseille",
       "2053": "Olympique de Marseille",
-      "2054": "Olympique de Marseille"
+      "2054": "Olympique de Marseille",
+      "2055": "Le Havre"
     },
     "top": [
       {
@@ -2022,6 +2073,10 @@ const competitions = [
       {
         "team": "Nantes",
         "titles": 3
+      },
+      {
+        "team": "Le Havre",
+        "titles": 1
       }
     ]
   },
@@ -2062,7 +2117,8 @@ const competitions = [
       "2051": "Real Madrid",
       "2052": "Atletico de Madrid",
       "2053": "Real Madrid",
-      "2054": "Real Madrid"
+      "2054": "Real Madrid",
+      "2055": "Atletico de Madrid"
     },
     "top": [
       {
@@ -2075,7 +2131,7 @@ const competitions = [
       },
       {
         "team": "Atletico de Madrid",
-        "titles": 16
+        "titles": 17
       },
       {
         "team": "Athletic Bilbao",
@@ -2124,12 +2180,13 @@ const competitions = [
       "2051": "Real Madrid",
       "2052": "Barcelona",
       "2053": "Barcelona",
-      "2054": "Real Valladolid"
+      "2054": "Real Valladolid",
+      "2055": "Barcelona"
     },
     "top": [
       {
         "team": "Barcelona",
-        "titles": 41
+        "titles": 42
       },
       {
         "team": "Real Madrid",
@@ -2190,12 +2247,13 @@ const competitions = [
       "2051": "Barcelona",
       "2052": "Barcelona",
       "2053": "Real Madrid",
-      "2054": "Real Madrid"
+      "2054": "Real Madrid",
+      "2055": "Real Madrid"
     },
     "top": [
       {
         "team": "Real Madrid",
-        "titles": 27
+        "titles": 28
       },
       {
         "team": "Barcelona",
@@ -2252,7 +2310,8 @@ const competitions = [
       "2051": "Ajax",
       "2052": "Olympique de Marseille",
       "2053": "Olympique de Marseille",
-      "2054": "Monaco"
+      "2054": "Monaco",
+      "2055": "Torino"
     },
     "top": [
       {
@@ -2362,6 +2421,10 @@ const competitions = [
       {
         "team": "Monaco",
         "titles": 1
+      },
+      {
+        "team": "Torino",
+        "titles": 1
       }
     ]
   },
@@ -2402,7 +2465,8 @@ const competitions = [
       "2051": "Sao Paulo",
       "2052": "Botafogo",
       "2053": "Botafogo",
-      "2054": "Botafogo"
+      "2054": "Botafogo",
+      "2055": "Sao Paulo"
     },
     "top": [
       {
@@ -2423,7 +2487,7 @@ const competitions = [
       },
       {
         "team": "Sao Paulo",
-        "titles": 7
+        "titles": 8
       },
       {
         "team": "Vasco",
@@ -2552,7 +2616,8 @@ const competitions = [
       "2051": "Internacional",
       "2052": "Ceara",
       "2053": "Ceara",
-      "2054": "Sao Paulo"
+      "2054": "Sao Paulo",
+      "2055": "Fortaleza"
     },
     "top": [
       {
@@ -2585,6 +2650,10 @@ const competitions = [
       },
       {
         "team": "Novorizontino",
+        "titles": 1
+      },
+      {
+        "team": "Fortaleza",
         "titles": 1
       }
     ]
@@ -2625,12 +2694,13 @@ const competitions = [
       "2051": "Palmeiras",
       "2052": "Internacional",
       "2053": "Internacional",
-      "2054": "Botafogo"
+      "2054": "Botafogo",
+      "2055": "Sao Paulo"
     },
     "top": [
       {
         "team": "Sao Paulo",
-        "titles": 7
+        "titles": 8
       },
       {
         "team": "Boca Juniors",
@@ -2703,7 +2773,8 @@ const competitions = [
       "2051": "Aston Villa",
       "2052": "Borussia Dortmund",
       "2053": "Torino",
-      "2054": "Lazio"
+      "2054": "Lazio",
+      "2055": "Aston Villa"
     },
     "top": [
       {
@@ -2724,7 +2795,7 @@ const competitions = [
       },
       {
         "team": "Aston Villa",
-        "titles": 3
+        "titles": 4
       },
       {
         "team": "Atletico de Madrid",
@@ -2877,7 +2948,8 @@ const competitions = [
       "2051": "PSV",
       "2052": "Torino",
       "2053": "Lausanne",
-      "2054": "Porto"
+      "2054": "Porto",
+      "2055": "Fiorentina"
     },
     "top": [
       {
@@ -2890,7 +2962,7 @@ const competitions = [
       },
       {
         "team": "Fiorentina",
-        "titles": 2
+        "titles": 3
       },
       {
         "team": "Lille",
@@ -3172,7 +3244,8 @@ const competitions = [
       "2050": "Inter",
       "2051": "Barcelona",
       "2052": "Aston Villa",
-      "2053": "Olympique de Marseille"
+      "2053": "Olympique de Marseille",
+      "2055": "Lazio"
     },
     "top": [
       {
@@ -3253,7 +3326,7 @@ const competitions = [
       },
       {
         "team": "Lazio",
-        "titles": 1
+        "titles": 2
       },
       {
         "team": "Manchester United",
@@ -3496,10 +3569,10 @@ const regionDescriptions = {
   "Selecoes": "Grandes torneios de selecoes exibidos apenas quando o ano selecionado tem edicao."
 };
 
-const years = Array.from({ length: 30 }, (_, index) => 2026 + index);
+const years = Array.from({ length: 31 }, (_, index) => 2026 + index);
 
 const state = {
-  year: 2055,
+  year: 2056,
   competitionId: "brasileirao",
   modalTeam: null
 };
@@ -3555,7 +3628,7 @@ function getStatusForYear(competition, year) {
   if (competition.winners[year]) {
     return { label: competition.winners[year], live: false };
   }
-  if (year === 2055 && competition.mode === "annual") {
+  if (year === 2056 && competition.mode === "annual") {
     return { label: "Em andamento", live: true };
   }
   return null;
@@ -3679,7 +3752,7 @@ function renderDetail() {
 
   const selectedChampionBlock = status
     ? status.live
-      ? `<div class="status-chip"><span class="competition-card__status-dot" style="--comp-accent:${competition.accent}; background:${competition.accent};"></span><strong>2055</strong><span>Em andamento</span></div>`
+      ? `<div class="status-chip"><span class="competition-card__status-dot" style="--comp-accent:${competition.accent}; background:${competition.accent};"></span><strong>2056</strong><span>Em andamento</span></div>`
       : `<button class="status-chip" type="button" data-team-name="${status.label}"><span class="competition-card__status-dot" style="--comp-accent:${competition.accent}; background:${competition.accent};"></span><strong>${state.year}</strong><span>${status.label}</span></button>`
     : `<div class="empty-message">Nao houve edicao desta competicao no ano selecionado.</div>`;
 
